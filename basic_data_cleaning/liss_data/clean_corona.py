@@ -10,7 +10,7 @@ from liss_data.data_checks import general_data_checks
 from liss_data.utils_liss_data import clean_background_vars
 from liss_data.utils_liss_data import merge_double_columns
 
-# from data_management.utils import check_columns_only_nan
+# from project_specific_analyses.data_management.utils import check_columns_only_nan
 
 
 def clean_corona(panel):

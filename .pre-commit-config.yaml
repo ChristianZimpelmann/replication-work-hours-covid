@@ -1,5 +1,5 @@
 # Exclude every file or folder starting with a dot.
-exclude: ^(\.|1_basic_data_cleaning/\.|2_project_specific_analyses/\.)
+exclude: ^(\.|1_basic_data_cleaning/\.|project_specific_analyses/\.)
 repos:
     - repo: https://github.com/asottile/reorder_python_imports
       rev: v2.4.0

@@ -1,7 +1,7 @@
 output
 data_after_basic_cleaning
 raw_data/liss
-1_basic_data_cleaning/out
+basic_data_cleaning/out
 
 *-blx.bib
 *.asv
@@ -67,7 +67,8 @@ full
 Thumbs.db
 ___*
 !.gitignore
-!.mywaflib
+!project_specific_analyses/.mywaflib
+.mywaflib
 .env/workaround.bat
 .env/installed_conda_pkgs
 .env/installed_pip_pkgs
