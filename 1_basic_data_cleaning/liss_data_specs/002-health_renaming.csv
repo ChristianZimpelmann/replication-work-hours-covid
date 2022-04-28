@@ -1,0 +1,271 @@
+new_name;labels;ch20m_EN_1.0p.dta;ch19l_EN_1.0p.dta;ch18k_EN_1.0p.dta;ch17j_EN_1.0p.dta;ch16i_EN_1.0p.dta;ch15h_EN_1.2p.dta;ch13g_EN_1.0p.dta;ch12f_EN_1.0p.dta;ch11e_EN_1.0p.dta;ch10d_EN_1.0p.dta;ch09c_EN_1.1p.dta;ch08b_EN_1.3p.dta;ch07a_2p_EN.dta;type;categories_english;ordered
+health_general;How would you describe your health, generally speaking?;ch20m004;ch19l004;ch18k004;ch17j004;ch16i004;ch15h004;ch13g004;ch12f004;ch11e004;ch10d004;ch09c004;ch08b004;ch07a004;category;poor|moderate|good|very good|excellent;True
+health_compare;Can you indicate whether your health is poorer or better, compared to last year?;ch20m005;ch19l005;ch18k005;ch17j005;ch16i005;ch15h005;ch13g005;ch12f005;ch11e005;ch10d005;ch09c005;ch08b005;ch07a005;category;considerably poorer|somewhat poorer|the same|somewhat better|considerably better;True
+feel_anxious;I felt very anxious;ch20m011;ch19l011;ch18k011;ch17j011;ch16i011;ch15h011;ch13g011;ch12f011;ch11e011;ch10d011;ch09c011;ch08b011;ch07a011;category;never|rarely|sometimes|often|mostly|continuously;True
+feel_down;I felt so down that nothing could cheer me up;ch20m012;ch19l012;ch18k012;ch17j012;ch16i012;ch15h012;ch13g012;ch12f012;ch11e012;ch10d012;ch09c012;ch08b012;ch07a012;category;never|rarely|sometimes|often|mostly|continuously;True
+feel_calm;I felt calm and peaceful;ch20m013;ch19l013;ch18k013;ch17j013;ch16i013;ch15h013;ch13g013;ch12f013;ch11e013;ch10d013;ch09c013;ch08b013;ch07a013;category;never|rarely|sometimes|often|mostly|continuously;True
+feel_depressed;I felt depressed and gloomy;ch20m014;ch19l014;ch18k014;ch17j014;ch16i014;ch15h014;ch13g014;ch12f014;ch11e014;ch10d014;ch09c014;ch08b014;ch07a014;category;never|rarely|sometimes|often|mostly|continuously;True
+feel_happy;I felt happy;ch20m015;ch19l015;ch18k015;ch17j015;ch16i015;ch15h015;ch13g015;ch12f015;ch11e015;ch10d015;ch09c015;ch08b015;ch07a015;category;never|rarely|sometimes|often|mostly|continuously;True
+height;How tall are you?;ch20m016;ch19l016;ch18k016;ch17j016;ch16i016;ch15h016;ch13g016;ch12f016;ch11e016;ch10d016;ch09c016;ch08b016;ch07a016;int;;
+weight;How much do you weigh, without clothes and shoes?;ch20m017;ch19l017;ch18k017;ch17j017;ch16i017;ch15h017;ch13g017;ch12f017;ch11e017;ch10d017;ch09c017;ch08b017;ch07a017;int;;
+chronic_ill;Do you suffer from any kind of long-standing disease, affliction or handicap, or;ch20m018;ch19l018;ch18k018;ch17j018;ch16i018;ch15h018;ch13g018;ch12f018;ch11e018;ch10d018;ch09c018;ch08b018;ch07a018;boolean;;
+desc_chronic_ill;Can you briefly describe what you suffer from?;ch20m019;ch19l019;ch18k019;ch17j019;ch16i019;ch15h019;ch13g019;ch12f019;ch11e019;ch10d019;ch09c019;ch08b019;ch07a019;object;;
+hinder_daily;To what extent did your physical health or emotional problems hinder your daily;ch20m020;ch19l020;ch18k020;ch17j020;ch16i020;ch15h020;ch13g020;ch12f020;ch11e020;ch10d020;ch09c020;ch08b020;ch07a020;category;not at all|hardly|a bit|quite a lot|very much;True
+hinder_social;To what extent did your physical health or emotional problems hinder your social;ch20m021;ch19l021;ch18k021;ch17j021;ch16i021;ch15h021;ch13g021;ch12f021;ch11e021;ch10d021;ch09c021;ch08b021;ch07a021;category;not at all|hardly|a bit|quite a lot|very much;True
+hinder_work;To what extent did your physical health or emotional problems hinder your work o;ch20m022;ch19l022;ch18k022;ch17j022;ch16i022;ch15h022;ch13g022;ch12f022;ch11e022;ch10d022;ch09c022;ch08b022;ch07a022;category;not at all|hardly|a bit|quite a lot|very much;True
+trouble_walking100;walking 100 meters;ch20m023;ch19l023;ch18k023;ch17j023;ch16i023;ch15h023;ch13g023;ch12f023;ch11e023;ch10d023;ch09c023;ch08b023;ch07a023;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_sitting;sitting for around two hours;ch20m024;ch19l024;ch18k024;ch17j024;ch16i024;ch15h024;ch13g024;ch12f024;ch11e024;ch10d024;ch09c024;ch08b024;ch07a024;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_standing;getting up from a chair in which you sat for some time;ch20m025;ch19l025;ch18k025;ch17j025;ch16i025;ch15h025;ch13g025;ch12f025;ch11e025;ch10d025;ch09c025;ch08b025;ch07a025;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_stairs;walking several stairs without resting in between;ch20m026;ch19l026;ch18k026;ch17j026;ch16i026;ch15h026;ch13g026;ch12f026;ch11e026;ch10d026;ch09c026;ch08b026;ch07a026;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_climbing;walking up a staircase without resting;ch20m027;ch19l027;ch18k027;ch17j027;ch16i027;ch15h027;ch13g027;ch12f027;ch11e027;ch10d027;ch09c027;ch08b027;ch07a027;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_crouching;crouching, kneeling, crawling on all fours;ch20m028;ch19l028;ch18k028;ch17j028;ch16i028;ch15h028;ch13g028;ch12f028;ch11e028;ch10d028;ch09c028;ch08b028;ch07a028;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_reaching;reaching above shoulder height or stretching your arms above shoulder height;ch20m029;ch19l029;ch18k029;ch17j029;ch16i029;ch15h029;ch13g029;ch12f029;ch11e029;ch10d029;ch09c029;ch08b029;ch07a029;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_moving;moving large objects such as a diningroom chair;ch20m030;ch19l030;ch18k030;ch17j030;ch16i030;ch15h030;ch13g030;ch12f030;ch11e030;ch10d030;ch09c030;ch08b030;ch07a030;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_lifting;lifting or carrying a weight of 5 kilos, such as a heavy bag of groceries;ch20m031;ch19l031;ch18k031;ch17j031;ch16i031;ch15h031;ch13g031;ch12f031;ch11e031;ch10d031;ch09c031;ch08b031;ch07a031;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_picking;picking up a small coin lying on the table;ch20m032;ch19l032;ch18k032;ch17j032;ch16i032;ch15h032;ch13g032;ch12f032;ch11e032;ch10d032;ch09c032;ch08b032;ch07a032;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_dressing;dressing and undressing, including shoes and socks;ch20m033;ch19l033;ch18k033;ch17j033;ch16i033;ch15h033;ch13g033;ch12f033;ch11e033;ch10d033;ch09c033;ch08b033;ch07a033;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_walking;walking across the room;ch20m034;ch19l034;ch18k034;ch17j034;ch16i034;ch15h034;ch13g034;ch12f034;ch11e034;ch10d034;ch09c034;ch08b034;ch07a034;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_bathing;bathing or showering;ch20m035;ch19l035;ch18k035;ch17j035;ch16i035;ch15h035;ch13g035;ch12f035;ch11e035;ch10d035;ch09c035;ch08b035;ch07a035;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_eating;eating, such as cutting your food into small bits;ch20m036;ch19l036;ch18k036;ch17j036;ch16i036;ch15h036;ch13g036;ch12f036;ch11e036;ch10d036;ch09c036;ch08b036;ch07a036;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_bed;getting in and out of bed;ch20m037;ch19l037;ch18k037;ch17j037;ch16i037;ch15h037;ch13g037;ch12f037;ch11e037;ch10d037;ch09c037;ch08b037;ch07a037;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_toilet;using the toilet, including sitting down and standing up;ch20m038;ch19l038;ch18k038;ch17j038;ch16i038;ch15h038;ch13g038;ch12f038;ch11e038;ch10d038;ch09c038;ch08b038;ch07a038;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_map;reading a map to find your way in an unfamiliar area;ch20m039;ch19l039;ch18k039;ch17j039;ch16i039;ch15h039;ch13g039;ch12f039;ch11e039;ch10d039;ch09c039;ch08b039;ch07a039;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_cooking;preparing a hot meal;ch20m040;ch19l040;ch18k040;ch17j040;ch16i040;ch15h040;ch13g040;ch12f040;ch11e040;ch10d040;ch09c040;ch08b040;ch07a040;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_shopping;shopping;ch20m041;ch19l041;ch18k041;ch17j041;ch16i041;ch15h041;ch13g041;ch12f041;ch11e041;ch10d041;ch09c041;ch08b041;ch07a041;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_telephoning;telephoning;ch20m042;ch19l042;ch18k042;ch17j042;ch16i042;ch15h042;ch13g042;ch12f042;ch11e042;ch10d042;ch09c042;ch08b042;ch07a042;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_medicine;taking medicines;ch20m043;ch19l043;ch18k043;ch17j043;ch16i043;ch15h043;ch13g043;ch12f043;ch11e043;ch10d043;ch09c043;ch08b043;ch07a043;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_housework;performing housekeeping work or maintaining the garden;ch20m044;ch19l044;ch18k044;ch17j044;ch16i044;ch15h044;ch13g044;ch12f044;ch11e044;ch10d044;ch09c044;ch08b044;ch07a044;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+trouble_finances;taking care of financial affairs, such as paying bills and keeping track of expe;ch20m045;ch19l045;ch18k045;ch17j045;ch16i045;ch15h045;ch13g045;ch12f045;ch11e045;ch10d045;ch09c045;ch08b045;ch07a045;category;without any trouble|with some trouble|with a lot of trouble|only with an aid or the help of others|not at all;True
+complaints_lifting; hoisting or lifting;;;;;;;ch13g046;ch12f046;ch11e046;ch10d046;ch09c046;ch08b046;ch07a046;boolean;;
+complaints_pushing; pushing or pulling;;;;;;;ch13g047;ch12f047;ch11e047;ch10d047;ch09c047;ch08b047;ch07a047;boolean;;
+complaints_carrying; carrying;;;;;;;ch13g048;ch12f048;ch11e048;ch10d048;ch09c048;ch08b048;ch07a048;boolean;;
+complaints_working_upright; working while standing upright;;;;;;;ch13g049;ch12f049;ch11e049;ch10d049;ch09c049;ch08b049;ch07a049;boolean;;
+complaints_bending; bending over;;;;;;;ch13g050;ch12f050;ch11e050;ch10d050;ch09c050;ch08b050;ch07a050;boolean;;
+complaints_kneeling; kneeling, crouching or crawling on all fours;;;;;;;ch13g051;ch12f051;ch11e051;ch10d051;ch09c051;ch08b051;ch07a051;boolean;;
+complaints_drafty; working under drafty circumstances;;;;;;;ch13g052;ch12f052;ch11e052;ch10d052;ch09c052;ch08b052;ch07a052;boolean;;
+complaints_humid; working under humid/wet circumstances;;;;;;;ch13g053;ch12f053;ch11e053;ch10d053;ch09c053;ch08b053;ch07a053;boolean;;
+complaints_stuffy; working in stuffy/dusty spaces;;;;;;;ch13g054;ch12f054;ch11e054;ch10d054;ch09c054;ch08b054;ch07a054;boolean;;
+complaints_gasses; exposure to gasses or fumes;;;;;;;ch13g055;ch12f055;ch11e055;ch10d055;ch09c055;ch08b055;ch07a055;boolean;;
+complaints_cold; working while it is cold;;;;;;;ch13g056;ch12f056;ch11e056;ch10d056;ch09c056;ch08b056;ch07a056;boolean;;
+complaints_hot; working while it is hot;;;;;;;ch13g057;ch12f057;ch11e057;ch10d057;ch09c057;ch08b057;ch07a057;boolean;;
+complaints_temp_changes; working with strong temperature changes;;;;;;;ch13g058;ch12f058;ch11e058;ch10d058;ch09c058;ch08b058;ch07a058;boolean;;
+complaints_walking; walking;;;;;;;ch13g060;ch12f060;ch11e060;ch10d060;ch09c060;ch08b060;ch07a060;boolean;;
+complaints_sitting; sitting;;;;;;;ch13g061;ch12f061;ch11e061;ch10d061;ch09c061;ch08b061;ch07a061;boolean;;
+complaints_hands; working with hands and fingers;;;;;;;ch13g062;ch12f062;ch11e062;ch10d062;ch09c062;ch08b062;ch07a062;boolean;;
+complaints_beyond; working beyond your capabilities;;;;;;;ch13g063;ch12f063;ch11e063;ch10d063;ch09c063;ch08b063;ch07a063;boolean;;
+complaints_outside; working in the open air;;;;;;;ch13g064;ch12f064;ch11e064;ch10d064;ch09c064;ch08b064;ch07a064;boolean;;
+complaints_meetings; participating in meetings or talks;;;;;;;ch13g065;ch12f065;ch11e065;ch10d065;ch09c065;ch08b065;ch07a065;boolean;;
+complaints_reading; reading;;;;;;;ch13g066;ch12f066;ch11e066;ch10d066;ch09c066;ch08b066;ch07a066;boolean;;
+complaints_writing; writing;;;;;;;ch13g067;ch12f067;ch11e067;ch10d067;ch09c067;ch08b067;ch07a067;boolean;;
+complaints_arithmetic; arithmetic;;;;;;;ch13g068;ch12f068;ch11e068;ch10d068;ch09c068;ch08b068;ch07a068;boolean;;
+complaints_pressure; working under time pressure;;;;;;;ch13g069;ch12f069;ch11e069;ch10d069;ch09c069;ch08b069;ch07a069;boolean;;
+rec_back;back-, knee-, hip-pain or pain in any other joint;ch20m070;ch19l070;ch18k070;ch17j070;ch16i070;ch15h070;ch13g070;ch12f070;ch11e070;ch10d070;ch09c070;ch08b070;ch07a070;boolean;;
+rec_heart;heart complaints or angina, pain in the chest due to exertion;ch20m071;ch19l071;ch18k071;ch17j071;ch16i071;ch15h071;ch13g071;ch12f071;ch11e071;ch10d071;ch09c071;ch08b071;ch07a071;boolean;;
+rec_breath;short of breath, problems with breathing;ch20m072;ch19l072;ch18k072;ch17j072;ch16i072;ch15h072;ch13g072;ch12f072;ch11e072;ch10d072;ch09c072;ch08b072;ch07a072;boolean;;
+rec_cough;coughing, a stuffy nose and/or flu-related complaints;ch20m073;ch19l073;ch18k073;ch17j073;ch16i073;ch15h073;ch13g073;ch12f073;ch11e073;ch10d073;ch09c073;ch08b073;ch07a073;boolean;;
+rec_stomach;stomach or intestinal problems;ch20m074;ch19l074;ch18k074;ch17j074;ch16i074;ch15h074;ch13g074;ch12f074;ch11e074;ch10d074;ch09c074;ch08b074;ch07a074;boolean;;
+rec_headache;headache;ch20m075;ch19l075;ch18k075;ch17j075;ch16i075;ch15h075;ch13g075;ch12f075;ch11e075;ch10d075;ch09c075;ch08b075;ch07a075;boolean;;
+rec_fatigue;fatigue;ch20m076;ch19l076;ch18k076;ch17j076;ch16i076;ch15h076;ch13g076;ch12f076;ch11e076;ch10d076;ch09c076;ch08b076;ch07a076;boolean;;
+rec_sleeping;sleeping problems;ch20m077;ch19l077;ch18k077;ch17j077;ch16i077;ch15h077;ch13g077;ch12f077;ch11e077;ch10d077;ch09c077;ch08b077;ch07a077;boolean;;
+rec_other;other recurrent complaints;ch20m078;ch19l078;ch18k078;ch17j078;ch16i078;ch15h078;ch13g078;ch12f078;ch11e078;ch10d078;ch09c078;ch08b078;ch07a078;boolean;;
+rec_none;no recurrent complaints;ch20m079;ch19l079;ch18k079;ch17j079;ch16i079;ch15h079;ch13g079;ch12f079;ch11e079;ch10d079;ch09c079;ch08b079;ch07a079;boolean;;
+dum_angina;angina, pain in the chest;ch20m080;ch19l080;ch18k080;ch17j080;ch16i080;ch15h080;ch13g080;ch12f080;ch11e080;ch10d080;ch09c080;ch08b080;ch07a080;boolean;;
+dum_attack;a heart attack including infarction or coronary thrombosis or another heart prob;ch20m081;ch19l081;ch18k081;ch17j081;ch16i081;ch15h081;ch13g081;ch12f081;ch11e081;ch10d081;ch09c081;ch08b081;ch07a081;boolean;;
+dum_pressure;high blood pressure or hypertension;ch20m082;ch19l082;ch18k082;ch17j082;ch16i082;ch15h082;ch13g082;ch12f082;ch11e082;ch10d082;ch09c082;ch08b082;ch07a082;boolean;;
+dum_cholestrol;high cholesterol content in blood;ch20m083;ch19l083;ch18k083;ch17j083;ch16i083;ch15h083;ch13g083;ch12f083;ch11e083;ch10d083;ch09c083;ch08b083;ch07a083;boolean;;
+dum_stroke;a stroke or brain infarction or a disease affecting the blood vessels;ch20m084;ch19l084;ch18k084;ch17j084;ch16i084;ch15h084;ch13g084;ch12f084;ch11e084;ch10d084;ch09c084;ch08b084;ch07a084;boolean;;
+dum_diabetes;diabetes or a too high blood sugar level;ch20m085;ch19l085;ch18k085;ch17j085;ch16i085;ch15h085;ch13g085;ch12f085;ch11e085;ch10d085;ch09c085;ch08b085;ch07a085;boolean;;
+dum_lung;chronic lung disease such as chronic bronchitis or emphysema;ch20m086;ch19l086;ch18k086;ch17j086;ch16i086;ch15h086;ch13g086;ch12f086;ch11e086;ch10d086;ch09c086;ch08b086;ch07a086;boolean;;
+dum_asthma;asthma;ch20m087;ch19l087;ch18k087;ch17j087;ch16i087;ch15h087;ch13g087;ch12f087;ch11e087;ch10d087;ch09c087;ch08b087;ch07a087;boolean;;
+dum_arthitis;arthritis, including osteoarthritis, or rheumatism, bone decalcification;ch20m088;ch19l088;ch18k088;ch17j088;ch16i088;ch15h088;ch13g088;ch12f088;ch11e088;ch10d088;ch09c088;ch08b088;ch07a088;boolean;;
+dum_cancer;cancer or malignant tumor, including leukemia or lymphoma;ch20m089;ch19l089;ch18k089;ch17j089;ch16i089;ch15h089;ch13g089;ch12f089;ch11e089;ch10d089;ch09c089;ch08b089;ch07a089;boolean;;
+dum_ulcer;a gastric ulcer or duodenal ulcer;ch20m090;ch19l090;ch18k090;ch17j090;ch16i090;ch15h090;ch13g090;ch12f090;ch11e090;ch10d090;ch09c090;ch08b090;ch07a090;boolean;;
+dum_parkinson;Parkinson's disease;ch20m091;ch19l091;ch18k091;ch17j091;ch16i091;ch15h091;ch13g091;ch12f091;ch11e091;ch10d091;ch09c091;ch08b091;ch07a091;boolean;;
+dum_cataract;cataract;ch20m092;ch19l092;ch18k092;ch17j092;ch16i092;ch15h092;ch13g092;ch12f092;ch11e092;ch10d092;ch09c092;ch08b092;ch07a092;boolean;;
+dum_hip;a broken hip or thigh bone;ch20m093;ch19l093;ch18k093;ch17j093;ch16i093;ch15h093;ch13g093;ch12f093;ch11e093;ch10d093;ch09c093;ch08b093;ch07a093;boolean;;
+dum_fracture;another fracture;ch20m094;ch19l094;ch18k094;ch17j094;ch16i094;ch15h094;ch13g094;ch12f094;ch11e094;ch10d094;ch09c094;ch08b094;ch07a094;boolean;;
+dum_alzheimer;Alzheimer, dementia, organic brain syndrome, senility;ch20m095;ch19l095;ch18k095;ch17j095;ch16i095;ch15h095;ch13g095;ch12f095;ch11e095;ch10d095;ch09c095;ch08b095;ch07a095;boolean;;
+dum_benign_tumor;benign tumor (skin tumor, polyps, angioma);ch20m096;ch19l096;ch18k096;ch17j096;ch16i096;ch15h096;ch13g096;ch12f096;ch11e096;ch10d096;ch09c096;ch08b096;ch07a096;boolean;;
+dum_covid;COVID-19 (new corona virus);ch20m269;;;;;;;;;;;;;boolean;;
+dum_other;other afflictions not yet mentioned;ch20m097;ch19l097;ch18k097;ch17j097;ch16i097;ch15h097;ch13g097;ch12f097;ch11e097;ch10d097;ch09c097;ch08b097;ch07a097;boolean;;
+dum_no_diseases;no diseases / problems;ch20m098;ch19l098;ch18k098;ch17j098;ch16i098;ch15h098;ch13g098;ch12f098;ch11e098;ch10d098;ch09c098;ch08b098;ch07a098;boolean;;
+days_unable_to_work;How many days during the last month were you unable to go to work, perform house;ch20m099;ch19l099;ch18k099;ch17j099;ch16i099;ch15h099;ch13g099;ch12f099;ch11e099;ch10d099;ch09c099;ch08b099;ch07a099;category;0 days|1 or 2 days|3 to 5 days|5 to 10 days|more than 10 days;True
+smoke_past;Have you ever smoked?;ch20m125;ch19l125;ch18k125;ch17j125;ch16i125;ch15h125;ch13g125;ch12f125;ch11e125;ch10d125;ch09c125;ch08b125;ch07a125;boolean;;
+smoke_now;Do you smoke now?;ch20m126;ch19l126;ch18k126;ch17j126;ch16i126;ch15h126;ch13g126;ch12f126;ch11e126;ch10d126;ch09c126;ch08b126;ch07a126;boolean;;
+smoke1 ;cigarettes (including rolling tobacco);ch20m127;ch19l127;ch18k127;ch17j127;ch16i127;ch15h127;ch13g127;ch12f127;ch11e127;ch10d127;ch09c127;ch08b127;ch07a127;boolean;;
+smoke2 ;pipe;ch20m128;ch19l128;ch18k128;ch17j128;ch16i128;ch15h128;ch13g128;ch12f128;ch11e128;ch10d128;ch09c128;ch08b128;ch07a128;boolean;;
+smoke3;cigars or cigarillos;ch20m129;ch19l129;ch18k129;ch17j129;ch16i129;ch15h129;ch13g129;ch12f129;ch11e129;ch10d129;ch09c129;ch08b129;ch07a129;boolean;;
+smoke1_amount;How many cigarettes (including rolling tobacco) [did/do] you smoke on average pe;ch20m130;ch19l130;ch18k130;ch17j130;ch16i130;ch15h130;ch13g130;ch12f130;ch11e130;ch10d130;ch09c130;ch08b130;ch07a130;int;;
+smoke2_amount;How many pipes [did/do] you smoke on average per day?;ch20m131;ch19l131;ch18k131;ch17j131;ch16i131;ch15h131;ch13g131;ch12f131;ch11e131;ch10d131;ch09c131;ch08b131;ch07a131;int;;
+smoke3_amount;How many cigars or cigarillos [did/do] you smoke on average per day?;ch20m132;ch19l132;ch18k132;ch17j132;ch16i132;ch15h132;ch13g132;ch12f132;ch11e132;ch10d132;ch09c132;ch08b132;ch07a132;int;;
+drink_year;How often did you have a drink containing alcohol over the last 12 months?;ch20m133;ch19l133;ch18k133;ch17j133;ch16i133;ch15h133;ch13g133;ch12f133;ch11e133;ch10d133;ch09c133;ch08b133;ch07a133;category;almost every day|five or six days per week|three or four days per week|once or twice a week|once or twice a month|once every two months|once or twice a year|not at all over the last 12 months;True
+drink_week;Did you have a drink containing alcohol during the last seven days (excluding to;ch20m134;ch19l134;ch18k134;ch17j134;ch16i134;ch15h134;ch13g134;ch12f134;ch11e134;ch10d134;ch09c134;ch08b134;ch07a134;boolean;;
+drink_days;On how many of the past seven days did you have a drink containing alcohol?;ch20m135;ch19l135;ch18k135;ch17j135;ch16i135;ch15h135;ch13g135;ch12f135;ch11e135;ch10d135;ch09c135;ch08b135;ch07a135;category;1|2|3|4|5|6|7;True
+drink1;beer of regular strength with less than 6% alcohol;ch20m136;ch19l136;ch18k136;ch17j136;ch16i136;ch15h136;ch13g136;ch12f136;ch11e136;ch10d136;ch09c136;ch08b136;ch07a136;boolean;;
+drink2;strong beer with 6% alcohol or more;ch20m137;ch19l137;ch18k137;ch17j137;ch16i137;ch15h137;ch13g137;ch12f137;ch11e137;ch10d137;ch09c137;ch08b137;ch07a137;boolean;;
+drink3;strong spirits or liquors;ch20m138;ch19l138;ch18k138;ch17j138;ch16i138;ch15h138;ch13g138;ch12f138;ch11e138;ch10d138;ch09c138;ch08b138;ch07a138;boolean;;
+drink4;sherry or martini;ch20m139;ch19l139;ch18k139;ch17j139;ch16i139;ch15h139;ch13g139;ch12f139;ch11e139;ch10d139;ch09c139;ch08b139;ch07a139;boolean;;
+drink5;wine (including champagne);ch20m140;ch19l140;ch18k140;ch17j140;ch16i140;ch15h140;ch13g140;ch12f140;ch11e140;ch10d140;ch09c140;ch08b140;ch07a140;boolean;;
+drink6;premixes, alcohol pops, blasters and shooters;ch20m141;ch19l141;ch18k141;ch17j141;ch16i141;ch15h141;ch13g141;ch12f141;ch11e141;ch10d141;ch09c141;ch08b141;ch07a141;boolean;;
+drink7;other types of drinks containing alcohol;ch20m142;ch19l142;ch18k142;ch17j142;ch16i142;ch15h142;ch13g142;ch12f142;ch11e142;ch10d142;ch09c142;ch08b142;ch07a142;boolean;;
+drink7_alt1;other type of alcoholic drink;ch20m143;ch19l143;ch18k143;ch17j143;ch16i143;ch15h143;ch13g143;ch12f143;ch11e143;ch10d143;ch09c143;ch08b143;ch07a143;object;;
+drink7_alt2;other type of alcoholic drink;ch20m144;ch19l144;ch18k144;ch17j144;ch16i144;ch15h144;ch13g144;ch12f144;ch11e144;ch10d144;ch09c144;ch08b144;ch07a144;object;;
+drink_normal1;number of glasses (count large glasses as 2);ch20m145;ch19l145;ch18k145;ch17j145;ch16i145;ch15h145;ch13g145;ch12f145;ch11e145;ch10d145;ch09c145;ch08b145;ch07a145;int;;
+drink_normal2;number of half liter glasses (pints);ch20m146;ch19l146;ch18k146;ch17j146;ch16i146;ch15h146;ch13g146;ch12f146;ch11e146;ch10d146;ch09c146;ch08b146;ch07a146;int;;
+drink_normal3;number of half liter cans or bottles;ch20m147;ch19l147;ch18k147;ch17j147;ch16i147;ch15h147;ch13g147;ch12f147;ch11e147;ch10d147;ch09c147;ch08b147;ch07a147;int;;
+drink_normal4;number of small cans or bottles;ch20m148;ch19l148;ch18k148;ch17j148;ch16i148;ch15h148;ch13g148;ch12f148;ch11e148;ch10d148;ch09c148;ch08b148;ch07a148;int;;
+drink_strong1;number of glasses (count large glasses as 2);ch20m149;ch19l149;ch18k149;ch17j149;ch16i149;ch15h149;ch13g149;ch12f149;ch11e149;ch10d149;ch09c149;ch08b149;ch07a149;int;;
+drink_strong2;number of half liter glasses (pints);ch20m150;ch19l150;ch18k150;ch17j150;ch16i150;ch15h150;ch13g150;ch12f150;ch11e150;ch10d150;ch09c150;ch08b150;ch07a150;int;;
+drink_strong3;number of half liter cans or bottles;ch20m151;ch19l151;ch18k151;ch17j151;ch16i151;ch15h151;ch13g151;ch12f151;ch11e151;ch10d151;ch09c151;ch08b151;ch07a151;int;;
+drink_strong4;number of small cans or bottles;ch20m152;ch19l152;ch18k152;ch17j152;ch16i152;ch15h152;ch13g152;ch12f152;ch11e152;ch10d152;ch09c152;ch08b152;ch07a152;int;;
+drink3_amount;strong spirits or liquor, such as gin, whisky, rum, brandy, vodka or cocktails;ch20m153;ch19l153;ch18k153;ch17j153;ch16i153;ch15h153;ch13g153;ch12f153;ch11e153;ch10d153;ch09c153;ch08b153;ch07a153;int;;
+drink4_amount;sherry or martini (including port, vermouth, Cinzano, Dubonnet);ch20m154;ch19l154;ch18k154;ch17j154;ch16i154;ch15h154;ch13g154;ch12f154;ch11e154;ch10d154;ch09c154;ch08b154;ch07a154;int;;
+drink5_amount;wine (including champagne);ch20m155;ch19l155;ch18k155;ch17j155;ch16i155;ch15h155;ch13g155;ch12f155;ch11e155;ch10d155;ch09c155;ch08b155;ch07a155;int;;
+drink6_amount;Can you indicate below how many small cans or bottles of premixes, alcohol pops,;ch20m156;ch19l156;ch18k156;ch17j156;ch16i156;ch15h156;ch13g156;ch12f156;ch11e156;ch10d156;ch09c156;ch08b156;ch07a156;int;;
+drink7_alt1_amount;Can you indicate below how many glasses [ch16i143] you drank that day (count lar;ch20m157;ch19l157;ch18k157;ch17j157;ch16i157;ch15h157;ch13g157;ch12f157;ch11e157;ch10d157;ch09c157;ch08b157;ch07a157;int;;
+drink7_alt2_amount;Can you indicate below how many glasses [ch16i144] you drank that day (count lar;ch20m158;ch19l158;ch18k158;ch17j158;ch16i158;ch15h158;ch13g158;ch12f158;ch11e158;ch10d158;ch09c158;ch08b158;ch07a158;int;;
+drugs1;sedatives (such as valium);ch20m159;ch19l159;ch18k159;ch17j159;ch16i159;ch15h159;ch13g159;ch12f159;ch11e159;ch10d159;ch09c159;ch08b159;ch07a159;category;never|sometimes|regularly;True
+drugs2;soft drugs (such as hashish, marijuana);ch20m160;ch19l160;ch18k160;ch17j160;ch16i160;ch15h160;ch13g160;ch12f160;ch11e160;ch10d160;ch09c160;ch08b160;ch07a160;category;never|sometimes|regularly;True
+drugs3;XTC;ch20m161;ch19l161;ch18k161;ch17j161;ch16i161;ch15h161;ch13g161;ch12f161;ch11e161;ch10d161;ch09c161;ch08b161;ch07a161;category;never|sometimes|regularly;True
+drugs4;hallucinogens (such as LSD, magic mushrooms);ch20m162;ch19l162;ch18k162;ch17j162;ch16i162;ch15h162;ch13g162;ch12f162;ch11e162;ch10d162;ch09c162;ch08b162;ch07a162;category;never|sometimes|regularly;True
+drugs5;hard drugs (such as stimulants, cocaine, heroine);ch20m163;ch19l163;ch18k163;ch17j163;ch16i163;ch15h163;ch13g163;ch12f163;ch11e163;ch10d163;ch09c163;ch08b163;ch07a163;category;never|sometimes|regularly;True
+drugs6;laughing gas;ch20m270;;;;;;;;;;;;;category;never|sometimes|regularly;True
+drugs1_amount;sedatives (such as valium);ch20m164;ch19l164;ch18k164;ch17j164;ch16i164;ch15h164;ch13g164;ch12f164;ch11e164;ch10d164;ch09c164;ch08b164;ch07a164;int;;
+drugs2_amount;soft drugs (such as hashish, marijuana);ch20m165;ch19l165;ch18k165;ch17j165;ch16i165;ch15h165;ch13g165;ch12f165;ch11e165;ch10d165;ch09c165;ch08b165;ch07a165;int;;
+drugs3_amount;XTC;ch20m166;ch19l166;ch18k166;ch17j166;ch16i166;ch15h166;ch13g166;ch12f166;ch11e166;ch10d166;ch09c166;ch08b166;ch07a166;int;;
+drugs4_amount;hallucinogens (such as LSD, magic mushrooms);ch20m167;ch19l167;ch18k167;ch17j167;ch16i167;ch15h167;ch13g167;ch12f167;ch11e167;ch10d167;ch09c167;ch08b167;ch07a167;int;;
+drugs5_amount;hard drugs (such as stimulants, cocaine, heroine);ch20m168;ch19l168;ch18k168;ch17j168;ch16i168;ch15h168;ch13g168;ch12f168;ch11e168;ch10d168;ch09c168;ch08b168;ch07a168;int;;
+drugs6_amount;laughing gas;ch20m271;;;;;;;;;;;;;int;;
+med_cholestrol;high blood cholesterol;ch20m169;ch19l169;ch18k169;ch17j169;ch16i169;ch15h169;ch13g169;ch12f169;ch11e169;ch10d169;ch09c169;ch08b169;ch07a169;boolean;;
+med_pressure;high blood pressure;ch20m170;ch19l170;ch18k170;ch17j170;ch16i170;ch15h170;ch13g170;ch12f170;ch11e170;ch10d170;ch09c170;ch08b170;ch07a170;boolean;;
+med_infarct;heart or brain infarction;ch20m171;ch19l171;ch18k171;ch17j171;ch16i171;ch15h171;ch13g171;ch12f171;ch11e171;ch10d171;ch09c171;ch08b171;ch07a171;boolean;;
+med_heart;other heart diseases;ch20m172;ch19l172;ch18k172;ch17j172;ch16i172;ch15h172;ch13g172;ch12f172;ch11e172;ch10d172;ch09c172;ch08b172;ch07a172;boolean;;
+med_asthma;asthma;ch20m173;ch19l173;ch18k173;ch17j173;ch16i173;ch15h173;ch13g173;ch12f173;ch11e173;ch10d173;ch09c173;ch08b173;ch07a173;boolean;;
+med_diabetes;diabetes;ch20m174;ch19l174;ch18k174;ch17j174;ch16i174;ch15h174;ch13g174;ch12f174;ch11e174;ch10d174;ch09c174;ch08b174;ch07a174;boolean;;
+med_joint;joint pain or joint infection;ch20m175;ch19l175;ch18k175;ch17j175;ch16i175;ch15h175;ch13g175;ch12f175;ch11e175;ch10d175;ch09c175;ch08b175;ch07a175;boolean;;
+med_pain;other pains (such as headache, backache, etc.);ch20m176;ch19l176;ch18k176;ch17j176;ch16i176;ch15h176;ch13g176;ch12f176;ch11e176;ch10d176;ch09c176;ch08b176;ch07a176;boolean;;
+med_sleep;sleeping problems;ch20m177;ch19l177;ch18k177;ch17j177;ch16i177;ch15h177;ch13g177;ch12f177;ch11e177;ch10d177;ch09c177;ch08b177;ch07a177;boolean;;
+med_depression;anxiety or depression;ch20m178;ch19l178;ch18k178;ch17j178;ch16i178;ch15h178;ch13g178;ch12f178;ch11e178;ch10d178;ch09c178;ch08b178;ch07a178;boolean;;
+med_osteo1;osteoporosis (hormonal);ch20m179;ch19l179;ch18k179;ch17j179;ch16i179;ch15h179;ch13g179;ch12f179;ch11e179;ch10d179;ch09c179;ch08b179;ch07a179;boolean;;
+med_osteo2;osteoporosis (non-hormonal);ch20m180;ch19l180;ch18k180;ch17j180;ch16i180;ch15h180;ch13g180;ch12f180;ch11e180;ch10d180;ch09c180;ch08b180;ch07a180;boolean;;
+med_burn;heartburn;ch20m181;ch19l181;ch18k181;ch17j181;ch16i181;ch15h181;ch13g181;ch12f181;ch11e181;ch10d181;ch09c181;ch08b181;ch07a181;boolean;;
+med_bronchitis;chronic bronchitis;ch20m182;ch19l182;ch18k182;ch17j182;ch16i182;ch15h182;ch13g182;ch12f182;ch11e182;ch10d182;ch09c182;ch08b182;ch07a182;boolean;;
+med_other;other complaints or diseased not yet mentioned;ch20m183;ch19l183;ch18k183;ch17j183;ch16i183;ch15h183;ch13g183;ch12f183;ch11e183;ch10d183;ch09c183;ch08b183;ch07a183;boolean;;
+med_none;I do not take any medicine;ch20m184;ch19l184;ch18k184;ch17j184;ch16i184;ch15h184;ch13g184;ch12f184;ch11e184;ch10d184;ch09c184;ch08b184;ch07a184;boolean;;
+active_heavy;If you look back on the last 7 days, on how many of those days did you perform s;;;ch18k185;ch17j185;ch16i185;ch15h185;ch13g185;ch12f185;ch11e185;ch10d185;ch09c185;ch08b185;ch07a185;int;;
+active_heavy_hours;number of hours per day;;;ch18k186;ch17j186;ch16i186;ch15h186;ch13g186;ch12f186;ch11e186;ch10d186;ch09c186;ch08b186;ch07a186;int;;
+active_heavy_min;number of minutes per day;;;ch18k187;ch17j187;ch16i187;ch15h187;ch13g187;ch12f187;ch11e187;ch10d187;ch09c187;ch08b187;ch07a187;int;;
+active_moderate;If you think of the past 7 days, on how many of those days did you perform moder;;;ch18k188;ch17j188;ch16i188;ch15h188;ch13g188;ch12f188;ch11e188;ch10d188;ch09c188;ch08b188;ch07a188;int;;
+active_moderate_hours;number of hours per day;;;ch18k189;ch17j189;ch16i189;ch15h189;ch13g189;ch12f189;ch11e189;ch10d189;ch09c189;ch08b189;ch07a189;int;;
+active_moderate_min;number of minutes per day;;;ch18k190;ch17j190;ch16i190;ch15h190;ch13g190;ch12f190;ch11e190;ch10d190;ch09c190;ch08b190;ch07a190;int;;
+active_walking_days;If you look back on the last 7 days, on how many of those days did you spend at;;;ch18k191;ch17j191;ch16i191;ch15h191;ch13g191;ch12f191;ch11e191;ch10d191;ch09c191;ch08b191;ch07a191;int;;
+active_walking_hours;number of hours per day;;;ch18k192;ch17j192;ch16i192;ch15h192;ch13g192;ch12f192;ch11e192;ch10d192;ch09c192;ch08b192;ch07a192;int;;
+active_walking_min;number of minutes per day;;;ch18k193;ch17j193;ch16i193;ch15h193;ch13g193;ch12f193;ch11e193;ch10d193;ch09c193;ch08b193;ch07a193;int;;
+active_sitting_hours;number of hours per day;;;ch18k194;ch17j194;ch16i194;ch15h194;ch13g194;ch12f194;ch11e194;ch10d194;ch09c194;ch08b194;ch07a194;int;;
+active_sitting_min;number of minutes per day;;;ch18k195;ch17j195;ch16i195;ch15h195;ch13g195;ch12f195;ch11e195;ch10d195;ch09c195;ch08b195;ch07a195;int;;
+consume_vegetable;Do you eat raw or cooked vegetables?;;;ch18k196;ch17j196;ch16i196;ch15h196;ch13g196;ch12f196;ch11e196;ch10d196;ch09c196;ch08b196;ch07a196;category;never|1 to 3 times per month|1 time per week|2 to 4 times per week|5 to 6 times per week|every day;True
+consume_fruit;Do you eat fruit?;;;ch18k197;ch17j197;ch16i197;ch15h197;ch13g197;ch12f197;ch11e197;ch10d197;ch09c197;ch08b197;ch07a197;category;never|1 to 3 times per month|1 time per week|2 to 4 times per week|5 to 6 times per week|every day;True
+consume_wholewheat;Do you eat wholewheat products (rice, grains, dough products, bread)?;;;ch18k198;ch17j198;ch16i198;ch15h198;ch13g198;ch12f198;ch11e198;ch10d198;ch09c198;ch08b198;ch07a198;category;never|1 to 3 times per month|1 time per week|2 to 4 times per week|5 to 6 times per week|every day;True
+consume_fish;Do you eat fish or other seafood?;;;ch18k199;ch17j199;ch16i199;ch15h199;ch13g199;ch12f199;ch11e199;ch10d199;ch09c199;ch08b199;ch07a199;category;never|1 to 3 times per month|1 time per week|2 to 4 times per week|5 to 6 times per week|every day;True
+consume_meat;Do you eat meat or meat products?;;;ch18k200;ch17j200;ch16i200;ch15h200;ch13g200;ch12f200;ch11e200;ch10d200;ch09c200;ch08b200;ch07a200;category;never|1 to 3 times per month|1 time per week|2 to 4 times per week|5 to 6 times per week|every day;True
+target_weight_kg;What is your target weight?;;;ch18k201;ch17j201;ch16i201;ch15h201;ch13g201;ch12f201;ch11e201;ch10d201;ch09c201;ch08b201;ch07a201;int;;
+diet;Do you follow a diet to achieve (maintain) this target weight?;;;ch18k202;ch17j202;ch16i202;ch15h202;ch13g202;ch12f202;ch11e202;ch10d202;ch09c202;ch08b202;ch07a202;boolean;;
+flu_vaccination;Did you have a flu vaccination during the past 12 months?;;;ch18k203;ch17j203;ch16i203;ch15h203;ch13g203;ch12f203;ch11e203;ch10d203;ch09c203;ch08b203;ch07a203;boolean;;
+service_physician;family physician;ch20m206;ch19l206;ch18k206;ch17j206;ch16i206;ch15h206;ch13g206;ch12f206;ch11e206;ch10d206;ch09c206;ch08b206;ch07a206;int;;
+service_psychiatrist;psychiatrist/psychologist/psychotherapist;ch20m207;ch19l207;ch18k207;ch17j207;ch16i207;ch15h207;ch13g207;ch12f207;ch11e207;ch10d207;ch09c207;ch08b207;ch07a207;int;;
+service_specialist;medical specialist at a hospital;ch20m208;ch19l208;ch18k208;ch17j208;ch16i208;ch15h208;ch13g208;ch12f208;ch11e208;ch10d208;ch09c208;ch08b208;ch07a208;int;;
+service_physiotherapist;physiotherapist;ch20m209;ch19l209;ch18k209;ch17j209;ch16i209;ch15h209;ch13g209;ch12f209;ch11e209;ch10d209;ch09c209;ch08b209;ch07a209;int;;
+service_dentist;dentist;ch20m210;ch19l210;ch18k210;ch17j210;ch16i210;ch15h210;ch13g210;ch12f210;ch11e210;ch10d210;ch09c210;ch08b210;ch07a210;int;;
+service_homecare;homecare;ch20m211;ch19l211;ch18k211;ch17j211;ch16i211;ch15h211;ch13g211;ch12f211;ch11e211;ch10d211;ch09c211;ch08b211;ch07a211;int;;
+service_homeopath;homeopath;ch20m212;ch19l212;ch18k212;ch17j212;ch16i212;ch15h212;ch13g212;ch12f212;ch11e212;ch10d212;ch09c212;ch08b212;ch07a212;int;;
+service_acupuncture;acupuncturist;ch20m213;ch19l213;ch18k213;ch17j213;ch16i213;ch15h213;ch13g213;ch12f213;ch11e213;ch10d213;ch09c213;ch08b213;ch07a213;int;;
+service_alternative;alternative medical practitioner;ch20m214;ch19l214;ch18k214;ch17j214;ch16i214;ch15h214;ch13g214;ch12f214;ch11e214;ch10d214;ch09c214;ch08b214;ch07a214;int;;
+service_magnetist;magnetist;ch20m215;ch19l215;ch18k215;ch17j215;ch16i215;ch15h215;ch13g215;ch12f215;ch11e215;ch10d215;ch09c215;ch08b215;ch07a215;int;;
+service_paranormal;paranormal healer;ch20m216;ch19l216;ch18k216;ch17j216;ch16i216;ch15h216;ch13g216;ch12f216;ch11e216;ch10d216;ch09c216;ch08b216;ch07a216;int;;
+service_other;other alternative healer;ch20m217;ch19l217;ch18k217;ch17j217;ch16i217;ch15h217;ch13g217;ch12f217;ch11e217;ch10d217;ch09c217;ch08b217;ch07a217;int;;
+specialist_internist;internist;ch20m218;ch19l218;ch18k218;ch17j218;ch16i218;ch15h218;ch13g218;ch12f218;ch11e218;ch10d218;ch09c218;ch08b218;ch07a218;boolean;;
+specialist_gynae;gynaecologist;ch20m219;ch19l219;ch18k219;ch17j219;ch16i219;ch15h219;ch13g219;ch12f219;ch11e219;ch10d219;ch09c219;ch08b219;ch07a219;boolean;;
+specialist_heart;heart specialist (cardiologist);ch20m220;ch19l220;ch18k220;ch17j220;ch16i220;ch15h220;ch13g220;ch12f220;ch11e220;ch10d220;ch09c220;ch08b220;ch07a220;boolean;;
+specialist_neuro;neurologist;ch20m221;ch19l221;ch18k221;ch17j221;ch16i221;ch15h221;ch13g221;ch12f221;ch11e221;ch10d221;ch09c221;ch08b221;ch07a221;boolean;;
+specialist_eye;ophthalmologist;ch20m222;ch19l222;ch18k222;ch17j222;ch16i222;ch15h222;ch13g222;ch12f222;ch11e222;ch10d222;ch09c222;ch08b222;ch07a222;boolean;;
+specialist_throat;throat, nose and ear specialist;ch20m223;ch19l223;ch18k223;ch17j223;ch16i223;ch15h223;ch13g223;ch12f223;ch11e223;ch10d223;ch09c223;ch08b223;ch07a223;boolean;;
+specialist_surgeon;surgeon;ch20m224;ch19l224;ch18k224;ch17j224;ch16i224;ch15h224;ch13g224;ch12f224;ch11e224;ch10d224;ch09c224;ch08b224;ch07a224;boolean;;
+specialist_ortho;orthopedic surgeon;ch20m225;ch19l225;ch18k225;ch17j225;ch16i225;ch15h225;ch13g225;ch12f225;ch11e225;ch10d225;ch09c225;ch08b225;ch07a225;boolean;;
+specialist_psychiatrist;psychiatrist;ch20m226;ch19l226;ch18k226;ch17j226;ch16i226;ch15h226;ch13g226;ch12f226;ch11e226;ch10d226;ch09c226;ch08b226;ch07a226;boolean;;
+specialist_other;other specialist;ch20m227;ch19l227;ch18k227;ch17j227;ch16i227;ch15h227;ch13g227;ch12f227;ch11e227;ch10d227;ch09c227;ch08b227;ch07a227;boolean;;
+specialist_none;no specialist;ch20m228;ch19l228;ch18k228;ch17j228;ch16i228;ch15h228;ch13g228;ch12f228;ch11e228;ch10d228;ch09c228;ch08b228;ch07a228;boolean;;
+hospital;Did you spend any time in hospital or a clinic over the past 12 months?;ch20m229;ch19l229;ch18k229;ch17j229;ch16i229;ch15h229;ch13g229;ch12f229;ch11e229;ch10d229;ch09c229;ch08b229;ch07a229;boolean;;
+hospital_time;How long did you spend in hospital the last time?;ch20m230;ch19l230;ch18k230;ch17j230;ch16i230;ch15h230;ch13g230;ch12f230;ch11e230;ch10d230;ch09c230;ch08b230;ch07a230;int;;
+hospital_operation;Did you undergo an operation during this hospitalization?;ch20m231;ch19l231;ch18k231;ch17j231;ch16i231;ch15h231;ch13g231;ch12f231;ch11e231;ch10d231;ch09c231;ch08b231;ch07a231;boolean;;
+sight_glasses;Do you usually wear (reading) glasses or contact lenses?;ch20m232;ch19l232;ch18k232;ch17j232;ch16i232;ch15h232;ch13g232;ch12f232;ch11e232;ch10d232;ch09c232;ch08b232;ch07a232;boolean;;
+sight_quality;Is your eyesight [with (reading)glasses] ...;ch20m233;ch19l233;ch18k233;ch17j233;ch16i233;ch15h233;ch13g233;ch12f233;ch11e233;ch10d233;ch09c233;ch08b233;ch07a233;category;poor|reasonable|good|very good|excellent;True
+hearing_aid;Do you usually wear a hearing aid?;ch20m234;ch19l234;ch18k234;ch17j234;ch16i234;ch15h234;ch13g234;ch12f234;ch11e234;ch10d234;ch09c234;ch08b234;ch07a234;boolean;;
+hearing_quality;Is your hearing [with hearing aid/..] ...;ch20m235;ch19l235;ch18k235;ch17j235;ch16i235;ch15h235;ch13g235;ch12f235;ch11e235;ch10d235;ch09c235;ch08b235;ch07a235;category;poor|reasonable|good|very good|excellent;True
+insurance_name; With which health insurer did you take out your basic health insurance per 1 Ja;;;ch18k262;ch17j262;ch16i262;ch15h262;ch13g262;ch12f236;ch11e236;ch10d236;ch09c236;ch08b236;ch07a236;object;;
+insurance_name_other;With which health insurer did you take out your basic health insurance per 1 Jan;;;ch18k237;ch17j237;ch16i237;ch15h237;ch13g237;ch12f237;ch11e237;ch10d237;ch09c237;ch08b237;ch07a237;object;;
+insurance_individual;Did you take out the health insurance individually or collectively?;;;ch18k238;ch17j238;ch16i238;ch15h238;ch13g238;ch12f238;ch11e238;ch10d238;ch09c238;ch08b238;ch07a238;category;individually|collectively;False
+insurance_complement;Did you take out a complementary health insurance in 2016?;ch20m239;ch19l239;ch18k239;ch17j239;ch16i239;ch15h239;ch13g239;ch12f239;ch11e239;ch10d239;ch09c239;ch08b239;ch07a239;boolean;;
+insurance_own_risk;How much, in euros, is your own risk in 2008?;ch20m260;ch19l260;ch18k260;ch17j260;ch16i260;ch15h260;ch13g260;ch12f260;ch11e260;ch10d260;ch09c260;ch08b240;ch07a240;category;0 euro|100 euros|200 euros|300 euros|400 euros|500 euros;True
+premium_amount;How much premium do you pay in total per month for your health insurance?;;;;;;;;;;;;;ch07a241;int;;
+date_fieldwork;year and month of fieldwork;ch20m_m;ch19l_m;ch18k_m;ch17j_m;ch16i_m;ch15h_m;ch13g_m;ch12f_m;ch11e_m;ch10d_m;ch09c_m;ch08b_m;ch07a_m;int;;
+hh_id; Number of the household encrypted;;;;;;;;;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;int;;
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;int;;
+;preloaded variable: gender;ch20m001;ch19l001;ch18k001;ch17j001;ch16i001;ch15h001;ch13g001;ch12f001;ch11e001;ch10d001;ch09c001;ch08b001;;category;man|woman;False
+;preloaded variable: age;ch20m002;ch19l002;ch18k002;ch17j002;ch16i002;ch15h002;ch13g002;ch12f002;ch11e002;ch10d002;ch09c002;ch08b002;;int;;
+;preloaded variable: paid job or not;ch20m003;ch19l003;ch18k003;ch17j003;ch16i003;ch15h003;ch13g003;ch12f003;ch11e003;ch10d003;ch09c003;ch08b003;;category;has no paid job|has paid job;False
+live_75;How would you rate your chance of living to be 75 years old or older?;ch20m006;ch19l006;ch18k006;ch17j006;ch16i006;ch15h006;ch13g006;ch12f006;ch11e006;ch10d006;ch09c006;ch08b006;;category;0|1|2|3|4|5|6|7|8|9|10;True
+live_80;How would you rate your chance of living to be 80 years old or older?;ch20m007;ch19l007;ch18k007;ch17j007;ch16i007;ch15h007;ch13g007;ch12f007;ch11e007;ch10d007;ch09c007;ch08b007;;category;0|1|2|3|4|5|6|7|8|9|10;True
+live_85;How would you rate your chance of living to be 85 years old or older?;ch20m008;ch19l008;ch18k008;ch17j008;ch16i008;ch15h008;ch13g008;ch12f008;ch11e008;ch10d008;ch09c008;ch08b008;;category;0|1|2|3|4|5|6|7|8|9|10;True
+live_90;How would you rate your chance of living to be 90 years old or older?;ch20m009;ch19l009;ch18k009;ch17j009;ch16i009;ch15h009;ch13g009;ch12f009;ch11e009;ch10d009;ch09c009;ch08b009;;category;0|1|2|3|4|5|6|7|8|9|10;True
+live_95;How would you rate your chance of living to be 95 years old or older?;ch20m010;ch19l010;ch18k010;ch17j010;ch16i010;ch15h010;ch13g010;ch12f010;ch11e010;ch10d010;ch09c010;ch08b010;;category;0|1|2|3|4|5|6|7|8|9|10;True
+complaints_noise;Do you think you would have problems working in noisy environments?;;;;;;;ch13g059;ch12f059;ch11e059;ch10d059;ch09c059;ch08b059;;boolean;;
+moment_sick;At this moment, do you go to work as normal, or do you not or only partly go to;ch20m100;ch19l100;ch18k100;ch17j100;ch16i100;ch15h100;ch13g100;ch12f100;ch11e100;ch10d100;ch09c100;ch08b100;;category;I work as normal (full-time or part-time)|I work, but on account of my health I do not work a full working week|I do not work on account of my health|I do not work for another reason|I work, but because of my health I do not work a full working week;False
+out_years;For how long have you not been working:  number of years;ch20m268;ch19l268;;;;;;;;;;;;int;;
+out_months;For how long have you not been working:  number of months;ch20m101;ch19l101;ch18k101;ch17j101;ch16i101;ch15h101;ch13g101;ch12f101;ch11e101;ch10d101;ch09c101;ch08b101;;int;;
+out_weeks;For how long have you not been working:  number of weeks;ch20m102;ch19l102;ch18k102;ch17j102;ch16i102;ch15h102;ch13g102;ch12f102;ch11e102;ch10d102;ch09c102;ch08b102;;int;;
+out_days;For how long have you not been working:  number of days;ch20m103;ch19l103;ch18k103;ch17j103;ch16i103;ch15h103;ch13g103;ch12f103;ch11e103;ch10d103;ch09c103;ch08b103;;int;;
+moment_type;Can you indicate what kind of health problems or what kind of affliction you are;ch20m104;ch19l104;ch18k104;ch17j104;ch16i104;ch15h104;ch13g104;ch12f104;ch11e104;ch10d104;ch09c104;ch08b104;;category;normal flu, minor accident, sports injury or comparable|more serious physical complaints|non-physical complaints|both physical and non-physical complaints;False
+problem_work;To what extent does your health trouble you in your work?;ch20m105;ch19l105;ch18k105;ch17j105;ch16i105;ch15h105;ch13g105;ch12f105;ch11e105;ch10d105;ch09c105;ch08b105;;category;I can do my work without any trouble|Doing my work causes me some trouble|Doing my work causes me a lot of trouble|I can no longer do my work at all;False
+problem_other_work;Is there (other) paid work you could do that would cause you less or no trouble?;ch20m106;ch19l106;ch18k106;ch17j106;ch16i106;ch15h106;ch13g106;ch12f106;ch11e106;ch10d106;ch09c106;ch08b106;;category;There is (other) work in which my health would not cause me trouble|There is (other) work in which my health would cause me less trouble|My health would cause me just as much trouble in other work activities;False
+problem_years;For how long have you been suffering from your health problems: number of years;ch20m107;ch19l107;ch18k107;ch17j107;ch16i107;ch15h107;ch13g107;ch12f107;ch11e107;ch10d107;ch09c107;ch08b107;;int;;
+problem_months;For how long have you been suffering from your health problems: number of months;ch20m108;ch19l108;ch18k108;ch17j108;ch16i108;ch15h108;ch13g108;ch12f108;ch11e108;ch10d108;ch09c108;ch08b108;;int;;
+problem_weeks;For how long have you been suffering from your health problems: number of weeks;ch20m109;ch19l109;ch18k109;ch17j109;ch16i109;ch15h109;ch13g109;ch12f109;ch11e109;ch10d109;ch09c109;ch08b109;;int;;
+problem_days;For how long have you been suffering from your health problems: number of days;ch20m110;ch19l110;ch18k110;ch17j110;ch16i110;ch15h110;ch13g110;ch12f110;ch11e110;ch10d110;ch09c110;ch08b110;;int;;
+cause_work;Were your health problems caused by the type of work activities of your current;ch20m111;ch19l111;ch18k111;ch17j111;ch16i111;ch15h111;ch13g111;ch12f111;ch11e111;ch10d111;ch09c111;ch08b111;;category;caused by work activities of my current job|caused by my former work activities|caused by both my current and former work activities|has nothing to do with my work;False
+help_employer;Does your employer take your health problems into account;ch20m112;ch19l112;ch18k112;ch17j112;ch16i112;ch15h112;ch13g112;ch12f112;ch11e112;ch10d112;ch09c112;ch08b112;;boolean;;
+type_help_employer1;In what way does your employer help you? - adaptation of my function;ch20m113;ch19l113;ch18k113;ch17j113;ch16i113;ch15h113;ch13g113;ch12f113;ch11e113;ch10d113;ch09c113;ch08b113;;boolean;;
+type_help_employer2;In what way does your employer help you? - help in performing activities;ch20m114;ch19l114;ch18k114;ch17j114;ch16i114;ch15h114;ch13g114;ch12f114;ch11e114;ch10d114;ch09c114;ch08b114;;boolean;;
+type_help_employer3;In what way does your employer help you? - adjusted working hours;ch20m115;ch19l115;ch18k115;ch17j115;ch16i115;ch15h115;ch13g115;ch12f115;ch11e115;ch10d115;ch09c115;ch08b115;;boolean;;
+type_help_employer4;In what way does your employer help you? - more breaks;ch20m116;ch19l116;ch18k116;ch17j116;ch16i116;ch15h116;ch13g116;ch12f116;ch11e116;ch10d116;ch09c116;ch08b116;;boolean;;
+type_help_employer5;In what way does your employer help you? - (help with) retraining;ch20m117;ch19l117;ch18k117;ch17j117;ch16i117;ch15h117;ch13g117;ch12f117;ch11e117;ch10d117;ch09c117;ch08b117;;boolean;;
+type_help_employer6;In what way does your employer help you? - acquisition of special equipment;ch20m118;ch19l118;ch18k118;ch17j118;ch16i118;ch15h118;ch13g118;ch12f118;ch11e118;ch10d118;ch09c118;ch08b118;;boolean;;
+type_help_employer7;In what way does your employer help you? - special means of transportation;ch20m119;ch19l119;ch18k119;ch17j119;ch16i119;ch15h119;ch13g119;ch12f119;ch11e119;ch10d119;ch09c119;ch08b119;;boolean;;
+type_help_employer8;In what way does your employer help you? - other;ch20m120;ch19l120;ch18k120;ch17j120;ch16i120;ch15h120;ch13g120;ch12f120;ch11e120;ch10d120;ch09c120;ch08b120;;boolean;;
+type_help_employer9;In what way does your employer help you?;ch20m121;ch19l121;ch18k121;ch17j121;ch16i121;ch15h121;ch13g121;ch12f121;ch11e121;ch10d121;ch09c121;ch08b121;;object;;
+affect_partner_work;Has your health been reason for your partner to start working, to stop working,;;;ch18k122;ch17j122;ch16i122;ch15h122;ch13g122;ch12f122;ch11e122;ch10d122;ch09c122;ch08b122;;category;start working|stop working|start working more|start working less|nothing has changed;False
+affect_child_work;Is there a child or are there children of yours who, for reason of your health,;;;;;;;ch13g123;ch12f123;ch11e123;ch10d123;ch09c123;ch08b123;;category;start working|stop working|start working more|start working less|nothing has changed;False
+expect_temp;Do you expect that your health problems will be temporary?;;;ch18k124;ch17j124;ch16i124;ch15h124;ch13g124;ch12f124;ch11e124;ch10d124;ch09c124;ch08b124;;category;temporary, less than three months|three months or longer;True
+smear_test;Have you had a smear test taken over the past five years?;;;ch18k204;ch17j204;ch16i204;ch15h204;ch13g204;ch12f204;ch11e204;ch10d204;ch09c204;ch08b204;;boolean;;
+xray_breast;Have you had an X-ray taken of one or both breasts, over the past two years?;;;ch18k205;ch17j205;ch16i205;ch15h205;ch13g205;ch12f205;ch11e205;ch10d205;ch09c205;ch08b205;;boolean;;
+premium_period;Per what period did you pay premiums for the health insurance in 2008?;;;ch18k261;ch17j261;ch16i261;ch15h261;ch13g261;ch12f261;ch11e261;ch10d261;ch09c261;ch08b244;;category;per month|per quarter|per half year|per year;True
+premium_self;For whom do you pay the health insurance premiums for the basic policy? myself;;;ch18k245;ch17j245;ch16i245;ch15h245;ch13g245;ch12f245;ch11e245;ch10d245;ch09c245;ch08b245;;boolean;;
+premium_partner;For whom do you pay the health insurance premiums for the basic policy? my partn;;;ch18k246;ch17j246;ch16i246;ch15h246;ch13g246;ch12f246;ch11e246;ch10d246;ch09c246;ch08b246;;boolean;;
+premium_child;For whom do you pay the health insurance premiums for the basic policy? one or m;;;ch18k247;ch17j247;ch16i247;ch15h247;ch13g247;ch12f247;ch11e247;ch10d247;ch09c247;ch08b247;;boolean;;
+premium_child_number;For how many children aged 18 and over do you pay the health insurance premiums;;;ch18k248;ch17j248;ch16i248;ch15h248;ch13g248;ch12f248;ch11e248;ch10d248;ch09c248;ch08b248;;int;;
+premium_total;How much is the health insurance premium in total;;;ch18k249;ch17j249;ch16i249;ch15h249;ch13g249;ch12f249;ch11e249;ch10d249;ch09c249;ch08b249;;int;;
+questionnaire_difficult;Was it difficult to answer the questions?;ch20m250;ch19l250;ch18k250;ch17j250;ch16i250;ch15h250;ch13g250;ch12f250;ch11e250;ch10d250;ch09c250;ch08b250;;float;;
+questionnaire_clear;Were the questions sufficiently clear?;ch20m251;ch19l251;ch18k251;ch17j251;ch16i251;ch15h251;ch13g251;ch12f251;ch11e251;ch10d251;ch09c251;ch08b251;;float;;
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ch20m252;ch19l252;ch18k252;ch17j252;ch16i252;ch15h252;ch13g252;ch12f252;ch11e252;ch10d252;ch09c252;ch08b252;;float;;
+questionnaire_interesting;Was it an interesting subject?;ch20m253;ch19l253;ch18k253;ch17j253;ch16i253;ch15h253;ch13g253;ch12f253;ch11e253;ch10d253;ch09c253;ch08b253;;float;;
+questionnaire_enjoy;Did you enjoy answering the questions?;ch20m254;ch19l254;ch18k254;ch17j254;ch16i254;ch15h254;ch13g254;ch12f254;ch11e254;ch10d254;ch09c254;ch08b254;;float;;
+questionnaire_start_date;Starting date of the questionnaire;ch20m255;ch19l255;ch18k255;ch17j255;ch16i255;ch15h255;ch13g255;ch12f255;ch11e255;ch10d255;ch09c255;ch08b255;;object;;
+questionnaire_start_time;Starting time of the questionnaire;ch20m256;ch19l256;ch18k256;ch17j256;ch16i256;ch15h256;ch13g256;ch12f256;ch11e256;ch10d256;ch09c256;ch08b256;;object;;
+questionnaire_end_date;End date of the questionnaire;ch20m257;ch19l257;ch18k257;ch17j257;ch16i257;ch15h257;ch13g257;ch12f257;ch11e257;ch10d257;ch09c257;ch08b257;;object;;
+questionnaire_end_time;End time of the questionnaire;ch20m258;ch19l258;ch18k258;ch17j258;ch16i258;ch15h258;ch13g258;ch12f258;ch11e258;ch10d258;ch09c258;ch08b258;;object;;
+questionnaire_duration;Duration in seconds;ch20m259;ch19l259;ch18k259;ch17j259;ch16i259;ch15h259;ch13g259;ch12f259;ch11e259;ch10d259;ch09c259;ch08b259;;int;;
+healthcare_allowance;Did you apply for a health care allowance in 2016?;ch20m263;ch19l263;ch18k263;ch17j263;ch16i263;ch15h263;ch13g263;;;;;;;category;no|yes, and the application was adjudged|yes, but the application was dismissed|yes, the application is still pending;True
+healthcare_allowance_amount;How much was this health care allowance per month?;ch20m264;ch19l264;ch18k264;ch17j264;ch16i264;ch15h264;ch13g264;;;;;;;int;;
+smoke4;e-cigarettes;ch20m265;ch19l265;ch18k265;ch17j265;ch16i265;ch15h265;;;;;;;;boolean;;
+smoke4_amount;How many e-cigarettes [did/do] you smoke on average per day?;ch20m266;ch19l266;ch18k266;ch17j266;ch16i266;ch15h266;;;;;;;;int;;
+specialist_dental;dental hygienist;ch20m267;ch19l267;ch18k267;ch17j267;ch16i267;ch15h267;;;;;;;;int;;
+;;;index;;;;;;;;;;;;;;

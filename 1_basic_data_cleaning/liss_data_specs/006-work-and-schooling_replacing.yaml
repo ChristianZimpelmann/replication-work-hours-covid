@@ -1,0 +1,274 @@
+--- # renaming work_and_schholing yaml file
+
+numeric:
+  - "leave_end_year"
+  - "leave_start_year"
+  - "life_leave_year"
+  - "working_care_years"
+
+mixed_case:
+  - "highest_diploma"
+  - "highest_diploma_other1"
+  - "highest_attended_other1"
+  - "highest_attended"
+
+"type renaming":
+  "boolean":
+    "Ja": !!bool True
+    "ja": !!bool True
+    "Nee": !!bool False
+    "nee": !!bool False
+    "Yes": !!bool True
+    "No": !!bool False
+    "yes": !!bool True
+    "no": !!bool False
+
+
+replacing:
+  "highest_diploma_other1":
+    "middle school (comparable to vmbo, vbo, mavo, intermediate professional educatio": "middle school (comparable to vmbo, vbo, mavo; intermediate professional education)"
+    "post-secondary, non-tertiary (comparable to post-mbo, continued intermediate pro": "post-secondary, non-tertiary (comparable to post-mbo; continued intermediate professional education)"
+    "tertiary (comparable to hbo, wo, higher professional education, university educa": "tertiary (comparable to hbo, wo; higher professional education, university education)"
+
+  "highest_diploma":
+    "hbo (higher professional education, institutes of higher education, new style": "hbo (higher professional education, institutes of higher education, new style)"
+    "mulo, ulo, mavo (lower/intermediate secondary education, us: junior high school)": "mulo, ulo, mavo (lower/intermediate secondary education; US: junior high school)"
+    "vmbo theoretical or combined program (preparatory intermediate vocational school": "vmbo theoretical or combined program (preparatory intermediate vocational school)"
+    "mms (intermediate girls\x92 school)": "mms (intermediate girls' school)"
+    "hbs (former pre-university education, us: senior high school)": "hbs (former pre-university education, US: senior high school)"
+    "havo (higher general secondary education, us: junior high school)": "havo (higher general secondary education; US: junior high school)"
+    "vwo (pre-university education, us: senior high school)": "vwo (pre-university education, US: senior high school)"
+    "kmbo (short intermediate professional education), vhbo (preparatory higher profe": "kmbo (short intermediate professional education), VHBO (preparatory higher professional education)"
+    "mbo-plus to access hbo, short hbo program (less than two years) (higher professi": "mbo-plus to access hbo, short hbo program (less than two years) (higher professional education)"
+    "academic education (including technical and economic colleges, former style) bac": "academic education (including technical and economic colleges, former style) bachelor's degree"
+    "academic education (including technical and economic colleges, former style) mas": "academic education (including technical and economic colleges, former style) master's degree"
+    "doctor\x92s degree (ph.d, including doctoral research program to obtain ph.d)": "doctor's degree (Ph.D, including doctoral research program to obtain Ph.D)"
+
+  "highest_attended":
+    "hbo (higher professional education, institutes of higher education, new style": "hbo (higher professional education, institutes of higher education, new style)"
+    "mulo, ulo, mavo (lower/intermediate secondary education, us: junior high school)": "mulo, ulo, mavo (lower/intermediate secondary education; US: junior high school)"
+    "vmbo theoretical or combined program (preparatory intermediate vocational school": "vmbo theoretical or combined program (preparatory intermediate vocational school)"
+    "mms (intermediate girls\x92 school)": "mms (intermediate girls' school)"
+    "hbs (former pre-university education, us: senior high school)": "hbs (former pre-university education, US: senior high school)"
+    "havo (higher general secondary education, us: junior high school)": "havo (higher general secondary education; US: junior high school)"
+    "vwo (pre-university education, us: senior high school)": "vwo (pre-university education, US: senior high school)"
+    "kmbo (short intermediate professional education), vhbo (preparatory higher profe": "kmbo (short intermediate professional education), VHBO (preparatory higher professional education)"
+    "mbo-plus to access hbo, short hbo program (less than two years) (higher professi": "mbo-plus to access hbo, short hbo program (less than two years) (higher professional education)"
+    "academic education (including technical and economic colleges, former style) bac": "academic education (including technical and economic colleges, former style) bachelor's degree"
+    "academic education (including technical and economic colleges, former style) mas": "academic education (including technical and economic colleges, former style) master's degree"
+    "doctor\x92s degree (ph.d, including doctoral research program to obtain ph.d)": "doctor's degree (Ph.D, including doctoral research program to obtain Ph.D)"
+
+  "highest_attended_other1":
+    "middle school (comparable to vmbo, vbo, mavo, intermediate professional educatio": "middle school (comparable to vmbo, vbo, mavo; intermediate professional education)"
+    "post-secondary, non-tertiary (comparable to post-mbo, continued intermediate pro": "post-secondary, non-tertiary (comparable to post-mbo; continued intermediate professional education)"
+    "tertiary (comparable to hbo, wo, higher professional education, university educa": "tertiary (comparable to hbo, wo; higher professional education, university education)"
+
+  "current_main":
+    "I have performed paid work, but am released from the obligation to find a new jo": "I have performed paid work, but am released from the obligation to find a new job following the loss of my previous job"
+    "I perform paid work (even if is it just for one or several hours per week or for": "I perform paid work (even if is it just for one or several hours per week or for a brief period)"
+
+  "pension1_year":
+    31.0: !!float .nan
+    5.0:  !!float .nan
+    0.0:  !!float .nan
+
+  "pension2_year":
+    31.0: !!float .nan
+    5.0: !!float .nan
+    0.0: !!float .nan
+
+  "pension3_year":
+    0.0: !!float .nan
+
+  "retire_partner":
+    "not applicable, I don\x92t have a partner": "not applicable, I don't have a partner"
+
+  "pension_inc_sufficient":
+    "no, I don\x92t think it will be sufficient to make ends meet": "no, I don't think it will be sufficient to make ends meet"
+
+  "reason_stopped":
+    "moved house due to partner\x92s job": "moved house due to partner's job"
+    "I don\x92t know (anymore)": "I don't know (anymore)"
+
+  "seeking_intensity":
+    "no, I have already found another job but haven\x92t started yet": "no, I have already found another job but haven't started yet"
+
+  "reason_not_seeking":
+    "I am (partly) disabled for work (Work and Income According to Working Capacity A": "I am (partly) disabled for work"
+    "I have taken early retirement or (pre-) pension": "I have taken FLO, early retirement or (pre-) pension"
+
+  "seeking_none_reason":
+    "I didn\x92t see any suitable vacancies or adverts": "I didn't see any suitable vacancies or adverts"
+    "I don\x92t think there\x92s a suitable job for me": "I don't think there's a suitable job for me"
+    "I have found a job, but haven\x92t started yet": "I have found a job, but haven't started yet"
+
+  "sector":
+    "utilities production, distribution and/or trade (electricity, natural gas, steam": "utilities production, distribution and/or trade (electricity, natural gas, steam, water)"
+    "gezondheids- en welzijnszorg": "healthcare and welfare"
+    "overheidsdiensten, openbaar bestuur en verplichte sociale verzekeringen": "government services, public administration and mandatory social insurances"
+    "overig": "other"
+    "horeca": "catering"
+    "handel (incl. reparatie van consumentenartikelen)": "retail trade (including repairs of consumer goods)"
+    "landbouw, jacht, bosbouw, visserij": "agriculture, forestry, fishery, hunting"
+    "onderwijs": "education"
+    "financi\xEBle instellingen": "financial"
+    "milieudienstverlening, cultuur, recreatie en overige dienstverlening": "environmental services, culture, recreation and other services"
+    "vervoer, opslag en communicatie": "transport, storage and communication"
+    "zakelijke dienstverlening (incl. onroerend goed, verhuur van roerende goederen)": "business services (including real estate, rental)"
+    "industrie": "industrial production"
+    "bouwnijverheid": "construction"
+    "productie en distributie van en handel in elektriciteit, aardgas, stoom en water": "utilities production, distribution and/or trade (electricity, natural gas, steam, water)"
+    "winning van delfstoffen": "mining"
+
+  "profession":
+    "higher supervisory profession (e.g. manager, director, owner of large company, s": "higher supervisory profession (e.g. manager, director, owner of large company, supervisory civil servant)"
+    "intermediate supervisory or commercial profession (e.g. head representative, dep": "intermediate supervisory or commercial profession (e.g. head representative, department manager, shopkeeper)"
+    "intermediate academic or independent profession (e.g. teacher, artist, nurse, so": "intermediate academic or independent profession (e.g. teacher, artist, nurse, social worker, policy assistant)"
+    "higher academic or independent profession (e.g. architect, physician, scholar, a": "higher academic or independent profession (e.g. architect, physician, scholar, academic instructor, engineer)"
+    "other mental work (e.g. administrative assistant, accountant, sales assistant, f": "other mental work (e.g. administrative assistant, accountant, sales assistant, family carer)"
+    "hoger intellectueel of vrij beroep (bijv. architect, arts, wetenschappelijk mede": "higher academic or independent profession (e.g. architect, physician, scholar, academic instructor, engineer)"
+    "semi-geschoolde handarbeid (bijv. chauffeur, fabrieksarbeider)": "semi-skilled manual work (e.g. driver, factory worker)"
+    "ongeschoolde en geoefende handarbeid (bijv. schoonmaker, inpakker)": "unskilled and trained manual work (e.g. cleaner, packer)"
+    "geschoolde en leidinggevende handarbeid (bijv. automonteur, ploegbaas, elektrici": "skilled and supervisory manual work (e.g. car mechanic, foreman, electrician)"
+    "middelbaar intellectueel of vrij beroep (bijv. leerkracht, kunstenaar, verpleegk": "intermediate academic or independent profession (e.g. teacher, artist, nurse, social worker, policy assistant)"
+    "middelbaar leidinggevend of commercieel beroep (bijv. hoofdvertegenwoordiger, af": "intermediate supervisory or commercial profession (e.g. head representative, department manager, shopkeeper)"
+    "hoger leidinggevend beroep (bijv. manager, directeur, eigenaar groot bedrijf, le": "higher supervisory profession (e.g. manager, director, owner of large company, supervisory civil servant)"
+    "overige hoofdarbeid (bijv. administratief medewerker, boekhouder, verkoper, gezi": "other mental work (e.g. administrative assistant, accountant, sales assistant, family carer)"
+    "agrarisch beroep (bijv. landarbeider, zelfstandig agrari\xEBr)": "agrarian profession (e.g. farm worker, independent agriculturalist)"
+
+  "profession_firstjob":
+    "higher supervisory profession (e.g. manager, director, owner of large company, s": "higher supervisory profession (e.g. manager, director, owner of large company, supervisory civil servant)"
+    "intermediate supervisory or commercial profession (e.g. head representative, dep": "intermediate supervisory or commercial profession (e.g. head representative, department manager, shopkeeper)"
+    "intermediate academic or independent profession (e.g. teacher, artist, nurse, so": "intermediate academic or independent profession (e.g. teacher, artist, nurse, social worker, policy assistant)"
+    "higher academic or independent profession (e.g. architect, physician, scholar, a": "higher academic or independent profession (e.g. architect, physician, scholar, academic instructor, engineer)"
+    "other mental work (e.g. administrative assistant, accountant, sales assistant, f": "other mental work (e.g. administrative assistant, accountant, sales assistant, family carer)"
+
+  "course1_place":
+    "homestudy course (e.g. distance learning institutes, Open University, courses vi": "homestudy course (e.g. distance learning institutes, Open University, courses via internet)"
+    "UWV WERKbedrijf (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI/UWV (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "UWV (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+
+  "course2_place":
+    "homestudy course (e.g. distance learning institutes, Open University, courses vi": "homestudy course (e.g. distance learning institutes, Open University, courses via internet)"
+    "UWV WERKbedrijf (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI/UWV (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "UWV (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+
+  "course3_place":
+    "homestudy course (e.g. distance learning institutes, Open University, courses vi": "homestudy course (e.g. distance learning institutes, Open University, courses via internet)"
+    "UWV WERKbedrijf (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI/UWV (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "UWV (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+
+  "course1_reason":
+    "required by UWV WERKbedrijf (public employment service)": "required by CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "required by CWI (public employment service)": "required by CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "for an other reason": "for another reason"
+
+  "course1_paid":
+    "UWV WERKbedrijf (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI/UWV (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+    "CWI (public employment service)": "CWI/UWV/Mobiliteitscentrum (public employment service)"
+
+  "percentage_wage":
+    "yes": 1.0
+    "no, I cannot take early retirement or pre-pension": 0.0
+
+  "retired_working":
+    "no, I don\x92t want to": "no, I don't want to"
+
+  "retired_fulltime":
+    "no, I don\x92t want to": "no, I don't want to"
+
+  "retired_parttime":
+    "no, I don\x92t want to work part-time": "no, I don't want to work part-time"
+
+  "jobless_fulltime":
+    "no, I don\x92t want to work full-time": "no, I don't want to work full-time"
+
+  "jobless_parttime":
+    "no, I don\x92t want to work": "no, I don't want to work"
+
+  "disabled_fulltime":
+    "no, I wouldn\x92t want to": "no, I wouldn't want to"
+
+  "disabled_parttime":
+    "no, I don\x92t want to work part-time": "no, I don't want to work part-time"
+
+  "life_account_goal":
+    "I don\x92t know/I don\x92t have any plans": !!float .nan
+    "creative self-development (painting, sculpture, writing, music, handicrafts, etc": "creative self-development (painting, sculpture, writing, music, handicrafts, etc.)"
+
+  "course":
+    2: "no"
+
+  "paid_work_box":
+    "no, does not work": 0.0
+    "yes, does work": 1.0
+
+  "distance_work":
+    "I work abroad": !!float .nan
+
+  "minwage_accept_period":
+    1.0: "per week"
+    "yes": "per week"
+    2.0: "per 4 weeks"
+    3.0: "per month"
+    4.0: "per year"
+
+  "full_df":
+    900000000000000000000: !!float .nan
+    800000000000000000000: !!float .nan
+    "prefer not to say": !!float .nan
+    "I prefer not to say": !!float .nan
+    "I don't know (anymore)": !!float .nan
+    "900000000000000000000 I don\x92t know": !!float .nan
+    "unknown": !!float .nan
+    "deutz": "hy"
+    "0": 0
+    "1": 1
+    "2": 2
+    "3": 3
+    "4": 4
+    "5": 5
+    "6": 6
+    "7": 7
+    "8": 8
+    "9": 9
+    "10": 10
+    "fully satisfied": 10
+    "10 = fully satisfied": 10
+    "not at all satisfied": 0
+    "0 = not at all satisfied": 0
+    "2007": 2007
+    "2006": 2006
+    "I dont know": !!float .nan
+    "i dont know": !!float .nan
+    "I don\x92t know": !!float .nan
+    "i don\x92t know": !!float .nan
+    "I don't know": !!float .nan
+    "i don't know": !!float .nan
+    "1 = certainly not": 1
+    "certainly not": 1
+    "5 = certainly yes": 5
+    "certainly yes": 5
+    "10 = no problems at all": 10
+    "no problems at all": 10
+    "0 = very serious problems": 0
+    "0 = do not suit my work at all": 0
+    "do not suit my work at all": 0
+    "10 = suit my work perfectly": 10
+    "suit my work perfectly": 10
+    "very serious problems": 0
+    "10 = suits my work perfectly": 10
+    "suits my work perfectly": 10
+    "0 = does not at all suit my work": 0
+    "does not at all suit my work": 0
+    "10 = extremely important": 10
+    "extremely important": 10
+    "0 = not at all important": 0
+    "not at all important": 0

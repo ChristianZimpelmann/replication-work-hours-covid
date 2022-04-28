@@ -1,0 +1,58 @@
+new_name;labels;gc12a_EN_1.dta
+participate_weight_experiment;participant body weight-experiment (ee11a);gc12a001
+experiment_group;experimental group;gc12a002
+event1_day;Day event 1;gc12a003
+event1_month;Month event 1;gc12a004
+event2_day;Day event 2;gc12a005
+event2_month;Month event 2;gc12a006
+event3_day;Day event 3;gc12a007
+event3_month;Month event 3;gc12a008
+event4_day;Day event 4;gc12a009
+event4_month;Month event 4;gc12a010
+event5_day;Day event 5;gc12a011
+event5_month;Month event 5;gc12a012
+event6_day;Day event 6;gc12a013
+event6_month;Month event 6;gc12a014
+general_health;How would you describe your health generally speaking?;gc12a015
+general_health_change;A year ago you indicated your health was [ch10d004]. Do you feel that in the pa;gc12a016
+health_1110;Health Nov. 2010;gc12a017
+health_1210;Health Dec. 2010;gc12a018
+health_0111;Health Jan. 2011;gc12a019
+health_0211;Health Feb. 2011;gc12a020
+health_0311;Health March 2011;gc12a021
+health_0411;Health April 2011;gc12a022
+health_0511;Health May 2011;gc12a023
+health_0611;Health June 2011;gc12a024
+health_0711;Health July 2011;gc12a025
+health_0811;Health Aug. 2011;gc12a026
+health_0911;Health Sept. 2011;gc12a027
+health_1011;Health Oct. 2011;gc12a028
+health_1111;Health Nov. 2011;gc12a029
+health_1211;Health Dec. 2011;gc12a030
+health_0112;Health Jan. 2012;gc12a031
+frequency_gp;How often in the past 4 weeks did you use the following health service for you;gc12a032
+GP_0111;General physician Jan. 2011;gc12a033
+GP_0211;General physician Feb. 2011;gc12a034
+GP_0311;General physician March 2011;gc12a035
+GP_0411;General physician April 2011;gc12a036
+GP_0511;General physician May 2011;gc12a037
+GP_0611;General physician June 2011;gc12a038
+GP_0711;General physician July 2011;gc12a039
+GP_0811;General physician Aug. 2011;gc12a040
+GP_0911;General physician Sept. 2011;gc12a041
+GP_1011;General physician Oct. 2011;gc12a042
+GP_1111;General physician Nov. 2011;gc12a043
+GP_1211;General physician Dec. 2011;gc12a044
+GP_0112;General physician Jan. 2012;gc12a045
+questionnaire_difficult;Was it difficult to answer the questions?;gc12a046
+questionnaire_clear;Were the questions sufficiently clear?;gc12a047
+questionnaire_thinking;Did the questionnaire get you thinking about things?;gc12a048
+questionnaire_interesting;Was it an interesting subject?;gc12a049
+questionnaire_enjoy;Did you enjoy answering the questions?;gc12a050
+start_date;Starting date questionnaire;gc12a051
+start_time;Starting time questionnaire;gc12a052
+end_date;End date questionnaire;gc12a053
+end_time;End time questionnaire;gc12a054
+duration;Duration in seconds;gc12a055
+date_fieldwork;Year and month of the field work period;gc12a_m
+personal_id;Number of household member encrypted;nomem_encr

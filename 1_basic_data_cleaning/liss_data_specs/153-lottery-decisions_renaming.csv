@@ -1,0 +1,42 @@
+new_name;labels;mg16a_EN_1.0p.dta
+payoff_shown;Which payoff is shown to the respondent?;mg16a001
+comprehension_check_1;Based on this example, please indicate which of the following statements is true;mg16a002
+comprehension_check_2;If I choose Option A and chance selects outcome 2, then I will earn...;mg16a003
+decision_1;Decision 1. Please indicate your choice between Option A and Option B by clickin;mg16a004
+decision_2;Decision 2. Please indicate your choice between Option A and Option B by clickin;mg16a005
+decision_3;Decision 3. Please indicate your choice between Option A and Option B by clickin;mg16a006
+decision_4;Decision 4. Please indicate your choice between Option A and Option B by clickin;mg16a007
+decision_5;Decision 5. Please indicate your choice between Option A and Option B by clickin;mg16a008
+decision_6;Decision 6. Please indicate your choice between Option A and Option B by clickin;mg16a009
+decision_7;Decision 7. Please indicate your choice between Option A and Option B by clickin;mg16a010
+decision_8;Decision 8. Please indicate your choice between Option A and Option B by clickin;mg16a011
+decision_9;Decision 9. Please indicate your choice between Option A and Option B by clickin;mg16a012
+decision_10;Decision 10. Please indicate your choice between Option A and Option B by clicki;mg16a013
+decision_11;Decision 11. Please indicate your choice between Option A and Option B by clicki;mg16a014
+decision_12;Decision 12. Please indicate your choice between Option A and Option B by clicki;mg16a015
+decision_13;Decision 13. Please indicate your choice between Option A and Option B by clicki;mg16a016
+decision_14;Decision 14. Please indicate your choice between Option A and Option B by clicki;mg16a017
+decision_15;Decision 15. Please indicate your choice between Option A and Option B by clicki;mg16a018
+decision_16;Decision 16. Please indicate your choice between Option A and Option B by clicki;mg16a019
+decision_17;Decision 17. Please indicate your choice between Option A and Option B by clicki;mg16a020
+decision_18;Decision 18. Please indicate your choice between Option A and Option B by clicki;mg16a021
+decision_19;Decision 19. Please indicate your choice between Option A and Option B by clicki;mg16a022
+decision_20;Decision 20. Please indicate your choice between Option A and Option B by clicki;mg16a023
+decision_21;Decision 21. Please indicate your choice between Option A and Option B by clicki;mg16a024
+decision_22;Decision 22. Please indicate your choice between Option A and Option B by clicki;mg16a025
+decision_23;Decision 23. Please indicate your choice between Option A and Option B by clicki;mg16a026
+decision_24;Decision 24. Please indicate your choice between Option A and Option B by clicki;mg16a027
+decision_25;Decision 25. Please indicate your choice between Option A and Option B by clicki;mg16a028
+decision_26;Decision 26. Please indicate your choice between Option A and Option B by clicki;mg16a029
+questionnaire_difficult;Was it difficult to answer the questions?;mg16a030
+questionnaire_clear;Were the questions sufficiently clear?;mg16a031
+questionnaire_thinking;Did the questionnaire get you thinking about things?;mg16a032
+questionnaire_interesting;Was it an interesting subject?;mg16a033
+questionnaire_enjoy;Did you enjoy answering the questions?;mg16a034
+start_date;Starting date of the questionnaire;mg16a035
+start_time;Starting time of the questionnaire;mg16a036
+end_date;End date of the questionnaire;mg16a037
+end_time;End time of the questionnaire;mg16a038
+duration;Duration in seconds;mg16a039
+date_fieldwork;Year and month of field work period;mg16a_m
+personal_id;Number of household member encrypted;nomem_encr

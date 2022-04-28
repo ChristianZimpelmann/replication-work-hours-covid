@@ -1,0 +1,85 @@
+"health":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"religion":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"leisure":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"family":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"work_schooling":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"personality":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"politics_values":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"assets":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"income":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"housing":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"consumer_outlook":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"time_use_consumption":
+  "selected": True
+  "subset": "full"
+  "stata": False
+
+"pref_numeracy":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"ambiguous_beliefs":
+  "selected": True
+  "subset":
+    - 201811
+  "stata": False
+
+"corona":
+  "selected": True
+  "subset": "full"
+  "stata": False
+
+"stat_literacy":
+  "selected": True
+  "subset": False
+  "stata": False
+
+"covid_gender":
+  "selected": True
+  "subset": False
+  "stata": False

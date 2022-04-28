@@ -1,0 +1,418 @@
+new_name;labels;L_consumption_w8_5p.dta;L_consumption_w7_3.0p.dta;L_consumption_w6_5p.dta;bf17e_EN_1.0p.dta;bf15d_EN_1.0p.dta;bf12c_EN_1.0p.dta;bf10b_EN_1.1p.dta;bf09a_EN_1.0p.dta;type;ordered;categories_english
+hh_size;Number of members in the household;p_aantalhh;p_aantalhh;in_aantalhh;bf17e001;bf15d001;bf12c001;bf10b001;bf09a001;category;True;1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+hh_children;Number of living-at-home children in the household, children of the household he;p_aantalki;p_aantalki;in_aantalki;bf17e002;bf15d002;bf12c002;bf10b002;bf09a002;category;True;0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+d_child_questions;Should this respondent be presented these questions about children?;vkind;vkind;in_vkind;bf17e003;bf15d003;bf12c003;bf10b003;bf09a003;float;;
+hh_position;Position in the household;p_positie;p_positie;in_positie;bf17e004;bf15d004;bf12c004;bf10b004;bf09a004;category;False;Household head, Wedded partner, Unwedded partner, Parent (in-law), Child living at home, House mate, Family member or boarder, Unknown (missing)
+hours_work;How much time did you spend in the last seven days on: paid work: hours;;;v1q1_v1col1;bf17e005;bf15d005;bf12c005;bf10b005;bf09a005;float;;
+mins_work;How much time did you spend in the last seven days on: paid work: mins;;;v1q1_v1col2;bf17e006;bf15d006;bf12c006;bf10b006;bf09a006;int;;
+hours_commute;How much time did you spend in the last seven days on: time traveling to and fro;v1q2_v1col1;v1q2_v1col1;v1q2_v1col1;bf17e007;bf15d007;bf12c007;bf10b007;bf09a007;float;;
+mins_commute;How much time did you spend in the last seven days on: time traveling to and fro;v1q2_v1col2;v1q2_v1col2;v1q2_v1col2;bf17e008;bf15d008;bf12c008;bf10b008;bf09a008;int;;
+hours_chores;How much time did you spend in the last seven days on: household chores: hours;v1q3_v1col1;v1q3_v1col1;v1q3_v1col1;;;bf12c009;bf10b009;bf09a009;float;;
+mins_chores;How much time did you spend in the last seven days on: household chores: mins;v1q3_v1col2;v1q3_v1col2;v1q3_v1col2;;;bf12c010;bf10b010;bf09a010;int;;
+hours_personalcare;How much time did you spend in the last seven days on: personal care: hours;;;;;;bf12c011;bf10b011;bf09a011;float;;
+mins_personalcare;How much time did you spend in the last seven days on: personal care: mins;;;;;;bf12c012;bf10b012;bf09a012;int;;
+hours_childcare;How much time did you spend in the last seven days on: activities with own child;v1q5_v1col1;v1q5_v1col1;v1q5_v1col1;bf17e013;bf15d013;bf12c013;bf10b013;bf09a013;float;;
+mins_childcare;How much time did you spend in the last seven days on: activities with own child;v1q5_v1col2;v1q5_v1col2;v1q5_v1col2;bf17e014;bf15d014;bf12c014;bf10b014;bf09a014;int;;
+hours_help_parents;How much time did you spend in the last seven days on: helping parents: hours;v1q6_v1col1;v1q6_v1col1;v1q6_v1col1;bf17e015;bf15d015;bf12c015;bf10b015;bf09a015;float;;
+mins_help_parents;How much time did you spend in the last seven days on: helping parents: mins;v1q6_v1col2;v1q6_v1col2;v1q6_v1col2;bf17e016;bf15d016;bf12c016;bf10b016;bf09a016;int;;
+hours_help_family;How much time did you spend in the last seven days on: helping other family memb;;;v1q7_v1col1;bf17e017;bf15d017;bf12c017;bf10b017;bf09a017;float;;
+mins_help_family;How much time did you spend in the last seven days on: helping other family memb;;;v1q7_v1col2;bf17e018;bf15d018;bf12c018;bf10b018;bf09a018;int;;
+hours_help_other;How much time did you spend in the last seven days on: helping non-family member;;;v1q8_v1col1;bf17e019;bf15d019;bf12c019;bf10b019;bf09a019;float;;
+mins_help_other;How much time did you spend in the last seven days on: helping non-family member;;;v1q8_v1col2;bf17e020;bf15d020;bf12c020;bf10b020;bf09a020;int;;
+hours_leisure;How much time did you spend in the last seven days on: leisure time activities:;v1q12_v1col1;v1q12_v1col1;v1q12_v1col1;;;bf12c021;bf10b021;bf09a021;float;;
+mins_leisure;How much time did you spend in the last seven days on: leisure time activities:;v1q12_v1col2;v1q12_v1col2;v1q12_v1col2;;;bf12c022;bf10b022;bf09a022;int;;
+hours_schooling;How much time did you spend in the last seven days on: (further) schooling: hour;v1q10_v1col1;v1q10_v1col1;v1q10_v1col1;;;bf12c023;bf10b023;bf09a023;float;;
+mins_schooling;How much time did you spend in the last seven days on: (further) schooling: minu;v1q10_v1col2;v1q10_v1col2;v1q10_v1col2;;;bf12c024;bf10b024;bf09a024;int;;
+hours_paperwork;How much time did you spend in the last seven days on: administrative chores and;;;;;;bf12c025;bf10b025;bf09a025;float;;
+mins_paperwork;How much time did you spend in the last seven days on: administrative chores and;;;;;;bf12c026;bf10b026;bf09a026;int;;
+hours_resting;How much time did you spend in the last seven days on: sleeping and resting: hou;v1q9_v1col1;v1q9_v1col1;v1q9_v1col1;;;bf12c027;bf10b027;bf09a027;float;;
+mins_resting;How much time did you spend in the last seven days on: sleeping and resting: min;v1q9_v1col2;v1q9_v1col2;v1q9_v1col2;;;bf12c028;bf10b028;bf09a028;int;;
+hours_other_activity;How much time did you spend in the last seven days on: other activities not name;v1q13_v1col1;v1q13_v1col1;v1q13_v1col1;;;bf12c029;bf10b029;bf09a029;float;;
+mins_other_activity;How much time did you spend in the last seven days on: other activities not name;v1q13_v1col2;v1q13_v1col2;v1q13_v1col2;;;bf12c030;bf10b030;bf09a030;int;;
+hours_workplace;;v1q1_v1col1;v1q1_v1col1;;;;;;;float;;
+mins_workplace;;v1q1_v1col2;v1q1_v1col2;;;;;;;int;;
+hours_home_office_no_kids;;v1q1a_v1col1;v1q1a_v1col1;;;;;;;float;;
+hours_home_office_kids_care;;v1q1b_v1col1;v1q1b_v1col1;;;;;;;float;;
+hours_home_office_no_kids_merge;;v1q1c_v1col1;v1q1c_v1col1;;;;;;;float;;
+hours_homeschooling;;v1q5a_v1col1;v1q5a_v1col1;;;;;;;float;;
+hours_leisure_alone;;v1q15_v1col1;v1q15_v1col1;;;;;;;float;;
+hours_leisure_friends;;v1q16_v1col1;v1q16_v1col1;;;;;;;float;;
+hours_remaining;;v1q_over_v1col1;v1q_over_v1col1;;;;;;;float;;
+;Total number of mins spent in the past seven days;;;;;;bf12c031;bf10b031;bf09a031;int;;
+txt_other_activity1;activity 1: description of activity;;;;;;bf12c032;bf10b032;bf09a032;object;;
+hours_other_activity1;activity 1: hours;;;;;;bf12c033;bf10b033;bf09a033;float;;
+mins_other_activity1;activity 1: minutes;;;;;;bf12c034;bf10b034;bf09a034;int;;
+txt_other_activity2;activity 2: description of activity;;;;;;bf12c035;bf10b035;bf09a035;object;;
+hours_other_activity2;activity 2: hours;;;;;;bf12c036;bf10b036;bf09a036;float;;
+mins_other_activity2;activity 2: minutes;;;;;;bf12c037;bf10b037;bf09a037;int;;
+txt_other_activity3;activity 3: description of activity;;;;;;bf12c038;bf10b038;bf09a038;object;;
+hours_other_activity3;activity 3: hours;;;;;;bf12c039;bf10b039;bf09a039;float;;
+mins_other_activity3;activity 3: minutes;;;;;;bf12c040;bf10b040;bf09a040;int;;
+;activity 4: description of activity;;;;;;bf12c041;bf10b041;bf09a041;object;;
+;activity 4: hours;;;;;;bf12c042;bf10b042;bf09a042;int;;
+;activity 4: minutes;;;;;;bf12c043;bf10b043;bf09a043;int;;
+;activity 5: description of activity;;;;;;bf12c044;bf10b044;bf09a044;object;;
+;activity 5: hours;;;;;;bf12c045;bf10b045;bf09a045;int;;
+;activity 5: minutes;;;;;;bf12c046;bf10b046;bf09a046;int;;
+;activity 6: description of activity;;;;;;bf12c047;bf10b047;bf09a047;object;;
+;activity 6: hours;;;;;;bf12c048;bf10b048;bf09a048;int;;
+;activity 6: minutes;;;;;;bf12c049;bf10b049;bf09a049;int;;
+;activity 7: description of activity;;;;;;bf12c050;bf10b050;bf09a050;object;;
+;activity 7: hours;;;;;;bf12c051;bf10b051;bf09a051;int;;
+;activity 7: minutes;;;;;;bf12c052;bf10b052;bf09a052;int;;
+;activity 8: description of activity;;;;;;bf12c053;bf10b053;bf09a053;object;;
+;activity 8: hours;;;;;;bf12c054;bf10b054;bf09a054;int;;
+;activity 8: minutes;;;;;;bf12c055;bf10b055;bf09a055;int;;
+;activity 9: description of activity;;;;;;bf12c056;bf10b056;bf09a056;object;;
+;activity 9: hours;;;;;;bf12c057;bf10b057;bf09a057;int;;
+;activity 9: minutes;;;;;;bf12c058;bf10b058;bf09a058;int;;
+;activity 10: description of activity;;;;;;bf12c059;bf10b059;bf09a059;object;;
+;activity 10: hours;;;;;;bf12c060;bf10b060;bf09a060;int;;
+;activity 10: minutes;;;;;;bf12c061;bf10b061;bf09a061;int;;
+;Total number of minutes spent on other activities;;;;;;bf12c062;bf10b062;bf09a062;int;;
+cohabiting_partner;Do you currently have a steady partner with whom you also live together? (Partne;vpartner;vpartner;vpartner;bf17e063;bf15d063;bf12c063;bf10b063;bf09a063;float;;
+hours_with_partner;Leisure time spent together with your partner: hours;;;;;;bf12c064;bf10b064;bf09a064;float;;
+mins_with_partner;Leisure time spent together with your partner: minutes;;;;;;bf12c065;bf10b065;bf09a065;int;;
+expendit_mortgage;How many euros does your household spend on average each month on: mortgage: int;v2ct1_v2ccol1;v2ct1_v2ccol1;v2ct1_v2ccol1;bf17e066;bf15d066;bf12c066;bf10b066;bf09a066;int;;
+expendit_rent;How many euros does your household spend on average each month on: rent;v2ct2_v2ccol1;v2ct2_v2ccol1;v2ct2_v2ccol1;bf17e067;bf15d067;bf12c067;bf10b067;bf09a067;int;;
+expendit_utilities;How many euros does your household spend on average each month on: general utili;v2ct3_v2ccol1;v2ct3_v2ccol1;v2ct3_v2ccol1;bf17e068;bf15d068;bf12c068;bf10b068;bf09a068;int;;
+expendit_transport;How many euros does your household spend on average each month on: transport and;v2ct4_v2ccol1;v2ct4_v2ccol1;v2ct4_v2ccol1;bf17e069;bf15d069;bf12c069;bf10b069;bf09a069;int;;
+expendit_insurance;How many euros does your household spend on average each month on: insurances;v2ct5_v2ccol1;v2ct5_v2ccol1;v2ct5_v2ccol1;bf17e070;bf15d070;bf12c070;bf10b070;bf09a070;int;;
+expendit_daycare;How many euros does your household spend on average each month on: childrenÂs da;v2ct6_v2ccol1;v2ct6_v2ccol1;v2ct6_v2ccol1;bf17e071;bf15d071;bf12c071;bf10b071;bf09a071;int;;
+expendit_financialsupport;How many euros does your household spend on average each month on: alimony and f;v2ct7_v2ccol1;v2ct7_v2ccol1;v2ct7_v2ccol1;bf17e072;bf15d072;bf12c072;bf10b072;bf09a072;int;;
+expendit_loans;How many euros does your household spend on average each month on: debts and loa;v2ct8_v2ccol1;v2ct8_v2ccol1;v2ct8_v2ccol1;bf17e073;bf15d073;bf12c073;bf10b073;bf09a073;int;;
+expendit_trips;How many euros does your household spend on average each month on: daytrips and;v2ct9_v2ccol1;;v2ct9_v2ccol1;bf17e074;bf15d074;bf12c074;bf10b074;bf09a074;int;;
+expendit_maintenance;How many euros does your household spend on average each month on: expenditure o;v2ct10_v2ccol1;v2ct10_v2ccol1;v2ct10_v2ccol1;bf17e075;bf15d075;bf12c075;bf10b075;bf09a075;int;;
+expendit_nutrition;How many euros does your household spend on average each month on: eating at hom;v2ct11_v2ccol1;v2ct11_v2ccol1;v2ct11_v2ccol1;bf17e076;bf15d076;bf12c076;bf10b076;bf09a076;int;;
+expendit_other;How many euros does your household spend on average each month on: other househo;v2ct17_v2ccol1;v2ct17_v2ccol1;v2ct17_v2ccol1;bf17e077;bf15d077;bf12c077;bf10b077;bf09a077;int;;
+expendit_sum;Total amount of money spent per month based on the variables bf17e066 to bf17e07;v2ctot_v2ccol1;v2ctot_v2ccol1;v2ctot_v2ccol1;bf17e078;bf15d078;bf12c078;bf10b078;bf09a078;int;;
+expendit_mortgage_update;singles: How many euros does your household spend on average each month on: mort;v2at1_v2acol1;v2at1_v2acol1;v2at1_v2acol1;bf17e079;bf15d079;bf12c079;bf10b079;bf09a079;int;;
+expendit_rent_update;singles: How many euros does your household spend on average each month on: rent;v2at2_v2acol1;v2at2_v2acol1;v2at2_v2acol1;bf17e080;bf15d080;bf12c080;bf10b080;bf09a080;int;;
+expendit_utilities_update;singles: How many euros does your household spend on average each month on: gene;v2at3_v2acol1;v2at3_v2acol1;v2at3_v2acol1;bf17e081;bf15d081;bf12c081;bf10b081;bf09a081;int;;
+expendit_transport_update;singles: How many euros does your household spend on average each month on: tran;v2at4_v2acol1;v2at4_v2acol1;v2at4_v2acol1;bf17e082;bf15d082;bf12c082;bf10b082;bf09a082;int;;
+expendit_insurance_update;singles: How many euros does your household spend on average each month on: insu;v2at5_v2acol1;v2at5_v2acol1;v2at5_v2acol1;bf17e083;bf15d083;bf12c083;bf10b083;bf09a083;int;;
+expendit_daycare_update;singles: How many euros does your household spend on average each month on: chil;v2at6_v2acol1;v2at6_v2acol1;v2at6_v2acol1;;;;;bf09a084;int;;
+expendit_financialsupport_update;singles: How many euros does your household spend on average each month on: alim;v2at7_v2acol1;v2at7_v2acol1;v2at7_v2acol1;bf17e085;bf15d085;bf12c085;bf10b085;bf09a085;int;;
+expendit_loans_update;singles: How many euros does your household spend on average each month on: debt;v2at8_v2acol1;v2at8_v2acol1;v2at8_v2acol1;bf17e086;bf15d086;bf12c086;bf10b086;bf09a086;int;;
+expendit_trips_update;singles: How many euros does your household spend on average each month on: expe;v2at9_v2acol1;;v2at9_v2acol1;;;;;;int;;
+expendit_nutrition_update;singles: How many euros does your household spend on average each month on: eati;v2at11_v2acol1;v2at11_v2acol1;v2at11_v2acol1;bf17e088;bf15d088;bf12c088;bf10b088;bf09a088;int;;
+expendit_other_update;singles: How many euros does your household spend on average each month on: othe;v2at17_v2acol1;v2at17_v2acol1;v2at17_v2acol1;bf17e089;bf15d089;bf12c089;bf10b089;bf09a089;int;;
+expendit_sum_update;Total amount of money spent per month based on variables bf17e079 to bf17e089;v2atot_v2acol1;v2atot_v2acol1;v2atot_v2acol1;bf17e090;bf15d090;bf12c090;bf10b090;bf09a090;int;;
+expendit_pers_nutrition;monthly expenditure on eating at home by: yourself;v6at11_v6acol1;v6at11_v6acol1;v6at11_v6acol1;bf17e091;bf15d091;bf12c091;bf10b091;bf09a091;int;;
+expendit_partner_nutrition;monthly expenditure on eating at home by: your partner;;;;bf17e092;bf15d092;bf12c092;bf10b092;bf09a092;int;;
+expendit_child_nutrition;monthly expenditure on eating at home by: living-at-home child or children;v6at11_v6acol2;v6at11_v6acol2;v6at11_v6acol2;bf17e093;bf15d093;bf12c093;bf10b093;bf09a093;int;;
+expendit_others_nutrition;monthly expenditure on eating at home by: other household members;v6at11_v6acol3;v6at11_v6acol3;v6at11_v6acol3;bf17e094;bf15d094;bf12c094;bf10b094;bf09a094;int;;
+expendit_pers_eatoutside;monthly expenditure for your own personal consumption: food and drinks outside t;v6at12_v6acol1;v6at12_v6acol1;v6at12_v6acol1;;;bf12c095;bf10b095;bf09a095;int;;
+expendit_pers_tobacco;monthly expenditure for your own personal consumption: cigarettes and other toba;;;;;;bf12c096;bf10b096;bf09a096;int;;
+expendit_pers_clothing;monthly expenditure for your own personal consumption: clothing;v6at13_v6acol1;v6at13_v6acol1;v6at13_v6acol1;;;bf12c097;bf10b097;bf09a097;int;;
+expendit_pers_personalcare;monthly expenditure for your own personal consumption: personal care products an;;;;;;bf12c098;bf10b098;bf09a098;int;;
+expendit_pers_medicalcare;monthly expenditure for your own personal consumption: medical care and health c;v6at16_v6acol1;v6at16_v6acol1;v6at16_v6acol1;bf17e131;bf15d131;bf12c099;bf10b099;bf09a099;int;;
+expendit_pers_leisure;monthly expenditure for your own personal consumption: leisure time expenditure;;;;;;bf12c100;bf10b100;bf09a100;int;;
+expendit_pers_schooling;monthly expenditure for your own personal consumption: (further)schooling;;;;;;bf12c101;bf10b101;bf09a101;int;;
+expendit_pers_donations;monthly expenditure for your own personal consumption: donations and gifts;;;;;;bf12c102;bf10b102;bf09a102;int;;
+expendit_pers_other;monthly expenditure for your own personal consumption: other;v6at17_v6acol1;v6at17_v6acol1;v6at17_v6acol1;;;bf12c103;bf10b103;bf09a103;int;;
+expendit_pers_total_sum;Total expenditure per month for personal consumption based on variables bf12c095;;;;;;bf12c104;bf10b104;bf09a104;int;;
+expendit_child_eatoutside;monthly expenditure for the personal consumption of the children living at home:;v6at12_v6acol2;v6at12_v6acol2;v6at12_v6acol2;;;bf12c105;bf10b105;bf09a105;int;;
+expendit_child_tobacco;monthly expenditure for the personal consumption of the children living at home:;;;;;;bf12c106;bf10b106;bf09a106;int;;
+expendit_child_clothing;monthly expenditure for the personal consumption of the children living at home:;v6at13_v6acol2;v6at13_v6acol2;v6at13_v6acol2;;;bf12c107;bf10b107;bf09a107;int;;
+expendit_child_personalcare;monthly expenditure for the personal consumption of the children living at home:;;;;;;bf12c108;bf10b108;bf09a108;int;;
+expendit_child_medicalcare;monthly expenditure for the personal consumption of the children living at home:;v6at16_v6acol2;v6at16_v6acol2;v6at16_v6acol2;;;bf12c109;bf10b109;bf09a109;int;;
+expendit_child_leisure;monthly expenditure for the personal consumption of the children living at home:;;;;;;bf12c110;bf10b110;bf09a110;int;;
+expendit_child_schooling;monthly expenditure for the personal consumption of the children living at home:;;;;;;bf12c111;bf10b111;bf09a111;int;;
+expendit_child_donations;monthly expenditure for the personal consumption of the children living at home:;;;;;;bf12c112;bf10b112;bf09a112;int;;
+expendit_child_other;monthly expenditure for the personal consumption of the children living at home:;v6at17_v6acol2;v6at17_v6acol2;v6at17_v6acol2;;;bf12c113;bf10b113;bf09a113;int;;
+expendit_child_total_sum;Total expenditure per month for children living at home based on variables bf12c;;;;;;bf12c114;bf10b114;bf09a114;int;;
+satisfaction_education;How satisfied are you regarding your level of education/training?;;;;;;;;bf09a115;category;True;0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+satisfaction_work;How satisfied are you regarding your work (or, if you don't work, regarding othe;;;;;;;;bf09a116;category;True;0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+satisfaction_neighborhood;How satisfied are you regarding safety in your street or neighborhood?;;;;;;;;bf09a117;category;True;0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+p_keep_partner;How do you estimate the likelihood that you will still be with your current part;;;;;;bf12c118;bf10b118;bf09a118;int;;
+questionnaire_difficult;Was it difficult to answer the questions?;eva2t1;eva2t1;eva2t1;bf17e119;bf15d119;bf12c119;bf10b119;bf09a119;category;True;1, 2, 3, 4, 5
+questionnaire_clear;Were the questions sufficiently clear?;eva2t2;eva2t2;eva2t2;bf17e120;bf15d120;bf12c120;bf10b120;bf09a120;category;True;1, 2, 3, 4, 5
+questionnaire_thinking;Did the questionnaire get you thinking about things?;eva2t3;eva2t3;eva2t3;bf17e121;bf15d121;bf12c121;bf10b121;bf09a121;category;True;1, 2, 3, 4, 5
+questionnaire_interesting;Was it an interesting subject?;eva2t4;eva2t4;eva2t4;bf17e122;bf15d122;bf12c122;bf10b122;bf09a122;category;True;1, 2, 3, 4, 5
+questionnaire_enjoy;Did you enjoy answering the questions?;eva2t5;eva2t5;eva2t5;bf17e123;bf15d123;bf12c123;bf10b123;bf09a123;category;True;1, 2, 3, 4, 5
+start_date;Starting date of the questionnaire;DatumB;DatumB;DatumB;bf17e124;bf15d124;bf12c124;bf10b124;bf09a124;object;;
+start_time;Starting time of the questionnaire;TijdB;TijdB;TijdB;bf17e125;bf15d125;bf12c125;bf10b125;bf09a125;object;;
+end_date;End date of the questionnaire;DatumE;DatumE;DatumE;bf17e126;bf15d126;bf12c126;bf10b126;bf09a126;object;;
+end_time;End time of the questionnaire;TijdE;TijdE;TijdE;bf17e127;bf15d127;bf12c127;bf10b127;bf09a127;object;;
+duration;Duration in seconds;duur;duur;duur;bf17e128;bf15d128;bf12c128;bf10b128;bf09a128;float;;
+date_fieldwork;Year and month of the field work period;maandnr;maandnr;maandnr;bf17e_m;bf15d_m;bf12c_m;bf10b_m;bf09a_m;category;;
+hh_id;Number of the household encrypted;nohouse_encr;nohouse_encr;nohouse_encr;;;;nohouse_encr;nohouse_encr;int;;
+personal_id;Number of the household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;int;;
+;How do you estimate the likelihood that you will still be with your current part;;;;;;bf12c129;bf10b129;;object;;
+;Total amount of money spent per month based on variables bf17e091 to bf17e094;;;;bf17e130;bf15d130;;;;int;;
+healthcare_spending_relative;Can you indicate whether your expenditures on medical care and health costs that;;;;bf17e132;bf15d132;;;;category;True;The expenditures are higher, The expenditures are about the same, The expenditures are lower
+healthcare_spending_change;How much have the expenditures on medical care and health costs that are NOT cov;;;;bf17e133;bf15d133;;;;int;;
+expendit_pers;Please indicate how many euros you [personally] spent on average per month on ot;;;;bf17e134;bf15d134;;;;int;;
+expendit_child;Please indicate how many euros your household spends on average per month on per;;;;bf17e135;bf15d135;;;;int;;
+purchase_mode_groceries;Can you indicate whether you usually buy the products mentioned below in a regul;;;;;bf15d136;;;;category;False;Always in a regular store, Usually in a regular store, As often in a regular store as online, Usually online, Always online, I never buy it myself
+purchase_mode_clothing;Can you indicate whether you usually buy the products mentioned below in a regul;;;;;bf15d137;;;;category;False;Always in a regular store, Usually in a regular store, As often in a regular store as online, Usually online, Always online, I never buy it myself
+purchase_mode_appliances;Can you indicate whether you usually buy the products mentioned below in a regul;;;;;bf15d138;;;;category;False;Always in a regular store, Usually in a regular store, As often in a regular store as online, Usually online, Always online, I never buy it myself
+purchase_mode_supplies;Can you indicate whether you usually buy the products mentioned below in a regul;;;;;bf15d139;;;;category;False;Always in a regular store, Usually in a regular store, As often in a regular store as online, Usually online, Always online, I never buy it myself
+purchase_mode_electronics;Can you indicate whether you usually buy the products mentioned below in a regul;;;;;bf15d140;;;;category;False;Always in a regular store, Usually in a regular store, As often in a regular store as online, Usually online, Always online, I never buy it myself
+purchase_mode_furniture;Can you indicate whether you usually buy the products mentioned below in a regul;;;;;bf15d141;;;;category;False;Always in a regular store, Usually in a regular store, As often in a regular store as online, Usually online, Always online, I never buy it myself
+preference_purchase_mode;When it comes to shopping in regular stores or online stores I generally haveÂ;;;;;bf15d142;;;;category;True;a strong preference for regular stores, a slight preference for regular stores, no preference, a slight preference for online stores, a strong preference for online stores
+store_comparison_product;What are the most important reasons for you to buy in a regular shop? - I like t;;;;;bf15d143;;;;float;;
+store_comparison_price;What are the most important reasons for you to buy in a regular shop? - In a reg;;;;;bf15d144;;;;float;;
+store_fun;What are the most important reasons for you to buy in a regular shop? - I think;;;;;bf15d145;;;;float;;
+store_loyalty;What are the most important reasons for you to buy in a regular shop? - Out of l;;;;;bf15d146;;;;float;;
+store_habit;What are the most important reasons for you to buy in a regular shop? - Out of h;;;;;bf15d147;;;;float;;
+store_assistance;What are the most important reasons for you to buy in a regular shop? - For pers;;;;;bf15d148;;;;float;;
+store_immediate;What are the most important reasons for you to buy in a regular shop? - I can ta;;;;;bf15d149;;;;float;;
+store_better_offer;What are the most important reasons for you to buy in a regular shop? - In a reg;;;;;bf15d150;;;;float;;
+store_other;What are the most important reasons for you to buy in a regular shop? - Other, n;;;;;bf15d151;;;;float;;
+store_other_txt;What are the most important reasons for you to buy in a regular shop? - Other, n;;;;;bf15d152;;;;object;;
+online_cheaper;What are the most important reasons for you to buy online? - Online I can often;;;;;bf15d153;;;;float;;
+online_timesaving;What are the most important reasons for you to buy online? - I save time by shop;;;;;bf15d154;;;;float;;
+online_comparison_price;What are the most important reasons for you to buy online? - Online I think it i;;;;;bf15d155;;;;float;;
+online_anytime;What are the most important reasons for you to buy online? - Online I can place;;;;;bf15d156;;;;float;;
+online_exclusive;What are the most important reasons for you to buy online? - Some products I can;;;;;bf15d157;;;;float;;
+online_delivery;What are the most important reasons for you to buy online? - My purchases are de;;;;;bf15d158;;;;float;;
+online_dislike_store;What are the most important reasons for you to buy online? - I do not like to sh;;;;;bf15d159;;;;float;;
+online_other;What are the most important reasons for you to buy online? - Other, namely...;;;;;bf15d160;;;;float;;
+online_other_txt;What are the most important reasons for you to buy online? - Other, namely...;;;;;bf15d161;;;;object;;
+shopping_pleasant;Shopping is a pleasant activity to me;;;;;bf15d162;;;;category;True;1, 2, 3, 4, 5
+shopping_fun;I enjoy shopping just for the fun of it;;;;;bf15d163;;;;category;True;1, 2, 3, 4, 5
+shopping_timewaste;Shopping the stores wastes my time;;;;;bf15d164;;;;category;True;1, 2, 3, 4, 5
+buy_carefully;I usually think carefully before I buy something;;;;;bf15d165;;;;category;True;1, 2, 3, 4, 5
+buy_intended;I usually only buy things I intended to buy;;;;;bf15d166;;;;category;True;1, 2, 3, 4, 5
+buy_feeling;I sometimes cannot suppress the feeling of wanting to buy something;;;;;bf15d167;;;;category;True;1, 2, 3, 4, 5
+buy_bargain;I find it difficult to pass up a bargain;;;;;bf15d168;;;;category;True;1, 2, 3, 4, 5
+buy_careless;Often I make careless purchases I later wish I had not;;;;;bf15d169;;;;category;True;1, 2, 3, 4, 5
+buy_brands;I prefer to buy well-known A-brands;;;;;bf15d170;;;;category;True;1, 2, 3, 4, 5
+buy_good_qualiy;Getting very good quality is very important to me;;;;;bf15d171;;;;category;True;1, 2, 3, 4, 5
+buy_sales_weeks;I buy as much as possible during the sales weeks;;;;;bf15d172;;;;category;True;1, 2, 3, 4, 5
+buy_trends;I always try to stay on top of the latest trends;;;;;bf15d173;;;;category;True;1, 2, 3, 4, 5
+buy_energy_efficient;I find it important to buy products that are energy-efficient;;;;;bf15d174;;;;category;True;1, 2, 3, 4, 5
+choice_advertised;The brands that get advertised most are usually a good choice;;;;;bf15d175;;;;category;True;1, 2, 3, 4, 5
+choice_bestpossible;When I buy a product, I really try to make the best possible choice;;;;;bf15d176;;;;category;True;1, 2, 3, 4, 5
+choice_cheapest;I usually choose the cheapest products;;;;;bf15d177;;;;category;True;1, 2, 3, 4, 5
+choice_organic;If I have the option of choosing an organic product, then I prefer that option;;;;;bf15d178;;;;category;True;1, 2, 3, 4, 5
+choice_pricequalityratio;I really make an effort to find the best price-quality ratio;;;;;bf15d179;;;;category;True;1, 2, 3, 4, 5
+prefere_expensive;I usually choose the more expensive brands;;;;;bf15d180;;;;category;True;1, 2, 3, 4, 5
+prefere_quickshopping;I like to shop quickly and will buy the first product that seems good enough to;;;;;bf15d181;;;;category;True;1, 2, 3, 4, 5
+prefere_fashionable;Fashionable attractive styling is very important to me;;;;;bf15d182;;;;category;True;1, 2, 3, 4, 5
+prefere_mainstream;I achieve a sense of belonging by purchasing the same products and brands that o;;;;;bf15d183;;;;category;True;1, 2, 3, 4, 5
+choice_help;When I want to buy something, I often ask others to help me choose the best opti;;;;;bf15d184;;;;category;True;1, 2, 3, 4, 5
+brands_confusing;There are so many brands to choose from that often I feel confused;;;;;bf15d185;;;;category;True;1, 2, 3, 4, 5
+product_choice;The more I learn about products, the harder it seems to choose the best;;;;;bf15d186;;;;category;True;1, 2, 3, 4, 5
+product_loyalty;Once IÂve found a product or brand that I like, I stick to it;;;;;bf15d187;;;;category;True;1, 2, 3, 4, 5
+newproduct_buyfirst;In general, I am among the first to buy new products when they appear on the mar;;;;;bf15d188;;;;category;True;1, 2, 3, 4, 5
+newproduct_reluctant;When I see a new product on the shelf, I'm reluctant to give it a try;;;;;bf15d189;;;;category;True;1, 2, 3, 4, 5
+newproduct_introduce;I like introducing new brands and products to my friends;;;;;bf15d190;;;;category;True;1, 2, 3, 4, 5
+newproduct_seldomask;People seldom ask me for my opinion about new products;;;;;bf15d191;;;;category;True;1, 2, 3, 4, 5
+badproduct_keep;If a defective product is inexpensive, I usually keep it rather than put up a fu;;;;;bf15d192;;;;category;True;1, 2, 3, 4, 5
+badproduct_return;I am probably more likely to return an unsatisfactory product than most people I;;;;;bf15d193;;;;category;True;1, 2, 3, 4, 5
+badproduct_complain;IÂll make a scene at the store if necessary to get a complaint handled to my sat;;;;;bf15d194;;;;category;True;1, 2, 3, 4, 5
+advertisements_information;Most advertisements give consumers important information;;;;;bf15d195;;;;category;True;1, 2, 3, 4, 5
+advertisements_claims;Most advertisements contain claims that are not true;;;;;bf15d196;;;;category;True;1, 2, 3, 4, 5
+advertisements_prohibit;Consumers would be better off if advertising was prohibited;;;;;bf15d197;;;;category;True;1, 2, 3, 4, 5
+advertisements_fun;I think a lot of advertisements are fun;;;;;bf15d198;;;;category;True;1, 2, 3, 4, 5
+advertisements_regulation;There should be stricter regulations for advertisements;;;;;bf15d199;;;;category;True;1, 2, 3, 4, 5
+mobile_layout; Mobile layout;;A__mobile;A__mobile;;;;;;float;;
+hours_work_child;How many hours do you think you would spend on paid work each week if did not have a child / children?;;;v1ex_v1excol1;;;;;;float;;
+mins_work_child;How many hours do you think you would spend on paid work each week if did not have a child / children?;;;v1ex_v1excol2;;;;;;int;;
+expendit_maintenance_update; How much euro does your household spend on average per month on: expenses for the s;v2at10_v2acol1;v2at10_v2acol1;v2at10_v2acol1;bf17e087;bf15d087;bf12c087;bf10b087;bf09a087;int;;
+expendit_eatoutside_update; How much euro does your household spend on average per month on: food outside the home;v2at12_v2acol1;v2at12_v2acol1;v2at12_v2acol1;;;;;;int;;
+expendit_clothing_update; How much euro does your household spend on average per month on: clothing;v2at13_v2acol1;v2at13_v2acol1;v2at13_v2acol1;;;;;;int;;
+expendit_gifts_update; How much euro does your household spend on average per month on: gifts (gifts /;v2at14_v2acol1;v2at14_v2acol1;v2at14_v2acol1;;;;;;int;;
+expendit_school_update; How much euro does your household spend on average per month on: school costs (including;v2at15_v2acol1;v2at15_v2acol1;v2at15_v2acol1;;;;;;int;;
+expendit_medical_update; How many euros does your household spend on average per month on: medical care;v2at16_v2acol1;v2at16_v2acol1;v2at16_v2acol1;;;;;;int;;
+expendit_eatoutside; How much euro does your household spend on average per month on: food outside the home;v2ct12_v2ccol1;v2ct12_v2ccol1;v2ct12_v2ccol1;;;;;;int;;
+expendit_clothing; How much euro does your household spend on average per month on: clothing;v2ct13_v2ccol1;v2ct13_v2ccol1;v2ct13_v2ccol1;;;;;;int;;
+expendit_gifts; How much euro does your household spend on average per month on: gifts (gifts /;v2ct14_v2ccol1;v2ct14_v2ccol1;v2ct14_v2ccol1;;;;;;int;;
+expendit_school; How much euro does your household spend on average per month on: school costs (including;v2ct15_v2ccol1;v2ct15_v2ccol1;v2ct15_v2ccol1;;;;;;int;;
+expendit_medical; How many euros does your household spend on average per month on: medical care;v2ct16_v2ccol1;v2ct16_v2ccol1;v2ct16_v2ccol1;;;;;;int;;
+expendit_others_eatoutside; Spend on other household members [filled in automatically] - food outside the home;v6at12_v6acol3;v6at12_v6acol3;v6at12_v6acol3;;;;;;int;;
+expendit_others_clothing; Spend on other household members [filled in automatically] - clothing;v6at13_v6acol3;v6at13_v6acol3;v6at13_v6acol3;;;;;;int;;
+expendit_others_medicalcare; Spent on other household members [filled in automatically] - medical care e;v6at16_v6acol3;v6at16_v6acol3;v6at16_v6acol3;;;;;;int;;
+expendit_others_other; Spent on other household members [filled in automatically] - other expenses;v6at17_v6acol3;v6at17_v6acol3;v6at17_v6acol3;;;;;;int;;
+expendit_pers_nutrition_merge; For each type of expenditure, you can enter how many euros you have on average per month;v6bt11_v6bcol1;v6bt11_v6bcol1;v6bt11_v6bcol1;;;;;;int;;
+expendit_others_nutrition_merge; Spend on other household members [filled in automatically] - food inside the house;v6bt11_v6bcol3;v6bt11_v6bcol3;v6bt11_v6bcol3;;;;;;int;;
+expendit_pers_eatoutside_merge; For each type of expenditure, you can enter how many euros you have on average per month;v6bt12_v6bcol1;v6bt12_v6bcol1;v6bt12_v6bcol1;;;;;;int;;
+expendit_others_eatoutside_merge; Spend on other household members [filled in automatically] - food outside the home;v6bt12_v6bcol3;v6bt12_v6bcol3;v6bt12_v6bcol3;;;;;;int;;
+expendit_pers_clothing_merge; For each type of expenditure, you can enter how many euros you have on average per month;v6bt13_v6bcol1;v6bt13_v6bcol1;v6bt13_v6bcol1;;;;;;int;;
+expendit_others_clothing_merge; Spend on other household members [filled in automatically] - clothing;v6bt13_v6bcol3;v6bt13_v6bcol3;v6bt13_v6bcol3;;;;;;int;;
+expendit_pers_medicalcare_merge; For each type of expenditure, you can enter how many euros you have on average per month;v6bt16_v6bcol1;v6bt16_v6bcol1;v6bt16_v6bcol1;;;;;;int;;
+expendit_others_medicalcare_merge; Spent on other household members [filled in automatically] - medical care e;v6bt16_v6bcol3;v6bt16_v6bcol3;v6bt16_v6bcol3;;;;;;int;;
+expendit_pers_other_merge; For each type of expenditure, you can enter how many euros you have on average per month;v6bt17_v6bcol1;v6bt17_v6bcol1;v6bt17_v6bcol1;;;;;;int;;
+expendit_others_other_merge; Spent on other household members [filled in automatically] - other expenses;v6bt17_v6bcol3;v6bt17_v6bcol3;v6bt17_v6bcol3;;;;;;int;;
+;;;v6abinnen;;;;;;;int;;
+;;;v6abuiten;;;;;;;int;;
+;;;v6akleding;;;;;;;int;;
+;;;v6amedisch;;;;;;;int;;
+;;;v6aoverig;;;;;;;int;;
+;;;v6atechnisch;;;;;;;int;;
+;;;vw_kids;;;;;;;float;;
+;;;vw_pos123;;;;;;;float;;
+;;;vw_pos123kinderen;;;;;;;float;;
+;;;vw_pos123meerpers;;;;;;;float;;
+children_not_school;;q2a;q2a;;;;;;;float;;
+children_school;;q2b;q2b;;;;;;;float;;
+hours_cc_young_self_202002;;;q2a_1_pre;;;;;;;float;;
+hours_cc_young_partner_202002;;;q2a_2_pre;;;;;;;float;;
+hours_cc_young_expartner_202002;;;q2a_3_pre;;;;;;;float;;
+hours_cc_young_gp_202002;;;q2a_4_pre;;;;;;;float;;
+hours_cc_young_siblings_202002;;;q2a_5_pre;;;;;;;float;;
+hours_cc_young_otherfam_202002;;;q2a_6_pre;;;;;;;float;;
+hours_cc_young_daycare_202002;;;q2a_7_pre;;;;;;;float;;
+hours_cc_young_careparents_202002;;;q2a_8_pre;;;;;;;float;;
+hours_cc_young_kg_202002;;;q2a_9_pre;;;;;;;float;;
+hours_cc_young_friends_202002;;;q2a_10_pre;;;;;;;float;;
+hours_cc_young_bs_202002;;;q2a_11_pre;;;;;;;float;;
+hours_cc_young_other_202002;;;q2a_12_pre;;;;;;;float;;
+hours_cc_young_total_202002;;;q2a_totaal_pre;;;;;;;float;;
+hours_cc_young_self;;;q2a_1_post;;;;;;;float;;
+hours_cc_young_self_together;;q2a_0_noschool;;;;;;;;float;;
+hours_cc_young_self_alone;;q2a_1_noschool;;;;;;;;float;;
+hours_cc_young_partner;;q2a_2_noschool;q2a_2_post;;;;;;;float;;
+hours_cc_young_expartner;;q2a_3_noschool;q2a_3_post;;;;;;;float;;
+hours_cc_young_gp;;q2a_4_noschool;q2a_4_post;;;;;;;float;;
+hours_cc_young_siblings;;q2a_5_noschool;q2a_5_post;;;;;;;float;;
+hours_cc_young_otherfam;;q2a_6_noschool;q2a_6_post;;;;;;;float;;
+hours_cc_young_daycare;;q2a_7_noschool;q2a_7_post;;;;;;;float;;
+hours_cc_young_careparents;;q2a_8_noschool;q2a_8_post;;;;;;;float;;
+hours_cc_young_kg;;q2a_9_noschool;q2a_9_post;;;;;;;float;;
+hours_cc_young_friends;;q2a_10_noschool;q2a_10_post;;;;;;;float;;
+hours_cc_young_bs;;q2a_11_noschool;q2a_11_post;;;;;;;float;;
+hours_cc_young_other;;q2a_12_noschool;q2a_12_post;;;;;;;float;;
+hours_cc_young_total;;q2a_totaal_noschool;q2a_totaal_post;;;;;;;float;;
+hours_cc_self_202002;;;q2b_1_pre_b;;;;;;;float;;
+hours_cc_partner_202002;;;q2b_2_pre_b;;;;;;;float;;
+hours_cc_expartner_202002;;;q2b_3_pre_b;;;;;;;float;;
+hours_cc_gp_202002;;;q2b_4_pre_b;;;;;;;float;;
+hours_cc_siblings_202002;;;q2b_5_pre_b;;;;;;;float;;
+hours_cc_otherfam_202002;;;q2b_6_pre_b;;;;;;;float;;
+hours_cc_school_202002;;;q2b_7_pre_b;;;;;;;float;;
+hours_cc_schoolcare_202002;;;q2b_8_pre_b;;;;;;;float;;
+hours_cc_careparents_202002;;;q2b_9_pre_b;;;;;;;float;;
+hours_cc_daycare_202002;;;q2b_10_pre_b;;;;;;;float;;
+hours_cc_friends_202002;;;q2b_11_pre_b;;;;;;;float;;
+hours_cc_bs_202002;;;q2b_12_pre_b;;;;;;;float;;
+hours_cc_other_202002;;;q2b_13_pre_b;;;;;;;float;;
+hours_cc_nobody_202002;;;q2b_14_pre_b;;;;;;;float;;
+hours_cc_total_202002;;;q2b_totaal_pre_b;;;;;;;float;;
+hours_cc_self;;;q2b_1_post_b;;;;;;;float;;
+hours_cc_self_together;;q2b_0_school;;;;;;;;float;;
+hours_cc_self_alone;;q2b_1_school;;;;;;;;float;;
+hours_cc_partner;;q2b_2_school;q2b_2_post_b;;;;;;;float;;
+hours_cc_expartner;;q2b_3_school;q2b_3_post_b;;;;;;;float;;
+hours_cc_gp;;q2b_4_school;q2b_4_post_b;;;;;;;float;;
+hours_cc_siblings;;q2b_5_school;q2b_5_post_b;;;;;;;float;;
+hours_cc_otherfam;;q2b_6_school;q2b_6_post_b;;;;;;;float;;
+hours_cc_school;;q2b_7_school;q2b_7_post_b;;;;;;;float;;
+hours_cc_schoolcare;;q2b_8_school;q2b_8_post_b;;;;;;;float;;
+hours_cc_careparents;;q2b_9_school;q2b_9_post_b;;;;;;;float;;
+hours_cc_daycare;;q2b_10_school;q2b_10_post_b;;;;;;;float;;
+hours_cc_friends;;q2b_11_school;q2b_11_post_b;;;;;;;float;;
+hours_cc_bs;;q2b_12_school;q2b_12_post_b;;;;;;;float;;
+hours_cc_other;;q2b_13_school;q2b_13_post_b;;;;;;;float;;
+hours_cc_nobody;;q2b_14_school;q2b_14_post_b;;;;;;;float;;
+hours_cc_total;;q2b_totaal_school;q2b_totaal_post_b;;;;;;;float;;
+days_vacation_leisure;;vacation1;vacation1;;;;;;;int;;
+days_vacation_cc;;vacation2;vacation2;;;;;;;int;;
+days_vacation_help;;vacation3;vacation3;;;;;;;int;;
+days_reported_sick;;sick;sick;;;;;;;int;;
+mins_home_office_no_kids;;v1q1a_v1col2;v1q1a_v1col2;;;;;;;int;;
+mins_home_office_kids_care;;v1q1b_v1col2;v1q1b_v1col2;;;;;;;int;;
+mins_home_office_no_kids_merge;;v1q1c_v1col2;v1q1c_v1col2;;;;;;;int;;
+mins_homeschooling;;v1q5a_v1col2;v1q5a_v1col2;;;;;;;int;;
+mins_leisure_alone;;v1q15_v1col2;v1q15_v1col2;;;;;;;int;;
+mins_leisure_friends;;v1q16_v1col2;v1q16_v1col2;;;;;;;int;;
+mins_remaining;;v1q_over_v1col2;v1q_over_v1col2;;;;;;;int;;
+expendit_software;v2ct18_v2ccol1;v2ct18_v2ccol1;v2ct18_v2ccol1;;;;;;;int;;
+expendit_software_update;v2at18_v2acol1;v2at18_v2acol1;v2at18_v2acol1;;;;;;;int;;
+;;;bedrag_kinderopvang;;;;;;;int;;
+;;;bedrag_schoolkosten;;;;;;;int;;
+expendit_pers_software;v6at18_v6acol1;v6at18_v6acol1;v6at18_v6acol1;;;;;;;int;;
+expendit_children_software;v6at18_v6acol2;v6at18_v6acol2;v6at18_v6acol2;;;;;;;int;;
+expendit_others_software;v6at18_v6acol3;v6at18_v6acol3;v6at18_v6acol3;;;;;;;int;;
+expendit_pers_software_merge;v6bt18_v6bcol1;v6bt18_v6bcol1;v6bt18_v6bcol1;;;;;;;int;;
+expendit_others_software_merge;v6bt18_v6bcol3;v6bt18_v6bcol3;v6bt18_v6bcol3;;;;;;;int;;
+;;opm;opm;;;;;;;float;;
+;;evaopm;evaopm;;;;;;;object;;
+;;geslacht;geslacht;;;;;;;category;False;Man, Woman
+;;positie;positie;;;;;;;category;False;Household head, Wedded partner, Unwedded partner, Parent (in-law), Child living at home, House mate, Family member or boarder, Unknown (missing)
+;;gebjaar;gebjaar;;;;;;;int;;
+;;leeftijd;leeftijd;;;;;;;int;;
+;;lftdcat;lftdcat;;;;;;;category;True;14 years and younger, 15 - 24 years, 25 - 34 years, 35 - 44 years, 45 - 54 years, 55 - 64 years, 65 years and older
+;;lftdhhh;lftdhhh;;;;;;;int;;
+;;aantalhh;aantalhh;;;;;;;category;;
+;;aantalki;aantalki;;;;;;;category;;
+;;partner;partner;;;;;;;category;;
+;;burgstat;burgstat;;;;;;;category;;
+;;woonvorm;woonvorm;;;;;;;category;;
+;;woning;woning;;;;;;;category;;
+;;sted;sted;;;;;;;category;;
+;;belbezig;belbezig;;;;;;;category;;
+;;brutoink;brutoink;;;;;;;int;;
+;;brutoink_f;brutoink_f;;;;;;;float;;
+;;nettoink;nettoink;;;;;;;int;;
+;;netinc;netinc;;;;;;;int;;
+;;nettoink_f;nettoink_f;;;;;;;float;;
+;;brutocat;brutocat;;;;;;;category;;
+;;nettocat;nettocat;;;;;;;category;;
+;;brutohh_f;brutohh_f;;;;;;;float;;
+;;nettohh_f;nettohh_f;;;;;;;float;;
+;;oplzon;oplzon;;;;;;;category;;
+;;oplmet;oplmet;;;;;;;category;;
+;;oplcat;oplcat;;;;;;;category;;
+;;;account;;;;;;;float;;
+partner;;versie;;;;;;;;float;;
+daycare_7d_start_monday;;v2_ma_vokind1_start_vokind1;;;;;;;;category;;
+daycare_7d_start_tuesday;;v2_di_vokind1_start_vokind1;;;;;;;;category;;
+daycare_7d_start_wendnesday;;v2_wo_vokind1_start_vokind1;;;;;;;;category;;
+daycare_7d_start_thursday;;v2_do_vokind1_start_vokind1;;;;;;;;category;;
+daycare_7d_start_friday;;v2_vr_vokind1_start_vokind1;;;;;;;;category;;
+daycare_7d_end_monday;;v2_ma_vokind1_end_vokind1;;;;;;;;category;;
+daycare_7d_end_tuesday;;v2_di_vokind1_end_vokind1;;;;;;;;category;;
+daycare_7d_end_wendnesday;;v2_wo_vokind1_end_vokind1;;;;;;;;category;;
+daycare_7d_end_thursday;;v2_do_vokind1_end_vokind1;;;;;;;;category;;
+daycare_7d_end_friday;;v2_vr_vokind1_end_vokind1;;;;;;;;category;;
+daycare_7d_none_monday;;v2_ma_vokind1_na_vokind1;;;;;;;;category;;
+daycare_7d_none_tuesday;;v2_di_vokind1_na_vokind1;;;;;;;;category;;
+daycare_7d_none_wendnesday;;v2_wo_vokind1_na_vokind1;;;;;;;;category;;
+daycare_7d_none_thursday;;v2_do_vokind1_na_vokind1;;;;;;;;category;;
+daycare_7d_none_friday;;v2_vr_vokind1_na_vokind1;;;;;;;;category;;
+nodc_7d_none_sick;;v3_vokind1__1;;;;;;;;float;;
+nodc_7d_prevent_corona_child;;v3_vokind1__2;;;;;;;;float;;
+nodc_7d_prevent_corona_fam;;v3_vokind1__3;;;;;;;;float;;
+nodc_7d_quarantine_symptoms;;v3_vokind1__4;;;;;;;;float;;
+nodc_7d_closed;;v3_vokind1__5;;;;;;;;float;;
+nodc_7d_no_place;;v3_vokind1__6;;;;;;;;float;;
+nodc_7d_no_use;;v3_vokind1__7;;;;;;;;float;;
+nodc_7d_other;;v3_vokind1__8;;;;;;;;float;;
+nodc_7d_other_str;;v3_vokind_and;;;;;;;;object;;
+school_7d_start_monday;;v2_ma_bokind1_start_bokind1;;;;;;;;category;;
+school_7d_start_tuesday;;v2_di_bokind1_start_bokind1;;;;;;;;category;;
+school_7d_start_wendnesday;;v2_wo_bokind1_start_bokind1;;;;;;;;category;;
+school_7d_start_thursday;;v2_do_bokind1_start_bokind1;;;;;;;;category;;
+school_7d_start_friday;;v2_vr_bokind1_start_bokind1;;;;;;;;category;;
+school_7d_end_monday;;v2_ma_bokind1_end_bokind1;;;;;;;;category;;
+school_7d_end_tuesday;;v2_di_bokind1_end_bokind1;;;;;;;;category;;
+school_7d_end_wendnesday;;v2_wo_bokind1_end_bokind1;;;;;;;;category;;
+school_7d_end_thursday;;v2_do_bokind1_end_bokind1;;;;;;;;category;;
+school_7d_end_friday;;v2_vr_bokind1_end_bokind1;;;;;;;;category;;
+school_7d_none_monday;;v2_ma_bokind1_na_bokind1;;;;;;;;category;;
+school_7d_none_tuesday;;v2_di_bokind1_na_bokind1;;;;;;;;category;;
+school_7d_none_wendnesday;;v2_wo_bokind1_na_bokind1;;;;;;;;category;;
+school_7d_none_thursday;;v2_do_bokind1_na_bokind1;;;;;;;;category;;
+school_7d_none_friday;;v2_vr_bokind1_na_bokind1;;;;;;;;category;;
+noschool_7d_none_sick;;v3_bokind1__1;;;;;;;;float;;
+nosch_7d_prevent_corona_child;;v3_bokind1__2;;;;;;;;float;;
+nosch_7d_prevent_corona_fam;;v3_bokind1__3;;;;;;;;float;;
+nosch_7d_exempt;;v3_bokind1__4;;;;;;;;float;;
+nosch_7d_quarantine_symptoms;;v3_bokind1__5;;;;;;;;float;;
+nosch_7d_closed;;v3_bokind1__6;;;;;;;;float;;
+nosch_7d_other;;v3_bokind1__7;;;;;;;;float;;
+nosch_7d_other_str;;v3_bokind_and;;;;;;;;object;;
+schoolcare_7d_attend;;v4_bokind1;;;;;;;;float;;
+nosc_7d_sick;;v5_bokind1__1;;;;;;;;float;;
+nosc_7d_prevent_corona_child;;v5_bokind1__2;;;;;;;;float;;
+nosc_7d_prevent_corona_fam;;v5_bokind1__3;;;;;;;;float;;
+nosc_7d_qurantine;;v5_bokind1__4;;;;;;;;float;;
+nosc_7d_closed;;v5_bokind1__5;;;;;;;;float;;
+nosc_7d_no_place;;v5_bokind1__6;;;;;;;;float;;
+nosc_7d_no_use;;v5_bokind1__7;;;;;;;;float;;
+nosc_7d_other;;v5_bokind1__8;;;;;;;;float;;
+nosc_7d_other_str;;;;;;;;;;object;;

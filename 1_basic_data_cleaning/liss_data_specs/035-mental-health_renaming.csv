@@ -1,0 +1,42 @@
+new_name;labels;ai09e_EN_1.0p.dta;ai08d_EN_1.0p.dta;ai08c_EN_1.0p.dta;ai08b_EN_1.0p.dta;ai07a_EN_1.0p.dta
+random; random variable;;ai08d001;ai08c001;ai08b001;ai07a001
+mhc_hedonic_a;During the past month, how often did you have the feeling... - that you are hap;ai09e002;ai08d002;ai08c002;ai08b002;ai07a002
+mhc_hedonic_b;During the past month, how often did you have the feeling... - that you are int;ai09e003;ai08d003;ai08c003;ai08b003;ai07a003
+mhc_hedonic_c;During the past month, how often did you have the feeling... - that you are sat;ai09e004;ai08d004;ai08c004;ai08b004;ai07a004
+mhc_social_a;During the past month, how often did you have the feeling... - that you have ma;ai09e005;ai08d005;ai08c005;ai08b005;ai07a005
+mhc_social_b;During the past month, how often did you have the feeling... - that you are par;ai09e006;ai08d006;ai08c006;ai08b006;ai07a006
+mhc_social_d;During the past month, how often did you have the feeling... - that our society;ai09e007;ai08d007;ai08c007;ai08b007;ai07a007
+mhc_social_e;During the past month, how often did you have the feeling... - that people are;ai09e008;ai08d008;ai08c008;ai08b008;ai07a008
+mhc_social_f;During the past month, how often did you have the feeling... - that you underst;ai09e009;ai08d009;ai08c009;ai08b009;ai07a009
+mhc_psy_a;During the past month, how often did you have the feeling... - that you are hap;ai09e010;ai08d010;ai08c010;ai08b010;ai07a010
+mhc_psy_b;During the past month, how often did you have the feeling... - that you can dea;ai09e011;ai08d011;ai08c011;ai08b011;ai07a011
+mhc_psy_c;During the past month, how often did you have the feeling... - that you have wa;ai09e012;ai08d012;ai08c012;ai08b012;ai07a012
+mhc_psy_d;During the past month, how often did you have the feeling... - that you are bei;ai09e013;ai08d013;ai08c013;ai08b013;ai07a013
+mhc_psy_e;During the past month, how often did you have the feeling... - that you have ex;ai09e014;ai08d014;ai08c014;ai08b014;ai07a014
+mhc_psy_f;During the past month, how often did you have the feeling... - that your life h;ai09e015;ai08d015;ai08c015;ai08b015;ai07a015
+importance_happiness;Experiencing happiness and satisfaction in life;;ai08d016;ai08c016;ai08b016;ai07a016
+importance_avoid_negative;Avoiding negative feelings, such as being dejected or anxious;;ai08d017;ai08c017;ai08b017;ai07a017
+importance_improvment;Developing and improving my own person;;ai08d018;ai08c018;ai08b018;ai07a018
+importance_contribution;Being part of and contributing to society;;ai08d019;ai08c019;ai08b019;ai07a019
+questionnaire_difficult;Was it difficult to answer the questions?;ai09e020;ai08d020;ai08c020;ai08b020;ai07a020
+questionnaire_clear;Were the questions sufficiently clear?;ai09e021;ai08d021;ai08c021;ai08b021;ai07a021
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ai09e022;ai08d022;ai08c022;ai08b022;ai07a022
+questionnaire_interesting;Was it an interesting subject?;ai09e023;ai08d023;ai08c023;ai08b023;ai07a023
+questionnaire_enjoy;Did you enjoy answering the questions?;ai09e024;ai08d024;ai08c024;ai08b024;ai07a024
+mhc_total;MHC-SF total;;ai08d025;ai08c025;ai08b025;ai07a025
+mhc_hedonic;MHC-SF subscale hedonic well-being;;ai08d026;ai08c026;ai08b026;ai07a026
+mhc_social;MHC-SF subscale social well-being;;ai08d027;ai08c027;ai08b027;ai07a027
+mhc_somatic;MHC-SF subscale psychological well-being;;ai08d028;ai08c028;ai08b028;ai07a028
+bsi_total;BSI total (norm);;ai08d029;ai08c029;ai08b029;ai07a029
+bsi_somatic;BSI somatic complaints (norm);;ai08d030;ai08c030;ai08b030;ai07a030
+bsi_cognitive;BSI problems in cognitive functions (norm);;ai08d031;ai08c031;ai08b031;ai07a031
+bsi_interpersonal;BSI interpersonal sensitivity (norm);;ai08d032;ai08c032;ai08b032;ai07a032
+bsi_depression;BSI depression (norm);;ai08d033;ai08c033;ai08b033;ai07a033
+bsi_fear;BSI fear (norm);;ai08d034;ai08c034;ai08b034;ai07a034
+bsi_hostility;BSI hostility (norm);;ai08d035;ai08c035;ai08b035;ai07a035
+bsi_fear_phobic;BSI phobic fear (norm);;ai08d036;ai08c036;ai08b036;ai07a036
+bsi_paranoid;BSI paranoïd (norm);;ai08d037;ai08c037;ai08b037;ai07a037
+bsi_psychoticism;BSI psychoticism (norm);;ai08d038;ai08c038;ai08b038;ai07a038
+date_fieldwork;Year and month of the field work period;ai09e_m;ai08d_m;ai08c_m;ai08b_m;ai07a_m
+hh_id;Number of household encrypted;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr

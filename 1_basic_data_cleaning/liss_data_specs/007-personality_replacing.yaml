@@ -1,0 +1,139 @@
+"replacing":
+    "full_df":
+      "I don\x92t know": !!float .nan
+    "ess_trust":
+      "0 You can\x92t be too careful": "0 You can't be too careful"
+
+"multicolumn":
+  "lot_r":
+      "columns":
+        - "lot_r_expectbest"
+        - "lot_r_relax"
+        - "lot_r_pessimistic_future"
+        - "lot_r_optimistic_future"
+        - "lot_r_friends"
+        - "lot_r_keepbusy"
+        - "lot_r_hardlyoptimistic"
+        - "lot_r_notupset"
+        - "lot_r_pessimistic_events"
+        - "lot_r_optimistic_events"
+      "dictionary":
+        "strongly agree": 5
+        "agree": 4
+        "neutral": 3
+        "disagree": 2
+        "strongly disagree": 1
+
+  "bigV":
+    "columns":
+      - "bigV_e_1"
+      - "bigV_c_1"
+      - "bigV_n_1"
+      - "bigV_o_1"
+      - "bigV_a_2"
+      - "bigV_c_3"
+      - "bigV_n_3"
+      - "bigV_o_3"
+      - "bigV_a_4"
+      - "bigV_e_5"
+      - "bigV_c_5"
+      - "bigV_n_5"
+      - "bigV_o_5"
+      - "bigV_a_6"
+      - "bigV_n_6"
+      - "bigV_e_7"
+      - "bigV_c_7"
+      - "bigV_n_7"
+      - "bigV_o_7"
+      - "bigV_a_8"
+      - "bigV_n_8"
+      - "bigV_o_8"
+      - "bigV_e_9"
+      - "bigV_a_9"
+      - "bigV_c_9"
+      - "bigV_n_9"
+      - "bigV_o_9"
+      - "bigV_a_10"
+      - "bigV_c_10"
+      - "bigV_n_10"
+      - "bigV_o_10"
+    "dictionary":
+      "very accurate": 5
+      "moderately accurate": 4
+      "neither inaccurate nor accurate": 3
+      "moderately inaccurate": 2
+      "very inaccurate": 1
+
+  "neg_bigV":
+    "columns":
+      - "bigV_a_neg_1"
+      - "bigV_e_neg_2"
+      - "bigV_c_neg_2"
+      - "bigV_n_neg_2"
+      - "bigV_o_neg_2"
+      - "bigV_e_neg_3"
+      - "bigV_a_neg_3"
+      - "bigV_e_neg_4"
+      - "bigV_c_neg_4"
+      - "bigV_n_neg_4"
+      - "bigV_o_neg_4"
+      - "bigV_a_neg_5"
+      - "bigV_e_neg_6"
+      - "bigV_c_neg_6"
+      - "bigV_o_neg_6"
+      - "bigV_a_neg_7"
+      - "bigV_e_neg_8"
+      - "bigV_c_neg_8"
+      - "bigV_e_neg_10"
+    "dictionary":
+      "very accurate": 1
+      "moderately accurate": 2
+      "neither inaccurate nor accurate": 3
+      "moderately inaccurate": 4
+      "very inaccurate": 5
+
+  "mc_sds":
+    "columns":
+      - "mc_sds_helpothers"
+      - "mc_sds_dislike"
+      - "mc_sds_rebllious"
+      - "mc_sds_playingsick"
+      - "mc_sds_admittingignorance"
+      - "mc_sds_courteous"
+      - "mc_sds_insistence"
+      - "mc_sds_responsible"
+      - "mc_sds_jealous"
+      - "mc_sds_irritated"
+    "dictionary":
+      "True": 1
+      "False": 0
+
+  "questionnaire_1":
+    "columns":
+      - "questionnaires_enjoyment_online"
+      - "questionnaires_enjoyment_phone"
+      - "questionnaires_interesting"
+      - "questionnaires_importance"
+      - "questionnaires_information_gain"
+      - "questionnaires_waste_of_time"
+      - "questionnaires_too_many"
+      - "questionnaires_privacy_invasion"
+      - "questionnaires_exhaustive"
+
+    "dictionary":
+      " 7 totally agree": "7 totally agree"
+
+  "questionnaire_2":
+    "columns":
+      - "questionnaire_difficult"
+      - "questionnaire_clear"
+      - "questionnaire_thinking"
+      - "questionnaire_interesting"
+      - "questionnaire_enjoy"
+
+    "dictionary":
+      "1 definitely no": "1 certainly not"
+      "5 definitely yes": "5 certainly yes"
+      2: "2"
+      3: "3"
+      4: "4"

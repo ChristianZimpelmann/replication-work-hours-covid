@@ -1,0 +1,151 @@
+new_name;labels;bm10a_EN_1.0p.dta
+group;Group;bm10a001
+household_position;Position within the household;bm10a002
+lives_with_partner;The household head lives together with a partner (wedded or unwedded);bm10a003
+does_financial_matters;Takes care of the financial matters;bm10a004
+example_col;color of choice - example question;bm10a005
+example_prob_1;risky probability gain - example question, first iteration;bm10a006
+example_choice_1;choice selected - example question, first iteration;bm10a007
+example_dur_1;number of seconds between click on button at previous item and click on button a;bm10a008
+example_prob_2;risky probability gain - example question, second iteration;bm10a009
+example_choice_2;choice selected - example question, second iteration;bm10a010
+example_dur_2;number of seconds between click on button at previous item and click on button a;bm10a011
+example_prob_3;risky probability gain - example question, third iteration;bm10a012
+example_choice_3;choice selected - example question, third iteration;bm10a013
+example_dur_3;number of seconds between click on button at previous item and click on button a;bm10a014
+example_prob_4;risky probability gain - example question, fourth iteration;bm10a015
+example_choice_4;choice selected - example question, fourth iteration;bm10a016
+example_dur_4;number of seconds between click on button at previous item and click on button a;bm10a017
+example_prob_5;risky probability gain - example question, fifth iteration;bm10a018
+example_choice_5;choice selected - example question, fifth iteration;bm10a019
+example_dur_5;number of seconds between click on button at previous item and click on button a;bm10a020
+example_prob_6;risky probability gain - example question, sixth iteration;bm10a021
+example_choice_6;choice selected - example question, sixth iteration;bm10a022
+example_dur_6;number of seconds between click on button at previous item and click on button a;bm10a023
+example_prob_7;risky probability gain - example question, final iteration;bm10a024
+example_choice_7;choice selected - example question, final iteration;bm10a025
+example_dur_7;total number of iterations - example question;bm10a026
+q1_col;color of choice - question 1;bm10a027
+q1_prob_1;risky probability gain - question 1, first iteration;bm10a028
+q1_choice_1;choice selected - question 1, first iteration;bm10a029
+q1_dur_1;number of seconds between click on button at previous item and click on button a;bm10a030
+q1_prob_2;risky probability gain - question 1, second iteration;bm10a031
+q1_choice_2;choice selected - question 1, second iteration;bm10a032
+q1_dur_2;number of seconds between click on button at previous item and click on button a;bm10a033
+q1_prob_3;risky probability gain - question 1, third iteration;bm10a034
+q1_choice_3;choice selected - question 1, third iteration;bm10a035
+q1_dur_3;number of seconds between click on button at previous item and click on button a;bm10a036
+q1_prob_4;risky probability gain - question 1, fourth iteration;bm10a037
+q1_choice_4;choice selected - question 1, fourth iteration;bm10a038
+q1_dur_4;number of seconds between click on button at previous item and click on button a;bm10a039
+q1_prob_5;risky probability gain - question 1, fifth iteration;bm10a040
+q1_choice_5;choice selected - question 1, fifth iteration;bm10a041
+q1_dur_5;number of seconds between click on button at previous item and click on button a;bm10a042
+q1_prob_6;risky probability gain - question 1, final iteration;bm10a043
+q1_choice_6;choice selected - question 1, first iteration;bm10a044
+q1_iters;total number of iterations - question 1;bm10a045
+q2_col;color of choice question 2;bm10a046
+q2_prob_1;risky probability gain - question 2, first iteration;bm10a047
+q2_choice_1;choice selected - question 2, first iteration;bm10a048
+q2_dur_1;number of seconds between click on button at previous item and click on button a;bm10a049
+q2_prob_2;risky probability gain - question 2, second iteration;bm10a050
+q2_choice_2;choice selected - question 2, second iteration;bm10a051
+q2_dur_2;number of seconds between click on button at previous item and click on button a;bm10a052
+q2_prob_3;risky probability gain - question 2, third iteration;bm10a053
+q2_choice_3;choice selected - question 2, third iteration;bm10a054
+q2_dur_3;number of seconds between click on button at previous item and click on button a;bm10a055
+q2_prob_4;risky probability gain - question 2, fourth iteration;bm10a056
+q2_choice_4;choice selected - question 2, fourth iteration;bm10a057
+q2_dur_4;number of seconds between click on button at previous item and click on button a;bm10a058
+q2_prob_5;risky probability gain - question 2, fifth iteration;bm10a059
+q2_choice_5;choice selected - question 2, fifth iteration;bm10a060
+q2_dur_5;number of seconds between click on button at previous item and click on button a;bm10a061
+q2_prob_6;risky probability gain - question 2, sixth iteration;bm10a062
+q2_choice_6;choice selected - question 2, sixth iteration;bm10a063
+q2_dur_6;number of seconds between click on button at previous item and click on button a;bm10a064
+q2_prob_7;risky probability gain - question 2, final iteration;bm10a065
+q2_choice_7;choice selected - question 2, final iteration;bm10a066
+q2_iters;total number of iterations - question 2;bm10a067
+q3_col;color of choice question 3;bm10a068
+q3_prob_1;risky probability gain - question 3, first iteration;bm10a069
+q3_choice_1;choice selected - question 3, first iteration;bm10a070
+q3_dur_1;number of seconds between click on button at previous item and click on button a;bm10a071
+q3_prob_2;risky probability gain - question 3, second iteration;bm10a072
+q3_choice_2;choice selected - question 3, second iteration;bm10a073
+q3_dur_2;number of seconds between click on button at previous item and click on button a;bm10a074
+q3_prob_3;risky probability gain - question 3, third iteration;bm10a075
+q3_choice_3;choice selected - question 3, third iteration;bm10a076
+q3_dur_3;number of seconds between click on button at previous item and click on button a;bm10a077
+q3_prob_4;risky probability gain - question 3, fourth iteration;bm10a078
+q3_choice_4;choice selected - question 3, fourth iteration;bm10a079
+q3_dur_4;number of seconds between click on button at previous item and click on button a;bm10a080
+q3_prob_5;risky probability gain - question 3, fifth iteration;bm10a081
+q3_choice_5;choice selected - question 3, fifth iteration;bm10a082
+q3_dur_5;number of seconds between click on button at previous item and click on button a;bm10a083
+q3_prob_6;risky probability gain - question 3, sixth iteration;bm10a084
+q3_choice_6;choice selected - question 3, sixth iteration;bm10a085
+q3_dur_6;number of seconds between click on button at previous item and click on button a;bm10a086
+q3_prob_7;risky probability gain - question 3, final iteration;bm10a087
+q3_choice_7;choice selected - question 3, final iteration;bm10a088
+q3_iters;total number of iterations - question 3;bm10a089
+q4_col;color of choice question 4;bm10a090
+q4_prob_1;risky probability gain - question 4, first iteration;bm10a091
+q4_choice_1;choice selected - question 4, first iteration;bm10a092
+q4_dur_1;number of seconds between click on button at previous item and click on button a;bm10a093
+q5_col_1;color of choice question 5;bm10a094
+q5_prob_1;risky probability gain - question 5, first iteration;bm10a095
+q5_choice_1;choice selected - question 5, first iteration;bm10a096
+q5_dur_1;number of seconds between click on button at previous item and click on button a;bm10a097
+q6_prob_1;risky probability gain - question 6, first iteration;bm10a098
+q6_choice_1;choice selected - question 6, first iteration;bm10a099
+q6_dur_1;number of seconds between click on button at previous item and click on button a;bm10a100
+q6_prob_2;risky probability gain - question 6, second iteration;bm10a101
+q6_choice_2;choice selected - question 6, second iteration;bm10a102
+q6_dur_2;number of seconds between click on button at previous item and click on button a;bm10a103
+q6_prob_3;risky probability gain - question 6, third iteration;bm10a104
+q6_choice_3;choice selected - question 6, third iteration;bm10a105
+q6_dur_3;number of seconds between click on button at previous item and click on button a;bm10a106
+q6_prob_4;risky probability gain - question 6, final iteration;bm10a107
+q6_choice_4;choice selected - question 6, final iteration;bm10a108
+q6_iters;total number of iterations - question 6;bm10a109
+q7_prob_1;risky probability gain - question 7, first iteration;bm10a110
+q7_choice_1;choice selected - question 7, first iteration;bm10a111
+q7_dur_1;number of seconds between click on button at previous item and click on button a;bm10a112
+q7_prob_2;risky probability gain - question 7, second iteration;bm10a113
+q7_choice_2;choice selected - question 7, second iteration;bm10a114
+q7_dur_2;number of seconds between click on button at previous item and click on button a;bm10a115
+q7_prob_3;risky probability gain - question 7, third iteration;bm10a116
+q7_choice_3;choice selected - question 7, third iteration;bm10a117
+q7_dur_3;number of seconds between click on button at previous item and click on button a;bm10a118
+q7_prob_4;risky probability gain - question 7, fourth iteration;bm10a119
+q7_choice_4;choice selected - question 7, fourth iteration;bm10a120
+q7_dur_4;number of seconds between click on button at previous item and click on button a;bm10a121
+q7_prob_5;risky probability gain - question 7, fifth iteration;bm10a122
+q7_choice_5;choice selected - question 7, fifth iteration;bm10a123
+q7_dur_5;number of seconds between click on button at previous item and click on button a;bm10a124
+q7_prob_6;risky probability gain - question 7, sixth iteration;bm10a125
+q7_choice_6;choice selected - question 7, sixth iteration;bm10a126
+q7_dur_7;number of seconds between click on button at previous item and click on button a;bm10a127
+q7_prob_7;risky probability gain - question 7, final iteration;bm10a128
+q7_choice_7;choice selected - question 7, final iteration;bm10a129
+q7_uters;total number of iterations - question 7;bm10a130
+has_partner;Do you currently have a partner?;bm10a131
+hh_member_financial;Which of the members of your household is most involved in the financial adminis;bm10a132
+has_stocks;On 31 December 2009, did you possess investments in share funds or stocks?;bm10a133
+value_of_stocks;What was the total value of your investments in share funds or stocks on 31 Dece;bm10a134
+finlit_understand_interest;After 5 years, how much would you have in this account in total?;bm10a135
+finlit_better_returns;Considering a long time period (for example 10 or 20 years) which asset normally;bm10a136
+finlit_diversify;When an investor spreads his money among different assets, does the risk increas;bm10a137
+questionnaire_difficult;Was it difficult to answer the questions?;bm10a138
+questionnaire_clear;Were the questions sufficiently clear?;bm10a139
+questionnaire_thinking;Did the questionnaire get you thinking about things?;bm10a140
+questionnaire_interesting;Was it an interesting subject?;bm10a141
+questionnaire_enjoy;Did you enjoy answering the questions?;bm10a142
+start_date;Starting date questionnaire;bm10a143
+start_time;Starting time questionnaire;bm10a144
+end_date;End date questionnaire;bm10a145
+end_time;End time questionnaire;bm10a146
+duration;duration in seconds;bm10a147
+date_fieldwork;Year and month of field work period;bm10a_m
+hh_id;Number of household encrypted;nohouse_encr
+personal_id;Number of household member encrypted;nomem_encr

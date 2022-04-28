@@ -1,0 +1,35 @@
+new_name;labels;la14c_EN_1.0.dta;la13b_EN_2.0.dta;la13a_EN_2.0.dta
+info_treatment;Did the respondent receive (3/4 probability) additional information or not (1/4;;;la13a001
+dk_none_treatment;"Did the respondent only have the ""I dont know"" option or also the ""none of these";la14c002;la13b002;la13a002
+answer_sequence;In what sequence were answers 1-4 presented for the question concerning pension;la14c003;la13b003;la13a003
+guess_unemployed;Of every 100 people of working age in the Netherlands how many would you say are;;;la13a004
+guess_lt_sick;Of every 100 people of working age in the Netherlands how many would you say are;;;la13a005
+guess_retired;Of every 100 people living in the Netherlands how many would you say are retired;;;la13a006
+rate_health_services;What do you think overall about the state of health services in the Netherlands;;;la13a007
+rate_st_o_living_pensioneer;What do you think overall about the standard of living of pensioners?;;;la13a008
+rate_st_o_living_unemp;What do you think overall about the standard of living of people who are unemplo;;;la13a009
+gov_respos_good_st_o_l_unemp;How much responsibility do you think the government should have:Ensuring a reaso;;;la13a010
+gov_respos_health_care_sick;How much responsibility do you think the government should have: Ensuring adequa;;;la13a011
+gov_respos_good_st_o_l_old;How much responsibility do you think the government should have: Ensuring a reas;;;la13a012
+health_care_needs_change;In general would you say that the health care system in the Netherlands..;;;la13a013
+lab_market_reg_needs_change;What would you say about the labor market regulations in the Netherlands..;;;la13a014
+pension_sys_needs_change;What would you say about the pension system in the Netherlands..;;;la13a015
+most_preferred_pension_reform;[If la14c032= 2: extra info] The ageing of society puts the financing of the sta;la14c016;la13b016;la13a016
+least_preferred_pension_reform;And which one would you prefer the least?;la14c017;la13b017;la13a017
+certainty_of_opinion;Using this scale, how certain are you about your opinion about a pension reform?;la14c018;la13b018;la13a018
+opinion_afford_health_care;There is some debate nowadays about the cost of providing public health care in;;;la13a019
+opinion_afford_pension;There is also some debate nowadays about the cost of pensions in the Netherlands;;;la13a020
+opinion_afford_unemp_benefits;There is also some debate nowadays about the cost of unemployment benefits in th;;;la13a021
+questionnaire_difficult;Was it difficult to answer the questions?;;;la13a022
+questionnaire_clear;Were the questions sufficiently clear?;;;la13a023
+questionnaire_thinking;Did the questionnaire get you thinking about things?;;;la13a024
+questionnaire_interesting;Was it an interesting subject?;;;la13a025
+questionnaire_enjoy;Did you enjoy answering the questions?;;;la13a026
+start_date;Starting date questionnaire;la14c027;la13b027;la13a027
+start_time;Starting time questionnaire;la14c028;la13b028;la13a028
+end_date;End date questionnaire;la14c029;la13b029;la13a029
+end_time;End time questionnaire;la14c030;la13b030;la13a030
+duration;Duration questionnaire in seconds;la14c031;la13b031;la13a031
+date_fieldwork;Year and month of the fieldwork period;la14c_m;la13b_m;la13a_m
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr
+experiment_group;To what experimental group did the respondent belong?;la14c032;la13b032;

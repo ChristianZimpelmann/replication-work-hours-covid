@@ -1,0 +1,839 @@
+new_name;labels;L_HMG2019_2_7p.dta
+;Mobile layout;A__mobile
+;welke zin wordt op plek 1 getoond.;Aperm__1
+;welke zin wordt op plek 2 getoond.;Aperm__2
+;welke zin wordt op plek 3 getoond.;Aperm__3
+;Datum begin vragenlijst;DatumB
+;Datum einde vragenlijst;DatumE
+;Leeftijd Kind 10;Kid10_KidLftd
+;Opleiding Kind 10;Kid10_KidOpl
+;Geslacht Kind 10;Kid10_KidSex
+;Leeftijd Kind 1;Kid1_KidLftd
+;Opleiding Kind 1;Kid1_KidOpl
+;Geslacht Kind 1;Kid1_KidSex
+;Leeftijd Kind 2;Kid2_KidLftd
+;Opleiding Kind 2;Kid2_KidOpl
+;Geslacht Kind 2;Kid2_KidSex
+;Leeftijd Kind 3;Kid3_KidLftd
+;Opleiding Kind 3;Kid3_KidOpl
+;Geslacht Kind 3;Kid3_KidSex
+;Leeftijd Kind 4;Kid4_KidLftd
+;Opleiding Kind 4;Kid4_KidOpl
+;Geslacht Kind 4;Kid4_KidSex
+;Leeftijd Kind 5;Kid5_KidLftd
+;Opleiding Kind 5;Kid5_KidOpl
+;Geslacht Kind 5;Kid5_KidSex
+;Leeftijd Kind 6;Kid6_KidLftd
+;Opleiding Kind 6;Kid6_KidOpl
+;Geslacht Kind 6;Kid6_KidSex
+;Leeftijd Kind 7;Kid7_KidLftd
+;Opleiding Kind 7;Kid7_KidOpl
+;Geslacht Kind 7;Kid7_KidSex
+;Leeftijd Kind 8;Kid8_KidLftd
+;Opleiding Kind 8;Kid8_KidOpl
+;Geslacht Kind 8;Kid8_KidSex
+;Leeftijd Kind 9;Kid9_KidLftd
+;Opleiding Kind 9;Kid9_KidOpl
+;Geslacht Kind 9;Kid9_KidSex
+;Tijd begin vragenlijst;TijdB
+;Tijd einde vragenlijst;TijdE
+hh_members;Aantal leden in het huishouden;aantalhh
+hh_children;Aantal thuiswonende kinderen in het huishouden;aantalki
+;Geeft u aan hoeveel kinderen u hebt die geboren zijn tussen 1994 en 2012 (kinder;aantalki_1
+;Hoeveel kinderen hebt u in totaal (ongeacht hun leeftijd)?;aantalki_2
+;Doet de financiële zaken;account
+;Welke naam is getoond bij v20. Random number 1 - 2;arandom
+occupation;Belangrijkste bezigheid;belbezig
+;Welke namen zijn getoond bij v21. Random number 1 - 4;brandom
+gross_income_cat;Persoonlijk bruto maandinkomen in categorieën;brutocat
+gross_income_hh;Bruto inkomen van het huishouden, geïmputeerd;brutohh_f
+gross_income_incl_cat;Persoonlijk bruto maandinkomen in euros;brutoink
+gross_income_imputed;Persoonlijk bruto inkomen, geïmputeerd;brutoink_f
+civil_status;Burgerlijke staat;burgstat
+;Sum variable;c1
+;Sum variable;c10
+;Sum variable;c11
+;Sum variable;c12
+;Sum variable;c13
+;Sum variable;c14
+;Sum variable;c15
+;Sum variable;c16
+;Sum variable;c17
+;Sum variable;c18
+;Sum variable;c19
+;Sum variable;c2
+;Sum variable;c20
+;Sum variable;c21
+;Sum variable;c22
+;Sum variable;c23
+;Sum variable;c24
+;Sum variable;c25
+;Sum variable;c3
+;Sum variable;c4
+;Sum variable;c5
+;Sum variable;c6
+;Sum variable;c7
+;Sum variable;c8
+;Sum variable;c9
+;Als twee antwoorden de hoogste zijn: welke wordt dan op het volgende scherm (bij;crandom
+;Als drie antwoorden even hoog zijn: welke wordt dan op het volgende scherm (bij ;drandom
+;Duur vragenlijst in seconden;duur
+;Vond u het moeilijk om de vragen te beantwoorden?;eva2t1
+;Vond u de vragen duidelijk?;eva2t2
+;Heeft de vragenlijst u aan het denken gezet?;eva2t3
+;Vond u het onderwerp interessant?;eva2t4
+;Vond u het plezierig om de vragen in te vullen?;eva2t5
+;U kunt uw opmerking hieronder invullen.;evaopm
+birth_year;Geboortejaar;gebjaar
+gender;Geslacht;geslacht
+live_together_read_in;ingelezen variabele: het huishoudhoofd woont samen met een partner (gehuwd of on;inpartner
+;ingelezen variabele: Positie in het huishouden;inpositie
+age;Leeftijd van lid huishouden;leeftijd
+age_cbs;Leeftijd in CBS-categorieën;lftdcat
+hh_head_age;Leeftijd van het huishoudhoofd;lftdhhh
+date_fieldwork;Jaar en maand van de veldwerkperiode;maandnr
+net_income_original;Persoonlijk netto inkomen, oorspronkelijke waarde;netinc
+net_income_cat;Persoonlijk netto maandinkomen in categorieën;nettocat
+net_income_hh;Netto inkomen van het huishouden, geïmputeerd;nettohh_f
+net_income_incl_cat;Persoonlijk netto maandinkomen in euros;nettoink
+net_income_imputed;Persoonlijk netto inkomen, geïmputeerd;nettoink_f
+hh_id;Nummer van huishouden versleuteld;nohouse_encr
+personal_id;Nummer van lid huishouden versleuteld;nomem_encr
+education_cbs;Opleiding in CBS-categorieën;oplcat
+education_diploma;Hoogste opleiding met diploma;oplmet
+education_nodiploma;Hoogste opleiding ongeacht diploma;oplzon
+;Hebt u verder nog opmerkingen over deze vragenlijst?;opm
+live_together;Het huishoudhoofd woont samen met een partner (gehuwd of ongehuwd);partner
+hh_position;Positie in het huishouden;positie
+location_urban;Stedelijkheid woonplaats;sted
+;;uitro
+;Welke uitspraak past het best bij hoe de financiële zaken in uw huishouden zijn ;v1
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_1
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_10
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_2
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_3
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_4
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_5
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_6
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_7
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_8
+;Toen u de middelbare school van uw kind koos, bij hoeveel middelbare scholen heb;v10_9
+;Wat zou dan volgens u moeten bepalen naar welk schoolniveau een kind moet gaan? ;v11a
+;Wat zou dan volgens u moeten bepalen naar welk schoolniveau een kind moet gaan? ;v11b
+;Wat zou dan volgens u moeten bepalen naar welk schoolniveau een kind moet gaan? ;v11c
+;Hoe groot is volgens u de kans dat uw kind Kind1 naar de universiteit zal gaan?;v12a_1
+;Hoe groot is volgens u de kans dat uw kind Kind10 naar de universiteit zal gaan?;v12a_10
+;Hoe groot is volgens u de kans dat uw kind Kind2 naar de universiteit zal gaan?;v12a_2
+;Hoe groot is volgens u de kans dat uw kind Kind3 naar de universiteit zal gaan?;v12a_3
+;Hoe groot is volgens u de kans dat uw kind Kind4 naar de universiteit zal gaan?;v12a_4
+;Hoe groot is volgens u de kans dat uw kind Kind5 naar de universiteit zal gaan?;v12a_5
+;Hoe groot is volgens u de kans dat uw kind Kind6 naar de universiteit zal gaan?;v12a_6
+;Hoe groot is volgens u de kans dat uw kind Kind7 naar de universiteit zal gaan?;v12a_7
+;Hoe groot is volgens u de kans dat uw kind Kind8 naar de universiteit zal gaan?;v12a_8
+;Hoe groot is volgens u de kans dat uw kind Kind9 naar de universiteit zal gaan?;v12a_9
+;Stelt u zich voor dat uw kind Kind1 naar de universiteit gaat. Wat is de kans da;v12b_1
+;Stelt u zich voor dat uw kind Kind10 naar de universiteit gaat. Wat is de kans d;v12b_10
+;Stelt u zich voor dat uw kind Kind2 naar de universiteit gaat. Wat is de kans da;v12b_2
+;Stelt u zich voor dat uw kind Kind3 naar de universiteit gaat. Wat is de kans da;v12b_3
+;Stelt u zich voor dat uw kind Kind4 naar de universiteit gaat. Wat is de kans da;v12b_4
+;Stelt u zich voor dat uw kind Kind5 naar de universiteit gaat. Wat is de kans da;v12b_5
+;Stelt u zich voor dat uw kind Kind6 naar de universiteit gaat. Wat is de kans da;v12b_6
+;Stelt u zich voor dat uw kind Kind7 naar de universiteit gaat. Wat is de kans da;v12b_7
+;Stelt u zich voor dat uw kind Kind8 naar de universiteit gaat. Wat is de kans da;v12b_8
+;Stelt u zich voor dat uw kind Kind9 naar de universiteit gaat. Wat is de kans da;v12b_9
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_1
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_10
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_2
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_3
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_4
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_5
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_6
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_7
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_8
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a1_9
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_1
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_10
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_2
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_3
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_4
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_5
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_6
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_7
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_8
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a2_9
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_1
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_10
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_2
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_3
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_4
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_5
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_6
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_7
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_8
+;Stel, de hoogste opleiding van uw kind is de middelbare school. Hoe groot is de ;v13a3_9
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind10 de middelbare scho;v13a_10
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind2 de middelbare schoo;v13a_2
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind3 de middelbare schoo;v13a_3
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind4 de middelbare schoo;v13a_4
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind5 de middelbare schoo;v13a_5
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind6 de middelbare schoo;v13a_6
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind7 de middelbare schoo;v13a_7
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind8 de middelbare schoo;v13a_8
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind9 de middelbare schoo;v13a_9
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_1
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_10
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_2
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_3
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_4
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_5
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_6
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_7
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_8
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b1_9
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_1
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_10
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_2
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_3
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_4
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_5
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_6
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_7
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_8
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b2_9
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_1
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_10
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_2
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_3
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_4
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_5
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_6
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_7
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_8
+;Stel, de hoogste opleiding van uw kind is de universiteit. Hoe groot is de kans ;v13b3_9
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind10 de universiteit is;v13b_10
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind2 de universiteit is.;v13b_2
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind3 de universiteit is.;v13b_3
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind4 de universiteit is.;v13b_4
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind5 de universiteit is.;v13b_5
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind6 de universiteit is.;v13b_6
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind7 de universiteit is.;v13b_7
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind8 de universiteit is.;v13b_8
+;Stelt u zich voor dat de hoogste opleiding van uw kind Kind9 de universiteit is.;v13b_9
+;Stelt u zich voor dat Kind1s hoogste opleiding de middelbare school is. Dat Kind;v14a_1
+;Stelt u zich voor dat Kind10s hoogste opleiding de middelbare school is. Dat Kin;v14a_10
+;Stelt u zich voor dat Kind2s hoogste opleiding de middelbare school is. Dat Kind;v14a_2
+;Stelt u zich voor dat Kind3s hoogste opleiding de middelbare school is. Dat Kind;v14a_3
+;Stelt u zich voor dat Kind4s hoogste opleiding de middelbare school is. Dat Kind;v14a_4
+;Stelt u zich voor dat Kind5s hoogste opleiding de middelbare school is. Dat Kind;v14a_5
+;Stelt u zich voor dat Kind6s hoogste opleiding de middelbare school is. Dat Kind;v14a_6
+;Stelt u zich voor dat Kind7s hoogste opleiding de middelbare school is. Dat Kind;v14a_7
+;Stelt u zich voor dat Kind8s hoogste opleiding de middelbare school is. Dat Kind;v14a_8
+;Stelt u zich voor dat Kind9s hoogste opleiding de middelbare school is. Dat Kind;v14a_9
+;Stelt u zich voor dat Kind1s hoogste opleiding de universiteit is. Dat Kind1 40 ;v14b_1
+;Stelt u zich voor dat Kind10s hoogste opleiding de universiteit is. Dat Kind10 4;v14b_10
+;Stelt u zich voor dat Kind2s hoogste opleiding de universiteit is. Dat Kind2 40 ;v14b_2
+;Stelt u zich voor dat Kind3s hoogste opleiding de universiteit is. Dat Kind3 40 ;v14b_3
+;Stelt u zich voor dat Kind4s hoogste opleiding de universiteit is. Dat Kind4 40 ;v14b_4
+;Stelt u zich voor dat Kind5s hoogste opleiding de universiteit is. Dat Kind5 40 ;v14b_5
+;Stelt u zich voor dat Kind6s hoogste opleiding de universiteit is. Dat Kind6 40 ;v14b_6
+;Stelt u zich voor dat Kind7s hoogste opleiding de universiteit is. Dat Kind7 40 ;v14b_7
+;Stelt u zich voor dat Kind8s hoogste opleiding de universiteit is. Dat Kind8 40 ;v14b_8
+;Stelt u zich voor dat Kind9s hoogste opleiding de universiteit is. Dat Kind9 40 ;v14b_9
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_1
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_10
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_2
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_3
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_4
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_5
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_6
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_7
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_8
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15a_9
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_1
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_10
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_2
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_3
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_4
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_5
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_6
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_7
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_8
+;Wat zou dan de partners bruto maandelijks inkomen zijn (bij een baan van 40 uur);v15b_9
+;Wat vindt u van de volgende uitspraak? Kind1 probeert/probeerde tijdens de studi;v16_1
+;Wat vindt u van de volgende uitspraak? Kind10 probeert/probeerde tijdens de stud;v16_10
+;Wat vindt u van de volgende uitspraak? Kind2 probeert/probeerde tijdens de studi;v16_2
+;Wat vindt u van de volgende uitspraak? Kind3 probeert/probeerde tijdens de studi;v16_3
+;Wat vindt u van de volgende uitspraak? Kind4 probeert/probeerde tijdens de studi;v16_4
+;Wat vindt u van de volgende uitspraak? Kind5 probeert/probeerde tijdens de studi;v16_5
+;Wat vindt u van de volgende uitspraak? Kind6 probeert/probeerde tijdens de studi;v16_6
+;Wat vindt u van de volgende uitspraak? Kind7 probeert/probeerde tijdens de studi;v16_7
+;Wat vindt u van de volgende uitspraak? Kind8 probeert/probeerde tijdens de studi;v16_8
+;Wat vindt u van de volgende uitspraak? Kind9 probeert/probeerde tijdens de studi;v16_9
+;Kind1 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_1
+;Kind10 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers;v17_10
+;Kind2 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_2
+;Kind3 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_3
+;Kind4 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_4
+;Kind5 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_5
+;Kind6 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_6
+;Kind7 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_7
+;Kind8 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_8
+;Kind9 krijgt/kreeg advies van zijn/haar broers of zussen en/of zijn/haar broers ;v17_9
+;Ik gebruik woorden en gebaren om mijn kind te laten zien dat ik van hem/haar hou;v18a
+;Ik praat met mijn kind over dingen die hij/zij buitenshuis heeft gedaan, gezien ;v18b
+;Ik vraag mijn kind om zijn/haar mening bij onderwerpen die met de familie te mak;v18c
+;Ik straf mijn kind als hij/zij ongehoorzaam is.;v18d
+;Als mijn kind niet thuis is, dan weet ik precies waar hij/zij is.;v18e
+;Ik ben eerder streng dan niet streng voor mijn kind.;v18f
+;Ik troost mijn kind als hij/zij zich verdrietig voelt.;v18g
+;Als ik mijn kind vraag om iets wel of juist niet te doen, dan leg ik hem/haar ui;v18h
+;Ik maak mijn kind duidelijk dat hij/zij niet tegen besluiten of opdrachten in mo;v18i
+;Ik geef mijn kind complimenten.;v18j
+;Ik probeer actief invloed te hebben op met welke vrienden mijn kind omgaat.;v18k
+;Als ik voor mijn kind een beslissing moet nemen, bespreek ik dat met mijn kind e;v18l
+;Kinderen moeten dicht bij hun ouders wonen.;v19a
+;Kinderen moet zorgen voor hun zieke ouders.;v19b
+;Kinderen moet hun ouders financieel helpen.;v19c
+;Kinderen moeten regelmatig met hun ouders bellen of op bezoek gaan.;v19d
+;De erfenis die ouders aan hun kinderen nalaten kan een belangrijke bron van inko;v19e
+;Ongeveer hoeveel procent van uw eigen netto inkomen gaat naar de gezamenlijke re;v1b
+;Ongeveer hoeveel procent van uw partners netto inkomen gaat naar de gezamenlijke;v1c
+;I;v20a_1_geluk_1
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 1. School I. kan;v20a_1_kans_1
+;I;v20a_1_kind_1
+;I;v20a_1_wh_1
+;I;v20a_1_zelf_1
+;I;v20a_2_geluk_2
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 2. School I. kan;v20a_2_kans_2
+;I;v20a_2_kind_2
+;I;v20a_2_wh_2
+;I;v20a_2_zelf_2
+;I;v20a_3_geluk_3
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 3. School I. kan;v20a_3_kans_3
+;I;v20a_3_kind_3
+;I;v20a_3_wh_3
+;I;v20a_3_zelf_3
+;I;v20a_4_geluk_4
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 4. School I. kan;v20a_4_kans_4
+;I;v20a_4_kind_4
+;I;v20a_4_wh_4
+;I;v20a_4_zelf_4
+;II;v20b_1_geluk_1
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 1. School II. ka;v20b_1_kans_1
+;II;v20b_1_kind_1
+;II;v20b_1_wh_1
+;II;v20b_1_zelf_1
+;II;v20b_2_geluk_2
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 2. School II. ka;v20b_2_kans_2
+;II;v20b_2_kind_2
+;II;v20b_2_wh_2
+;II;v20b_2_zelf_2
+;II;v20b_3_geluk_3
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 3. School II. ka;v20b_3_kans_3
+;II;v20b_3_kind_3
+;II;v20b_3_wh_3
+;II;v20b_3_zelf_3
+;II;v20b_4_geluk_4
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 4. School II. ka;v20b_4_kans_4
+;II;v20b_4_kind_4
+;II;v20b_4_wh_4
+;II;v20b_4_zelf_4
+;III;v20c_1_geluk_1
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 1. School III. k;v20c_1_kans_1
+;III;v20c_1_kind_1
+;III;v20c_1_wh_1
+;III;v20c_1_zelf_1
+;III;v20c_2_geluk_2
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 2. School III. k;v20c_2_kans_2
+;III;v20c_2_kind_2
+;III;v20c_2_wh_2
+;III;v20c_2_zelf_2
+;III;v20c_3_geluk_3
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 3. School III. k;v20c_3_kans_3
+;III;v20c_3_kind_3
+;III;v20c_3_wh_3
+;III;v20c_3_zelf_3
+;III;v20c_4_geluk_4
+;Hoe groot is de kans dat u voor elke school gaat kiezen? Vignet 4. School III. k;v20c_4_kans_4
+;III;v20c_4_kind_4
+;III;v20c_4_wh_4
+;III;v20c_4_zelf_4
+;Geeft u weer aan voor welke van de volgende mogelijkheden de kans het grootst is;v21a_A_investkans1_A
+;Voor welke van de volgende mogelijkheden is de kans het grootst dat u daarvoor k;v21a_investkans1
+;Geeft u weer aan voor welke van de volgende mogelijkheden de kans het grootst is;v21b_A_investkans1_A
+;Voor welke van de volgende mogelijkheden is de kans het grootst dat u daarvoor k;v21b_investkans1
+;Geeft u weer aan voor welke van de volgende mogelijkheden de kans het grootst is;v21c_A_investkans1_A
+;Voor welke van de volgende mogelijkheden is de kans het grootst dat u daarvoor k;v21c_investkans1
+;A. Als mijnheer en mevrouw De Jong Jan 0 uur per week helpen als hij 8-9 jaar is;v22a
+;B. Als mijnheer en mevrouw De Jong Jan 1,5 uur per week helpen als hij 8-9 jaar ;v22b
+;C. Als mijnheer en mevrouw De Jong Jan 3 uur per week helpen als hij 8-9 jaar is;v22c
+;A. Als mijnheer en mevrouw De Jong Jan 0 uur per week helpen als hij 8-9 jaar is;v23a
+;B. Als mijnheer en mevrouw De Jong Jan 1,5 uur per week helpen als hij 8-9 jaar ;v23b
+;C. Als mijnheer en mevrouw De Jong Jan 3 uur per week helpen als hij 8-9 jaar is;v23c
+;A. Als mijnheer en mevrouw Jansen David 0 uur per week helpen als hij 8-9 jaar i;v24a
+;B. Als mijnheer en mevrouw Jansen David 1,5 uur per week helpen als hij 8-9 jaar;v24b
+;C. Als mijnheer en mevrouw Jansen David 3 uur per week helpen als hij 8-9 jaar i;v24c
+;A. Als mijnheer en mevrouw Jansen David 0 uur per week helpen als hij 8-9 jaar i;v25a
+;B. Als mijnheer en mevrouw Jansen David 1,5 uur per week helpen als hij 8-9 jaar;v25b
+;C. Als mijnheer en mevrouw Jansen David 3 uur per week helpen als hij 8-9 jaar i;v25c
+;Ik weet hoeveel mijn partner verdient (ook pensioeninkomen).;v2a
+;Mijn partner weet hoeveel ik verdien (ook pensioeninkomen).;v2b
+;Ik ben op de hoogte van hoeveel schuld mijn partner persoonlijk heeft.;v2c
+;Mijn partner is op de hoogte van hoeveel schuld ik persoonlijk heb.;v2cex
+;Ik heb een credit card of bankrekening waar mijn partner niets van af weet.;v2d
+;Ik ben goed op de hoogte van mijn partners grotere uitgaven (wat er is gekocht e;v2e
+;Mijn partner is goed op de hoogte van mijn grotere uitgaven (wat er is gekocht e;v2e_1
+;Hoe vaak vertelt u uw partner niet over de grotere uitgaven die niet echt nodig ;v2f
+;Als mijn vaste inkomen hoger wordt (door bijvoorbeeld een loonsverhoging, pensio;v3a
+;Als het vaste inkomen van mijn partner hoger wordt (door bijvoorbeeld een loonsv;v3b
+;Als mijn inkomen onverwacht hoger is (door bijvoorbeeld een bonus, het winnen va;v3c
+;Als mijn partners inkomen onverwacht hoger is (door bijvoorbeeld een bonus, het ;v3d
+;Hoe vaak hebt u het over financiële doelen met uw partner/echtgeno(o)t(e)?;v4a
+;Hoe vaak hebt in de afgelopen 12 maanden met uw partner/echtgeno(o)t(e) ruzie ge;v4b
+;De financiën zijn een van de meest stressvolle onderdelen in mijn relatie met mi;v4c
+;Mijn partner geeft te veel geld uit.;v4d
+;Ik kan goed omgaan met geld en financiële zaken.;v4e
+;Mijn partner kan goed omgaan met geld en financiële zaken.;v4f
+marriage_date;Wanneer zijn u en uw partner getrouwd voor de burgerlijke stand of een geregistr;v51
+married;Zijn u en uw partner getrouwd of hebt u een geregistreerd partnerschap?;v51voor
+prenup;Zijn u en uw partner getrouwd op huwelijkse voorwaarden?;v52
+prenup_date;op een later moment, namelijk...;v52_date
+;Hebt u de huwelijkse voorwaarden getekend op het moment dat u trouwde / het gere;v52b
+pot_prenup;Als u en uw partner gaan trouwen of een geregistreerd partnerschap aangaan, denk;v52um
+prenup_divorce;Wat is er omschreven in de huwelijkse voorwaarden in het geval u en uw partner z;v53
+prenup_divorce_other_beperkte;andere vorm van beperkte gemeenschap van goederen, namelijk:;v53and1
+prenup_divorce_other;iets anders, namelijk:;v53and2
+prenup_spec_hh_cost_division;Wat is er nog meer omschreven in de huwelijkse voorwaarden? Er zijn meerdere ant;v53b__1
+prenup_spec_periodic_settlement;Wat is er nog meer omschreven in de huwelijkse voorwaarden? Er zijn meerdere ant;v53b__2
+prenup_spec_final_settlement;Wat is er nog meer omschreven in de huwelijkse voorwaarden? Er zijn meerdere ant;v53b__3
+prenup_spec_alimony;Wat is er nog meer omschreven in de huwelijkse voorwaarden? Er zijn meerdere ant;v53b__4
+prenup_spec_pension_eq;Wat is er nog meer omschreven in de huwelijkse voorwaarden? Er zijn meerdere ant;v53b__5
+pot_prenup_divorce;Voor welk soort huwelijkse voorwaarden zou u dan kiezen?;v53um
+;andere vorm van beperkte gemeenschap van goederen, namelijk:;v53um_and4
+;iets anders, namelijk:;v53um_and5
+prenup_factor_other2;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54and
+prenup_factor_richer;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__1
+prenup_factor_p_children;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__10
+prenup_factor_other;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__11
+prenup_factor_p_richer;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__2
+prenup_factor_house;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__3
+prenup_factor_p_house;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__4
+prenup_factor_legacy;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__5
+prenup_factor_p_legacy;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__6
+prenup_factor_company;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__7
+prenup_factor_p_company;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__8
+prenup_factor_children;Wat speelde er een rol bij het besluit om op huwelijkse voorwaarden te trouwen? ;v54ja__9
+prenup_factor_no_other2;Wat speelde er een rol bij het besluit om niet op huwelijkse voorwaarden te trou;v54nand
+prenup_factor_no_not_thought;Wat speelde er een rol bij het besluit om niet op huwelijkse voorwaarden te trou;v54nee__1
+prenup_factor_no_forever;Wat speelde er een rol bij het besluit om niet op huwelijkse voorwaarden te trou;v54nee__2
+prenup_factor_no_wealth;Wat speelde er een rol bij het besluit om niet op huwelijkse voorwaarden te trou;v54nee__3
+prenup_factor_no_wealth_diff;Wat speelde er een rol bij het besluit om niet op huwelijkse voorwaarden te trou;v54nee__4
+prenup_factor_no_reduce_trust;Wat speelde er een rol bij het besluit om niet op huwelijkse voorwaarden te trou;v54nee__5
+prenup_factor_no_other;Wat speelde er een rol bij het besluit om niet op huwelijkse voorwaarden te trou;v54nee__6
+pot_prenup_factor_richer;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__1
+pot_prenup_factor_p_children;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__10
+pot_prenup_factor_forever;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__11
+pot_prenup_factor_no_wealth;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__12
+pot_prenup_factor_no_w_diff;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__13
+pot_prenup_factor_reduce_trust;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__14
+pot_prenup_factor_p_richer;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__2
+pot_prenup_factor_house;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__3
+pot_prenup_factor_p_house;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__4
+pot_prenup_factor_legacy;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__5
+pot_prenup_factor_p_legacy;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__6
+pot_prenup_factor_company;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__7
+pot_prenup_factor_p_company;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__8
+pot_prenup_factor_children;Wat zal een rol spelen bij het besluit om wel of niet op huwelijkse voorwaarden ;v54um__9
+;Naar welk onderwijsniveau ging u in de eerste klas (brugklas) van het middelbaar;v5b
+;Naar welk onderwijsniveau ging u in de eerste klas (brugklas) van het middelbaar;v5band
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind1 in de;v6b_1
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind10 in d;v6b_10
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind2 in de;v6b_2
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind3 in de;v6b_3
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind4 in de;v6b_4
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind5 in de;v6b_5
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind6 in de;v6b_6
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind7 in de;v6b_7
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind8 in de;v6b_8
+;Wat was het schooladvies voor de middelbare school van de leraar van Kind9 in de;v6b_9
+;Welk onderwijs zou u zelf hebben gekozen voor Kind1?;v6c_1
+;Welk onderwijs zou u zelf hebben gekozen voor Kind10?;v6c_10
+;Welk onderwijs zou u zelf hebben gekozen voor Kind2?;v6c_2
+;Welk onderwijs zou u zelf hebben gekozen voor Kind3?;v6c_3
+;Welk onderwijs zou u zelf hebben gekozen voor Kind4?;v6c_4
+;Welk onderwijs zou u zelf hebben gekozen voor Kind5?;v6c_5
+;Welk onderwijs zou u zelf hebben gekozen voor Kind6?;v6c_6
+;Welk onderwijs zou u zelf hebben gekozen voor Kind7?;v6c_7
+;Welk onderwijs zou u zelf hebben gekozen voor Kind8?;v6c_8
+;Welk onderwijs zou u zelf hebben gekozen voor Kind9?;v6c_9
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_1
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_10
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_2
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_3
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_4
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_5
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_6
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_7
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_8
+;Thuis geoefend zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te le;v6d1_9
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_1
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_10
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_2
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_3
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_4
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_5
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_6
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_7
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_8
+;Thuis geoefend mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen gemaa;v6d2_9
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_1
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_10
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_2
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_3
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_4
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_5
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_6
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_7
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_8
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6d3_9
+;Door zelf naar de leraar te gaan;v6e2_1
+;Door zelf naar de leraar te gaan;v6e2_10
+;Door zelf naar de leraar te gaan;v6e2_2
+;Door zelf naar de leraar te gaan;v6e2_3
+;Door zelf naar de leraar te gaan;v6e2_4
+;Door zelf naar de leraar te gaan;v6e2_5
+;Door zelf naar de leraar te gaan;v6e2_6
+;Door zelf naar de leraar te gaan;v6e2_7
+;Door zelf naar de leraar te gaan;v6e2_8
+;Door zelf naar de leraar te gaan;v6e2_9
+;Door naar het hoofd van de school te gaan;v6e3_1
+;Door naar het hoofd van de school te gaan;v6e3_10
+;Door naar het hoofd van de school te gaan;v6e3_2
+;Door naar het hoofd van de school te gaan;v6e3_3
+;Door naar het hoofd van de school te gaan;v6e3_4
+;Door naar het hoofd van de school te gaan;v6e3_5
+;Door naar het hoofd van de school te gaan;v6e3_6
+;Door naar het hoofd van de school te gaan;v6e3_7
+;Door naar het hoofd van de school te gaan;v6e3_8
+;Door naar het hoofd van de school te gaan;v6e3_9
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_1
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_10
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_2
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_3
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_4
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_5
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_6
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_7
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_8
+;Ik voelde me goed geïnformeerd over hoe de overstap van basisschool naar middelb;v6f1_9
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind1;v6f2_1
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind10;v6f2_10
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind2;v6f2_2
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind3;v6f2_3
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind4;v6f2_4
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind5;v6f2_5
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind6;v6f2_6
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind7;v6f2_7
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind8;v6f2_8
+;Ik was het eens met het middelbare schooladvies van de leraar voor Kind9;v6f2_9
+;De uitslag van de cito-toets klopte met het niveau van Kind1;v6f3_1
+;De uitslag van de cito-toets klopte met het niveau van Kind10;v6f3_10
+;De uitslag van de cito-toets klopte met het niveau van Kind2;v6f3_2
+;De uitslag van de cito-toets klopte met het niveau van Kind3;v6f3_3
+;De uitslag van de cito-toets klopte met het niveau van Kind4;v6f3_4
+;De uitslag van de cito-toets klopte met het niveau van Kind5;v6f3_5
+;De uitslag van de cito-toets klopte met het niveau van Kind6;v6f3_6
+;De uitslag van de cito-toets klopte met het niveau van Kind7;v6f3_7
+;De uitslag van de cito-toets klopte met het niveau van Kind8;v6f3_8
+;De uitslag van de cito-toets klopte met het niveau van Kind9;v6f3_9
+;Kind1 was gelukkig op school;v6g1_1
+;Kind10 was gelukkig op school;v6g1_10
+;Kind2 was gelukkig op school;v6g1_2
+;Kind3 was gelukkig op school;v6g1_3
+;Kind4 was gelukkig op school;v6g1_4
+;Kind5 was gelukkig op school;v6g1_5
+;Kind6 was gelukkig op school;v6g1_6
+;Kind7 was gelukkig op school;v6g1_7
+;Kind8 was gelukkig op school;v6g1_8
+;Kind9 was gelukkig op school;v6g1_9
+;Kind1 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_1
+;Kind10 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_10
+;Kind2 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_2
+;Kind3 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_3
+;Kind4 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_4
+;Kind5 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_5
+;Kind6 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_6
+;Kind7 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_7
+;Kind8 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_8
+;Kind9 verveelde zich regelmatig op school omdat het te gemakkelijk was;v6g2_9
+;Kind1 kreeg teveel huiswerk en toetsen;v6g3_1
+;Kind10 kreeg teveel huiswerk en toetsen;v6g3_10
+;Kind2 kreeg teveel huiswerk en toetsen;v6g3_2
+;Kind3 kreeg teveel huiswerk en toetsen;v6g3_3
+;Kind4 kreeg teveel huiswerk en toetsen;v6g3_4
+;Kind5 kreeg teveel huiswerk en toetsen;v6g3_5
+;Kind6 kreeg teveel huiswerk en toetsen;v6g3_6
+;Kind7 kreeg teveel huiswerk en toetsen;v6g3_7
+;Kind8 kreeg teveel huiswerk en toetsen;v6g3_8
+;Kind9 kreeg teveel huiswerk en toetsen;v6g3_9
+;Welk onderwijs zou u zelf kiezen voor Kind1?;v6h_1
+;Welk onderwijs zou u zelf kiezen voor Kind10?;v6h_10
+;Welk onderwijs zou u zelf kiezen voor Kind2?;v6h_2
+;Welk onderwijs zou u zelf kiezen voor Kind3?;v6h_3
+;Welk onderwijs zou u zelf kiezen voor Kind4?;v6h_4
+;Welk onderwijs zou u zelf kiezen voor Kind5?;v6h_5
+;Welk onderwijs zou u zelf kiezen voor Kind6?;v6h_6
+;Welk onderwijs zou u zelf kiezen voor Kind7?;v6h_7
+;Welk onderwijs zou u zelf kiezen voor Kind8?;v6h_8
+;Welk onderwijs zou u zelf kiezen voor Kind9?;v6h_9
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_1
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_10
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_2
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_3
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_4
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_5
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_6
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_7
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_8
+;Thuis oefenen zonder speciaal lesmateriaal, bijvoorbeeld door meer boeken te lez;v6i1_9
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_1
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_10
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_2
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_3
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_4
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_5
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_6
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_7
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_8
+;Thuis oefenen mét speciaal lesmateriaal, bijvoorbeeld online cito-toetsen maken ;v6i2_9
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_1
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_10
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_2
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_3
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_4
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_5
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_6
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_7
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_8
+;Door naar een externe voorbereidingscursus te gaan, of naar bijles;v6i3_9
+;Door zelf naar de leraar te gaan;v6j2_1
+;Door zelf naar de leraar te gaan;v6j2_10
+;Door zelf naar de leraar te gaan;v6j2_2
+;Door zelf naar de leraar te gaan;v6j2_3
+;Door zelf naar de leraar te gaan;v6j2_4
+;Door zelf naar de leraar te gaan;v6j2_5
+;Door zelf naar de leraar te gaan;v6j2_6
+;Door zelf naar de leraar te gaan;v6j2_7
+;Door zelf naar de leraar te gaan;v6j2_8
+;Door zelf naar de leraar te gaan;v6j2_9
+;Door naar het hoofd van de school te gaan;v6j3_1
+;Door naar het hoofd van de school te gaan;v6j3_10
+;Door naar het hoofd van de school te gaan;v6j3_2
+;Door naar het hoofd van de school te gaan;v6j3_3
+;Door naar het hoofd van de school te gaan;v6j3_4
+;Door naar het hoofd van de school te gaan;v6j3_5
+;Door naar het hoofd van de school te gaan;v6j3_6
+;Door naar het hoofd van de school te gaan;v6j3_7
+;Door naar het hoofd van de school te gaan;v6j3_8
+;Door naar het hoofd van de school te gaan;v6j3_9
+;Geeft u aan welke gebeurtenissen er in uw gezin plaatsvonden. Ernstige ziekte va;v7a_10_aanwezig
+;Geeft u aan in welk jaar gebeurtenissen in uw gezin plaatsvonden. Ernstige ziekt;v7a_10_jaar
+;Geeft u aan in welke maand gebeurtenissen in uw gezin plaatsvonden. Ernstige zie;v7a_10_maand
+;Geeft u aan welke gebeurtenissen er in uw gezin plaatsvonden. Overlijden van par;v7a_1_aanwezig
+;Geeft u aan in welk jaar gebeurtenissen in uw gezin plaatsvonden. Overlijden van;v7a_1_jaar
+;Geeft u aan in welke maand gebeurtenissen in uw gezin plaatsvonden. Overlijden v;v7a_1_maand
+;Geeft u aan welke gebeurtenissen er in uw gezin plaatsvonden. Overlijden van kin;v7a_2_aanwezig
+;Geeft u aan in welk jaar gebeurtenissen in uw gezin plaatsvonden. Overlijden van;v7a_2_jaar
+;Geeft u aan in welke maand gebeurtenissen in uw gezin plaatsvonden. Overlijden v;v7a_2_maand
+;Geeft u aan welke gebeurtenissen er in uw gezin plaatsvonden. Overlijden van (sc;v7a_3_aanwezig
+;Geeft u aan in welk jaar gebeurtenissen in uw gezin plaatsvonden. Overlijden van;v7a_3_jaar
+;Geeft u aan in welke maand gebeurtenissen in uw gezin plaatsvonden. Overlijden v;v7a_3_maand
+;Geeft u aan welke gebeurtenissen er in uw gezin plaatsvonden. Overlijden van and;v7a_4_aanwezig
+;Geeft u aan in welk jaar gebeurtenissen in uw gezin plaatsvonden. Overlijden van;v7a_4_jaar
+;Geeft u aan in welke maand gebeurtenissen in uw gezin plaatsvonden. Overlijden v;v7a_4_maand
+;Geeft u aan welke gebeurtenissen er in uw gezin plaatsvonden. Scheiding;v7a_5_aanwezig
+;Geeft u aan in welk jaar gebeurtenissen in uw gezin plaatsvonden. Scheiding;v7a_5_jaar
+;Geeft u aan in welke maand gebeurtenissen in uw gezin plaatsvonden. Scheiding;v7a_5_maand
+;Geeft u aan welke gebeurtenissen er in uw gezin plaatsvonden. Verlies van baan v;v7a_7_aanwezig
+;Geeft u aan in welk jaar gebeurtenissen in uw gezin plaatsvonden. Verlies van ba;v7a_7_jaar
+;Geeft u aan in welke maand gebeurtenissen in uw gezin plaatsvonden. Verlies van ;v7a_7_maand
+;Wat voor effect had deze gebeurtenis op uw gezin? Overlijden van partner;v7b_1
+;Wat voor effect had deze gebeurtenis op uw gezin? Ernstige ziekte van iemand uit;v7b_10
+;Wat voor effect had deze gebeurtenis op uw gezin? Overlijden van kind;v7b_2
+;Wat voor effect had deze gebeurtenis op uw gezin? Overlijden van (schoon-)ouder;v7b_3
+;Wat voor effect had deze gebeurtenis op uw gezin? Overlijden van ander familieli;v7b_4
+;Wat voor effect had deze gebeurtenis op uw gezin? Scheiding;v7b_5
+;Wat voor effect had deze gebeurtenis op uw gezin? Verlies van baan van uzelf of ;v7b_7
+;Hebt u de school geïnformeerd over deze gebeurtenis? Overlijden van partner;v7c_1
+;Hebt u de school geïnformeerd over deze gebeurtenis? Ernstige ziekte van iemand ;v7c_10
+;Hebt u de school geïnformeerd over deze gebeurtenis? Overlijden van kind;v7c_2
+;Hebt u de school geïnformeerd over deze gebeurtenis? Overlijden van (schoon-)oud;v7c_3
+;Hebt u de school geïnformeerd over deze gebeurtenis? Overlijden van ander famili;v7c_4
+;Hebt u de school geïnformeerd over deze gebeurtenis? Scheiding;v7c_5
+;Hebt u de school geïnformeerd over deze gebeurtenis? Verlies van baan van uzelf ;v7c_7
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van uzelf/familieled;v7d_1
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van uzelf/familieled;v7d_10
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van uzelf/familieled;v7d_2
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van uzelf/familieled;v7d_3
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van uzelf/familieled;v7d_4
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van uzelf/familieled;v7d_5
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van uzelf/familieled;v7d_7
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van een leraar/schoo;v7e_1
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van een leraar/schoo;v7e_10
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van een leraar/schoo;v7e_2
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van een leraar/schoo;v7e_3
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van een leraar/schoo;v7e_4
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van een leraar/schoo;v7e_5
+;Heeft uw kind(eren) extra ondersteuning met school gekregen van een leraar/schoo;v7e_7
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_1
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_10
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_2
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_3
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_4
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_5
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_6
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_7
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_8
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a1_9
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_1
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_10
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_2
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_3
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_4
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_5
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_6
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_7
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_8
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8a2_9
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind1 zelf huiswerk (zonder hul;v8b1_1
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind10 zelf huiswerk (zonder hu;v8b1_10
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind2 zelf huiswerk (zonder hul;v8b1_2
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind3 zelf huiswerk (zonder hul;v8b1_3
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind4 zelf huiswerk (zonder hul;v8b1_4
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind5 zelf huiswerk (zonder hul;v8b1_5
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind6 zelf huiswerk (zonder hul;v8b1_6
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind7 zelf huiswerk (zonder hul;v8b1_7
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind8 zelf huiswerk (zonder hul;v8b1_8
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind9 zelf huiswerk (zonder hul;v8b1_9
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind1 zelf huiswerk (zonder hul;v8b2_1
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind10 zelf huiswerk (zonder hu;v8b2_10
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind2 zelf huiswerk (zonder hul;v8b2_2
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind3 zelf huiswerk (zonder hul;v8b2_3
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind4 zelf huiswerk (zonder hul;v8b2_4
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind5 zelf huiswerk (zonder hul;v8b2_5
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind6 zelf huiswerk (zonder hul;v8b2_6
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind7 zelf huiswerk (zonder hul;v8b2_7
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind8 zelf huiswerk (zonder hul;v8b2_8
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind9 zelf huiswerk (zonder hul;v8b2_9
+;Ongeveer hoeveel uur per week helpt/hielp u Kind1 met huiswerk maken in: de bove;v8c1_1
+;Ongeveer hoeveel uur per week helpt/hielp u Kind10 met huiswerk maken in: de bov;v8c1_10
+;Ongeveer hoeveel uur per week helpt/hielp u Kind2 met huiswerk maken in: de bove;v8c1_2
+;Ongeveer hoeveel uur per week helpt/hielp u Kind3 met huiswerk maken in: de bove;v8c1_3
+;Ongeveer hoeveel uur per week helpt/hielp u Kind4 met huiswerk maken in: de bove;v8c1_4
+;Ongeveer hoeveel uur per week helpt/hielp u Kind5 met huiswerk maken in: de bove;v8c1_5
+;Ongeveer hoeveel uur per week helpt/hielp u Kind6 met huiswerk maken in: de bove;v8c1_6
+;Ongeveer hoeveel uur per week helpt/hielp u Kind7 met huiswerk maken in: de bove;v8c1_7
+;Ongeveer hoeveel uur per week helpt/hielp u Kind8 met huiswerk maken in: de bove;v8c1_8
+;Ongeveer hoeveel uur per week helpt/hielp u Kind9 met huiswerk maken in: de bove;v8c1_9
+;Ongeveer hoeveel uur per week helpt/hielp u Kind1 met huiswerk maken in: de onde;v8c2_1
+;Ongeveer hoeveel uur per week helpt/hielp u Kind10 met huiswerk maken in: de ond;v8c2_10
+;Ongeveer hoeveel uur per week helpt/hielp u Kind2 met huiswerk maken in: de onde;v8c2_2
+;Ongeveer hoeveel uur per week helpt/hielp u Kind3 met huiswerk maken in: de onde;v8c2_3
+;Ongeveer hoeveel uur per week helpt/hielp u Kind4 met huiswerk maken in: de onde;v8c2_4
+;Ongeveer hoeveel uur per week helpt/hielp u Kind5 met huiswerk maken in: de onde;v8c2_5
+;Ongeveer hoeveel uur per week helpt/hielp u Kind6 met huiswerk maken in: de onde;v8c2_6
+;Ongeveer hoeveel uur per week helpt/hielp u Kind7 met huiswerk maken in: de onde;v8c2_7
+;Ongeveer hoeveel uur per week helpt/hielp u Kind8 met huiswerk maken in: de onde;v8c2_8
+;Ongeveer hoeveel uur per week helpt/hielp u Kind9 met huiswerk maken in: de onde;v8c2_9
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind1, hulp bij;v8d1_1
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind10, hulp bi;v8d1_10
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind2, hulp bij;v8d1_2
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind3, hulp bij;v8d1_3
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind4, hulp bij;v8d1_4
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind5, hulp bij;v8d1_5
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind6, hulp bij;v8d1_6
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind7, hulp bij;v8d1_7
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind8, hulp bij;v8d1_8
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind9, hulp bij;v8d1_9
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind1, hulp bij;v8d2_1
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind10, hulp bi;v8d2_10
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind2, hulp bij;v8d2_2
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind3, hulp bij;v8d2_3
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind4, hulp bij;v8d2_4
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind5, hulp bij;v8d2_5
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind6, hulp bij;v8d2_6
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind7, hulp bij;v8d2_7
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind8, hulp bij;v8d2_8
+;Ongeveer hoeveel uur per week gemiddeld had u direct contact met Kind9, hulp bij;v8d2_9
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind1? in ;v8e_1
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind10? in;v8e_10
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind2? in ;v8e_2
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind3? de ;v8e_3
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind4? in ;v8e_4
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind5? in ;v8e_5
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind6? in ;v8e_6
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind7? in ;v8e_7
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind8? in ;v8e_8
+;Ongeveer hoeveel uur per week gemiddeld hebt/had u direct contact met Kind9? in ;v8e_9
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind1 zelf huiswerk (zonder hul;v8f_1
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind10 zelf huiswerk (zonder hu;v8f_10
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind2 zelf huiswerk (zonder hul;v8f_2
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind3 zelf huiswerk (zonder hul;v8f_3
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind4 zelf huiswerk (zonder hul;v8f_4
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind5 zelf huiswerk (zonder hul;v8f_5
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind6 zelf huiswerk (zonder hul;v8f_6
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind7 zelf huiswerk (zonder hul;v8f_7
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind8 zelf huiswerk (zonder hul;v8f_8
+;Ongeveer hoeveel uur per week gemiddeld maakt(e) Kind9 zelf huiswerk (zonder hul;v8f_9
+;Ongeveer hoeveel uur per week helpt/hielp u Kind1 met huiswerk maken?;v8g_1
+;Ongeveer hoeveel uur per week helpt/hielp u Kind10 met huiswerk maken?;v8g_10
+;Ongeveer hoeveel uur per week helpt/hielp u Kind2 met huiswerk maken?;v8g_2
+;Ongeveer hoeveel uur per week helpt/hielp u Kind3 met huiswerk maken?;v8g_3
+;Ongeveer hoeveel uur per week helpt/hielp u Kind4 met huiswerk maken?;v8g_4
+;Ongeveer hoeveel uur per week helpt/hielp u Kind5 met huiswerk maken?;v8g_5
+;Ongeveer hoeveel uur per week helpt/hielp u Kind6 met huiswerk maken?;v8g_6
+;Ongeveer hoeveel uur per week helpt/hielp u Kind7 met huiswerk maken?;v8g_7
+;Ongeveer hoeveel uur per week helpt/hielp u Kind8 met huiswerk maken?;v8g_8
+;Ongeveer hoeveel uur per week helpt/hielp u Kind9 met huiswerk maken?;v8g_9
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_1
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_10
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_2
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_3
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_4
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_5
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_6
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_7
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_8
+;Ongeveer hoeveel uur per week gemiddeld besteedt/besteedde uw kind achter het s;v8h_9
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind1? Bijvoor;v8i_1
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind10? Bijvoo;v8i_10
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind2? Bijvoor;v8i_2
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind3? Bijvoor;v8i_3
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind4? Bijvoor;v8i_4
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind5? Bijvoor;v8i_5
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind6? Bijvoor;v8i_6
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind7? Bijvoor;v8i_7
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind8? Bijvoor;v8i_8
+;Ongeveer hoeveel uur per week gemiddeld hebt u direct contact met Kind9? Bijvoor;v8i_9
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_1
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_10
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_2
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_3
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_4
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_5
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_6
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_7
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_8
+;Ongeveer hoeveel uur per week gemiddeld besteedt uw kind achter het scherm (bi;v8j_9
+;Hoe belangrijk zijn/waren de scholen van Kind1 in relatie tot hoe u Kind1 hebt o;v9_1
+;Hoe belangrijk zijn/waren de scholen van Kind10 in relatie tot hoe u Kind10 hebt;v9_10
+;Hoe belangrijk zijn/waren de scholen van Kind2 in relatie tot hoe u Kind2 hebt o;v9_2
+;Hoe belangrijk zijn/waren de scholen van Kind3 in relatie tot hoe u Kind3 hebt o;v9_3
+;Hoe belangrijk zijn/waren de scholen van Kind4 in relatie tot hoe u Kind4 hebt o;v9_4
+;Hoe belangrijk zijn/waren de scholen van Kind5 in relatie tot hoe u Kind5 hebt o;v9_5
+;Hoe belangrijk zijn/waren de scholen van Kind6 in relatie tot hoe u Kind6 hebt o;v9_6
+;Hoe belangrijk zijn/waren de scholen van Kind7 in relatie tot hoe u Kind7 hebt o;v9_7
+;Hoe belangrijk zijn/waren de scholen van Kind8 in relatie tot hoe u Kind8 hebt o;v9_8
+;Hoe belangrijk zijn/waren de scholen van Kind9 in relatie tot hoe u Kind9 hebt o;v9_9
+dwelling_type;Soort woning waarin het huishouden woont;woning
+dom_situation;Woonvorm huishouden;woonvorm

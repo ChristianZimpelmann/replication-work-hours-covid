@@ -1,0 +1,128 @@
+"replacing":
+  "full_df":
+    "I prefer not to say": !!float .nan
+    "yes": 1
+    "no": 0
+    "very hard": 10
+    "no problem at all": 0
+
+"multicolumn":
+    "assets_v":
+      "columns":
+        - "banking_v"
+        - "insurance_v"
+        - "risky_financial_assets_v"
+        - "real_estate_v"
+        - "durables_v"
+        - "mortgage_v"
+        - "loan_out_v"
+        - "other_inv_v"
+        - "study_grant_v"
+        - "priv_comp_v"
+        - "pship_v"
+        - "self_empl_comp_v"
+        - "debt_v"
+
+      "dictionary":
+        9_999_999_998: !!float .nan
+        99_999_999_998: !!float .nan
+        9_999_999_999: !!float .nan
+        99_999_999_999: !!float .nan
+        -9_999_999_998: !!float .nan
+        -9_999_999_999: !!float .nan
+
+    "assets_c":
+      "columns":
+        - "banking_c"
+        - "insurance_c"
+        - "risky_financial_assets_c"
+        - "real_estate_c"
+        - "durables_c"
+        - "mortgage_c"
+        - "loan_out_c"
+        - "other_inv_c"
+        - "study_grant_c"
+        - "priv_comp_c"
+        - "pship_c"
+        - "self_empl_comp_c"
+        - "debt_c"
+
+      "dictionary":
+        "I don't know": !!float .nan
+        "I don\u02BCt know": !!float .nan
+        "I don\x92t know": !!float .nan
+        -9: !!float .nan
+        "less than \u20ac 50": "less than EUR 50"
+        "less than \u20ac 500": "less than EUR 500"
+        "\u20ac 50 to \u20ac 250": "EUR 50 to EUR 250"
+        "\u20ac 250 to \u20ac 500": "EUR 250 to EUR 500"
+        "\u20ac 500 to \u20ac 750": "EUR 500 to EUR 750"
+        "\u20ac 500 to \u20ac 1,500": "EUR 500 to EUR 1,500"
+        "\u20ac 750 to \u20ac 1,000": "EUR 750 to EUR 1,000"
+        "\u20ac 1,000 to \u20ac 2,500": "EUR 1,000 to EUR 2,500"
+        "\u20ac 1,500 to \u20ac 2,500": "EUR 1,500 to EUR 2,500"
+        "\u20ac 2,500 to \u20ac 5,000": "EUR 2,500 to EUR 5,000"
+        "\u20ac 5,000 to \u20ac 7,500": "EUR 5,000 to EUR 7,500"
+        "\u20ac 7,500 to \u20ac 10,000": "EUR 7,500 to EUR 10,000"
+        "\u20ac 10,000 to \u20ac 11,500": "EUR 10,000 to EUR 11,500"
+        "\u20ac 10,000 to \u20ac 12,000": "EUR 10,000 to EUR 12,000"
+        "\u20ac 11,500 to \u20ac 14,000": "EUR 11,500 to EUR 14,000"
+        "\u20ac 12,000 to \u20ac 15,000": "EUR 12,000 to EUR 15,000"
+        "\u20ac 14,000 to \u20ac 17,000": "EUR 14,000 to EUR 17,000"
+        "\u20ac 15,000 to \u20ac 20,000": "EUR 15,000 to EUR 20,000"
+        "\u20ac 17,000 to \u20ac 20,000": "EUR 17,000 to EUR 20,000"
+        "\u20ac 20,000 to \u20ac 25,000": "EUR 20,000 to EUR 25,000"
+        "\u20ac 25,000 or more": "EUR 25,000 or more"
+        "\u20ac 25,500 to \u20ac 50,000": "EUR 25,500 to EUR 50,000"
+        "\u20ac 25,000 to \u20ac 50,000": "EUR 25,000 to EUR 50,000"
+        "\u20ac 50,000 to \u20ac 75,000": "EUR 50,000 to EUR 75,000"
+        "\u20ac 75,000 to \u20ac 100,000": "EUR 75,000 to EUR 100,000"
+        "\u20ac 100,000 or more": "EUR 100,000 or more"
+        "less than \u20ac 50,000": "less than EUR 50,000"
+        "\u20ac  50,000 to \u20ac 100,000": "EUR  50,000 to EUR 100,000"
+        "\u20ac 100,000 to \u20ac 150,000": "EUR 100,000 to EUR 150,000"
+        "\u20ac 150,000 to \u20ac 200,000": "EUR 150,000 to EUR 200,000"
+        "\u20ac 200,000 to \u20ac 250,000": "EUR 200,000 to EUR 250,000"
+        "\u20ac 250,000 to \u20ac 400,000": "EUR 250,000 to EUR 400,000"
+        "\u20ac 400,000 to \u20ac 500,000": "EUR 400,000 to EUR 500,000"
+        "\u20ac 500,000 to \u20ac 1,000,000": "EUR 500,000 to EUR 1,000,000"
+        "\u20ac 1,000,000 to \u20ac 2,500,000": "EUR 1,000,000 to EUR 2,500,000"
+        "\u20ac 2,500,000 or more": "EUR 2,500,000 or more"
+        "positive, but less than \u20ac 50,000": "positive, but less than EUR 50,000"
+        "less than \x80 50": "less than EUR 50"
+        "less than \x80 500": "less than EUR 500"
+        "\x80 50 to \x80 250": "EUR 50 to EUR 250"
+        "\x80 250 to \x80 500": "EUR 250 to EUR 500"
+        "\x80 500 to \x80 750": "EUR 500 to EUR 750"
+        "\x80 500 to \x80 1,500": "EUR 500 to EUR 1,500"
+        "\x80 750 to \x80 1,000": "EUR 750 to EUR 1,000"
+        "\x80 1,000 to \x80 2,500": "EUR 1,000 to EUR 2,500"
+        "\x80 1,500 to \x80 2,500": "EUR 1,500 to EUR 2,500"
+        "\x80 2,500 to \x80 5,000": "EUR 2,500 to EUR 5,000"
+        "\x80 5,000 to \x80 7,500": "EUR 5,000 to EUR 7,500"
+        "\x80 7,500 to \x80 10,000": "EUR 7,500 to EUR 10,000"
+        "\x80 10,000 to \x80 11,500": "EUR 10,000 to EUR 11,500"
+        "\x80 10,000 to \x80 12,000": "EUR 10,000 to EUR 12,000"
+        "\x80 11,500 to \x80 14,000": "EUR 11,500 to EUR 14,000"
+        "\x80 12,000 to \x80 15,000": "EUR 12,000 to EUR 15,000"
+        "\x80 14,000 to \x80 17,000": "EUR 14,000 to EUR 17,000"
+        "\x80 15,000 to \x80 20,000": "EUR 15,000 to EUR 20,000"
+        "\x80 17,000 to \x80 20,000": "EUR 17,000 to EUR 20,000"
+        "\x80 20,000 to \x80 25,000": "EUR 20,000 to EUR 25,000"
+        "\x80 25,000 or more": "EUR 25,000 or more"
+        "\x80 25,500 to \x80 50,000": "EUR 25,500 to EUR 50,000"
+        "\x80 25,000 to \x80 50,000": "EUR 25,000 to EUR 50,000"
+        "\x80 50,000 to \x80 75,000": "EUR 50,000 to EUR 75,000"
+        "\x80 75,000 to \x80 100,000": "EUR 75,000 to EUR 100,000"
+        "\x80 100,000 or more": "EUR 100,000 or more"
+        "less than \x80 50,000": "less than EUR 50,000"
+        "\x80  50,000 to \x80 100,000": "EUR  50,000 to EUR 100,000"
+        "\x80 100,000 to \x80 150,000": "EUR 100,000 to EUR 150,000"
+        "\x80 150,000 to \x80 200,000": "EUR 150,000 to EUR 200,000"
+        "\x80 200,000 to \x80 250,000": "EUR 200,000 to EUR 250,000"
+        "\x80 250,000 to \x80 400,000": "EUR 250,000 to EUR 400,000"
+        "\x80 400,000 to \x80 500,000": "EUR 400,000 to EUR 500,000"
+        "\x80 500,000 to \x80 1,000,000": "EUR 500,000 to EUR 1,000,000"
+        "\x80 1,000,000 to \x80 2,500,000": "EUR 1,000,000 to EUR 2,500,000"
+        "\x80 2,500,000 or more": "EUR 2,500,000 or more"
+        "positive, but less than \x80 50,000": "positive, but less than EUR 50,000"

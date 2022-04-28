@@ -1,0 +1,142 @@
+;new_name;labels;dk10a_EN_1.1p.dta
+0;gender;Gender;dk10a001
+1;cope_cognitive_reappraisal_a;When I want to feel more positive emotions (such as happiness or pleasure), then;dk10a002
+2;cope_expressive_suppression_a;I keep my emotions to myself.;dk10a003
+3;cope_cognitive_reappraisal_b;When I want to experience less negative emotions, I change whatever I am thinkin;dk10a004
+4;cope_expressive_suppression_b;When I experience positive emotions, I make sure not to express them.;dk10a005
+5;cope_cognitive_reappraisal_c;When I am in a stressful situation, I make myself think about the situation in a;dk10a006
+6;cope_expressive_suppression_c;I control my emotions by not expressing them.;dk10a007
+7;cope_cognitive_reappraisal_d;When I want to feel more positive emotions, then I change the way I am thinking;dk10a008
+8;cope_cognitive_reappraisal_e;I control my emotions by changing the way I think about the situation in which I;dk10a009
+9;cope_expressive_suppression_d;When I experience negative emotions, I make sure not to express them.;dk10a010
+10;cope_cognitive_reappraisal_f;When I want to feel less negative emotions, then I change the way I am thinking;dk10a011
+11;cope_mental_disengagement_a;I seek out some activity as distraction.;dk10a012
+12;cope_emotions_a;I get upset.;dk10a013
+13;cope_social_support_a;I ask someone for advice.;dk10a014
+14;cope_active_coping_a;I try to improve the situation.;dk10a015
+15;cope_denial_a;I tell myself 'this can't be true'.;dk10a016
+16;cope_substance_use_a;I start drinking (more) alcohol.;dk10a017
+17;cope_suppression_a;I make sure not to get distracted by other matters.;dk10a018
+18;cope_religious_coping_a;I seek God's help.;dk10a019
+19;cope_planning_a;I make a plan.;dk10a020
+20;cope_restraint_a;I wait with doing something, until the situation permits it.;dk10a021
+21;cope_emotional_support_a;I seek support from friends or family.;dk10a022
+22;cope_behavioural_diseng_a;I give up my attempt to reach my goal.;dk10a023
+23;cope_active_coping_b;I make an extra effort to do something about it.;dk10a024
+24;cope_substance_use_b;I start smoking (more).;dk10a025
+25;cope_denial_b;I refuse to believe that this is happening.;dk10a026
+26;cope_emotions_b;I show my feelings.;dk10a027
+27;cope_positive_reint_a;I try to look at it from a different angle, so that it seems more positive.;dk10a028
+28;cope_planning_b;I try to think of what I can do about it.;dk10a029
+29;cope_substance_use_c;I start using (more) medication.;dk10a030
+30;cope_positive_reint_b;I look for something good in what is happening.;dk10a031
+31;cope_suppression_b;I try to avoid that other matters start interfering with my approach.;dk10a032
+32;cope_mental_disengagement_b;I go to the movies or watch TV to not think about it so much.;dk10a033
+33;cope_acceptance_a;I accept that this is happening.;dk10a034
+34;cope_social_support_b;I ask people with similar experiences how they reacted.;dk10a035
+35;cope_religious_coping_b;I try to find comfort in my faith.;dk10a036
+36;cope_restraint_b;I force myself to wait for the right moment.;dk10a037
+37;cope_behavioural_diseng_b;I make steadily less effort to arrive at a solution.;dk10a038
+38;cope_emotional_support_b;I talk to someone about how I feel.;dk10a039
+39;cope_substance_use_d;I start using (more) painkillers.;dk10a040
+40;cope_acceptance_b;I learn to live with it.;dk10a041
+41;plan_budget;I think carefully about what I need to do to remain within my budget over the ne;dk10a042
+42;inflation_knowledge_novalue;I do not believe that ordinary people need to know anything about the level of i;dk10a043
+43;plan_spending;I decide in advance how I shall spend my money over the next few months.;dk10a044
+44;spend_impulsively ;I am impulsive and am inclined to buy things, even if don't have the money for i;dk10a045
+45;best_deal_success;I perceive it as a personal success if I manage to obtain the best deal.;dk10a046
+46;plan_ahead_budget;I think about my budget to see how much money I will have left over in the next;dk10a047
+47;in_red_notimportant;It doesn't matter to be in the red at the end of the month.;dk10a048
+48;plan_finances_positive;It feels good to have my finances planned for the next few months.;dk10a049
+49;keep_track_economy;I like to keep myself up-to-date on the economy in the Netherlands.;dk10a050
+50;set_targets;I set financial targets for the next few months concerning what I can do with my;dk10a051
+51;cheapest_item;Shopping around for the cheapest item only saves you very small amounts.;dk10a052
+52;financial_info_novalue;There's no need to remain informed about financial matters.;dk10a053
+53;saving_important;I find it important to put a bit of money away for later.;dk10a054
+54;awareness_finances;I should keep a close eye on my income and expenditure over the next few months,;dk10a055
+55;plan_notneeded;The future will take care of itself.;dk10a056
+56;prefer_creditcard;I prefer to buy things on credit than to wait until I saved up enough money.;dk10a057
+57;awareness_instant_finances;It is important for me to know exactly how much money I have in my purse or wall;dk10a058
+58;discuss_finances_family;It is wise to discuss your choice for financial products (e.g. a mortgage, loan,;dk10a059
+59;awareness_finances_important;It is important for me to remain informed about my personal financial situation.;dk10a060
+60;take_loan_negative;If I need to take out a loan to cover ongoing expenses, then I have failed.;dk10a061
+61;check_balance_important;I find it important to take regular stock of the amount of money in my bank acco;dk10a062
+62;payments_ontime;To remain within my budget, it is important that I pay my bills on time.;dk10a063
+63;awareness_finances_nointerest;It doesn't really interest me to know whether my income and expenditure are bala;dk10a064
+64;run_out_money;In the past 12 months, how often did your money run out before the end of the mo;dk10a065
+65;loan_family;What loan options do you use? - family;dk10a066
+66;loan_inred;What loan options do you use? - being in the red;dk10a067
+67;loan_credit_card;What loan options do you use? - credit cards;dk10a068
+68;loan_personal;What loan options do you use? - personal loan;dk10a069
+69;loan_study;What loan options do you use? - study loan Informatie Beheer Groep;dk10a070
+70;loan_other;What loan options do you use? - other;dk10a071
+71;loan_none;What loan options do you use? - none;dk10a072
+72;loan_other_txt;What other loan options do you use?;dk10a073
+73;pay_bills;How well are you able to pay your bills and meet your financial obligations?;dk10a074
+74;make_ends;How well can you make ends meet with your current income?;dk10a075
+75;know_finances_accurately;How accurately do you know, in general, the amount of money in your current acco;dk10a076
+76;check_balance;How often do you check the balance on your bank account?;dk10a077
+77;know_finances;How good is your overview of your financial situation?;dk10a078
+78;save_bank_account;Have you saved money in one of the following ways: - a bank account that you do;dk10a079
+79;save_funds;Have you saved money in one of the following ways: - through investment funds, b;dk10a080
+80;save_real_estate;Have you saved money in one of the following ways: - invested in real estate;dk10a081
+81;save_abroad;Have you saved money in one of the following ways: - saved in another country (t;dk10a082
+82;save_other;Have you saved money in one of the following ways: - other;dk10a083
+83;save_other_txt;In what other way have you saved money?;dk10a084
+84;savings_relative;Regarding the amount of money you have saved so far in these ways, is this:;dk10a085
+85;savings_endurance;For how long would you be able to make ends meet if your household's primary sou;dk10a086
+86;findmoney_dont;Where would you find the money to cover for an unexpected drastic drop in income;dk10a087
+87;findmoney_current_account;Where would you find the money to cover for an unexpected drastic drop in income;dk10a088
+88;findmoney_savings;Where would you find the money to cover for an unexpected drastic drop in income;dk10a089
+89;findmoney_loan;Where would you find the money to cover for an unexpected drastic drop in income;dk10a090
+90;findmoney_familyfriends;Where would you find the money to cover for an unexpected drastic drop in income;dk10a091
+91;findmoney_earn_extra;Where would you find the money to cover for an unexpected drastic drop in income;dk10a092
+92;findmoney_limit_expenditure;Where would you find the money to cover for an unexpected drastic drop in income;dk10a093
+93;findmoney_other;Where would you find the money to cover for an unexpected drastic drop in income;dk10a094
+94;findmoney_other_txt;Where would you find the money, then, to cover for an unexpected drastic drop in;dk10a095
+95;purchased_investments;Which of the following financial products have you purchased in the past five ye;dk10a096
+96;purchased_mortgage;Which of the following financial products have you purchased in the past five ye;dk10a097
+97;purchased_life_insurance;Which of the following financial products have you purchased in the past five ye;dk10a098
+98;purchased_credit_card;Which of the following financial products have you purchased in the past five ye;dk10a099
+99;purchased_loan;Which of the following financial products have you purchased in the past five ye;dk10a100
+100;purchased_general_insurance;Which of the following financial products have you purchased in the past five ye;dk10a101
+101;purchased_savings_account;Which of the following financial products have you purchased in the past five ye;dk10a102
+102;purchased_current_account;Which of the following financial products have you purchased in the past five ye;dk10a103
+103;purchased_none;Which of the following financial products have you purchased in the past five ye;dk10a104
+104;influenced_comparisons;In deciding what financial product to purchase,  I would let myself be influence;dk10a105
+105;influenced_adviser;In deciding what financial product to purchase,  I would let myself be influence;dk10a106
+106;influenced_newspapers;In deciding what financial product to purchase,  I would let myself be influence;dk10a107
+107;influenced_media;In deciding what financial product to purchase,  I would let myself be influence;dk10a108
+108;influenced_website;In deciding what financial product to purchase,  I would let myself be influence;dk10a109
+109;influenced_familyfriends;In deciding what financial product to purchase,  I would let myself be influence;dk10a110
+110;influenced_no_one;In deciding what financial product to purchase,  I would let myself be influence;dk10a111
+111;influenced_other;In deciding what financial product to purchase,  I would let myself be influence;dk10a112
+112;influenced_other_txt;By what would you let yourself be influenced in deciding what financial product;dk10a113
+113;financial_purchasing;To what extent do you shop around when purchasing a financial product (e.g. bank;dk10a114
+114;track_interests_savings;I keep track of changes in: - interest rates of savings accounts;dk10a115
+115;track_interests_mortgages;I keep track of changes in: - interest rates of mortgages;dk10a116
+116;track_shares_market;I keep track of changes in: - shares market;dk10a117
+117;track_inflation;I keep track of changes in: - inflation;dk10a118
+118;track_taxes;I keep track of changes in: - taxes (e.g. income tax, inheritance tax, capital t;dk10a119
+119;track_jobs_market;I keep track of changes in: - jobs market;dk10a120
+120;track_pensions;I keep track of changes in: - pensions;dk10a121
+121;track_financial_products;I keep track of changes in: - the best deals in terms of financial products;dk10a122
+122;track_housing_market;I keep track of changes in: - housing market and/or prices of rental dwellings;dk10a123
+123;track_notapplicable;I keep track of changes in: - not applicable;dk10a124
+124;expenditure_behaviour;Which of the following descriptions suits you best?;dk10a125
+125;expenditure_hardto_restrict;How well does the first description apply to you? In other words, how hard do yo;dk10a126
+126;expenditure_hardto_save;How well does the second description apply to you? In other words, how hard do y;dk10a127
+127;expenditure_hypothetical;In terms of your own behavior, would you say that you are more like [Mr. / Mrs.];dk10a128
+128;questionnaire_difficult;Was it difficult to answer the questions?;dk10a129
+129;questionnaire_clear;Were the questions sufficiently clear?;dk10a130
+130;questionnaire_thinking;Did the questionnaire get you thinking about things?;dk10a131
+131;questionnaire_interesting;Was it an interesting subject?;dk10a132
+132;questionnaire_enjoy;Did you enjoy answering the questions?;dk10a133
+133;start_date;Starting date questionnaire;dk10a134
+134;start_time;Starting time questionnaire;dk10a135
+135;end_date;End date questionnaire;dk10a136
+136;end_time;End time questionnaire;dk10a137
+137;duration;duration in seconds;dk10a138
+138;date_fieldwork;Month and year of the field work period;dk10a_m
+139;hh_id;Number of household encrypted;nohouse_encr
+140;personal_id;Number of household member encrypted;nomem_encr

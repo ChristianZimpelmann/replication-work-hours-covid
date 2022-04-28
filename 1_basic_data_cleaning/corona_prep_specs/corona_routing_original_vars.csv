@@ -1,0 +1,1109 @@
+wave;original_name;routing;label_english
+1;q1a;;How likely do you think it is that you will become infected with the new coronavirus in the next 2 months?
+1;q1b;;How likely do you think it is that someone in your direct environment (family, friends, colleagues) will be infected with the new coronavirus in the next 2 months?
+1;q1c;;How likely do you think it is that you will need inpatient care if you became infected with the new coronavirus in the next 2 months?
+1;q1d;;How likely do you think it is that you will be quarantined in the next 2 months irrespective of whether you get infected or not?
+1;q1e;;How likely do you think it is that you will get infected and infect others in the next to months?
+1;q2a;;How big do you think the chances are that an otherwise healthy 30 year old will have to go to the hospital?
+1;q2b;;How big do you think the chances are that an otherwise healthy 30 year old will die?
+1;q2c1;;How big do you think the chances are that an otherwise healthy 75 year old will have to go to the hospital?
+1;q2d1;;How big do you think the chances are that an otherwise healthy 75 year old will die?
+1;q2e1;;How big do you think the chances are that an otherwise healthy 5 year old will have to go to the hospital?
+1;q2f1;;How big do you think the chances are that an otherwise healthy 5 year old will die?
+1;q2g1;;How big do you think the chances are that an 30 year old with diabetes and chronic cardiovascular disease will have to go to the hospital?
+1;q2h1;;How big do you think the chances are that an 30 year old with diabetes and chronic cardiovascular disease will die?
+1;q2i1;;How big do you think the chances are that an 75 year old with diabetes and chronic cardiovascular disease will have to go to the hospital?
+1;q2j1;;How big do you think the chances are that an 75 year old with diabetes and chronic cardiovascular disease will die?
+1;q3__1;;I have avoided certain (busy) places
+1;q3__2;;I have avoided public places
+1;q3__3;;I have maintained physical distance from other people (> 1.5m)
+1;q3__4;;I have adjusted my school / work situation
+1;q3__5;;I have quarantined myself because I had symptoms.
+1;q3__6;;I have quarantined myself even though I have no symptoms.
+1;q3__7;;I have done none of the above
+1;q6a;;How effective do you think school and pre-k closures are in fighting the spread of coronavirus?
+1;q6b;;How effective do you think is it to close sport establishments to fight the spread of coronavirus?
+1;q6c;;How effective do you think is it to close bars, cafes and restaurants to fight the spread of coronavirus?
+1;q6d;;How effective do you think is it to close all stores except grocery stores and pharmacies to fight the spread of coronavirus?
+1;q6e;;How effective do you think is it to forbid visits to hospitals, nursing homes and retirement homes to fight the spread of coronavirus?
+1;q6f;;How effective do you think is it to enact a curfew (except on grocery shopping and necessary medical procedures) on over 70 year olds and people with preexisting conditions to fight the spread of coronavirus?
+1;q6g;;How effective do you think is it to enact a curfew (except on grocery shopping and necessary medical procedures) on everyone except for people in critical professions to fight the spread of coronavirus?
+1;q10;;Would you comply with a curfew?
+1;q33a;;Has the federal government taken enough action to safeguard medical coverage to fight the current epidemic?
+1;q33b;;Has the federal government taken enough action in restricting the public life to fight the current epidemic?
+1;q33c;;Has the federal government taken enough action to mitigate the economic repercussions to fight the current epidemic?
+1;q33d;;Has the federal government taken enough action communicating with the general public to fight the current epidemic?
+1;q32;;In general, how confident are you in the government?
+1;q13;;Which of the following options describes your work situation at the beginning of March 2020 best?
+1;q22;;How many children under 12 are in your household?
+1;q23__1;if q22 > 0: ;I stay at home.
+1;q23__2;if q22 > 0: ;My partner stays at home.
+1;q23__3;if q22 > 0: ;The older siblings care for the younger children.
+1;q23__4;if q22 > 0: ;The grandparents care for the children.
+1;q23__5;if q22 > 0: ;Other relatives or friends care for the children.
+1;q23__6;if q22 > 0: ;I organize child care with friends / neighbors together.
+1;q23__7;if q22 > 0: ;The state organizes child care for my profession.
+1;q23__8;if q22 > 0: ;My ex-partner cares for the children.
+1;q23__9;if q22 > 0: ;The child(ren) stay(s) at home alone.
+1;q23__10;if q22 > 0: ;Otherwise
+1;q23and;if q22 > 0: ;Otherwise, namely:
+1;q24;if q23__7 = 1: ;Are you well helped with this emergency (child) care?
+1;q25a;if q23__7 = 1: ;If you want to say something about this emergency (child) care, maybe about what you think could be improved, you can put it here
+1;eva2h;;How did you like this survey overall?
+1;note;;Do you have any remarks or would like to add something to the special survey on the topic of coronavirus?
+1;q4a;;In your opinion, how effective is wearing a mask when it comes to protecting yourself against the coronavirus?
+1;q4b;;In your opinion, how effective is praying when it comes to protecting yourself against the coronavirus?
+1;q4c;;In your opinion, how effective is washing your hands or using desinfectant when it comes to protecting yourself against the coronavirus?
+1;q4d;;In your opinion, how effective is calling a physician if you are ill when it comes to protecting yourself against the coronavirus?
+1;q4e;;In your opinion, how effective is calling a physician if you don't feel ill but are worried when it comes to protecting yourself against the coronavirus?
+1;q4f;;In your opinion, how effective is avoiding public places when it comes to protecting yourself against the coronavirus?
+1;q4g;;In your opinion, how effective is avoiding vulnerable people when it comes to protecting yourself against the coronavirus?
+1;q4h;;In your opinion, how effective is avoiding visitng others in the hospital or retirement homes when it comes to protecting yourself against the coronavirus?
+1;q4i;;In your opinion, how effective is avoiding cafes and restaurants when it comes to protecting yourself against the coronavirus?
+1;q4j;;In your opinion, how effective is avoiding public transport when it comes to protecting yourself against the coronavirus?
+1;q5;;Have you had personal, social contact with older people in the past seven days?
+1;q8a;;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? All kindergardens and schools have ot stay closed
+1;q8b;;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? All cafes and restaurants have to stay closed
+1;q8c;;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? All shops except for supermarkets and pharmacies have to stay closed
+1;q8d;;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? No visitors in hospitals and elderly homes
+1;q8e;;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? People aged 70 and over or with a medical condition have to stay at home except to do basic shopping or because urgent medical attention is required
+1;q8f;;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? Everyone who does not work in a crucial profession has to stay at home except to do basic shopping or because urgent medical care is required
+1;q7;;Until when dou you think that the limitations that exist now will remain in effect?
+1;q9;;If the government obliges everyone to stay home tomorrow (except to do basic groceries), how many out of 100 people who don't work in critical professions would do this, do you think?
+1;q11__1;if q10 = 1:;I would comply with a curfew because I see it as my civic duty.
+1;q11__2;if q10 = 1:;I would comply with a curfew out of fear of being punished.
+1;q11__3;if q10 = 1:;I would comply with a curfew to protect myself from being infected.
+1;q11__4;if q10 = 1:;I would comply with a curfew to protect those close to me.
+1;q11__5;if q10 = 1:;I would comply with a curfew to protect others in general.
+1;q11__6;if q10 = 1:;I would comply with a curfew to protect vulnerable groups.
+1;q11__7;if q10 = 1:;I would comply with a curfew for another reason.
+1;q11and;if q10 = 1:;I would comply with a curfew because of another resaon, namely:
+1;q12__1;if q10 = 2: ;I would disobey a curfew because I don't accept such drastic infringements of my liberties
+1;q12__2;if q10 = 2: ;I would disobey a curfew because I don't believe that I would be punished.
+1;q12__3;if q10 = 2: ;I would disobey a curfew because I don't believe such drastic infringements are justified to stop the spread of coronavirus.
+1;q12__4;if q10 = 2: ;I would disobey a curfew because I have obligations because of which I cannot follow the recommendaitons.
+1;q12__5;if q10 = 2: ;I would disobey a curfew because I don't believe that a curfew will slow the spread of coronavirus.
+1;q12__6;if q10 = 2: ;I would disobey a curfew because I don't believe I will be affected by the outbreak.
+1;q12__7;if q10 = 2: ;I would disobey a curfew because it would be too boring to stay home all the time.
+1;q12__8;if q10 = 2: ;I would disobey a curfew because of another reason.
+1;q12and;if q10 = 2: ;I would disobey a curfew because of another reason, namely:
+1;q14a;if q13 = 1 or q13 = 2: ;On average, how many hours per week did you work at your workplace in early March?
+1;q14c;if q13 = 1 or q13 = 2: ;On average, how many hours per week did you work at home in early March?
+1;q14b;if q13 = 1 or q13 = 2: ;On average, how many hours per week did you work at your workplace in the past seven days?
+1;q14d;if q13 = 1 or q13 = 2: ;On average, how many hours per week did you work at home  in the past seven days?
+1;q15__1;if q13 = 1 and sumhrsnow = 0: ;Less business activity in the company where I work
+1;q15__4;if q13 = 1 and sumhrsnow = 0: ;Because of the risk of infection, my employer postponed work
+1;q15__2;if q13 = 1 and sumhrsnow = 0: ;Must take care of people (children, parents) who depend on me
+1;q15__3;if q13 = 1 and sumhrsnow = 0: ;I do not go to my workplace because I am afraid of being infected by the coronavirus and I cannot do the work I do at
+1;q15__5;if q13 = 1 and sumhrsnow = 0: ;I got fired
+1;q15__6;if q13 = 1 and sumhrsnow = 0: ;Otherwise
+1;q15and;if q13 = 1 and sumhrsnow = 0: ;Otherwise, namely:
+1;q16__1;if q13 = 1 and sumhrsnow > 0 and sumhrsnow < sumhrsbefore: ;Less business activity in the company where I work
+1;q16__4;if q13 = 1 and sumhrsnow > 0 and sumhrsnow < sumhrsbefore: ;Because of the risk of infection, my employer has decided that less work will be done
+1;q16__2;if q13 = 1 and sumhrsnow > 0 and sumhrsnow < sumhrsbefore: ;Must take care of people (children, parents) who depend on me
+1;q16__3;if q13 = 1 and sumhrsnow > 0 and sumhrsnow < sumhrsbefore: ;I go to my workplace less because of fear of being infected by the coronavirus and not able to work at home.
+1;q16__5;if q13 = 1 and sumhrsnow > 0 and sumhrsnow < sumhrsbefore: ;Otherwise
+1;q16and;if q13 = 1 and sumhrsnow > 0 and sumhrsnow < sumhrsbefore: ;Otherwise, namely:
+1;q17__1;if q13 = 2 and sumhrsnow < sumhrsbefore: ;Less business activity in my company
+1;q17__2;if q13 = 2 and sumhrsnow < sumhrsbefore: ;Must take care of people (children, parents) who depend on me
+1;q17__3;if q13 = 2 and sumhrsnow < sumhrsbefore: ;The entire company is closed (for now) due to the risk of contamination
+1;q17__4;if q13 = 2 and sumhrsnow < sumhrsbefore: ;Other reason
+1;q17and;if q13 = 2 and sumhrsnow < sumhrsbefore: ;Otherwise, namely:
+1;q18;if q13 is not 1 and q13 is not 2: ;How often do you have personal social contacts with people who now work or study?
+1;q19;if q13 is not 1 and q13 is not 2:;Do you have a background or skill that can be immediately used by hospitals or healthcare to fight the coronavirus?
+1;q20;if q19 = 3 or q19 = 4 or q19 = 5: ;Suppose healthcare is overloaded by patients infected with the coronavirus. To what extent are you willing to volunteer in hospitals or retirement homes and care for people who are very ill from the coronavirus, even if that means that you are likely to contract the virus yourself?
+1;q21__1;;Do you intend to do the following things in response to the spread of the coronavirus? Save more to have something to fall back on when things get worse
+1;q21__2;;Do you intend to do the following things in response to the spread of the coronavirus? Postpone purchases of durable goods, such as a car, technical appliances or furniture, for the foreseeable future
+1;q21__3;;Do you intend to do the following things in response to the spread of the coronavirus? Postpone the purchase of a house or apartment
+1;q21__4;;Do you intend to do the following things in response to the spread of the coronavirus? Moving to a smaller house or apartment
+1;q21__5;;Do you intend to do the following things in response to the spread of the coronavirus? Selling shares
+1;q21__6;;Do you intend to do the following things in response to the spread of the coronavirus? Buying shares
+1;q21__7;;Do you intend to do the following things in response to the spread of the coronavirus? None of the above
+1;h1;;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Basic needs (e.g. groceries)
+1;h2;;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Expenses (e.g. books)
+1;h3;;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Durables
+1;h4;;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Savings
+1;h5;;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Financially support others
+1;q28;;What is the probability that the Coronavirus crisis will lead to a situation where you have no income or where your income is lower than what you need to cover basic needs and outstanding payment obligations?
+1;q29__1;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Use savings
+1;q29__2;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Have to take out a loan / increase the mortgage
+1;q29__3;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on family
+1;q29__4;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must apply for unemployment / disability benefits
+1;q29__5;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must retire (early)
+1;q29__6;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on social assistance
+1;q29__999;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on social assistance
+1;q29and;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Other, namely:
+1;q30a;;The past seven days I was very nervous
+1;q30b;;The past seven days I was so down that nothing could cheer me up
+1;q30c;;The past seven days I felt calm and peaceful
+1;q30d;;The past seven days I felt dejected and gloomy
+1;q30e;;The past seven daysI felt happy
+1;q31a;;That I get very bored
+1;q31b;;That I become infected with the coronavirus and become very ill or die
+1;q31c;;That I get infected with the coronavirus and infect others
+1;q31d;;That loved ones become infected with the coronavirus and become very ill or die
+1;q31e1;;That I will lose my job
+1;q31e2;;That my company gets in financial difficulties.
+1;q31e3;;That I won't be able to find a new job.
+1;q31f;;That I am unable to buy enough food
+1;q31g;;That I will not get good health care
+1;q31h;;That my favorite restaurant / cafe is going bankrupt
+1;v1;;How long do you think the economic crisis will last?
+1;v2a;;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Job loss (employed)
+1;v2b;;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? No more contracts (self-employed)
+1;v2c;;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Shortening my pension
+1;v2d;;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Assets will drop in value
+1;v2e;;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? My bank will go bankrupt
+1;v2f;;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Struggle to repay debts
+1;v3;;At what level will house prices in 12 months be compared to house prices in February (ie before the coronavirus outbreak)?
+1;v4;;How many percent ^ f_hogerlager
+1;v5a;;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Spend less
+1;v5c;;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Work more
+1;v5d;;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Work less
+1;v5e;;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Borrow extra
+1;v5f;;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Postpone house purchase
+1;v6a;;I think the government's action is appropriate
+1;v6b;;I think the measures taken are insufficient
+1;v6e;;The government must be prepared to save banks
+1;v6f;;Pension funds need to be helped.
+1;nomem_encr;;personal identifier
+1;q26a;if q13 = 1: ;I will keep my job because my employer / company is not financially affected by the corona virus or is financially healthy enough to continue to pay wages
+1;q26b;if q13 = 1: ;I will keep my job because the government provides help to my employer / company (eg by paying wages)
+1;q26c;if q13 = 1: ;I will have lost my job or the number of hours will have been reduced to 0 indefinitely (e.g., forced unpaid leave, I am paid per hour in a restaurant ...)
+1;q26d;if q13 = 1: ;Something else is happening
+1;maandnr;;year and month of the fieldwork period
+1;q25b;if q23__7 = 1: ;I have nothing to notice
+1;q34a;;Would you like to comment on the coronavirus outbreak? For example about things that you find important and about which we have not asked questions, or about which you would like to provide more information?
+1;q34b;;I have nothing to notice
+1;eva2t1;;Was it difficult to answer the questions?
+1;eva2t2;;Were the questions sufficiently clear?
+1;eva2t3;;Did the questionnaire get you thinking about things?
+1;eva2t4;;Was it an interesting subject?
+1;eva2t5;;Did you enjoy answering the questions?
+1;opm;;do you have comments on the questionnaire
+1;evaopm;;comments on the questionnaire
+1;DatumB;;date of questionnaire start
+1;TijdB;;time of questionnaire start
+1;DatumE;;date of questionnaire end
+1;TijdE;;time of questionnaire end
+1;duur;;time it took to fill the questionnaire in seconds
+1;nohouse_encr;;encrypted household number
+1;geslacht;;gender
+1;positie;;household position
+1;gebjaar;;birth year
+1;leeftijd;;age
+1;lftdcat;;age in CBS categories
+1;lftdhhh;;age of the household head
+1;aantalhh;;number of members in the household
+1;aantalki;;number of all children living in the household
+1;partner;;do you live with a married or unmarried partner
+1;burgstat;;marital status
+1;woonvorm;;some form of housing type, translation ambiguous
+1;woning;;some form of housing type, translation ambiguous
+1;sted;;urban residence
+1;belbezig;;main activity
+1;brutoink;;personal gross monthly income in euros
+1;brutoink_f;;Imputed personal gross income
+1;nettoink;;Personal net monthly income in euros
+1;netinc;;Personal net income original value
+1;nettoink_f;;Imputed personal net income
+1;brutocat;;Personal gross monthly income in categories
+1;nettocat;;Personal net monthly income in categories
+1;brutohh_f;;imputed gross household income
+1;nettohh_f;;imputed net household income
+1;oplzon;;highest education regardless of diploma
+1;oplmet;;highest education with diploma
+1;oplcat;;education in CBS categories
+1;q27a;if q13 = 2: ;My business continues as before or even better than before the coronavirus crisis.
+1;q27b;if q13 = 2: ;My company will have less work than before the coronavirus crisis, but will not need government support.
+1;q27c;if q13 = 2: ;My company will have less work than before the coronavirus crisis and will survive only through government support (e.g. through the relaxation of tax deferrals or additional income support for livelihoods).
+1;q27d;if q13 = 2: ;My company will have less work than before the coronavirus crisis and will have to close down
+1;q27e;if q13 = 2: ;Something else happens
+2;q1a;;
+2;q1b;;
+2;q1c;;
+2;q1e;;
+2;q13;if (participate_wave1 != 1) ;Which of the following options describes your work situation at the beginning of March 2020 best?
+2;q22;if (participate_wave1 != 1) ;How many children under 12 are in your household?
+2;q23__1;if (q22 > 0) ;I stay at home.
+2;q23__2;if (q22 > 0) ;My partner stays at home.
+2;q23__3;if (q22 > 0) ;The older siblings care for the younger children.
+2;q23__4;if (q22 > 0) ;The grandparents care for the children.
+2;q23__5;if (q22 > 0) ;Other relatives or friends care for the children.
+2;q23__6;if (q22 > 0) ;I organize child care with friends / neighbors together.
+2;q23__7;if (q22 > 0) ;The state organizes child care for my profession.
+2;q23__8;if (q22 > 0) ;My ex-partner cares for the children.
+2;q23__9;if (q22 > 0) ;The child(ren) stay(s) at home alone.
+2;q23__10;if (q22 > 0) ;Otherwise
+2;q23and;if (q22 > 0) ;Otherwise, namely:
+2;q7;;Until when dou you think that the limitations that exist now will remain in effect?
+2;q14a_1_q14werk_1;if ((q13 = 1 || q13 = 2) && participate_wave1 != 1);On average, how many hours per week did you work at your workplace in early March?
+2;q14a_1_q14thuis_1;if ((q13 = 1 || q13 = 2) && participate_wave1 != 1);On average, how many hours per week did you work at home in early March?
+2;q14c_q14werk;if ((p_q13 = 1 || p_q13 = 2) && participate_wave1 = 1);On average, how many hours per week did you work at your workplace in the past seven days?
+2;q14c_q14thuis;if ((p_q13 = 1 || p_q13 = 2) && participate_wave1 = 1);On average, how many hours per week did you work at home  in the past seven days?
+2;q14b_1_q14werk_1;if ((q13 = 1 || q13 = 2) && participate_wave1 != 1);
+2;q14b_1_q14thuis_1;if ((q13 = 1 || q13 = 2) && participate_wave1 != 1);
+2;q15__1;;Less business activity in the company where I work
+2;q15__2;;
+2;q15__3;;Because of the risk of infection, my employer postponed work
+2;q15__4;;Must take care of people (children, parents) who depend on me
+2;q15__5;;I do not go to my workplace because I am afraid of being infected by the coronavirus and I cannot do the work I do at
+2;q15__6;;
+2;q15__7;;
+2;q15__8;;I got fired
+2;q15__9;;Otherwise
+2;q15and;;Otherwise, namely:
+2;q16__1;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;Less business activity in the company where I work
+2;q16__2;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;
+2;q16__3;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;Because of the risk of infection, my employer has decided that less work will be done
+2;q16__4;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;Must take care of people (children, parents) who depend on me
+2;q16__5;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;I go to my workplace less because of fear of being infected by the coronavirus and not able to work at home.
+2;q16__6;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;
+2;q16__7;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;
+2;q16__8;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;
+2;q16__9;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;Otherwise
+2;q16and;if ((q13 = 1 || p_q13 = 1) && sumhrsnow > 0 && sumhrsnow < sumhrsbefore) ;Otherwise, namely:
+2;q17__1;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;Less business activity in my company
+2;q17__2;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;
+2;q17__3;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;
+2;q17__4;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;Must take care of people (children, parents) who depend on me
+2;q17__5;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;
+2;q17__6;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;
+2;q17__7;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;
+2;q17__8;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;Other reason
+2;q17and;if ((q13 = 2 || p_q13 = 2) && sumhrsnow < sumhrsbefore) ;Otherwise, namely:
+2;q31a;;That I get very bored
+2;q31b;;That I become infected with the coronavirus and become very ill or die
+2;q31c;;That I get infected with the coronavirus and infect others
+2;q31d;;That loved ones become infected with the coronavirus and become very ill or die
+2;q31e1;;That I will lose my job
+2;q31e2;;That my company gets in financial difficulties.
+2;q31e3;;That I won't be able to find a new job.
+2;q31f;;That I am unable to buy enough food
+2;q31g;;That I will not get good health care
+2;q31h;;That my favorite restaurant / cafe is going bankrupt
+2;nomem_encr;;personal identifier
+2;maandnr;;year and month of the fieldwork period
+2;eva2t1;;Was it difficult to answer the questions?
+2;eva2t2;;Were the questions sufficiently clear?
+2;eva2t3;;Did the questionnaire get you thinking about things?
+2;eva2t4;;Was it an interesting subject?
+2;eva2t5;;Did you enjoy answering the questions?
+2;opm;;do you have comments on the questionnaire
+2;evaopm;if opm=1 ;comments on the questionnaire
+2;DatumB;;date of questionnaire start
+2;TijdB;;time of questionnaire start
+2;DatumE;;date of questionnaire end
+2;TijdE;;time of questionnaire end
+2;duur;;time it took to fill the questionnaire in seconds
+2;nohouse_encr;;encrypted household number
+2;geslacht;;gender
+2;positie;;household position
+2;gebjaar;;birth year
+2;leeftijd;;age
+2;lftdcat;;age in CBS categories
+2;lftdhhh;;age of the household head
+2;aantalhh;;number of members in the household
+2;aantalki;;number of all children living in the household
+2;partner;;do you live with a married or unmarried partner
+2;burgstat;;marital status
+2;woonvorm;;some form of housing type, translation ambiguous
+2;woning;;some form of housing type, translation ambiguous
+2;sted;;urban residence
+2;belbezig;;main activity
+2;brutoink;;personal gross monthly income in euros
+2;brutoink_f;;Imputed personal gross income
+2;nettoink;;Personal net monthly income in euros
+2;netinc;;Personal net income original value
+2;nettoink_f;;Imputed personal net income
+2;brutocat;;Personal gross monthly income in categories
+2;nettocat;;Personal net monthly income in categories
+2;brutohh_f;;imputed gross household income
+2;nettohh_f;;imputed net household income
+2;oplzon;;highest education regardless of diploma
+2;oplmet;;highest education with diploma
+2;oplcat;;education in CBS categories
+2;p_aantalhh;;
+2;arandom;;
+2;participate_wave1;;
+2;InfectionDiagnosed;;Has a doctor or another healthcare professional diagnosed you with the coronavirus (COVID-19)?
+2;SelfPerceivedInfection;if (InfectionDiagnosed != 1) ;Do you think you�ve been infected with the coronavirus (COVID-19)?
+2;rook;;
+2;he035__1;if (rook < 3) ;What do you smoke? Multiple answers possible
+2;he035__2;if (rook < 3) ;What do you smoke? Multiple answers possible
+2;he035__3;if (rook < 3) ;What do you smoke? Multiple answers possible
+2;he035__4;if (rook < 3) ;What do you smoke? Multiple answers possible
+2;he036a;if he035__1=1 ;
+2;he036b;if he035__2=1 ;
+2;he036c;if he035__3=1;
+2;he036d;if he035__4=1 ;
+2;he038;;
+2;he039;if (he038 = 1);
+2;he040__1;if (he038 = 1) ;
+2;he040__2;if (he038 = 1) ;
+2;he040__3;if (he038 = 1) ;
+2;he040__4;if (he038 = 1) ;
+2;he040__5;if (he038 = 1) ;
+2;he040__6;if (he038 = 1) ;
+2;he040__7;if (he038 = 1) ;
+2;he040and1;if he040__7=1;
+2;he040and2;if he040__7=1;
+2;he040a_v1;if he040__1=1 ;
+2;he040a_v2;if he040__1=1 ;
+2;he040a_v3;if he040__1=1 ;
+2;he040a_v4;if he040__1=1 ;
+2;he040b_v1;if he040__2=1;
+2;he040b_v2;if he040__2=1;
+2;he040b_v3;if he040__2=1;
+2;he040b_v4;if he040__2=1;
+2;he040c_v1;if he040__3=1|| if he040__4=1|| if he040__5=1 ;
+2;he040c_v2;if he040__3=1|| if he040__4=1|| if he040__5=1 ;
+2;he040c_v3;if he040__3=1|| if he040__4=1|| if he040__5=1 ;
+2;he040d;if he040__6=1 ;
+2;he040e;if he040and1 is response;
+2;he040f;if he040and2 is response ;
+2;he041v1;;
+2;he041v2;;
+2;he041v3;;
+2;he041v4;;
+2;he041v5;;
+2;he042_v1;if (he041v1 > 1 || he041v2 > 1 || he041v3 > 1 || he041v4 > 1 || he041v5 > 1) ;
+2;he042_v2;if (he041v1 > 1 || he041v2 > 1 || he041v3 > 1 || he041v4 > 1 || he041v5 > 1) ;
+2;he042_v3;if (he041v1 > 1 || he041v2 > 1 || he041v3 > 1 || he041v4 > 1 || he041v5 > 1) ;
+2;he042_v4;if (he041v1 > 1 || he041v2 > 1 || he041v3 > 1 || he041v4 > 1 || he041v5 > 1) ;
+2;he042_v5;if (he041v1 > 1 || he041v2 > 1 || he041v3 > 1 || he041v4 > 1 || he041v5 > 1) ;
+2;cs12e284;;
+2;cs12e285;;
+2;cs12e286;;
+2;cs12e287;;
+2;cs12e288;;
+2;cs12e289;;
+2;soccont1;;
+2;soccont2;;
+2;soccomp1;;
+2;soccomp2;;
+2;cruciaal;if (q13 = 1 || q13 = 2 || p_q13 = 1 || p_q13 = 2) ;
+2;cruciaal_notempl;if (q13 > 2 || p_q13 > 2) ;
+2;inc_jan;;
+2;inc_feb;;
+2;inc_mrt;;
+2;expinc2020_col1;;
+2;expinc2021_col1;;
+2;expinc2022_col1;;
+2;expinc2020_col2;;
+2;expinc2021_col2;;
+2;expinc2022_col2;;
+2;ExpUnempl_before2020;;
+2;ExpUnempl_before2021;;
+2;ExpUnempl_before2022;;
+2;ExpUnempl_today2020;;
+2;ExpUnempl_today2021;;
+2;ExpUnempl_today2022;;
+2;ExpEcGr_before2020;;
+2;ExpEcGr_before2021;;
+2;ExpEcGr_before2022;;
+2;ExpEcGr_today2020;;
+2;ExpEcGr_today2021;;
+2;ExpEcGr_today2022;;
+2;ExpInfl_before2020;;
+2;ExpInfl_before2021;;
+2;ExpInfl_before2022;;
+2;ExpInfl_today2020;;
+2;ExpInfl_today2021;;
+2;ExpInfl_today2022;;
+2;StockTrading;;
+2;Stock3;if (StockTrading = 3);
+2;Stock4;if (StockTrading = 4);
+2;Stock5;if (StockTrading = 5);
+2;Stock6;if (StockTrading = 5);
+2;Q_InformationTreatment;if (arandom > 1) ;
+2;hist_perf_1_nocheck;;
+2;hist_perf_2_nocheck;;
+2;hist_perf_3_nocheck;;
+2;hist_perf_1;if (((hist_perf_1_nocheck < 0 || hist_perf_1_nocheck > 100) || (hist_perf_2_nocheck < 0 || hist_perf_2_nocheck > 100) || (hist_perf_3_nocheck < 0 || hist_perf_3_nocheck > 100)) || (totaal != 100));
+2;hist_perf_2;if (((hist_perf_1_nocheck < 0 || hist_perf_1_nocheck > 100) || (hist_perf_2_nocheck < 0 || hist_perf_2_nocheck > 100) || (hist_perf_3_nocheck < 0 || hist_perf_3_nocheck > 100)) || (totaal != 100));
+2;hist_perf_3;if (((hist_perf_1_nocheck < 0 || hist_perf_1_nocheck > 100) || (hist_perf_2_nocheck < 0 || hist_perf_2_nocheck > 100) || (hist_perf_3_nocheck < 0 || hist_perf_3_nocheck > 100)) || (totaal != 100));
+2;hist_perf_totaal;;
+2;HistoricPerformance2;;
+2;Memory;;
+2;forw_look_1_nocheck;;
+2;forw_look_2_nocheck;;
+2;forw_look_3_nocheck;;
+2;forw_look_1;if (((forw_look_1_nocheck < 0 || forw_look_1_nocheck > 100) || (forw_look_2_nochec k < 0 || forw_look_2_nocheck > 100) || (forw_look_3_nocheck < 0 || forw_look_3_nocheck > 100)) || (totaal != 100));
+2;forw_look_2;if (((forw_look_1_nocheck < 0 || forw_look_1_nocheck > 100) || (forw_look_2_nochec k < 0 || forw_look_2_nocheck > 100) || (forw_look_3_nocheck < 0 || forw_look_3_nocheck > 100)) || (totaal != 100));
+2;forw_look_3;if (((forw_look_1_nocheck < 0 || forw_look_1_nocheck > 100) || (forw_look_2_nochec k < 0 || forw_look_2_nocheck > 100) || (forw_look_3_nocheck < 0 || forw_look_3_nocheck > 100)) || (totaal != 100));
+2;forw_look_totaal;;
+2;ForwardLooking2;;
+2;AntReact1;;
+2;AntReact2;;
+2;account;;
+3;q1a;;
+3;q1b;;
+3;q1c;;
+3;q1e;;
+3;q33a;;Has the federal government taken enough action to safeguard medical coverage to fight the current epidemic?
+3;q33b;;Has the federal government taken enough action in restricting the public life to fight the current epidemic?
+3;q33c;;Has the federal government taken enough action to mitigate the economic repercussions to fight the current epidemic?
+3;q33d;;Has the federal government taken enough action communicating with the general public to fight the current epidemic?
+3;q14b_q14werk;if (EmploymentStatus = 1 || EmploymentStatus = 2) ;On average, how many hours per week did you work at your workplace in the past seven days?
+3;q14b_q14thuis;if (EmploymentStatus = 1 || EmploymentStatus = 2) ;On average, how many hours per week did you work at home  in the past seven days?
+3;q28;;What is the probability that the Coronavirus crisis will lead to a situation where you have no income or where your income is lower than what you need to cover basic needs and outstanding payment obligations?
+3;q29__1;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Use savings
+3;q29__2;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Have to take out a loan / increase the mortgage
+3;q29__3;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on family
+3;q29__4;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must apply for unemployment / disability benefits
+3;q29__5;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must retire (early)
+3;q29__6;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on social assistance
+3;q29__999;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on social assistance
+3;q29and;;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Other, namely:
+3;q30a_wk_pre;if ((brandom = 1) && (leeftijd >= 65)) ;The past seven days I was very nervous
+3;q30b_wk_pre;if ((brandom = 1) && (leeftijd >= 65)) ;The past seven days I was so down that nothing could cheer me up
+3;q30c_wk_pre;if ((brandom = 1) && (leeftijd >= 65)) ;The past seven days I felt calm and peaceful
+3;q30d_wk_pre;if ((brandom = 1) && (leeftijd >= 65)) ;The past seven days I felt dejected and gloomy
+3;q30e_wk_pre;if ((brandom = 1) && (leeftijd >= 65)) ;The past seven daysI felt happy
+3;q31a;;That I get very bored
+3;q31b;;That I become infected with the coronavirus and become very ill or die
+3;q31c;;That I get infected with the coronavirus and infect others
+3;q31d;;That loved ones become infected with the coronavirus and become very ill or die
+3;q31e1;;That I will lose my job
+3;q31e2;;That my company gets in financial difficulties.
+3;q31e3;;That I won't be able to find a new job.
+3;q31f;;That I am unable to buy enough food
+3;q31g;;That I will not get good health care
+3;q31x;;That my favorite restaurant / cafe is going bankrupt
+3;nomem_encr;;personal identifier
+3;q26a;if (EmploymentStatus = 1);I will keep my job because my employer / company is not financially affected by the corona virus or is financially healthy enough to continue to pay wages
+3;q26b;if (EmploymentStatus = 1);I will keep my job because the government provides help to my employer / company (eg by paying wages)
+3;q26e;if (EmploymentStatus = 1);Something else is happening
+3;q26c;if (EmploymentStatus = 1);I have a new job with another employer
+3;q26d;if (EmploymentStatus = 1);I am unemployed / no longer part of the labour force / retired / I have a disability pension
+3;maandnr;;year and month of the fieldwork period
+3;eva2t1;;Was it difficult to answer the questions?
+3;eva2t2;;Were the questions sufficiently clear?
+3;eva2t3;;Did the questionnaire get you thinking about things?
+3;eva2t4;;Was it an interesting subject?
+3;eva2t5;;Did you enjoy answering the questions?
+3;evaopm;;comments on the questionnaire
+3;DatumB;;date of questionnaire start
+3;TijdB;;time of questionnaire start
+3;DatumE;;date of questionnaire end
+3;TijdE;;time of questionnaire end
+3;duur;;time it took to fill the questionnaire in seconds
+3;nohouse_encr;;encrypted household number
+3;geslacht;;gender
+3;positie;;household position
+3;gebjaar;;birth year
+3;leeftijd;;age
+3;lftdcat;;age in CBS categories
+3;lftdhhh;;age of the household head
+3;aantalhh;;number of members in the household
+3;aantalki;;number of all children living in the household
+3;partner;;do you live with a married or unmarried partner
+3;burgstat;;marital status
+3;woonvorm;;some form of housing type, translation ambiguous
+3;woning;;some form of housing type, translation ambiguous
+3;sted;;urban residence
+3;belbezig;;main activity
+3;brutoink;;personal gross monthly income in euros
+3;brutoink_f;;Imputed personal gross income
+3;nettoink;;Personal net monthly income in euros
+3;netinc;;Personal net income original value
+3;nettoink_f;;Imputed personal net income
+3;brutocat;;Personal gross monthly income in categories
+3;nettocat;;Personal net monthly income in categories
+3;brutohh_f;;imputed gross household income
+3;nettohh_f;;imputed net household income
+3;oplzon;;highest education regardless of diploma
+3;oplmet;;highest education with diploma
+3;oplcat;;education in CBS categories
+3;InfectionDiagnosed;;Has a doctor or another healthcare professional diagnosed you with the coronavirus (COVID-19)?
+3;SelfPerceivedInfection;if (InfectionDiagnosed != 1);Do you think you�ve been infected with the coronavirus (COVID-19)?
+3;q30a_mnd;if ((brandom = 2) && (leeftijd >= 65));For the past month I felt very anxious
+3;q30b_mdn;if ((brandom = 2) && (leeftijd >= 65));For the past month  I felt so down that nothing could cheer me up
+3;q30c_mnd;if ((brandom = 2) && (leeftijd >= 65));For the past month I felt calm and peaceful
+3;q30d_mnd;if ((brandom = 2) && (leeftijd >= 65));For the past month I felt depressed and gloomy
+3;q30e_mnd;if ((brandom = 2) && (leeftijd >= 65));For the past month I felt happy
+3;SAH;;Is your health better or worse than last November?
+3;duration1;;When do you think the restrictions that are now in place will no longer apply, and all schools are open again in a normal way
+3;duration2;;When do you think the restrictions that are now in place will no longer apply, and cafes and restaurants are open again
+3;duration3;;When do you think the restrictions that are now in place will no longer apply, and we can go on holiday again in almost all of Europe
+3;duration4;;When do you think the restrictions that are now in place will no longer apply, and all economic activities take place as before
+3;EmploymentStatus;;Which of the following options best describes your situation? If multiple options apply, choose the main activity or job.
+3;vacsick1;if (EmploymentStatus = 1 || EmploymentStatus = 2) ;In the past seven days, how many days have you taken a day offf for leisure
+3;vacsick2;if (EmploymentStatus = 1 || EmploymentStatus = 2) ;In the past seven days, how many days have you to take care of the children
+3;vacsick3;if (EmploymentStatus = 1 || EmploymentStatus = 2) ;In the past seven days, how many days have you taken a day off for another reason
+3;vacsick4;if (EmploymentStatus = 1 || EmploymentStatus = 2) ;In the past seven days, how many days have you reported sick
+3;vacsick5;if (EmploymentStatus = 1 || EmploymentStatus = 2) ;In the past seven days, how many days have you not worked because of an official day off
+3;work_perc;if (EmploymentStatus = 1 || EmploymentStatus = 2 || p_q13 = 1 || p_q13 = 2) ;What percentage of your normal work prior to the coronavirus outbreak can you do while working from home?
+3;q16a;if (EmploymentStatus = 1);To the best of your knowledge, has your employer submitted an application for an allowance for labour costs (the temporary Emergency Measure Bridging Employment, abbreviated to NOW)? The scheme is intended for employers who suffer a loss of turnover of at least 20% as a result of the coronavirus. They can apply to the UWV for an allowance for labour costs.
+3;q16b;if (EmploymentStatus = 1);To the best of your knowledge, has your employer submitted an application for the Covid-19 Entrepreneurs Affected Sectors Tegemoetkoming (TOGS)? The TOGS is an emergency measure to support entrepreneurs who are directly affected by the coronavirus. They can receive a one-off sum of 4000 euros to pay their fixed costs (e.g. rent of a business premises).
+3;q16c;if (EmploymentStatus = 1);To the best of your knowledge, has your employer applied for a special tax deferral? If an entrepreneur has payment problems as a result of the corona virus, the company can apply to the tax authorities for a special deferment of payment for all income tax, corporation tax, turnover tax (VAT) and wage tax assessments.
+3;q17a;if (EmploymentStatus = 2) ;Have you submitted an application for an allowance for labour costs (the temporary Emergency Measure Bridging Employment, abbreviated to NOW)? The scheme is intended for employers who suffer a loss of turnover of at least 20% as a result of the coronavirus. They can apply to the UWV for an allowance for labour costs.
+3;q17b;if (EmploymentStatus = 2) ;Have you submitted an application for the Covid-19 Entrepreneurs Affected Sectors (TOGS)? TOGS is an emergency measure to support entrepreneurs who are directly affected by the coronavirus. They can receive a one-off sum of 4000 euros to pay their fixed costs (e.g. rent of a business premises).
+3;q17c;if (EmploymentStatus = 2) ;Have you applied for special tax deferrals? If an entrepreneur has payment problems as a result of the corona virus, the company can apply to the tax authorities for a special deferral of payment for all income tax, corporation tax, turnover tax (VAT) and wage tax assessments.
+3;q17d;if (EmploymentStatus = 2) ;Have you submitted an application for income support for the self-employed (the Temporary bridging scheme for the self-employed, abbreviated to Tozo)? The scheme provides for a supplementary livelihood allowance if the income falls below the social minimum due to the corona crisis. And a loan for working capital to absorb liquidity problems as a result of the corona crisis.
+3;q17e;if (EmploymentStatus = 2) ;Did you use the unblocking of the g-account? A g-account is a blocked bank account and is intended for companies that lend out personnel. Money can only be transferred from this account to a special giro account number of the Tax and Customs Administration and to other g-accounts.
+3;q17f_1;if (EmploymentStatus = 2) ;Have you used an amendment provisional assessment?
+3;q17f_2;if (EmploymentStatus = 2) ;Have you used the extension of the guarantee for SMEs?
+3;q17f_3;if (EmploymentStatus = 2) ;Have you used the Enterprise Guarantee Facility (GO)?
+3;q17f_4;if (EmploymentStatus = 2) ;Have you used the Qredits?
+3;q17f_5;if (EmploymentStatus = 2) ;Have you used the bridging loan fund for non-bank businesses?
+3;change_empl;if (EmploymentStatus = 1 && p_q13 = 1) ;If you compare your situation to that before the coronavirus crisis, what situation applies to you now?
+3;change_selfempl;if (EmploymentStatus = 2 && p_q13 = 2) ;If you compare your situation to that before the coronavirus crisis, what situation applies to you now?
+3;q2;;Has your employment situation changed with the coronavirus outbreak?
+3;q4_maand;if (EmploymentStatus = 3 || EmploymentStatus = 5) ;In which month did your last job end?
+3;q4_jaar;if (EmploymentStatus = 3 || EmploymentStatus = 5) ;In which year did your last job end?
+3;distance;if (EmploymentStatus = 1 || EmploymentStatus = 2);Can the work you do at your workplace be combined with the measure of keeping a distance of one and a half metres from other people?
+3;exp_pens_mrt;if ((EmploymentStatus = 1 || EmploymentStatus = 2 || EmploymentStatus = 3) &&  leeftijd >= 55) ;What was / is your expected retirement age early march (before the coronavirus affected your work)
+3;exp_pens_now;if ((EmploymentStatus = 1 || EmploymentStatus = 2 || EmploymentStatus = 3) &&  leeftijd >= 55) ;What was / is your expected retirement age now?
+3;pens_eerder;;Why do you expect to retire early now?
+3;pens_later;;Why do you expect to retire later now? Give you the main reason
+3;q26a_1;;I keep my job because my employer / company is not financially affected by the coronavirus or is financially healthy enough to continue to pay wages
+3;q26b_1;;I keep my job because the government offers help to my employer / company (e.g. through an allowance for labour costs).
+3;q26c_1;;I have a new job with another employer
+3;q26d_1;;I am unemployed / do not belong to the labour force anymore / retired / I have a disability pension
+3;q26e_1;;Something else happens
+3;q27a;if (EmploymentStatus = 2) ;My business continues as before or even better than before the coronavirus crisis.
+3;q27b;if (EmploymentStatus = 2) ;My company will have less work than before the coronavirus crisis, but will not need government support.
+3;q27c;if (EmploymentStatus = 2) ;My company will have less work than before the coronavirus crisis and will survive only through government support (e.g. through the relaxation of tax deferrals or additional income support for livelihoods).
+3;q27d;if (EmploymentStatus = 2) ;My company will have less work than before the coronavirus crisis and will have to close down
+3;q27e;if (EmploymentStatus = 2) ;Something else happens
+3;q27a_1;if (EmploymentStatus = 2) ;My business continues as before or even better than before the coronavirus crisis
+3;q27b_1;if (EmploymentStatus = 2) ;My company will have less work than before the coronavirus crisis, but will not need government support
+3;q27c_1;if (EmploymentStatus = 2) ;My company will have less work than before the coronavirus crisis and will survive only through government support (e.g. by relaxing tax deferrals or additional income support for livelihoods).
+3;q27d_1;if (EmploymentStatus = 2) ;My company will have less work than before the coronavirus crisis and will have to close down
+3;q27e_1;if (EmploymentStatus = 2) ;Something else happens
+3;q27a_ex;if (EmploymentStatus = 3) ;I�ve found a new job
+3;q27b_ex;if (EmploymentStatus = 3) ;I am in full-time education or continuing education
+3;q27c_ex;if (EmploymentStatus = 3) ;I�m not working then, but I�m looking for a new job
+3;q27d_ex;if (EmploymentStatus = 3) ;I�m not working then and I�m not looking for a new job
+3;q27e_ex;if (EmploymentStatus = 3) ;Something else happens
+3;pens_gekort;if (EmploymentStatus = 4);How high do you estimate the chance that pensions will be cut next year? A pension fund must have enough assets to be able to pay the benefits of its members now and in the future. If the financial situation of your pension fund is bad, it is possible that your pension will be reduced.
+3;korting;   if (pens_gekort > 1) ;How big do you think this discount will be for you, net in euros per month?
+3;es4_st1;;I give more money to my children and/or grandchildren
+3;es4_st2;;I save more
+3;es4_st3;;I spend more time on informal care
+3;es4_st4;;I spend less time on informal care
+3;es4_st5;;I have postponed a visit to the family doctor
+3;es4_st6;;I postponed an appointment at the hospital
+3;es4_st7;;I�ve postponed picking up medication
+3;es4_st8;;I have used less physiotherapy
+3;es4_st9;;I move less
+3;es4_st10;;I eat healthier
+3;es4_st11;;I�m lonelier
+3;es4_doelen__1;;I haven�t been outside at all
+3;es4_doelen__2;;I�ve only been outside in my own outdoor space (garden, balcony, etc.)
+3;es4_doelen__3;;for doing necessary shopping
+3;es4_doelen__4;;for making other purchases
+3;es4_doelen__5;;for taking a detour
+3;es4_doelen__6;;for social contacts (e.g. visits to friends, acquaintances, family)
+3;es4_doelen__7;;for the provision of informal care
+3;es4_doelen__8;;for volunteering
+3;es4_doelen__9;;because urgent medical care was needed
+3;es4_doelen__10;;otherwise, namely�
+3;es4_doelen_str;;otherwise, namely�
+3;v0__1;;Do you have (partially) home-housed children who are in primary or secondary school?
+3;v0__2;;Do you have (partially) home-housed children who are in primary or secondary school?
+3;v0__3;;Do you have (partially) home-housed children who are in primary or secondary school?
+3;v0a;if (positie = 1 || positie = 2 || positie = 3) && if (p_v0__1 is empty) ;How many of your children are in primary school?
+3;v0b;if (positie = 1 || positie = 2 || positie = 3) && if (p_v0__1 is empty) ;How many of your kids are in secondary school?
+3;v1_bo_kind1_bogeslacht;;First Child Primary: Gender
+3;v1_bo_kind1_bogebjaar;;First Child Primary: Birthyear
+3;v1_bo_kind2_bogeslacht;;Second Child Primary: Gender
+3;v1_bo_kind2_bogebjaar;;Second Child Primary: Birthyear
+3;v1_bo_kind3_bogeslacht;;Third Child Primary: Gender
+3;v1_bo_kind3_bogebjaar;;Third Child Primary: Birthyear
+3;v1_bo_kind4_bogeslacht;;Fourth Child Primary: Gender
+3;v1_bo_kind4_bogebjaar;;Fourth Child Primary: Birthyear
+3;v1_bo_kind5_bogeslacht;;Fifth Child Primary: Gender
+3;v1_bo_kind5_bogebjaar;;Fifth Child Primary: Birthyear
+3;v1_vo_kind1_vogeslacht;;First Child Secondary: Gender
+3;v1_vo_kind1_vogebjaar;;First Child Secondary: Birthyear
+3;v1_vo_kind1_voniveau;;First Child Secondary: Level
+3;v1_vo_kind1_voklas;;First Child Secondary: Class
+3;v1_vo_kind2_vogeslacht;;Second Child Secondary: Gender
+3;v1_vo_kind2_vogebjaar;;Second Child Secondary: Birthyear
+3;v1_vo_kind2_voniveau;;Second Child Secondary: Level
+3;v1_vo_kind2_voklas;;Second Child Secondary: Class
+3;v1_vo_kind3_vogeslacht;;Third Child Secondary: Gender
+3;v1_vo_kind3_vogebjaar;;Third Child Secondary: Birthyear
+3;v1_vo_kind3_voniveau;;Third Child Secondary: Level
+3;v1_vo_kind3_voklas;;Third Child Secondary: Class
+3;v1_vo_kind4_vogeslacht;;Fourth Child Secondary: Gender
+3;v1_vo_kind4_vogebjaar;;Fourth Child Secondary: Birthyear
+3;v1_vo_kind4_voniveau;;Fourth Child Secondary: Level
+3;v1_vo_kind4_voklas;;Fourth Child Secondary: Class
+3;v1_vo_kind5_vogeslacht;;Fifth Child Secondary: Gender
+3;v1_vo_kind5_vogebjaar;;Fifth Child Secondary: Birthyear
+3;v1_vo_kind5_voniveau;;Fifth Child Secondary: Level
+3;v1_vo_kind5_voklas;;Fifth Child Secondary: Class
+3;v2a_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind1_v2_col1_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0);Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind1_v2_col2_bokind1;if (1 in v0 || 2 in v0 || p_v0__1 = 1 || p_v0__2 = 1) && if (v0a > 0 || p_v0a > 0;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind2_v2_col1_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind2_v2_col2_bokind2;if (v0a > 1 || p_v0a > 1);Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind3_v2_col1_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind3_v2_col2_bokind3;if (v0a > 2 || p_v0a > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind4_v2_col1_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind4_v2_col2_bokind4;if (v0a > 3 || p_v0a > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind5_v2_col1_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_bokind5_v2_col2_bokind5;if (v0a > 4 || p_v0a > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind1_v2_col1_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind1_v2_col2_vokind1;if (v0b > 0 || p_v0b > 0) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind2_v2_col1_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind2_v2_col2_vokind2;if (v0b > 1 || p_v0b > 1) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind3_v2_col1_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind3_v2_col2_vokind3;if (v0b > 2 || p_v0b > 2) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind4_v2_col1_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind4_v2_col2_vokind4;if (v0b > 3 || p_v0b > 3) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: At School/After-school care
+3;v2b_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Reading books yourself (not at school)
+3;v2f_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: To be read aloud by an adult (not at school)
+3;v2g_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Domestic chores/ taking care of younger siblings
+3;v2j_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind5_v2_col1_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week when the school was closed: Other activities (e.g. eating, showering, chatting)
+3;v2a_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: At School/After-school care
+3;v2b_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Watching television, gaming, smartphone, laptop, computer, etc. (digital activities)
+3;v2c_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Engaged in learning activities, such as doing school and homework, but not at school
+3;v2d_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: learning activities, such as school and homework, accompanied by an adult (not at school)
+3;v2e_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Reading books yourself (not at school)
+3;v2f_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: To be read aloud by an adult (not at school)
+3;v2g_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hrs spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities (not at school)
+3;v2h_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Free play/other indoor and outdoor activities supervised by an adult (not at school)
+3;v2i_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hrs spent in a normal week before the school was closed on March 16: Domestic chores/ taking care of younger siblings
+3;v2j_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Sleep and rest (e.g. also lazing, thinking, being sick, etc.)
+3;v2k_vokind5_v2_col2_vokind5;if (v0b > 4 || p_v0b > 4) ;Number of (whole) hours spent in a normal week before the school was closed on March 16: Other activities (e.g. eating, showering, chatting)
+3;v3a_bokind1_v3_col1_bokind1;if (v0a > 0 || p_v0a > 0);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind1_v3_col1_bokind1;if (v0a > 0 || p_v0a > 0);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_bokind1_v3_col1_bokind1;if (v0a > 0 || p_v0a > 0);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_bokind2_v3_col1_bokind2;if (v0a > 1 || p_v0a > 1);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind2_v3_col1_bokind2;if (v0a > 1 || p_v0a > 1);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_bokind2_v3_col1_bokind2;if (v0a > 1 || p_v0a > 1);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_bokind3_v3_col1_bokind3;if (v0a > 2 || p_v0a > 2);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind3_v3_col1_bokind3;if (v0a > 2 || p_v0a > 2);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_bokind3_v3_col1_bokind3;if (v0a > 2 || p_v0a > 2);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_bokind4_v3_col1_bokind4;if (v0a > 3 || p_v0a > 3);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind4_v3_col1_bokind4;if (v0a > 3 || p_v0a > 3);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_bokind4_v3_col1_bokind4;if (v0a > 3 || p_v0a > 3);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_bokind5_v3_col1_bokind5;if (v0a > 4 || p_v0a > 4);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind5_v3_col1_bokind5;if (v0a > 4 || p_v0a > 4);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_bokind5_v3_col1_bokind5;if (v0a > 4 || p_v0a > 4);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_bokind1_v3_col2_bokind1;if (v0a > 0 || p_v0a > 0);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind1_v3_col2_bokind1;if (v0a > 0 || p_v0a > 0);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_bokind1_v3_col2_bokind1;if (v0a > 0 || p_v0a > 0);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_bokind2_v3_col2_bokind2;if (v0a > 1 || p_v0a > 1);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind2_v3_col2_bokind2;if (v0a > 1 || p_v0a > 1);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_bokind2_v3_col2_bokind2;if (v0a > 1 || p_v0a > 1);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_bokind3_v3_col2_bokind3;if (v0a > 2 || p_v0a > 2);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind3_v3_col2_bokind3;if (v0a > 2 || p_v0a > 2);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_bokind3_v3_col2_bokind3;if (v0a > 2 || p_v0a > 2);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_bokind4_v3_col2_bokind4;if (v0a > 3 || p_v0a > 3);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind4_v3_col2_bokind4;if (v0a > 3 || p_v0a > 3);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_bokind4_v3_col2_bokind4;if (v0a > 3 || p_v0a > 3);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_bokind5_v3_col2_bokind5;if (v0a > 4 || p_v0a > 4);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_bokind5_v3_col2_bokind5;if (v0a > 4 || p_v0a > 4);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_bokind5_v3_col2_bokind5;if (v0a > 4 || p_v0a > 4);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_vokind1_v3_col1_vokind1;if (v0b > 0 || p_v0b > 0);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind1_v3_col1_vokind1;if (v0b > 0 || p_v0b > 0);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_vokind1_v3_col1_vokind1;if (v0b > 0 || p_v0b > 0);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_vokind2_v3_col1_vokind2;if (v0b > 1 || p_v0b > 1);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind2_v3_col1_vokind2;if (v0b > 1 || p_v0b > 1);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_vokind2_v3_col1_vokind2;if (v0b > 1 || p_v0b > 1);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_vokind3_v3_col1_vokind3;if (v0b > 2 || p_v0b > 2);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind3_v3_col1_vokind3;if (v0b > 2 || p_v0b > 2);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_vokind3_v3_col1_vokind3;if (v0b > 2 || p_v0b > 2);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_vokind4_v3_col1_vokind4;if (v0b > 3 || p_v0b > 3);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind4_v3_col1_vokind4;if (v0b > 3 || p_v0b > 3);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_vokind4_v3_col1_vokind4;if (v0b > 3 || p_v0b > 3);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_vokind5_v3_col1_vokind5;if (v0b > 4 || p_v0b > 4);How much did you spend on the following things for your child in April (when the school was closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind5_v3_col1_vokind5;if (v0b > 4 || p_v0b > 4);How much did you spend on the following things for your child in April (when the school was closed)? Toys with an educational character
+3;v3c_vokind5_v3_col1_vokind5;if (v0b > 4 || p_v0b > 4);How much did you spend on the following things for your child in April (when the school was closed)? Tutoring (also online)
+3;v3a_vokind1_v3_col2_vokind1;if (v0b > 0 || p_v0b > 0);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind1_v3_col2_vokind1;if (v0b > 0 || p_v0b > 0);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_vokind1_v3_col2_vokind1;if (v0b > 0 || p_v0b > 0);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_vokind2_v3_col2_vokind2;if (v0b > 1 || p_v0b > 1);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind2_v3_col2_vokind2;if (v0b > 1 || p_v0b > 1);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_vokind2_v3_col2_vokind2;if (v0b > 1 || p_v0b > 1);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_vokind3_v3_col2_vokind3;if (v0b > 2 || p_v0b > 2);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind3_v3_col2_vokind3;if (v0b > 2 || p_v0b > 2);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_vokind3_v3_col2_vokind3;if (v0b > 2 || p_v0b > 2);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_vokind4_v3_col2_vokind4;if (v0b > 3 || p_v0b > 3);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind4_v3_col2_vokind4;if (v0b > 3 || p_v0b > 3);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_vokind4_v3_col2_vokind4;if (v0b > 3 || p_v0b > 3);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v3a_vokind5_v3_col2_vokind5;if (v0b > 4 || p_v0b > 4);How much did you spend on the following things for your child in February (before the school closed)? Books (also e-books and audiobooks, but no schoolbooks)
+3;v3b_vokind5_v3_col2_vokind5;if (v0b > 4 || p_v0b > 4);How much did you spend on the following things for your child in February (before the school closed)? Toys with an educational character
+3;v3c_vokind5_v3_col2_vokind5;if (v0b > 4 || p_v0b > 4);How much did you spend on the following things for your child in February (before the school closed)? Tutoring (also online)
+3;v4a_bokind1;if (v0a > 0 || p_v0a > 0);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_bokind1;if (v0a > 0 || p_v0a > 0);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_bokind1;if (v0a > 0 || p_v0a > 0);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_bokind1;if (v0a > 0 || p_v0a > 0);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_bokind2;if (v0a > 1 || p_v0a > 1);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_bokind2;if (v0a > 1 || p_v0a > 1);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_bokind2;if (v0a > 1 || p_v0a > 1);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_bokind2;if (v0a > 1 || p_v0a > 1);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_bokind3;if (v0a > 2 || p_v0a > 2);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_bokind3;if (v0a > 2 || p_v0a > 2);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_bokind3;if (v0a > 2 || p_v0a > 2);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_bokind3;if (v0a > 2 || p_v0a > 2);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_bokind4;if (v0a > 3 || p_v0a > 3);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_bokind4;if (v0a > 3 || p_v0a > 3);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_bokind4;if (v0a > 3 || p_v0a > 3);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_bokind4;if (v0a > 3 || p_v0a > 3);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_bokind5;if (v0a > 4 || p_v0a > 4);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_bokind5;if (v0a > 4 || p_v0a > 4);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_bokind5;if (v0a > 4 || p_v0a > 4);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_bokind5;if (v0a > 4 || p_v0a > 4);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_vokind1;if (v0b > 0 || p_v0b > 0);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_vokind1;if (v0b > 0 || p_v0b > 0);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_vokind1;if (v0b > 0 || p_v0b > 0);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_vokind1;if (v0b > 0 || p_v0b > 0);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_vokind2;if (v0b > 1 || p_v0b > 1);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_vokind2;if (v0b > 1 || p_v0b > 1);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_vokind2;if (v0b > 1 || p_v0b > 1);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_vokind2;if (v0b > 1 || p_v0b > 1);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_vokind3;if (v0b > 2 || p_v0b > 2);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_vokind3;if (v0b > 2 || p_v0b > 2);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_vokind3;if (v0b > 2 || p_v0b > 2);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_vokind3;if (v0b > 2 || p_v0b > 2);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_vokind4;if (v0b > 3 || p_v0b > 3);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_vokind4;if (v0b > 3 || p_v0b > 3);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_vokind4;if (v0b > 3 || p_v0b > 3);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_vokind4;if (v0b > 3 || p_v0b > 3);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4a_vokind5;if (v0b > 4 || p_v0b > 4);If I spend more time supporting the child in school work, the chance that the child will go to university is greater.
+3;v4b_vokind5;if (v0b > 4 || p_v0b > 4);If I spend more money on educational material (eg books, educational games, tutoring, etc.) for a child, the chances of a child going to university are higher.
+3;v4c_vokind5;if (v0b > 4 || p_v0b > 4);If I spend more time supporting child in school work, the chances are that he will earn a salary that is above average by the age of 30.
+3;v4d_vokind5;if (v0b > 4 || p_v0b > 4);If I spend more money on educational materials (eg books, educational games, tutoring, etc.) for a child, the chances are that he will earn a salary that is above average by the age of 30.
+3;v5a_bokind1;if (v0a > 0 || p_v0a > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_bokind1;if (v0a > 0 || p_v0a > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_bokind1;if (v0a > 0 || p_v0a > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_bokind1;if (v0a > 0 || p_v0a > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_bokind1;if (v0a > 0 || p_v0a > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_bokind1;if (v0a > 0 || p_v0a > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_bokind2;if (v0a > 1 || p_v0a > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_bokind2;if (v0a > 1 || p_v0a > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_bokind2;if (v0a > 1 || p_v0a > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_bokind2;if (v0a > 1 || p_v0a > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_bokind2;if (v0a > 1 || p_v0a > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_bokind2;if (v0a > 1 || p_v0a > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_bokind3;if (v0a > 2 || p_v0a > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_bokind3;if (v0a > 2 || p_v0a > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_bokind3;if (v0a > 2 || p_v0a > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_bokind3;if (v0a > 2 || p_v0a > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_bokind3;if (v0a > 2 || p_v0a > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_bokind3;if (v0a > 2 || p_v0a > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_bokind4;if (v0a > 3 || p_v0a > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_bokind4;if (v0a > 3 || p_v0a > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_bokind4;if (v0a > 3 || p_v0a > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_bokind4;if (v0a > 3 || p_v0a > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_bokind4;if (v0a > 3 || p_v0a > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_bokind4;if (v0a > 3 || p_v0a > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_bokind5;if (v0a > 4 || p_v0a > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_bokind5;if (v0a > 4 || p_v0a > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_bokind5;if (v0a > 4 || p_v0a > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_bokind5;if (v0a > 4 || p_v0a > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_bokind5;if (v0a > 4 || p_v0a > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_bokind5;if (v0a > 4 || p_v0a > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_vokind1;if (v0b > 0 || p_v0b > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_vokind1;if (v0b > 0 || p_v0b > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_vokind1;if (v0b > 0 || p_v0b > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_vokind1;if (v0b > 0 || p_v0b > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_vokind1;if (v0b > 0 || p_v0b > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_vokind1;if (v0b > 0 || p_v0b > 0);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_vokind2;if (v0b > 1 || p_v0b > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_vokind2;if (v0b > 1 || p_v0b > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_vokind2;if (v0b > 1 || p_v0b > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_vokind2;if (v0b > 1 || p_v0b > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_vokind2;if (v0b > 1 || p_v0b > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_vokind2;if (v0b > 1 || p_v0b > 1);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_vokind3;if (v0b > 2 || p_v0b > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_vokind3;if (v0b > 2 || p_v0b > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_vokind3;if (v0b > 2 || p_v0b > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_vokind3;if (v0b > 2 || p_v0b > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_vokind3;if (v0b > 2 || p_v0b > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_vokind3;if (v0b > 2 || p_v0b > 2);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_vokind4;if (v0b > 3 || p_v0b > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_vokind4;if (v0b > 3 || p_v0b > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_vokind4;if (v0b > 3 || p_v0b > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_vokind4;if (v0b > 3 || p_v0b > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_vokind4;if (v0b > 3 || p_v0b > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_vokind4;if (v0b > 3 || p_v0b > 3);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v5a_vokind5;if (v0b > 4 || p_v0b > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His mental health this year
+3;v5b_vokind5;if (v0b > 4 || p_v0b > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: friendships of child this year
+3;v5c_vokind5;if (v0b > 4 || p_v0b > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades for the subject of Dutch in the coming school year in relation to other students in the class
+3;v5d_vokind5;if (v0b > 4 || p_v0b > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: school grades in proportion to other class members
+3;v5e_vokind5;if (v0b > 4 || p_v0b > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His chance to go to college
+3;v5f_vokind5;if (v0b > 4 || p_v0b > 4);We would like to know what, in your opinion, is the impact of closing the school (on March 16) on children when it comes to: His longterm career
+3;v6_bokind1__1;if (v0a > 0 || p_v0a > 0);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_bokind1__2;if (v0a > 0 || p_v0a > 0);Teacher(s) and pupil/parents communicated by telephone
+3;v6_bokind1__3;if (v0a > 0 || p_v0a > 0);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_bokind1__4;if (v0a > 0 || p_v0a > 0);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_bokind1__5;if (v0a > 0 || p_v0a > 0);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_bokind1__6;if (v0a > 0 || p_v0a > 0);Teaching materials had to be picked up at school
+3;v6_bokind1__7;if (v0a > 0 || p_v0a > 0);There was no communication between teacher(s) and pupil/parents
+3;v6_bokind1__8;if (v0a > 0 || p_v0a > 0);Another way of communication/exchange, namely:
+3;v6_and_bokind1;if (v0a > 0 || p_v0a > 0);Another way of communication/exchange, namely:
+3;v6_bokind2__1;if (v0a > 1 || p_v0a > 1);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_bokind2__2;if (v0a > 1 || p_v0a > 1);Teacher(s) and pupil/parents communicated by telephone
+3;v6_bokind2__3;if (v0a > 1 || p_v0a > 1);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_bokind2__4;if (v0a > 1 || p_v0a > 1);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_bokind2__5;if (v0a > 1 || p_v0a > 1);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_bokind2__6;if (v0a > 1 || p_v0a > 1);Teaching materials had to be picked up at school
+3;v6_bokind2__7;if (v0a > 1 || p_v0a > 1);There was no communication between teacher(s) and pupil/parents
+3;v6_bokind2__8;if (v0a > 1 || p_v0a > 1);Another way of communication/exchange, namely:
+3;v6_and_bokind2;if (v0a > 1 || p_v0a > 1);Another way of communication/exchange, namely:
+3;v6_bokind3__1;if (v0a > 2 || p_v0a > 2);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_bokind3__2;if (v0a > 2 || p_v0a > 2);Teacher(s) and pupil/parents communicated by telephone
+3;v6_bokind3__3;if (v0a > 2 || p_v0a > 2);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_bokind3__4;if (v0a > 2 || p_v0a > 2);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_bokind3__5;if (v0a > 2 || p_v0a > 2);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_bokind3__6;if (v0a > 2 || p_v0a > 2);Teaching materials had to be picked up at school
+3;v6_bokind3__7;if (v0a > 2 || p_v0a > 2);There was no communication between teacher(s) and pupil/parents
+3;v6_bokind3__8;if (v0a > 2 || p_v0a > 2);Another way of communication/exchange, namely:
+3;v6_and_bokind3;if (v0a > 2 || p_v0a > 2);Another way of communication/exchange, namely:
+3;v6_bokind4__1;if (v0a > 3 || p_v0a > 3);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_bokind4__2;if (v0a > 3 || p_v0a > 3);Teacher(s) and pupil/parents communicated by telephone
+3;v6_bokind4__3;if (v0a > 3 || p_v0a > 3);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_bokind4__4;if (v0a > 3 || p_v0a > 3);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_bokind4__5;if (v0a > 3 || p_v0a > 3);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_bokind4__6;if (v0a > 3 || p_v0a > 3);Teaching materials had to be picked up at school
+3;v6_bokind4__7;if (v0a > 3 || p_v0a > 3);There was no communication between teacher(s) and pupil/parents
+3;v6_bokind4__8;if (v0a > 3 || p_v0a > 3);Another way of communication/exchange, namely:
+3;v6_and_bokind4;if (v0a > 3 || p_v0a > 3);Another way of communication/exchange, namely:
+3;v6_bokind5__1;if (v0a > 4 || p_v0a > 4);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_bokind5__2;if (v0a > 4 || p_v0a > 4);Teacher(s) and pupil/parents communicated by telephone
+3;v6_bokind5__3;if (v0a > 4 || p_v0a > 4);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_bokind5__4;if (v0a > 4 || p_v0a > 4);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_bokind5__5;if (v0a > 4 || p_v0a > 4);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_bokind5__6;if (v0a > 4 || p_v0a > 4);Teaching materials had to be picked up at school
+3;v6_bokind5__7;if (v0a > 4 || p_v0a > 4);There was no communication between teacher(s) and pupil/parents
+3;v6_bokind5__8;if (v0a > 4 || p_v0a > 4);Another way of communication/exchange, namely:
+3;v6_and_bokind5;if (v0a > 4 || p_v0a > 4);Another way of communication/exchange, namely:
+3;v6_vokind1__1;if (v0b > 0 || p_v0b > 0);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_vokind1__2;if (v0b > 0 || p_v0b > 0);Teacher(s) and pupil/parents communicated by telephone
+3;v6_vokind1__3;if (v0b > 0 || p_v0b > 0);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_vokind1__4;if (v0b > 0 || p_v0b > 0);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_vokind1__5;if (v0b > 0 || p_v0b > 0);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_vokind1__6;if (v0b > 0 || p_v0b > 0);Teaching materials had to be picked up at school
+3;v6_vokind1__7;if (v0b > 0 || p_v0b > 0);There was no communication between teacher(s) and pupil/parents
+3;v6_vokind1__8;if (v0b > 0 || p_v0b > 0);Another way of communication/exchange, namely:
+3;v6_and_vokind1;if (v0b > 0 || p_v0b > 0);Another way of communication/exchange, namely:
+3;v6_vokind2__1;if (v0b > 1 || p_v0b > 1);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_vokind2__2;if (v0b > 1 || p_v0b > 1);Teacher(s) and pupil/parents communicated by telephone
+3;v6_vokind2__3;if (v0b > 1 || p_v0b > 1);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_vokind2__4;if (v0b > 1 || p_v0b > 1);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_vokind2__5;if (v0b > 1 || p_v0b > 1);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_vokind2__6;if (v0b > 1 || p_v0b > 1);Teaching materials had to be picked up at school
+3;v6_vokind2__7;if (v0b > 1 || p_v0b > 1);There was no communication between teacher(s) and pupil/parents
+3;v6_vokind2__8;if (v0b > 1 || p_v0b > 1);Another way of communication/exchange, namely:
+3;v6_and_vokind2;if (v0b > 1 || p_v0b > 1);Another way of communication/exchange, namely:
+3;v6_vokind3__1;if (v0b > 2 || p_v0b > 2);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_vokind3__2;if (v0b > 2 || p_v0b > 2);Teacher(s) and pupil/parents communicated by telephone
+3;v6_vokind3__3;if (v0b > 2 || p_v0b > 2);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_vokind3__4;if (v0b > 2 || p_v0b > 2);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_vokind3__5;if (v0b > 2 || p_v0b > 2);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_vokind3__6;if (v0b > 2 || p_v0b > 2);Teaching materials had to be picked up at school
+3;v6_vokind3__7;if (v0b > 2 || p_v0b > 2);There was no communication between teacher(s) and pupil/parents
+3;v6_vokind3__8;if (v0b > 2 || p_v0b > 2);Another way of communication/exchange, namely:
+3;v6_and_vokind3;if (v0b > 2 || p_v0b > 2);Another way of communication/exchange, namely:
+3;v6_vokind4__1;if (v0b > 3 || p_v0b > 3);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_vokind4__2;if (v0b > 3 || p_v0b > 3);Teacher(s) and pupil/parents communicated by telephone
+3;v6_vokind4__3;if (v0b > 3 || p_v0b > 3);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_vokind4__4;if (v0b > 3 || p_v0b > 3);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_vokind4__5;if (v0b > 3 || p_v0b > 3);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_vokind4__6;if (v0b > 3 || p_v0b > 3);Teaching materials had to be picked up at school
+3;v6_vokind4__7;if (v0b > 3 || p_v0b > 3);There was no communication between teacher(s) and pupil/parents
+3;v6_vokind4__8;if (v0b > 3 || p_v0b > 3);Another way of communication/exchange, namely:
+3;v6_and_vokind4;if (v0b > 3 || p_v0b > 3);Another way of communication/exchange, namely:
+3;v6_vokind5__1;if (v0b > 4 || p_v0b > 4);Teacher(s) and pupil/parents communicated and exchanged teaching material by e-mail
+3;v6_vokind5__2;if (v0b > 4 || p_v0b > 4);Teacher(s) and pupil/parents communicated by telephone
+3;v6_vokind5__3;if (v0b > 4 || p_v0b > 4);Teacher(s) and pupil/parents communicated and exchanged teaching material by post
+3;v6_vokind5__4;if (v0b > 4 || p_v0b > 4);Teacher(s) and pupil/parents communicated and exchanged teaching material via Social media or Messenger (e.g. Whatsapp).
+3;v6_vokind5__5;if (v0b > 4 || p_v0b > 4);Teacher(s) and pupil/parents communicated and exchanged learning materials via a �digital learning� platform (forum, special software) on the school�s website.
+3;v6_vokind5__6;if (v0b > 4 || p_v0b > 4);Teaching materials had to be picked up at school
+3;v6_vokind5__7;if (v0b > 4 || p_v0b > 4);There was no communication between teacher(s) and pupil/parents
+3;v6_vokind5__8;if (v0b > 4 || p_v0b > 4);Another way of communication/exchange, namely:
+3;v6_and_vokind5;if (v0b > 4 || p_v0b > 4);Another way of communication/exchange, namely:

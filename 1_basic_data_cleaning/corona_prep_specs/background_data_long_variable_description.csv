@@ -1,0 +1,10 @@
+new_name;import_name;liss-data-set;topic_english;group;label_english;nice_name_english;type;categories_english;ordered
+paid_work_hours;paid_work_hours;time_use_consumption;background;time_use;;;float;;
+commute_hours;commute_hours;time_use_consumption;background;time_use;;;float;;
+chores_hours;chores_hours;time_use_consumption;background;time_use;;;float;;
+childcare_hours;childcare_hours;time_use_consumption;background;time_use;;;float;;
+help_parents_hours;help_parents_hours;time_use_consumption;background;time_use;;;float;;
+help_family_hours;help_family_hours;time_use_consumption;background;time_use;;;float;;
+leisure_hours;leisure_hours;time_use_consumption;background;time_use;;;float;;
+schooling_hours;schooling_hours;time_use_consumption;background;time_use;;;float;;
+resting_hours;resting_hours;time_use_consumption;background;time_use;;;float;;

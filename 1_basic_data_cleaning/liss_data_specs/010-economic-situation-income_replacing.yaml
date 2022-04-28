@@ -1,0 +1,220 @@
+--- # replacing income yaml file
+"mixed_case":
+  - "appliances_has_fixed_line_phone"
+  - "appliances_has_phone_wo_inet"
+  - "appliances_has_phone_w_inet"
+  - "appliances_has_widescreen_tv"
+  - "appliances_has_digital_tv"
+  - "appliances_has_satellite_dish"
+  - "appliances_has_home_cinema"
+  - "appliances_has_cd_player"
+  - "appliances_has_dvd_player"
+  - "appliances_has_dvd_recorder"
+  - "appliances_has_cd_dvd_writer"
+  - "appliances_has_mp3_player"
+  - "appliances_has_mp4_player"
+  - "appliances_has_camcorder"
+  - "appliances_has_pda_without_inet"
+  - "appliances_has_pda_with_inet"
+  - "appliances_has_computer"
+  - "appliances_has_printer"
+  - "appliances_has_digital_camera"
+  - "appliances_has_games_console"
+  - "appliances_has_gps"
+  - "appliances_has_wash_dryer"
+  - "appliances_has_dishwasher"
+  - "appliances_has_freezer"
+  - "appliances_has_microwave"
+  - "appliances_has_deep_fryer"
+  - "appliances_has_car"
+  - "appliances_has_phone"
+
+"numeric":
+  - "life_rating"
+  - "company_car_nr_months"
+
+"type renaming":
+  "boolean":
+    "Ja": !!bool True
+    "ja": !!bool True
+    "Nee": !!bool False
+    "nee": !!bool False
+    "Yes": !!bool True
+    "No": !!bool False
+    "yes": !!bool True
+    "no": !!bool False
+    "no, does not work": !!bool False
+    "yes, works": !!bool True
+    "not applicable": !!bool False
+
+"replacing":
+  "household_position":
+    "Household head*": "Household head"
+    9999.0: !!float .nan
+    0: !!float .nan
+    "unknown": !!float .nan
+
+  "lives_with_partner":
+    2: !!float .nan
+    3: !!float .nan
+    4: !!float .nan
+    5: !!float .nan
+    6: !!float .nan
+    7: !!float .nan
+
+  "how_financial_decisions_made_d":
+    "my partner and I each arrange our own financial affairs": "my partner and I each manage our own financial affairs"
+    "for the most part we arrange our own money, but we also have a small shared rese": "for the most part we manage our own money, but we also have a small shared reserve"
+    "for the most part we manage our own money, but we also have a small shared reser": "for the most part we manage our own money, but we also have a small shared reserve"
+    "we have a shared reserve and to a limited extent each arranges one's own money": "we have a shared reserve and to a limited extent each manages one's own money"
+    "we have a shared reserve and to a limited extent each manages one\x92s own money": "we have a shared reserve and to a limited extent each manages one's own money"
+    "we have a shared reserve and to a limited extent each manages ones own money": "we have a shared reserve and to a limited extent each manages one's own money"
+    "we arrange our finances together, there are no separate reserves": "we manage our finances together, there are no separate reserves"
+
+  "reason_did_not_go_out":
+    "I can\x92t afford it": "I can't afford it"
+    "I couldn\x92t leave the children alone": "I couldn't leave the children alone"
+    "I didn\x92t want to": "I didn't want to"
+
+  "experiment_participation":
+    "panel member did not participate in the experiment": !!bool False
+    "panel member did not participate in experiment": !!bool False
+    "panel member participated in the experiment": !!bool True
+    "panel member participated in experiment": !!bool True
+
+  "appliances_reason_nophone":
+    "can\x92t afford it": "can't afford it"
+    "don\x92t need it": "don't need it"
+    99.0: !!float .nan
+
+  "income_other_total_amt":
+    -9: !!float .nan
+    "-9": !!float .nan
+
+  "full_df":
+    "I don\x92t know": !!float .nan
+    "don\x92t know": !!float .nan
+    "don't know": !!float .nan
+    "Don't know": !!float .nan
+    "I don't know": !!float .nan
+    "": !!float .nan
+    "I prefer not to say": !!float .nan
+    9999999999.0: !!float .nan
+    "n/a since I am not looking for a job": !!float .nan
+    9999999998.0: !!float .nan
+    "n/a since I am voluntarily quitting my job": !!float .nan
+    "n/a since I don\x92t have a job": !!float .nan
+    "n/a since I don't have a job": !!float .nan
+    "n/a, since I already have a job": !!float .nan
+
+
+"multicolumn":
+  "10 scale vars":
+    "columns":
+      - "satisfied_finances"
+      - "satisfied_econ_in_ned"
+      - "financ_sit_changed_last_year"
+      - "ease_living_with_current_income"
+      - "could_reduce_hh_expenditure_by"
+      - "happiness"
+    "dictionary":
+      "0": 0
+      "1": 1
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": 5
+      "6": 6
+      "7": 7
+      "8": 8
+      "9": 9
+      "10": 10
+      "entirely satisfied": 10
+      "10 entirely satisfied": 10
+      "0 not at all satisfied": 0
+      "not at all satisfied": 0
+      "much better": 10
+      "10 much better": 10
+      "much worse": 0
+      "0 much worse": 0
+      "very hard": 0
+      "0 very hard": 0
+      "very easy": 10
+      "10 very easy": 10
+      "not at all possible": 0
+      "0 not at all possible": 0
+      "no problem at all": 10
+      "10 no problem at all": 10
+      "not at all happy": 0
+      "0 not at all happy": 0
+      "extremely happy": 10
+      "10 extremely happy": 10
+      "10 very happy": 10
+
+  "5 scale vars":
+    "columns":
+      - "questionnaire_difficult"
+      - "questionnaire_clear"
+      - "questionnaire_thinking"
+      - "questionnaire_interesting"
+      - "questionnaire_enjoy"
+    "dictionary":
+      "1": 1
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": 5
+      "certainly not": 1
+      "1 certainly not": 1
+      "certainly yes": 5
+      "5 certainly yes": 5
+      "1 = certainly not": 1
+      "5 = certainly yes": 5
+
+  "7 scale vars":
+    "columns":
+      - "how_hard_to_pay_500eur_wo_loan"
+      - "burden_living_costs"
+    "dictionary":
+      "1": 1
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": 5
+      "6": 6
+      "7": 7
+      "not at all a burden": 1
+      "1 not at all a burden": 1
+      "a heavy burden": 7
+      "7 a heavy burden": 7
+      "1 very easy": 1
+      "7 very hard": 7
+
+  "events change income":
+    "columns":
+      - "benefit_wachtg_gross_amt_categ"
+      - "ex_ch_net_income_hhm_stop_work"
+      - "ex_ch_net_income_hhm_start_work"
+      - "ex_ch_net_income_hhm_change_job"
+      - "ex_ch_net_income_hhm_adv_career"
+      - "ex_ch_net_inc_hhm_soc_incr"
+      - "ex_ch_net_inc_hhm_soc_decr"
+    "dictionary":
+      "not applicable": !!float .nan
+
+  "money for":
+    "columns":
+      - "prepares_full_meal_every_day"
+      - "buys_new_clothes_regularly"
+      - "replaces_worth_furniture"
+      - "financ_support_child_schooling"
+      - "takes_holiday_every_year"
+      - "went_out_dinner_past_2_months"
+      - "can_heat_home"
+      - "pays_for_sports_club"
+    "dictionary":
+      "no, I don\x92t have enough money for that": "no, I don't have enough money for that"
+      "no, I do not have enough money": "no, I don't have enough money for that"
+      "no, I don\x92t think it is necessary": "no, I don't think it is necessary"
+      "no, I don't find that necessary": "no, I don't think it is necessary"
+      "not applicable": !!float .nan

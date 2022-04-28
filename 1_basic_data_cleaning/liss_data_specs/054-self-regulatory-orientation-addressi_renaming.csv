@@ -1,0 +1,48 @@
+new_name;labels;ed11a_EN_1.0p.dta
+self_negative;In general I am focused on preventing negative events in my life;ed11a001
+self_expectations;I often imagine how I can achieve my expectations and aspirations.;ed11a002
+self_striving;I see myself as someone who is primarily striving to reach my ?ideal self? -to f;ed11a003
+self_fail;I often worry that I will fail to accomplish my goals.;ed11a004
+self_preventing;I am more focused on preventing loss than gaining profits.;ed11a005
+self_failure;I often think about how to prevent a failure in my life.;ed11a006
+self_positive;In general I am focused on achieving positive outcomes in my life;ed11a007
+self_avoid;At this moment my major goal in life is to avoid becoming a failure;ed11a008
+self_expected;I see myself as someone who is primarily striving to become what is expected of;ed11a009
+self_ideal;I often think about the person I would ideally like to be in the future.;ed11a010
+self_anxious;I am anxious that I will fall short of my responsibilities and obligations.;ed11a011
+self_success1;I typically focus on the success I hope to achieve in the future.;ed11a012
+self_bad;I often imagine myself experiencing bad things that I fear might happen to me.;ed11a013
+self_ambitions;My major goal in life is to achieve my ambitions.;ed11a014
+self_afraid;I often think about the person I am afraid I might become in the future.;ed11a015
+self_success2;I often think about how I can achieve success.;ed11a016
+self_good;I often imagine that good things happen to me.;ed11a017
+self_success3;I am more focused on achieving success than on preventing failure.;ed11a018
+self_strength;I?d rather depend on my own strength than being dependent on others.;ed11a019
+self_independent;My personal identity independent of others is very important to me.;ed11a020
+self_winning;Winning is everything.;ed11a021
+self_competition;Competition is the law of nature.;ed11a022
+self_proud;If an acquaintance gets a prize I would feel proud.;ed11a023
+self_social;To me pleasure is spending time with others.;ed11a024
+self_family;It is my duty to take care of my family even when I have to sacrifice what I wa;ed11a025
+self_group;It is important to me that I respect the decisions made by my groups.;ed11a026
+self_helpless;It upsets me to see helpless old people.;ed11a027
+self_depressed;I cannot continue to feel OK if people around me are depressed.;ed11a028
+self_angry;I get very angry when I see someone being ill-treated.;ed11a029
+self_involved;I tend to get emotionally involved with a friend?s problems.;ed11a030
+self_animal;I am very upset when I see an animal in pain.;ed11a031
+self_lonely;It makes me sad to see a lonely stranger in a group.;ed11a032
+self_nervous;I become nervous if others around me seem to be nervous.;ed11a033
+self_cry;Seeing people cry upsets me.;ed11a034
+questionnaire_difficult;Was it difficult to answer the questions?;ed11a035
+questionnaire_clear;Were the questions sufficiently clear?;ed11a036
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ed11a037
+questionnaire_interesting;Was it an interesting subject?;ed11a038
+questionnaire_enjoy;Did you enjoy answering the questions?;ed11a039
+start_date;Starting date questionnaire;ed11a040
+start_time;Starting time questionnaire;ed11a041
+end_date;End date questionnaire;ed11a042
+end_time;End time questionnaire;ed11a043
+duration;Duration in seconds;ed11a044
+date_fieldwork;Year and month of the field work period;ed11a_m
+hh_id;Number of household encrypted;nohouse_encr
+personal_id;Number of household member encrypted;nomem_encr

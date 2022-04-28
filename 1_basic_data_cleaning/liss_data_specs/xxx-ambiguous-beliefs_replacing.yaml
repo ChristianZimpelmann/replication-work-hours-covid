@@ -1,0 +1,159 @@
+--- # renaming corona yaml file
+"numeric":
+  - "portfolio2_amt"
+  - "portfolio3_amt"
+  - "portfolio4_amt"
+  - "portfolio5_amt"
+
+"replacing":
+  "full_df":
+    "Dat wil ik niet zeggen": !!float .nan
+    "Weet ik niet": !!float .nan
+    "Onbekend (missing)": !!float .nan
+    "nee": False
+    "ja": True
+    "Nee": False
+    "Ja": True
+
+  "aex_perf":
+    " ": !!float .nan
+    "1,9": 1.9
+
+  "hh_members":
+    "E\u00e9n persoon": 1
+    "Twee personen": 2
+    "Drie personen": 3
+    "Vier personen": 4
+    "Vijf personen": 5
+    "Zes personen": 6
+    "Zeven personen": 7
+    "Acht personen": 8
+
+  "hh_children":
+    "Geen": 0
+    "E\u00e9n kind": 1
+    "Twee kinderen": 2
+    "Drie kinderen": 3
+    "Vier kinderen": 4
+    "Vijf kinderen": 5
+    "Zes kinderen": 6
+
+  "education_cbs":
+    "mbo": "mbo (intermediate vocational education, US: junior college)"
+    "hbo": "hbo (higher vocational education, US: college)"
+    "vmbo": "vmbo (intermediate secondary education, US: junior high school)"
+    "basisonderwijs": "primary school"
+    "wo": "wo (university)"
+    "havo/vwo": "havo/vwo (higher secondary education/preparatory university education, US: senio"
+
+  "education_diploma":
+    "mbo": "mbo (intermediate vocational education, US: junior college)"
+    "hbo": "hbo (higher vocational education, US: college)"
+    "vmbo": "vmbo (intermediate secondary education, US: junior high school)"
+    "basisonderwijs": "primary school"
+    "wo": "wo (university)"
+    "havo/vwo": "havo/vwo (higher secondary education/preparatory university education, US: senio"
+    "anders": "other"
+    "(Nog) geen onderwijs afgerond": "Not (yet) completed any education"
+    "Volgt nog geen onderwijs": "Not yet started any education"
+
+  "education_nodiploma":
+    "mbo": "mbo (intermediate vocational education, US: junior college)"
+    "hbo": "hbo (higher vocational education, US: college)"
+    "vmbo": "vmbo (intermediate secondary education, US: junior high school)"
+    "basisonderwijs": "primary school"
+    "wo": "wo (university)"
+    "havo/vwo": "havo/vwo (higher secondary education/preparatory university education, US: senio"
+    "anders": "other"
+    "(Nog) geen onderwijs (gevolgd)": "Not (yet) started any education"
+
+  "gender":
+    "Man": "Male"
+    "Vrouw": "Female"
+
+  "civil_status":
+    "Nooit getrouwd": "Never been married"
+    "Gehuwd": "Married"
+    "Gescheiden": "Divorced"
+    "Weduwe of weduwnaar": "Widow or widower"
+    "Gescheiden van tafel en bed": "Separated"
+
+  "dom_situation":
+    "Alleenstaande": "Single"
+    "(On)gehuwd samenwonend, met kind(eren)": "(Un)married co-habitation, with child(ren)"
+    "(On)gehuwd samenwonend, zonder kind(eren)": "(Un)married co-habitation, without child(ren)"
+    "Alleenstaande, met kind(eren)": "Single, with child(ren)"
+    "Anders": "Other"
+
+  "dwelling_type":
+    "Koopwoning": "Self-owned dwelling"
+    "Huurwoning": "Rental dwelling"
+    "Woning in onderhuur": "Sublet dwelling"
+    "Gratis woning": "Cost-free dwelling"
+    "Onbekend (missing)": !!float .nan
+
+  "location_urban":
+    "Niet stedelijk": "Not urban"
+    "Weinig stedelijk": "Slightly urban"
+    "Matig stedelijk": "Moderately urban"
+    "Sterk stedelijk": "Very urban"
+    "Zeer sterk stedelijk": "Extremely urban"
+
+  "occupation":
+    "Verricht betaald werk in loondienst": "Paid employment"
+    "Werkt of is meewerkend in gezins- of familiebedrijf": "Works or assists in family business"
+    "Is vrije beroepsbeoefenaar, freelancer of zelfstandige": "Autonomous professional, freelancer, or self-employed"
+    "Zoekt werk na verlies werkkring": "Job seeker following job loss"
+    "Zoekt voor het eerst werk": "First-time job seeker"
+    "Vrijgesteld van werkzoeken na verlies van werkkring": "Exempted from job seeking following job loss"
+    "Gaat naar school of studeert": "Attends school or is studying"
+    "Verzorgt de huishouding": "Takes care of the housekeeping"
+    "Is met pensioen (vervroegd, AOW of VUT)": "Is pensioner ([voluntary] early retirement, old age pension scheme)"
+    "Is (gedeeltelijk) arbeidsongeschikt": "Has (partial) work disability"
+    "Verricht onbetaald werk met behoud van uitkering": "Performs unpaid work while retaining unemployment benefit"
+    "Verricht vrijwilligerswerk": "Performs voluntary work"
+    "Doet iets anders": "Does something else"
+    "Is te jong, heeft nog geen bezigheden": "Is too young to have an occupation"
+
+  "hh_position":
+    "Huishoudhoofd": "Household head"
+    "Gehuwde partner": "Wedded partner"
+    "Kind dat thuis woont": "Child living at home"
+    "Ongehuwde partner": "Unwedded partner"
+    "(Schoon)ouder": "Parent (in law)"
+    "Huisgenoot": "Housemate"
+    "Familielid of kostganger": "Family member or boarder"
+    "Onbekend (missing)": !!float .nan
+
+"multicolumn":
+  "quant_risk_aversion":
+    "columns":
+      - "portfolio1"
+      - "portfolio2"
+      - "portfolio3"
+      - "portfolio4"
+      - "portfolio5"
+    "dictionary":
+      "Optie B": 2
+      "Optie A": 1
+
+  "stereotypes":
+    "columns":
+      - "self_assessment_greedy"
+      - "self_assessment_gambler"
+      - "self_assessment_selfish"
+      - "other_stocks_greedy"
+      - "other_stocks_gambler"
+      - "other_stocks_selfish"
+      - "other_nostocks_greedy"
+      - "other_nostocks_gambler"
+      - "other_nostocks_selfish"
+      - "response_stocks_greedy"
+      - "response_stocks_gambler"
+      - "response_stocks_selfish"
+      - "response_nostocks_greedy"
+      - "response_nostocks_gambler"
+      - "response_nostocks_selfish"
+    "dictionary":
+      "0 helemaal oneens": 0
+      "10 helemaal eens": 10

@@ -1,0 +1,298 @@
+;new_name;labels;hz12a_EN_1.0p.dta
+0;importance_family;For each of the following, indicate how important it is in your life. Family;hz12a001
+1;importance_friends;For each of the following, indicate how important it is in your life. Friends an;hz12a002
+2;importance_leisure;For each of the following, indicate how important it is in your life. Leisure ti;hz12a003
+3;importance_politics;For each of the following, indicate how important it is in your life. Politics;hz12a004
+4;importance_work;For each of the following, indicate how important it is in your life. Work;hz12a005
+5;importance_;For each of the following, indicate how important it is in your life. Religion;hz12a006
+6;general_happiness;Taking all things together, how happy would you say you are?;hz12a007
+7;general_health;All in all, how would you describe your state of health these days? Would you sa;hz12a008
+8;child_imp_independence;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a009
+9;child_imp_hardwork;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a010
+10;child_imp_responsibility;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a011
+11;child_imp_imagination;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a012
+12;child_imp_tolerance;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a013
+13;child_imp_thrift;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a014
+14;child_imp_determination;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a015
+15;child_imp_religiousfaith;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a016
+16;child_imp_unselfishness;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a017
+17;child_imp_obedience;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a018
+18;child_imp_selfexpression;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a019
+19;child_imp_dontknow;Below is a list of qualities that children can be encouraged to learn at home. W;hz12a020
+20;general_satisfaction;All things considered, how satisfied are you with your life as a whole these day;hz12a021
+21;trust;Generally speaking, would you say that most people can be trusted or that you ne;hz12a022
+22;member_church;For each of the following organizations, could you tell whether you are an activ;hz12a023
+23;member_sport;For each of the following organizations, could you tell whether you are an activ;hz12a024
+24;member_art;For each of the following organizations, could you tell whether you are an activ;hz12a025
+25;member_laborunion;For each of the following organizations, could you tell whether you are an activ;hz12a026
+26;member_party;For each of the following organizations, could you tell whether you are an activ;hz12a027
+27;member_enironmental;For each of the following organizations, could you tell whether you are an activ;hz12a028
+28;member_professional;For each of the following organizations, could you tell whether you are an activ;hz12a029
+29;member_charitable;For each of the following organizations, could you tell whether you are an activ;hz12a030
+30;member_consumer;For each of the following organizations, could you tell whether you are an activ;hz12a031
+31;member_selfhelp;For each of the following organizations, could you tell whether you are an activ;hz12a032
+32;member_other;For each of the following organizations, could you tell whether you are an activ;hz12a033
+33;member_other_name;For each of the following organizations, could you tell whether you are an activ;hz12a034
+34;nneighbors_drugaddict;Below are various groups of people. Could you please mention any that you would;hz12a035
+35;nneighbors_differentrace;Below are various groups of people. Could you please mention any that you would;hz12a036
+36;nneighbors_aids;Below are various groups of people. Could you please mention any that you would;hz12a037
+37;nneighbors_immigrant;Below are various groups of people. Could you please mention any that you would;hz12a038
+38;nneighbors_homosexual;Below are various groups of people. Could you please mention any that you would;hz12a039
+39;nneighbors_diffferentreligion;Below are various groups of people. Could you please mention any that you would;hz12a040
+40;nneighbors_drinker;Below are various groups of people. Could you please mention any that you would;hz12a041
+41;nneighbors_unmarriedcouple;Below are various groups of people. Could you please mention any that you would;hz12a042
+42;nneighbors_differentlanguage;Below are various groups of people. Could you please mention any that you would;hz12a043
+43;nneighbors_dontknow;Below are various groups of people. Could you please mention any that you would;hz12a044
+44;work_men;When jobs are scarce, men should have more right to a job than women.;hz12a045
+45;work_immigrants;When jobs are scarce, employers should give priority to people of this country o;hz12a046
+46;earning_men;If a woman earns more money than her husband, it's almost certain to cause probl;hz12a047
+47;earning_independence;Having a job is the best way for a woman to be an independent person.;hz12a048
+48;goals_parentsproud;For the following goals, please indicate to what extent you agree or disagree. O;hz12a049
+49;goals_motherworks;For the following goals, please indicate to what extent you agree or disagree. W;hz12a050
+50;goals_menpoliticalleaders;For the following goals, please indicate to what extent you agree or disagree. O;hz12a051
+51;goals_educationgirl;For the following goals, please indicate to what extent you agree or disagree. A;hz12a052
+52;goals_menexecutives;For the following goals, please indicate to what extent you agree or disagree. O;hz12a053
+53;goals_housewife;For the following goals, please indicate to what extent you agree or disagree. B;hz12a054
+54;shocking_kiss;I find it shocking when a man and a woman kiss in public.;hz12a055
+55;shocking_homokiss;I find it shocking when two men kiss in public.;hz12a056
+56;homo_free;Gay men and lesbian women should be free to live their life as they wish.;hz12a057
+57;woman_betterchildren;A woman is more suited to rearing young children than a man.;hz12a058
+58;locus_control;Please indicate how much freedom of choice and control you feel you have over th;hz12a059
+59;trust_takeadvantage;Do you think most people would try to take advantage of you if they got a chance;hz12a060
+60;civil_status;Are you currently?;hz12a061
+61;n_children;How many children do you have?;hz12a062
+62;sexual_preference;What is your sexual preference, women, men, or both?;hz12a063
+63;satisfaction_financial_hh;How satisfied are you with the financial situation of your household?;hz12a064
+64;country_goals_1;People sometimes talk about what the aims of this country should be for the next;hz12a065
+65;country_goals_2;And which would be the next most important?;hz12a066
+66;country_important_1_1;If you had to choose, which one of the things below would you say is most import;hz12a067
+67;country_important_1_2;And which would be the next most important?;hz12a068
+68;country_important_2_1;Here is another list. In your opinion, which one of these is most important?;hz12a069
+69;country_important_2_2;And what would be the next most important?;hz12a070
+70;war_fight;Of course, we all hope that there will not be another war, but if it were to com;hz12a071
+71;change_importancework;Less importance placed on work in our lives;hz12a072
+72;change_technology;More emphasis on the development of technology;hz12a073
+73;change_authority;Greater respect for authority;hz12a074
+74;person_creative;"It is important to this person to think up new ideas and be creative; to do thin";hz12a075
+75;person_rich;"It is important to this person to be rich; to have a lot of money and expensive";hz12a076
+76;person_securesurrounding;"Living in secure surroundings is important to this person; to avoid anything tha";hz12a077
+77;person_goodtime;"It is important to this person to have a good time; to spoil oneself.";hz12a078
+78;person_goodsociety;It is important to this person to do something for the good of society.;hz12a079
+79;person_helppeople;"It is important for this people to help the people nearby; to care for their wel";hz12a080
+80;person_success;"Being very successful is important to this person; to have people recognize one";hz12a081
+81;person_risk;"Adventure and taking risks are important to this person; to have an exciting lif";hz12a082
+82;person_behaveproperly;"It is important to this person to always behave properly; to avoid doing anythin";hz12a083
+83;person_environment;"Looking after the environment is important to this person; to care for nature.";hz12a084
+84;person_tradition;"Tradition is important to this person; to follow the customs handed down by one";hz12a085
+85;world_problem;Please indicate which of the following problems you consider the most serious on;hz12a086
+86;growth_vs_environment;Here are two statements people sometimes make when discussing the environment an;hz12a087
+87;donation_economy;During the past two years have you given money to an ecological organization?;hz12a088
+88;demonstration_economy;During the past two years have you participated in a demonstration for some env;hz12a089
+89;intrest_politics;How interested would you say you are in politics?;hz12a090
+90;polaction_petition;Please indicate for each one whether you have done any of these things, whether;hz12a091
+91;polaction_boycott;Please indicate for each one whether you have done any of these things, whether;hz12a092
+92;polaction_demonstration;Please indicate for each one whether you have done any of these things, whether;hz12a093
+93;polaction_strike;Please indicate for each one whether you have done any of these things, whether;hz12a094
+94;polaction_other;Please indicate for each one whether you have done any of these things, whether;hz12a095
+95;polaction_other_name;Please indicate for each one whether you have done any of these things, whether;hz12a096
+96;polaction_5_petition;Which of these activities have you done in the last five years? Signing a petiti;hz12a097
+97;polaction_5_boycott;Which of these activities have you done in the last five years? Joining in boyco;hz12a098
+98;polaction_5_demonstration;Which of these activities have you done in the last five years? Attending peacef;hz12a099
+99;polaction_5_strike;Which of these activities have you done in the last five years? Joining strikes;hz12a100
+100;polaction_5_other;Which of these activities have you done in the last five years? [answer given at;hz12a101
+101;left_vs_right;In political matters, people talk of 'the left' and 'the right.' How would you p;hz12a102
+102;view_equality;How would you place your views on this scale?;hz12a103
+103;view_governmentbusiness;How would you place your views on this scale?;hz12a104
+104;view_responsibility;How would you place your views on this scale?;hz12a105
+105;view_competition;How would you place your views on this scale?;hz12a106
+106;view_hardwork;How would you place your views on this scale?;hz12a107
+107;view_winwin;How would you place your views on this scale?;hz12a108
+108;trust_family;How much do you trust people from the following groups: Your family;hz12a109
+109;trust_neighborhood;How much do you trust people from the following groups: Your neighbors;hz12a110
+110;trust_peopleknow;How much do you trust people from the following groups: People you know personal;hz12a111
+111;trust_newpeople;How much do you trust people from the following groups: People you meet for the;hz12a112
+112;trust_otherreligion;How much do you trust people from the following groups: People of another religi;hz12a113
+113;trust_othernationality;How much do you trust people from the following groups: People of another nation;hz12a114
+114;confidence_churches;Please indicate how much confidence you have in the following organizations: The;hz12a115
+115;confidence_army;Please indicate how much confidence you have in the following organizations: The;hz12a116
+116;confidence_press;Please indicate how much confidence you have in the following organizations: The;hz12a117
+117;confidence_television;Please indicate how much confidence you have in the following organizations: Tel;hz12a118
+118;confidence_laborunions;Please indicate how much confidence you have in the following organizations: Lab;hz12a119
+119;confidence_police;Please indicate how much confidence you have in the following organizations: The;hz12a120
+120;confidence_courts;Please indicate how much confidence you have in the following organizations: The;hz12a121
+121;confidence_government;Please indicate how much confidence you have in the following organizations: The;hz12a122
+122;confidence_parties;Please indicate how much confidence you have in the following organizations: Pol;hz12a123
+123;confidence_parliament;Please indicate how much confidence you have in the following organizations: Par;hz12a124
+124;confidence_civilservice;Please indicate how much confidence you have in the following organizations: The;hz12a125
+125;confidence_universities;Please indicate how much confidence you have in the following organizations: Uni;hz12a126
+126;confidence_companies;Please indicate how much confidence you have in the following organizations: Maj;hz12a127
+127;confidence_banks;Please indicate how much confidence you have in the following organizations: Ban;hz12a128
+128;confidence_env_org;Please indicate how much confidence you have in the following organizations: Env;hz12a129
+129;confidence_womensorganization;Please indicate how much confidence you have in the following organizations: Wom;hz12a130
+130;confidence_char_org;Please indicate how much confidence you have in the following organizations: Cha;hz12a131
+131;confidence_eu;Please indicate how much confidence you have in the following organizations: The;hz12a132
+132;confidence_un;Please indicate how much confidence you have in the following organizations: The;hz12a133
+133;governing_strongleader;Having a strong leader who does not have to bother with parliament and elections;hz12a134
+134;governing_experts;Having experts, not government, make decisions according to what they think is b;hz12a135
+135;governing_army;Having the army rule;hz12a136
+136;governing_democracy;Having a democratic political system;hz12a137
+137;essential_redistribution;Governments tax the rich and subsidize the poor.;hz12a138
+138;essential_religiousauthorities;Religious authorities ultimately interpret the laws.;hz12a139
+139;essential_freeelections;People choose their leaders in free elections.;hz12a140
+140;essential_unemploymentaid;People receive state aid for unemployment.;hz12a141
+141;essential_army;The army takes over when government is incompetent.;hz12a142
+142;essential_civilrights;Civil rights protect people from state oppression.;hz12a143
+143;essential_incomesequal;The state makes peoples incomes equal.;hz12a144
+144;essential_obey;People obey their rulers.;hz12a145
+145;essential_womensamerights;Women have the same rights as men.;hz12a146
+146;democracy_important;How important is it for you to live in a country that is governed democratically;hz12a147
+147;democracy_today;And how democratically is this country being governed today?;hz12a148
+148;respect_humanrights;How much respect is there for individual human rights nowadays in this country?;hz12a149
+149;think_meaningoflife;How often do you think about the meaning and purpose of life?;hz12a150
+150;belong_religion;Do you belong to a religion or religious denomination?;hz12a151
+151;belong_religion_name;To which religion or religious denomination do you belong?;hz12a152
+152;belong_religion_other;To which religion or religious denomination do you belong? Other, namely;hz12a153
+153;howoften_religiousservices;Apart from weddings, funerals and christenings, about how often do you attend re;hz12a154
+154;howoften_pray;Apart from weddings and funerals, about how often do you pray?;hz12a155
+155;religious_person;Independently of whether you attend religious services or not, would you say you;hz12a156
+156;believe_god;Do you believe in God?;hz12a157
+157;believe_hell;Do you believe in hell?;hz12a158
+158;meaning_religion_1;With which one of the following statements do you agree most?;hz12a159
+159;meaning_religion_2;And with which of the following statements do you agree most?;hz12a160
+160;importance_god;How important is God in your life?;hz12a161
+161;agree_religionvsscience;Whenever science and religion conflict, religion is always right.;hz12a162
+162;agree_accepatablereligion;The only acceptable religion is my religion.;hz12a163
+163;agree_religionschools;All religions should be taught in our public schools.;hz12a164
+164;agree_diffreligion;People who belong to different religions are probably just as moral as those who;hz12a165
+165;social_position_20;Please indicate where most people would place the social position of people in;hz12a166
+166;social_position_40;Please indicate where most people would place the social position of people in;hz12a167
+167;social_position_70;Please indicate where most people would place the social position of people ove;hz12a168
+168;myself_reserved;I see myself as someone who is reserved;hz12a169
+169;myself_trusting;I see myself as someone who is generally trusting;hz12a170
+170;myself_lazy;I see myself as someone who tends to be lazy;hz12a171
+171;myself_relaxed;I see myself as someone who is relaxed, handles stress well;hz12a172
+172;myself_fewartistic;I see myself as someone who has few artistic interests;hz12a173
+173;myself_outgoing;I see myself as someone who is outgoing, sociable;hz12a174
+174;myself_findfault;I see myself as someone who tends to find fault with others;hz12a175
+175;myself_thoroughjob;I see myself as someone who does a thorough job;hz12a176
+176;myself_nervous;I see myself as someone who gets nervous easily;hz12a177
+177;myself_imagination;I see myself as someone who has an active imagination;hz12a178
+178;acceptable_30boss;How acceptable or unacceptable do you think most people in the Netherlands would;hz12a179
+179;70viewed_friendly;Please indicate how likely it is that most people in the Netherlands view those;hz12a180
+180;70viewed_competent;Please indicate how likely it is that most people in the Netherlands view those;hz12a181
+181;70viewed_respect;Please indicate how likely it is that most people in the Netherlands view those;hz12a182
+182;acceptable_70boss;How acceptable or unacceptable you think most people in the Netherlands would fi;hz12a183
+183;agree_older_notrespected;Older people are not respected much these days.;hz12a184
+184;agree_older_getmore;Older people get more than their fair share from the government.;hz12a185
+185;agree_older_burden;Older people are a burden on society.;hz12a186
+186;agree_companysyoung;Companies that employ young people perform better than those that employ people;hz12a187
+187;agree_older_politicalinfluence;Old people have too much political influence.;hz12a188
+188;secure_neighborhodd;How secure do you feel these days in your neighborhood?;hz12a189
+189;neighborhood_robberies;How frequently do the following things occur in your neighborhood? Robberies;hz12a190
+190;neighborhood_alcohol;How frequently do the following things occur in your neighborhood? Alcohol consu;hz12a191
+191;neighborhood_police;How frequently do the following things occur in your neighborhood? Police or mil;hz12a192
+192;neighborhood_racist;How frequently do the following things occur in your neighborhood? Racist behavi;hz12a193
+193;neighborhood_drugs;How frequently do the following things occur in your neighborhood? Drug sale in;hz12a194
+194;security_money;Which of the following things have you done for reasons of security? Didnt carr;hz12a195
+195;security_goout;Which of the following things have you done for reasons of security? Preferred n;hz12a196
+196;security_weapon;Which of the following things have you done for reasons of security? Carried a k;hz12a197
+197;victim;Have you been the victim of a crime during the past year?;hz12a198
+198;victim_family;Has someone in your immediate family been the victim of a crime during the last;hz12a199
+199;worry_losingjob;To what degree are you worried about the following situations? Losing my job or;hz12a200
+200;worry_educhildren;To what degree are you worried about the following situations? Not being able to;hz12a201
+201;worry_war;To what degree are you worried about the following situations? A war involving m;hz12a202
+202;worry_terrorist;To what degree are you worried about the following situations? A terrorist attac;hz12a203
+203;worry_civilwar;To what degree are you worried about the following situations? A civil war;hz12a204
+204;worry_wiretapping;To what degree are you worried about the following situations? Government wire-t;hz12a205
+205;war_justice;Do you agree or disagree with the following statement: Under some conditions, w;hz12a206
+206;12months_nofood;In the last 12 months, how often have you or your family gone without enough fo;hz12a207
+207;12months_unsafe;In the last 12 months, how often have you or your family felt unsafe from crime;hz12a208
+208;12months_nomedicine;In the last 12 months, how often have you or your family gone without medicine;hz12a209
+209;12months_nocashincome;In the last 12 months, how often have you or your family gone without a cash in;hz12a210
+210;agree_science_comfortable;Science and technology are making our lives healthier, easier, and more comforta;hz12a211
+211;agree_science_opportunities;Because of science and technology, there will be more opportunities for the next;hz12a212
+212;agree_science_dependence;We depend too much on science and not enough on faith.;hz12a213
+213;agree_science_rightwrong;One of the bad effects of science is that it breaks down peoples ideas of right;hz12a214
+214;agree_science_notimportant;It is not important for me to know about science in my daily life.;hz12a215
+215;science_betteroff;All things considered, would you say that the world is better off, or worse off,;hz12a216
+216;justified_benefits;For each of the following actions indicate whether you think it can always be ju;hz12a217
+217;justified_fare;For each of the following actions indicate whether you think it can always be ju;hz12a218
+218;justified_stealing;For each of the following actions indicate whether you think it can always be ju;hz12a219
+219;justified_cheatingtax;For each of the following actions indicate whether you think it can always be ju;hz12a220
+220;justified_acceptbribe;For each of the following actions indicate whether you think it can always be ju;hz12a221
+221;justified_homosexuality;For each of the following actions indicate whether you think it can always be ju;hz12a222
+222;justified_prostitution;For each of the following actions indicate whether you think it can always be ju;hz12a223
+223;justified_abortion;For each of the following actions indicate whether you think it can always be ju;hz12a224
+224;justified_divorce;For each of the following actions indicate whether you think it can always be ju;hz12a225
+225;justified_sexmarriage;For each of the following actions indicate whether you think it can always be ju;hz12a226
+226;justified_suicide;For each of the following actions indicate whether you think it can always be ju;hz12a227
+227;justified_euthanasia;For each of the following actions indicate whether you think it can always be ju;hz12a228
+228;justified_beatwife;For each of the following actions indicate whether you think it can always be ju;hz12a229
+229;justified_beatchildren;For each of the following actions indicate whether you think it can always be ju;hz12a230
+230;justified_violence;For each of the following actions indicate whether you think it can always be ju;hz12a231
+231;proud_dutch;How proud are you to be Dutch?;hz12a232
+232;myself_worldcitizen;I see myself as a world citizen.;hz12a233
+233;myself_localcommunity;I see myself as part of my local community.;hz12a234
+234;myself_dutch;I see myself as part of the Dutch nation.;hz12a235
+235;myself_eu;I see myself as part of the European Union.;hz12a236
+236;myself_autonomous;I see myself as an autonomous individual.;hz12a237
+237;sources_newspapers;For each of the following sources, please indicate how often you use it to obtai;hz12a238
+238;sources_magazines;For each of the following sources, please indicate how often you use it to obtai;hz12a239
+239;sources_tvnews;For each of the following sources, please indicate how often you use it to obtai;hz12a240
+240;sources_radio;For each of the following sources, please indicate how often you use it to obtai;hz12a241
+241;sources_mobilephones;For each of the following sources, please indicate how often you use it to obtai;hz12a242
+242;sources_email;For each of the following sources, please indicate how often you use it to obtai;hz12a243
+243;sources_internet;For each of the following sources, please indicate how often you use it to obtai;hz12a244
+244;sources_friends;For each of the following sources, please indicate how often you use it to obtai;hz12a245
+245;howoften_computer;How often do you use a personal computer?;hz12a246
+246;vote_local;When elections take place, do you vote always, usually or never? Local level;hz12a247
+247;vote_national;When elections take place, do you vote always, usually or never? National level;hz12a248
+248;party_vote;If there were a national election tomorrow, for which party on this list would y;hz12a249
+249;party_vote_other;If there were a national election tomorrow, for which party on this list would y;hz12a250
+250;party_appeal;Which party appeals to you most?;hz12a251
+251;party_appeal_other;Which party appeals to you most? Other party, namely...;hz12a252
+252;howoften_votesfair;In your view, how often do the following things occur in this countrys election;hz12a253
+253;howoften_oppositioncandidates;In your view, how often do the following things occur in this countrys election;hz12a254
+254;howoften_newsfavor;In your view, how often do the following things occur in this countrys election;hz12a255
+255;howoften_votersbribed;In your view, how often do the following things occur in this countrys election;hz12a256
+256;howoften_journalistsfair;In your view, how often do the following things occur in this countrys election;hz12a257
+257;howoften_officialsfair;In your view, how often do the following things occur in this countrys election;hz12a258
+258;howoften_buyelections;In your view, how often do the following things occur in this countrys election;hz12a259
+259;howoften_votersthreatened;In your view, how often do the following things occur in this countrys election;hz12a260
+260;howoften_voterschoice;In your view, how often do the following things occur in this countrys election;hz12a261
+261;honest_elections_matter;Do you think that honest elections play an important role in deciding whether yo;hz12a262
+262;honest_elections_growth;Do you think that honest elections are an important factor in whether or not thi;hz12a263
+263;employed;Are you employed? If yes, about how many hours a week?;hz12a264
+264;employed_other;Are you employed? If yes, about how many hours a week? Other, namely...;hz12a265
+265;employed_position;In what position do you do most of your work? If you currently do not have a job;hz12a266
+266;employed_government_public;Are you working for the government or public institution, for private business o;hz12a267
+267;employed_manual_intellectual;Are the tasks you do at work mostly manual or mostly intellectual?;hz12a268
+268;employed_routine_creative;Are the tasks you perform at work mostly routine tasks or mostly creative tasks?;hz12a269
+269;employed_independence;How much independence do you have in performing your tasks at work?;hz12a270
+270;employed_supervise;Do you or did you supervise other people at work?;hz12a271
+271;chief_wage_earner;Are you the chief wage earner in your household?;hz12a272
+272;chief_wage_earner_employed;Is the chief wage earner of your household employed now or not?;hz12a273
+273;family_save;During the past year, did your family;hz12a274
+274;class;To which class do you belong?;hz12a275
+275;income_group;Below are net incomes per month. We would like to know in what group your househ;hz12a276
+276;citizen;Are you a citizen of this country?;hz12a277
+277;language;What language do you normally speak at home?;hz12a278
+278;language_other;What language do you normally speak at home? Other language, namely...;hz12a279
+279;education;What is the highest educational level that you have attained?;hz12a280
+280;education_age;At what age [did you / do you expect to] complete your full time education, eith;hz12a281
+281;live_parents;Do you live with your parents?;hz12a282
+282;others_present;Were other people present during the interview?;hz12a283
+283;skin_color;Which of the following groups would you say describes your skin color best?;hz12a284
+284;skin_color_other;Which of the following groups would you say describes your skin color best? Othe;hz12a285
+285;questionnaire_difficult;Was it difficult to answer the questions?;hz12a286
+286;questionnaire_clear;Were the questions sufficiently clear?;hz12a287
+287;questionnaire_thinking;Did the questionnaire get you thinking about things?;hz12a288
+288;questionnaire_interesting;Was it an interesting subject?;hz12a289
+289;questionnaire_enjoy;Did you enjoy answering the questions?;hz12a290
+290;start_date;Starting date questionnaire;hz12a291
+291;start_time;Starting time questionnaire;hz12a292
+292;end_date;End date questionnaire;hz12a293
+293;end_time;End time questionnaire;hz12a294
+294;duration;Duration in seconds;hz12a295
+295;date_fieldwork;Year and month of the field work period;hz12a_m
+296;personal_id;Number  of the household member encrypted;nomem_encr

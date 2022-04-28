@@ -1,0 +1,282 @@
+{
+  "001-background-variables": {
+    "core": true,
+    "file_name": "background",
+    "prefix": "b",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "002-health": {
+    "core": true,
+    "file_name": "health",
+    "prefix": "he",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "003-religion-and-ethnicity": {
+    "core": true,
+    "file_name": "religion",
+    "prefix": "r",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "004-social-integration-and-leisure": {
+    "core": true,
+    "file_name": "leisure",
+    "prefix": "l",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "005-family-and-household": {
+    "core": true,
+    "file_name": "family",
+    "prefix": "f",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "006-work-and-schooling": {
+    "core": true,
+    "file_name": "work_schooling",
+    "prefix": "w",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "007-personality": {
+    "core": true,
+    "file_name": "personality",
+    "prefix": "pe",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "008-politics-and-values": {
+    "core": true,
+    "file_name": "politics_values",
+    "prefix": "po",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "009-economic-situation-assets": {
+    "core": true,
+    "file_name": "assets",
+    "prefix": "a",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "010-economic-situation-income": {
+    "core": true,
+    "file_name": "income",
+    "prefix": "i",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "011-economic-situation-housing": {
+    "core": true,
+    "file_name": "housing",
+    "prefix": "ho",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "030-tilburg-consumer-outlook-monitor": {
+    "core": false,
+    "file_name": "consumer_outlook",
+    "prefix": "co",
+    "specific_calc": true,
+    "multiple_files_per_year": true
+  },
+  "034-time-use-and-consumption": {
+    "core": false,
+    "file_name": "time_use_consumption",
+    "prefix": "tuc",
+    "specific_calc": true,
+    "multiple_files_per_year": true
+  },
+  "035-mental-health": {
+    "core": false,
+    "file_name": "mental_health",
+    "prefix": "mh",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "044-ambiguity-aversion-and-household-por": {
+    "core": false,
+    "file_name": "ambiguity",
+    "prefix": "ambig",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "052-are-effective-emotion-regulation-str": {
+    "core": false,
+    "file_name": "emotion_financial",
+    "prefix": "ef",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "054-self-regulatory-orientation-addressi": {
+    "core": false,
+    "file_name": "self_social_life",
+    "prefix": "ssl",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "065-are-investors-driven-by-sentiments": {
+    "core": false,
+    "file_name": "investors_sentiment",
+    "prefix": "is",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "068-financial-literacy": {
+    "core": false,
+    "file_name": "fin_literacy",
+    "prefix": "fl",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "077-betrayal-beliefs-and-the-demographic": {
+    "core": false,
+    "file_name": "betrayal",
+    "prefix": "bet",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "080-the-use-of-dependent-interviewing-an": {
+    "core": false,
+    "file_name": "dep_interviewing",
+    "prefix": "di",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "089-perceptions-of-the-determinants-of-e": {
+    "core": false,
+    "file_name": "perceptions_econ_success",
+    "prefix": "pes",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "094-personal-responsibility": {
+    "core": false,
+    "file_name": "personal_responsibility",
+    "prefix": "pr",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "098-life-history-questionnaire": {
+    "core": false,
+    "file_name": "life_history",
+    "prefix": "lh",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "102-world-values-survey": {
+    "core": false,
+    "file_name": "world_values",
+    "prefix": "wv",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "104-status-concerns-and-societal-dissati": {
+    "core": false,
+    "file_name": "status_concerns",
+    "prefix": "sc",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "131-a-cross-national-survey-experiment-o": {
+    "core": false,
+    "file_name": "pension_reform",
+    "prefix": "pr",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "135-subjective_beliefs": {
+    "core": false,
+    "file_name": "subjective_beliefs",
+    "prefix": "sb",
+    "specific_calc": false,
+    "multiple_files_per_year": true
+  },
+  "139-an-instructional-manipulation-check-": {
+    "core": false,
+    "file_name": "manipulation_check",
+    "prefix": "mc",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "147-changing-costs-regarding-care-and-pe": {
+    "core": false,
+    "file_name": "cost_care_pension",
+    "prefix": "ccp",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "149-on-parents-transferring-their-unfulf": {
+    "core": false,
+    "file_name": "parents_ambitions",
+    "prefix": "pa",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "153-lottery-decisions": {
+    "core": false,
+    "file_name": "lottery_dec",
+    "prefix": "lot",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "157-expectations-about-old-age-income": {
+    "core": false,
+    "file_name": "expect_oldc",
+    "prefix": "exp_o",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "166-decision-2016": {
+    "core": false,
+    "file_name": "decision",
+    "prefix": "des",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "xxx-ambiguous-beliefs": {
+    "core": false,
+    "file_name": "ambiguous_beliefs",
+    "prefix": "ambbel",
+    "specific_calc": true,
+    "multiple_files_per_year": true
+  },
+  "xxy-preferences-personality-numeracy": {
+    "core": false,
+    "file_name": "pref_numeracy",
+    "prefix": "pref_num",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "xxz-houshold-bargaining-prenup-child-inv": {
+    "core": false,
+    "file_name": "household_child_inv",
+    "prefix": "hh_ch",
+    "specific_calc": true,
+    "multiple_files_per_year": false
+  },
+  "xyx-corona-questionnaire": {
+    "core": false,
+    "file_name": "corona",
+    "prefix": "covid",
+    "specific_calc": true,
+    "multiple_files_per_year": true
+  },
+  "xzx-statistical-reasoning": {
+    "core": false,
+    "file_name": "stat_literacy",
+    "prefix": "stat_lit",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  },
+  "221-covid-gender": {
+    "core": false,
+    "file_name": "covid_gender",
+    "prefix": "cov_gender",
+    "specific_calc": false,
+    "multiple_files_per_year": false
+  }
+}

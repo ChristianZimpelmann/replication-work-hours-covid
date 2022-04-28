@@ -1,0 +1,524 @@
+;new_name;labels;bd15x_EN_1.0p.dta;bd15w_EN_1.0p.dta;bd14v_EN_1.0p.dta;bd14u_EN_1.0p.dta;bd14t_EN_1.0p.dta;bd14s_EN_1.0p.dta;bd13r_EN_1.0p.dta;bd13q_EN_1.0p.dta;bd13p_EN_1.0p.dta;bd13o_EN_1.0p.dta;bd12n_EN_1.0p.dta;bd12m_EN_1.0p.dta;bd12l_EN_1.0p.dta;bd12k_EN_1.dta;bd11i_EN_1.0p.dta;bd11h_EN_1.0p.dta;bd11g_EN_1.0p.dta;bd10f_EN_2.0p.dta;bd10e_EN_1.0p.dta;bd10d_EN_1.0p.dta;bd10c_EN_1.0p.dta;bd09b_EN_1.0p.dta;bd09a_EN_1.0p.dta
+0;newspaper_randomization;randomization newspaper headlines;;;;;;;;;;;;;;;;;;;;;;;bd09a001
+1;lottery_randomization;randomization lottery amount;;;;;;;;;;;;;;;;;;;;;;;bd09a002
+2;;first word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a003
+3;;second word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a004
+4;;third word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a005
+5;;fourth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a006
+6;;fifth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a007
+7;;sixth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a008
+8;;seventh word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a009
+9;;eighth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a010
+10;;ninth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a011
+11;;tenth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a012
+12;;eleventh word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a013
+13;;twelfth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a014
+14;;thirteenth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a015
+15;;fourteenth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a016
+16;;fifteenth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a017
+17;;sixteenth word displayed;;;;;;;;;;;;;;;;;;;;;;;bd09a018
+18;hh_position;Position within the household;;;;;;;;;;;;;;;;;;;;;bd10c019;bd09b019;bd09a019
+19;hh_member_age;Age of the household member;;;;;;;;;;;;;;;;;;;;;bd10c020;bd09b020;bd09a020
+20;;The household head lives together with a partner (wedded or unwedded);;;;;;;;;;;;;;;;;;;;;bd10c021;bd09b021;bd09a021
+21;;Takes care of the financial matters;;;;;;;;;;;;;;;;;;;;;bd10c022;bd09b022;bd09a022
+22;newspaper_history_txt;NEW FIGURES SHOW: HISTORIC [IMPROVEMENT/DOWNTURN] OF THE DUTCH ECONOMY - in whic;;;;;;;;;;;;;;;;;;;;;;;bd09a023
+23;newspaper_economy_txt;DUTCH ECONOMY IS FUNDAMENTALLY [HEALTHIER/UNHEALTHIER] THAN EVER BEFORE - in whi;;;;;;;;;;;;;;;;;;;;;;;bd09a024
+24;feeling_economy_good;When I think about the Dutch economy, I feel:;;;;;;;;;;;;;;;;;;;;;;;bd09a025
+25;feeling_economy_secure;When I think about the Dutch economy, I feel:;;;;;;;;;;;;;;;;;;;;;;;bd09a026
+26;;appel;;;;;;;;;;;;;;;;;;;;;;;bd09a027
+27;;ga;;;;;;;;;;;;;;;;;;;;;;;bd09a028
+28;;stop;;;;;;;;;;;;;;;;;;;;;;;bd09a029
+29;;zit;;;;;;;;;;;;;;;;;;;;;;;bd09a030
+30;;koop;;;;;;;;;;;;;;;;;;;;;;;bd09a031
+31;;doe;;;;;;;;;;;;;;;;;;;;;;;bd09a032
+32;;spaar;;;;;;;;;;;;;;;;;;;;;;;bd09a033
+33;;beweeg;;;;;;;;;;;;;;;;;;;;;;;bd09a034
+34;;wacht;;;;;;;;;;;;;;;;;;;;;;;bd09a035
+35;;ag;;;;;;;;;;;;;;;;;;;;;;;bd09a036
+36;;poko;;;;;;;;;;;;;;;;;;;;;;;bd09a037
+37;;gebeewg;;;;;;;;;;;;;;;;;;;;;;;bd09a038
+38;;edo;;;;;;;;;;;;;;;;;;;;;;;bd09a039
+39;;pots;;;;;;;;;;;;;;;;;;;;;;;bd09a040
+40;;tiz;;;;;;;;;;;;;;;;;;;;;;;bd09a041
+41;;raspa;;;;;;;;;;;;;;;;;;;;;;;bd09a042
+42;;chwat;;;;;;;;;;;;;;;;;;;;;;;bd09a043
+43;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a044
+44;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a045
+45;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a046
+46;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a047
+47;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a048
+48;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a049
+49;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a050
+50;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a051
+51;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a052
+52;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a053
+53;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a054
+54;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a055
+55;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a056
+56;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a057
+57;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a058
+58;;milli-seconds between click on next button at previous item/intro and click on n;;;;;;;;;;;;;;;;;;;;;;;bd09a059
+59;lotterywin_save;If I were to unexpectedly win in a lottery today, I would dedicate this money to;;;;;;;;;;;;;;;;;;;;;;;bd09a060
+60;lotterywin_donate;If I were to unexpectedly win in a lottery today, I would dedicate this money to;;;;;;;;;;;;;;;;;;;;;;;bd09a061
+61;lotterywin_buy_useful;If I were to unexpectedly win in a lottery today, I would dedicate this money to;;;;;;;;;;;;;;;;;;;;;;;bd09a062
+62;lotterywin_buy_fun;If I were to unexpectedly win in a lottery today, I would dedicate this money to;;;;;;;;;;;;;;;;;;;;;;;bd09a063
+63;chances_swine_flu;How likely do you think it is that you will contract Mexican flu between now and;;;;;;;;;;;;;;;;;;;;;;;bd09a064
+64;economy_development_past;Do you think that, in the Netherlands over the past 12 months, things have gotte;bd15x065;bd15w065;bd14v065;bd14u065;bd14t065;bd14s065;bd13r065;bd13q065;bd13p065;bd13o065;bd12n065;bd12m065;bd12l065;bd12k065;bd11i065;bd11h065;bd11g065;bd10f065;bd10e065;bd10d065;bd10c065;bd09b065;bd09a065
+65;economy_development_future;Will the general economic situation in the Netherlands get better, get worse or;bd15x066;bd15w066;bd14v066;bd14u066;bd14t066;bd14s066;bd13r066;bd13q066;bd13p066;bd13o066;bd12n066;bd12m066;bd12l066;bd12k066;bd11i066;bd11h066;bd11g066;bd10f066;bd10e066;bd10d066;bd10c066;bd09b066;bd09a066
+66;hh_development_past;Has the financial situation of your household gotten better or worse over the pa;bd15x067;bd15w067;bd14v067;bd14u067;bd14t067;bd14s067;bd13r067;bd13q067;bd13p067;bd13o067;bd12n067;bd12m067;bd12l067;bd12k067;bd11i067;bd11h067;bd11g067;bd10f067;bd10e067;bd10d067;bd10c067;bd09b067;bd09a067
+67;hh_development_future;How do you think the financial situation of your household will develop over the;bd15x068;bd15w068;bd14v068;bd14u068;bd14t068;bd14s068;bd13r068;bd13q068;bd13p068;bd13o068;bd12n068;bd12m068;bd12l068;bd12k068;bd11i068;bd11h068;bd11g068;bd10f068;bd10e068;bd10d068;bd10c068;bd09b068;bd09a068
+68;hh_finances_optimistic;When I picture to myself how the financial situation of my household will be ove;bd15x069;bd15w069;bd14v069;bd14u069;bd14t069;bd14s069;bd13r069;bd13q069;bd13p069;bd13o069;bd12n069;bd12m069;bd12l069;bd12k069;bd11i069;bd11h069;bd11g069;bd10f069;bd10e069;bd10d069;bd10c069;bd09b069;bd09a069
+69;hh_finances_happy;When I picture to myself how the financial situation of my household will be ove;bd15x070;bd15w070;bd14v070;bd14u070;bd14t070;bd14s070;bd13r070;bd13q070;bd13p070;bd13o070;bd12n070;bd12m070;bd12l070;bd12k070;bd11i070;bd11h070;bd11g070;bd10f070;bd10e070;bd10d070;bd10c070;bd09b070;bd09a070
+70;hh_finances_secure;When I picture to myself how the financial situation of my household will be ove;bd15x071;bd15w071;bd14v071;bd14u071;bd14t071;bd14s071;bd13r071;bd13q071;bd13p071;bd13o071;bd12n071;bd12m071;bd12l071;bd12k071;bd11i071;bd11h071;bd11g071;bd10f071;bd10e071;bd10d071;bd10c071;bd09b071;bd09a071
+71;hh_finances_proud;When I picture to myself how the financial situation of my household will be ove;bd15x072;bd15w072;bd14v072;bd14u072;bd14t072;bd14s072;bd13r072;bd13q072;bd13p072;bd13o072;bd12n072;bd12m072;bd12l072;bd12k072;bd11i072;bd11h072;bd11g072;bd10f072;bd10e072;bd10d072;bd10c072;bd09b072;bd09a072
+72;hh_finances_interested;When I picture to myself how the financial situation of my household will be ove;bd15x073;bd15w073;bd14v073;bd14u073;bd14t073;bd14s073;bd13r073;bd13q073;bd13p073;bd13o073;bd12n073;bd12m073;bd12l073;bd12k073;bd11i073;bd11h073;bd11g073;bd10f073;bd10e073;bd10d073;bd10c073;bd09b073;bd09a073
+73;hh_finances_relaxed;When I picture to myself how the financial situation of my household will be ove;bd15x074;bd15w074;bd14v074;bd14u074;bd14t074;bd14s074;bd13r074;bd13q074;bd13p074;bd13o074;bd12n074;bd12m074;bd12l074;bd12k074;bd11i074;bd11h074;bd11g074;bd10f074;bd10e074;bd10d074;bd10c074;bd09b074;bd09a074
+74;hh_finances_insecure;When I picture to myself how the financial situation of my household will be ove;bd15x075;bd15w075;bd14v075;bd14u075;bd14t075;bd14s075;bd13r075;bd13q075;bd13p075;bd13o075;bd12n075;bd12m075;bd12l075;bd12k075;bd11i075;bd11h075;bd11g075;bd10f075;bd10e075;bd10d075;bd10c075;bd09b075;bd09a075
+75;hh_finances_sad;When I picture to myself how the financial situation of my household will be ove;bd15x076;bd15w076;bd14v076;bd14u076;bd14t076;bd14s076;bd13r076;bd13q076;bd13p076;bd13o076;bd12n076;bd12m076;bd12l076;bd12k076;bd11i076;bd11h076;bd11g076;bd10f076;bd10e076;bd10d076;bd10c076;bd09b076;bd09a076
+76;hh_finances_pessimistic;When I picture to myself how the financial situation of my household will be ove;bd15x077;bd15w077;bd14v077;bd14u077;bd14t077;bd14s077;bd13r077;bd13q077;bd13p077;bd13o077;bd12n077;bd12m077;bd12l077;bd12k077;bd11i077;bd11h077;bd11g077;bd10f077;bd10e077;bd10d077;bd10c077;bd09b077;bd09a077
+77;hh_finances_ashamed;When I picture to myself how the financial situation of my household will be ove;bd15x078;bd15w078;bd14v078;bd14u078;bd14t078;bd14s078;bd13r078;bd13q078;bd13p078;bd13o078;bd12n078;bd12m078;bd12l078;bd12k078;bd11i078;bd11h078;bd11g078;bd10f078;bd10e078;bd10d078;bd10c078;bd09b078;bd09a078
+78;hh_finances_worried;When I picture to myself how the financial situation of my household will be ove;bd15x079;bd15w079;bd14v079;bd14u079;bd14t079;bd14s079;bd13r079;bd13q079;bd13p079;bd13o079;bd12n079;bd12m079;bd12l079;bd12k079;bd11i079;bd11h079;bd11g079;bd10f079;bd10e079;bd10d079;bd10c079;bd09b079;bd09a079
+79;hh_finances_anxious;When I picture to myself how the financial situation of my household will be ove;bd15x080;bd15w080;bd14v080;bd14u080;bd14t080;bd14s080;bd13r080;bd13q080;bd13p080;bd13o080;bd12n080;bd12m080;bd12l080;bd12k080;bd11i080;bd11h080;bd11g080;bd10f080;bd10e080;bd10d080;bd10c080;bd09b080;bd09a080
+80;hh_finances_guilty;When I picture to myself how the financial situation of my household will be ove;bd15x081;bd15w081;bd14v081;bd14u081;bd14t081;bd14s081;bd13r081;bd13q081;bd13p081;bd13o081;bd12n081;bd12m081;bd12l081;bd12k081;bd11i081;bd11h081;bd11g081;bd10f081;bd10e081;bd10d081;bd10c081;bd09b081;bd09a081
+81;hh_finances_angry;When I picture to myself how the financial situation of my household will be ove;bd15x082;bd15w082;bd14v082;bd14u082;bd14t082;bd14s082;bd13r082;bd13q082;bd13p082;bd13o082;bd12n082;bd12m082;bd12l082;bd12k082;bd11i082;bd11h082;bd11g082;bd10f082;bd10e082;bd10d082;bd10c082;bd09b082;bd09a082
+82;hh_finances_envious;When I picture to myself how the financial situation of my household will be ove;bd15x083;bd15w083;bd14v083;bd14u083;bd14t083;bd14s083;bd13r083;bd13q083;bd13p083;bd13o083;bd12n083;bd12m083;bd12l083;bd12k083;bd11i083;bd11h083;bd11g083;bd10f083;bd10e083;bd10d083;bd10c083;bd09b083;bd09a083
+83;hh_finances_generalfeeling;When I picture to myself how the financial situation of my household will be ove;bd15x084;bd15w084;bd14v084;bd14u084;bd14t084;bd14s084;bd13r084;bd13q084;bd13p084;bd13o084;bd12n084;bd12m084;bd12l084;bd12k084;bd11i084;bd11h084;bd11g084;bd10f084;bd10e084;bd10d084;bd10c084;bd09b084;bd09a084
+84;purchased_house;In the past 12 months (calculated back from today), did you or someone in your h;bd15x085;bd15w085;bd14v085;bd14u085;bd14t085;bd14s085;bd13r085;bd13q085;bd13p085;bd13o085;bd12n085;bd12m085;bd12l085;bd12k085;bd11i085;bd11h085;bd11g085;bd10f085;bd10e085;bd10d085;bd10c085;bd09b085;bd09a085
+85;purchased_car;In the past 12 months (calculated back from today), did you or someone in your h;bd15x086;bd15w086;bd14v086;bd14u086;bd14t086;bd14s086;bd13r086;bd13q086;bd13p086;bd13o086;bd12n086;bd12m086;bd12l086;bd12k086;bd11i086;bd11h086;bd11g086;bd10f086;bd10e086;bd10d086;bd10c086;bd09b086;bd09a086
+86;purchased_big_appliance;In the past 12 months (calculated back from today), did you or someone in your h;bd15x087;bd15w087;bd14v087;bd14u087;bd14t087;bd14s087;bd13r087;bd13q087;bd13p087;bd13o087;bd12n087;bd12m087;bd12l087;bd12k087;bd11i087;bd11h087;bd11g087;bd10f087;bd10e087;bd10d087;bd10c087;bd09b087;bd09a087
+87;purchased_furniture;In the past 12 months (calculated back from today), did you or someone in your h;bd15x088;bd15w088;bd14v088;bd14u088;bd14t088;bd14s088;bd13r088;bd13q088;bd13p088;bd13o088;bd12n088;bd12m088;bd12l088;bd12k088;bd11i088;bd11h088;bd11g088;bd10f088;bd10e088;bd10d088;bd10c088;bd09b088;bd09a088
+88;purchased_trip_abroad_long;In the past 12 months (calculated back from today), did you or someone in your h;;;;;;;;;;;;;;;;;;;;;bd10c089;bd09b089;bd09a089
+89;purchased_trip_nl_long;In the past 12 months (calculated back from today), did you or someone in your h;;;;;;;;;;;;;;;;;;;;;bd10c090;bd09b090;bd09a090
+90;purchased_trip_abroad_short;In the past 12 months (calculated back from today), did you or someone in your h;;;;;;;;;;;;;;;;;;;;;bd10c091;bd09b091;bd09a091
+91;purachsed_trip_nl_short;In the past 12 months (calculated back from today), did you or someone in your h;;;;;;;;;;;;;;;;;;;;;bd10c092;bd09b092;bd09a092
+92;purchased_loan;In the past 12 months (calculated back from today), did you or someone in your h;;;;;;;;;;;;;;;;;;;;;bd10c093;bd09b093;bd09a093
+93;ch_purchase_house;How much chance is there that you or someone in your household will, in the comi;bd15x094;bd15w094;bd14v094;bd14u094;bd14t094;bd14s094;bd13r094;bd13q094;bd13p094;bd13o094;bd12n094;bd12m094;bd12l094;bd12k094;bd11i094;bd11h094;bd11g094;bd10f094;bd10e094;bd10d094;bd10c094;bd09b094;bd09a094
+94;ch_purchase_car;How much chance is there that you or someone in your household will, in the comi;bd15x095;bd15w095;bd14v095;bd14u095;bd14t095;bd14s095;bd13r095;bd13q095;bd13p095;bd13o095;bd12n095;bd12m095;bd12l095;bd12k095;bd11i095;bd11h095;bd11g095;bd10f095;bd10e095;bd10d095;bd10c095;bd09b095;bd09a095
+95;ch_purchase_big_appliance;How much chance is there that you or someone in your household will, in the comi;bd15x096;bd15w096;bd14v096;bd14u096;bd14t096;bd14s096;bd13r096;bd13q096;bd13p096;bd13o096;bd12n096;bd12m096;bd12l096;bd12k096;bd11i096;bd11h096;bd11g096;bd10f096;bd10e096;bd10d096;bd10c096;bd09b096;bd09a096
+96;ch_purchase_furniture;How much chance is there that you or someone in your household will, in the comi;bd15x097;bd15w097;bd14v097;bd14u097;bd14t097;bd14s097;bd13r097;bd13q097;bd13p097;bd13o097;bd12n097;bd12m097;bd12l097;bd12k097;bd11i097;bd11h097;bd11g097;bd10f097;bd10e097;bd10d097;bd10c097;bd09b097;bd09a097
+97;ch_purchase_trip_abroad_long;How much chance is there that you or someone in your household will, in the comi;;;;;;;;;;;;;;;;;;;;;bd10c098;bd09b098;bd09a098
+98;ch_purchase_trip_long;How much chance is there that you or someone in your household will, in the comi;;;;;;;;;;;;;;;;;;;;;bd10c099;bd09b099;bd09a099
+99;ch_purchase_trip_abroad_short;How much chance is there that you or someone in your household will, in the comi;;;;;;;;;;;;;;;;;;;;;bd10c100;bd09b100;bd09a100
+100;ch_purachse_trip_short;How much chance is there that you or someone in your household will, in the comi;;;;;;;;;;;;;;;;;;;;;bd10c101;bd09b101;bd09a101
+101;ch_purchase_loan;How much chance is there that you or someone in your household will, in the comi;;;;;;;;;;;;;;;;;;;;;bd10c102;bd09b102;bd09a102
+102;saved_finanacial_institute;Compared to what I did before, in the last six months I transferred money to a s;;;;;;;;;;;;;;;bd11i233;bd11h233;bd11g233;bd10f233;bd10e233;bd10d233;bd10c103;bd09b103;bd09a103
+103;saved_investment;Compared to what I did before, in the last six months I invested money on the st;;;;;;;;;;;;;;;;;;;;;bd10c104;bd09b104;bd09a104
+104;saved_postpone_purchase;Compared to what I did before, in the last six months I postponed or waited with;;;;;;;;;;;;;;;bd11i234;bd11h234;bd11g234;bd10f234;bd10e234;bd10d234;bd10c105;bd09b105;bd09a105
+105;saved_forward_purchase;Compared to what I did before, in the last six months I brought forward large pu;;;;;;;;;;;;;;;bd11i235;bd11h235;bd11g235;bd10f235;bd10e235;bd10d235;bd10c106;bd09b106;bd09a106
+106;spent_clothing;Compared to what I did before, in the last six months I spent money on clothing;bd15x107;bd15w107;bd14v107;bd14u107;bd14t107;bd14s107;bd13r107;bd13q107;bd13p107;bd13o107;bd12n107;bd12m107;bd12l107;bd12k107;bd11i107;bd11h107;bd11g107;bd10f107;bd10e107;bd10d107;bd10c107;bd09b107;bd09a107
+107;spent_eating;Compared to what I did before, in the last six months I spent money on eating ou;bd15x108;bd15w108;bd14v108;bd14u108;bd14t108;bd14s108;bd13r108;bd13q108;bd13p108;bd13o108;bd12n108;bd12m108;bd12l108;bd12k108;bd11i108;bd11h108;bd11g108;bd10f108;bd10e108;bd10d108;bd10c108;bd09b108;bd09a108
+108;spent_leisure;Compared to what I did before, in the last six months I spent money on leisure (;bd15x109;bd15w109;bd14v109;bd14u109;bd14t109;bd14s109;bd13r109;bd13q109;bd13p109;bd13o109;bd12n109;bd12m109;bd12l109;bd12k109;bd11i109;bd11h109;bd11g109;bd10f109;bd10e109;bd10d109;bd10c109;bd09b109;bd09a109
+109;spent_grocery_lowquality;Compared to what I did before, in the last six months I did my daily grocery sho;;;;;;;;;;;;;;;bd11i110;bd11h110;bd11g110;bd10f110;bd10e110;bd10d110;bd10c110;bd09b110;bd09a110
+110;spent_grocery_discount;Compared to what I did before, in the last six months I when doing daily grocery;;;;;;;;;;;;;;;bd11i237;bd11h237;bd11g237;bd10f237;bd10e237;bd10d237;bd10c111;bd09b111;bd09a111
+111;spent_grocery_brands;Compared to what I did before, in the last six months I when doing daily grocery;;;;;;;;;;;;;;;bd11i238;bd11h238;bd11g238;bd10f238;bd10e238;bd10d238;bd10c112;bd09b112;bd09a112
+112;save_finanacial_institute;Compared to what I do now, over the next six months I intend to... transfer mone;;;;;;;;;;;;;;;bd11i239;bd11h239;bd11g239;bd10f239;bd10e239;bd10d239;bd10c113;bd09b113;bd09a113
+113;save_investment;Please indicate whether you intend to invest money on the stock exchange (person;;;;;;;;;;;;;;;;;;;;;bd10c114;bd09b114;bd09a114
+114;save_postpone_purchase;Compared to what I do now, over the next six months I intend to... postpone or w;;;;;;;;;;;;;;;bd11i240;bd11h240;bd11g240;bd10f240;bd10e240;bd10d240;bd10c115;bd09b115;bd09a115
+115;save_forward_purchase;Compared to what I do now, over the next six months I intend to... bring forward;;;;;;;;;;;;;;;bd11i241;bd11h241;bd11g241;bd10f241;bd10e241;bd10d241;bd10c116;bd09b116;bd09a116
+116;spend_clothing;Compared to what I do now, over the next six months I intend to... spend money o;bd15x117;bd15w117;bd14v117;bd14u117;bd14t117;bd14s117;bd13r117;bd13q117;bd13p117;bd13o117;bd12n117;bd12m117;bd12l117;bd12k117;bd11i117;bd11h117;bd11g117;bd10f117;bd10e117;bd10d117;bd10c117;bd09b117;bd09a117
+117;spend_eating;Compared to what I do now, over the next six months I intend to... spend money o;bd15x118;bd15w118;bd14v118;bd14u118;bd14t118;bd14s118;bd13r118;bd13q118;bd13p118;bd13o118;bd12n118;bd12m118;bd12l118;bd12k118;bd11i118;bd11h118;bd11g118;bd10f118;bd10e118;bd10d118;bd10c118;bd09b118;bd09a118
+118;spend_leisure;Compared to what I do now, over the next six months I intend to... spend money o;bd15x119;bd15w119;bd14v119;bd14u119;bd14t119;bd14s119;bd13r119;bd13q119;bd13p119;bd13o119;bd12n119;bd12m119;bd12l119;bd12k119;bd11i119;bd11h119;bd11g119;bd10f119;bd10e119;bd10d119;bd10c119;bd09b119;bd09a119
+119;spend_grocery_lowquality;Compared to what I do now, over the next six months I intend to... do my daily g;;;;;;;;;;;;;;;bd11i120;bd11h120;bd11g120;bd10f120;bd10e120;bd10d120;bd10c120;bd09b120;bd09a120
+120;spend_grocery_discount;Compared to what I do now, over the next six months I intend to... when doing da;;;;;;;;;;;;;;;bd11i243;bd11h243;bd11g243;bd10f243;bd10e243;bd10d243;bd10c121;bd09b121;bd09a121
+121;spend_grocery_brands;Compared to what I do now, over the next six months I intend to... when doing da;;;;;;;;;;;;;;;bd11i244;bd11h244;bd11g244;bd10f244;bd10e244;bd10d244;bd10c122;bd09b122;bd09a122
+122;satisfied_social_contact;How satisfied or dissatisfied are you about your social contacts?;;;;;;;;;;;;;;;bd11i123;bd11h123;bd11g123;bd10f123;bd10e123;bd10d123;bd10c123;bd09b123;bd09a123
+123;satisfied_income;How satisfied or dissatisfied are you about the total amount of income available;;;;;;;;;;;;;;;bd11i124;bd11h124;bd11g124;bd10f124;bd10e124;bd10d124;bd10c124;bd09b124;bd09a124
+124;satisfied_health;How satisfied or dissatisfied are you about your health?;;;;;;;;;;;;;;;bd11i125;bd11h125;bd11g125;bd10f125;bd10e125;bd10d125;bd10c125;bd09b125;bd09a125
+125;satisfied_life;Everything considered, how satisfied or dissatisfied are you about your life as;;;;;;;;;;;;;;;bd11i126;bd11h126;bd11g126;bd10f126;bd10e126;bd10d126;bd10c126;bd09b126;bd09a126
+126;felt_nervous;Over the past four weeks, for how much of the time were you a very nervous perso;bd15x127;bd15w127;bd14v127;bd14u127;bd14t127;bd14s127;bd13r127;bd13q127;bd13p127;bd13o127;bd12n127;bd12m127;bd12l127;bd12k127;bd11i127;bd11h127;bd11g127;bd10f127;bd10e127;bd10d127;bd10c127;bd09b127;bd09a127
+127;felt_energetic;Over the past four weeks, for how much of the time did you feel very energetic?;bd15x128;bd15w128;bd14v128;bd14u128;bd14t128;bd14s128;bd13r128;bd13q128;bd13p128;bd13o128;bd12n128;bd12m128;bd12l128;bd12k128;bd11i128;bd11h128;bd11g128;bd10f128;bd10e128;bd10d128;bd10c128;bd09b128;bd09a128
+128;felt_dejected;Over the past four weeks, for how much of the time did you feel gloomy and dejec;bd15x129;bd15w129;bd14v129;bd14u129;bd14t129;bd14s129;bd13r129;bd13q129;bd13p129;bd13o129;bd12n129;bd12m129;bd12l129;bd12k129;bd11i129;bd11h129;bd11g129;bd10f129;bd10e129;bd10d129;bd10c129;bd09b129;bd09a129
+129;felt_exhausted;Over the past four weeks, for how much of the time did you feel exhausted?;bd15x130;bd15w130;bd14v130;bd14u130;bd14t130;bd14s130;bd13r130;bd13q130;bd13p130;bd13o130;bd12n130;bd12m130;bd12l130;bd12k130;bd11i130;bd11h130;bd11g130;bd10f130;bd10e130;bd10d130;bd10c130;bd09b130;bd09a130
+130;partner;Do you currently have a partner?;;;;;;;;;;;;;;;bd11i131;bd11h131;bd11g131;bd10f131;bd10e131;bd10d131;bd10c131;bd09b131;bd09a131
+131;partner_mainactivity;In the overview below, please indicate what your partners main activity is at p;;;;;;;;;;;;;;;bd11i132;bd11h132;bd11g132;bd10f132;bd10e132;bd10d132;bd10c132;bd09b132;bd09a132
+132;own_mainactivity;In the overview below, please indicate what your main activity is at present.;bd15x133;bd15w133;bd14v133;bd14u133;bd14t133;bd14s133;bd13r133;bd13q133;bd13p133;bd13o133;bd12n133;bd12m133;bd12l133;bd12k133;bd11i133;bd11h133;bd11g133;bd10f133;bd10e133;bd10d133;bd10c133;bd09b133;bd09a133
+133;ch_lose_job_own;What chance do you think there is that you might lose your job over the coming t;bd15x134;bd15w134;bd14v134;bd14u134;bd14t134;bd14s134;bd13r134;bd13q134;bd13p134;bd13o134;bd12n134;bd12m134;bd12l134;bd12k134;bd11i134;bd11h134;bd11g134;bd10f134;bd10e134;bd10d134;bd10c134;bd09b134;bd09a134
+134;ch_lose_job_partner;What chance do you think there is that your partner might lose his or her job ov;;;;;;;;;;;;;;;bd11i135;bd11h135;bd11g135;bd10f135;bd10e135;bd10d135;bd10c135;bd09b135;bd09a135
+135;fin_assistance_receive;Over the past twelve months, have you received financial assistance from someone;;;;;;;;;;;;;;;;bd11h136;bd11g136;bd10f136;bd10e136;bd10d136;bd10c136;bd09b136;bd09a136
+136;fin_assistance_provide;Over the past twelve months, have you provided financial assistance to someone i;;;;;;;;;;;;;;;;bd11h137;bd11g137;bd10f137;bd10e137;bd10d137;bd10c137;bd09b137;bd09a137
+137;balance_current_account;What was the total balance of your current accounts (so not your savings account;;;;;;;;;;;;;;;;;;;;;bd10c138;bd09b138;bd09a138
+138;balance_saving_account;What was the total balance of your savings accounts, term deposit accounts, savi;;;;;;;;;;;;;;;;;;;;;bd10c139;bd09b139;bd09a139
+139;value_investments;What was the total value of your investments (growth funds, share funds, bonds,;;;;;;;;;;;;;;;;;;;;;bd10c140;bd09b140;bd09a140
+140;fin_development_affected;Have you been affected financially by the economic developments of the present d;;;;;;;;;;;;;;;;;;;;;bd10c141;bd09b141;bd09a141
+141;arrear_payment;Over the past twelve months, have you fallen into arrears of more than two month;;;;;;;;;;;;;;;;;;;;;bd10c142;bd09b142;bd09a142
+142;ch_arrear_payment;How do you estimate the likelihood that you will fall into arrears in the paymen;;;;;;;;;;;;;;;;;;;;;bd10c143;bd09b143;bd09a143
+143;ch_oldage_pensions_decrease;How do you estimate the likelihood that the General Old Age Pension amount that;;;;;;;;;;;;;;;;;;;;;bd10c220;bd09b144;bd09a144
+144;ch_oldage_pensions_increase;How do you estimate the likelihood that the General Old Age Pension amount that;;;;;;;;;;;;;;;;;;;;;bd10c221;bd09b145;bd09a145
+145;ch_pensions_decrease;How do you estimate the likelihood that the pension amount that you will receive;;;;;;;;;;;;;;;;;;;;;bd10c222;bd09b146;bd09a146
+146;ch_pensions_increase;How do you estimate the likelihood that the pension amount that you will receive;;;;;;;;;;;;;;;;;;;;;bd10c223;bd09b147;bd09a147
+147;questionnaire_difficult;Was it difficult to answer the questions?;bd15x148;bd15w148;bd14v148;bd14u148;bd14t148;bd14s148;bd13r148;bd13q148;bd13p148;bd13o148;bd12n148;bd12m148;bd12l148;bd12k148;bd11i148;bd11h148;bd11g148;bd10f148;bd10e148;bd10d148;bd10c148;bd09b148;bd09a148
+148;questionnaire_clear;Were the questions sufficiently clear?;bd15x149;bd15w149;bd14v149;bd14u149;bd14t149;bd14s149;bd13r149;bd13q149;bd13p149;bd13o149;bd12n149;bd12m149;bd12l149;bd12k149;bd11i149;bd11h149;bd11g149;bd10f149;bd10e149;bd10d149;bd10c149;bd09b149;bd09a149
+149;questionnaire_thinking;Did the questionnaire get you thinking about things?;bd15x150;bd15w150;bd14v150;bd14u150;bd14t150;bd14s150;bd13r150;bd13q150;bd13p150;bd13o150;bd12n150;bd12m150;bd12l150;bd12k150;bd11i150;bd11h150;bd11g150;bd10f150;bd10e150;bd10d150;bd10c150;bd09b150;bd09a150
+150;questionnaire_interesting;Was it an interesting subject?;bd15x151;bd15w151;bd14v151;bd14u151;bd14t151;bd14s151;bd13r151;bd13q151;bd13p151;bd13o151;bd12n151;bd12m151;bd12l151;bd12k151;bd11i151;bd11h151;bd11g151;bd10f151;bd10e151;bd10d151;bd10c151;bd09b151;bd09a151
+151;questionnaire_enjoy;Did you enjoy answering the questions?;bd15x152;bd15w152;bd14v152;bd14u152;bd14t152;bd14s152;bd13r152;bd13q152;bd13p152;bd13o152;bd12n152;bd12m152;bd12l152;bd12k152;bd11i152;bd11h152;bd11g152;bd10f152;bd10e152;bd10d152;bd10c152;bd09b152;bd09a152
+152;start_date;Starting date questionnaire;bd15x153;bd15w153;bd14v153;bd14u153;bd14t153;bd14s153;bd13r153;bd13q153;bd13p153;bd13o153;bd12n153;bd12m153;bd12l153;bd12k153;bd11i153;bd11h153;bd11g153;bd10f153;bd10e153;bd10d153;bd10c153;bd09b153;bd09a153
+153;start_time;Starting time questionnaire;bd15x154;bd15w154;bd14v154;bd14u154;bd14t154;bd14s154;bd13r154;bd13q154;bd13p154;bd13o154;bd12n154;bd12m154;bd12l154;bd12k154;bd11i154;bd11h154;bd11g154;bd10f154;bd10e154;bd10d154;bd10c154;bd09b154;bd09a154
+154;end_date;End date questionnaire;bd15x155;bd15w155;bd14v155;bd14u155;bd14t155;bd14s155;bd13r155;bd13q155;bd13p155;bd13o155;bd12n155;bd12m155;bd12l155;bd12k155;bd11i155;bd11h155;bd11g155;bd10f155;bd10e155;bd10d155;bd10c155;bd09b155;bd09a155
+155;end_time;End time questionnaire;bd15x156;bd15w156;bd14v156;bd14u156;bd14t156;bd14s156;bd13r156;bd13q156;bd13p156;bd13o156;bd12n156;bd12m156;bd12l156;bd12k156;bd11i156;bd11h156;bd11g156;bd10f156;bd10e156;bd10d156;bd10c156;bd09b156;bd09a156
+156;duration;Duration in seconds;bd15x157;bd15w157;bd14v157;bd14u157;bd14t157;bd14s157;bd13r157;bd13q157;bd13p157;bd13o157;bd12n157;bd12m157;bd12l157;bd12k157;bd11i157;bd11h157;bd11g157;bd10f157;bd10e157;bd10d157;bd10c157;bd09b157;bd09a157
+157;date_fieldwork;Year and month of field work period;bd15x_m;bd15w_m;bd14v_m;bd14u_m;bd14t_m;bd14s_m;bd13r_m;bd13q_m;bd13p_m;bd13o_m;bd12n_m;bd12m_m;bd12l_m;bd12k_m;bd11i_m;bd11h_m;bd11g_m;bd10f_m;bd10e_m;bd10d_m;bd10c_m;bd09b_m;bd09a_m
+158;hh_id;Number of the household encrypted;;;;;;;;;;;;;;;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr
+159;personal_id;Number of the respondent encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr
+160;purchase_furniture_favorable;Do you think that the present time is favorable or unfavorable for people to mak;bd15x158;bd15w158;bd14v158;bd14u158;bd14t158;bd14s158;bd13r158;bd13q158;bd13p158;bd13o158;bd12n158;bd12m158;bd12l158;bd12k158;bd11i158;bd11h158;bd11g158;bd10f158;bd10e158;bd10d158;bd10c158;bd09b158;
+161;gov_collapse_economy;How do you think the collapse of the Dutch government will affect the general ec;;;;;;;;;;;;;;;;;;;;;bd10c159;;
+162;gov_collapse_hh;How do you think the collapse of the Dutch government will affect the financial;;;;;;;;;;;;;;;;;;;;;bd10c160;;
+163;gov_collapse_purchase;Do you think that the collapse of the Dutch government makes this a more favorab;;;;;;;;;;;;;;;;;;;;;bd10c161;;
+164;gov_collapse;Due to the collapse of the Dutch government, the economic situation in the Nethe;;;;;;;;;;;;;;;;;;;;;bd10c162;;
+165;gov_collapse_postpone;Do you think that the collapse of the Dutch government makes it more prudent or;;;;;;;;;;;;;;;;;;;;;bd10c163;;
+166;gov_collapse_forward;Do you think that the collapse of the Dutch government makes it more prudent or;;;;;;;;;;;;;;;;;;;;;bd10c164;;
+167;predict_economy;How well or how poorly do you think that specialists, such as economists, are ab;;;;;;;;;;;;;;;;;;;;;bd10c165;;
+168;predict_consequence_crisis;How well or how poorly do you think that specialists, such as economists, are ab;;;;;;;;;;;;;;;;;;;;;bd10c166;;
+169;predict_consequence_collapse;How well or how poorly do you think that specialists, such as economists, are ab;;;;;;;;;;;;;;;;;;;;;bd10c167;;
+170;ch_additional_pension;How likely do you think it is that you will personally arrange an additional pen;;;;;;;;;;;;;;;;;;;;;bd10c168;;
+171;pension_age_future_nbr;What do you think the pensionable age will be when you retire?;;;;;;;;;;;;;;;;;;;;;bd10c169;;
+172;pension_age_future_na;What do you think the pensionable age will be when you retire? - not applicable;;;;;;;;;;;;;;;;;;;;;bd10c170;;
+173;retirement_age_nbr;Given your personal situation, at what age do you expect to be able to retire?;;;;;;;;;;;;;;;;;;;;;bd10c171;;
+174;retirement_age_na;Given your personal situation, at what age do you expect to be able to retire? -;;;;;;;;;;;;;;;;;;;;;bd10c172;;
+175;newspaper_exp_cat;In what newspaper do you think this report appeared?;;;;;;;;;;;;;;;;bd11h251;bd11g348;;;;bd10c173;;
+176;newspaper_exp_cat;In which newspaper do you think this article appeared?;;;;;;;;;;;;;;;;;;;;bd10d251;;;
+177;newspaper_exp_txt;In what newspaper do you think this report appeared?;;;;;;;;;;;;;;;;bd11h252;bd11g349;;;;bd10c174;;
+178;newspaper_exp_txt;In which newspaper do you think this article appeared?;;;;;;;;;;;;;;;;;;;;bd10d252;;;
+179;wtp_soccerball;For this soccer ball I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c175;;
+180;wtp_clock;For this clock I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c176;;
+181;wtp_jacket;For this jacket I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c177;;
+182;wtp_gloves;For these gloves I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c178;;
+183;wtp_remote;For this remote control I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c179;;
+184;wtp_scale;For this scale I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c180;;
+185;wtp_speakers;For these speakers I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c181;;
+186;wtp_kitchenscale;For this kitchen scale I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c182;;
+187;wtp_grillpan;For this grill pan I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c183;;
+188;wtp_antivirus;For this anti-virus software I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c184;;
+189;wtp_bicycle;For this bicycle lock I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c185;;
+190;wtp_mug;For this set of coffee mugs I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c186;;
+191;wtp_diary;For this diary I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c187;;
+192;wtp_skates;For these skates I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c188;;
+193;wtp_umbrella;For this storm umbrella I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c189;;
+194;wtp_kettle;For this electric kettle I would bid at most:;;;;;;;;;;;;;;;;;;;;;bd10c190;;
+195;loc_others_control;I have the feeling that others have more control over my life than I do.;;;;;;;;;;;;;;;;;;;;;bd10c191;;
+196;loc_more_control;I would like to have more control over my life.;;;;;;;;;;;;;;;;;;;;;bd10c192;;
+197;loc_others_determine;I don't like it when others determine my life.;;;;;;;;;;;;;;;;;;;;;bd10c193;;
+198;loc_own_way;I wish I could have things my way more often.;;;;;;;;;;;;;;;;;;;;;bd10c194;;
+199;loc_way_iwant;Too few things go the way I want them to.;;;;;;;;;;;;;;;;;;;;;bd10c195;;
+200;loc_others_reject;I don't want to do anything that may cause other people to reject me.;;;;;;;;;;;;;;;;;;;;;bd10c196;;
+201;loc_certainty;I need the certainty that people will be there for me when I need them.;;;;;;;;;;;;;;;;;;;;;bd10c197;;
+202;loc_acceptance;I wish for other people to accept me.;;;;;;;;;;;;;;;;;;;;;bd10c198;;
+203;loc_alone;I don't like to be alone.;;;;;;;;;;;;;;;;;;;;;bd10c199;;
+204;loc_belong;I feel a strong need 'to belong'.;;;;;;;;;;;;;;;;;;;;;bd10c200;;
+205;loc_economic_crisis;How do you see the general economic crisis in the Netherlands?;;;;;;;;;;;;;;;;;;;;;bd10c201;;
+206;hh_finances_order1a;first positive trait displayed;bd15x202;bd15w202;bd14v202;bd14u202;bd14t202;bd14s202;bd13r202;bd13q202;bd13p202;bd13o202;bd12n202;bd12m202;bd12l202;bd12k202;bd11i202;bd11h202;bd11g202;bd10f202;bd10e202;bd10d202;bd10c202;;
+207;hh_finances_order2a;second positive trait displayed;bd15x203;bd15w203;bd14v203;bd14u203;bd14t203;bd14s203;bd13r203;bd13q203;bd13p203;bd13o203;bd12n203;bd12m203;bd12l203;bd12k203;bd11i203;bd11h203;bd11g203;bd10f203;bd10e203;bd10d203;bd10c203;;
+208;hh_finances_order3a;third positive trait displayed;bd15x204;bd15w204;bd14v204;bd14u204;bd14t204;bd14s204;bd13r204;bd13q204;bd13p204;bd13o204;bd12n204;bd12m204;bd12l204;bd12k204;bd11i204;bd11h204;bd11g204;bd10f204;bd10e204;bd10d204;bd10c204;;
+209;hh_finances_order4a;fourth positive trait displayed;bd15x205;bd15w205;bd14v205;bd14u205;bd14t205;bd14s205;bd13r205;bd13q205;bd13p205;bd13o205;bd12n205;bd12m205;bd12l205;bd12k205;bd11i205;bd11h205;bd11g205;bd10f205;bd10e205;bd10d205;bd10c205;;
+210;hh_finances_order5a;fifth positive trait displayed;bd15x206;bd15w206;bd14v206;bd14u206;bd14t206;bd14s206;bd13r206;bd13q206;bd13p206;bd13o206;bd12n206;bd12m206;bd12l206;bd12k206;bd11i206;bd11h206;bd11g206;bd10f206;bd10e206;bd10d206;bd10c206;;
+211;hh_finances_order6a;sixth positive trait displayed;bd15x207;bd15w207;bd14v207;bd14u207;bd14t207;bd14s207;bd13r207;bd13q207;bd13p207;bd13o207;bd12n207;bd12m207;bd12l207;bd12k207;bd11i207;bd11h207;bd11g207;bd10f207;bd10e207;bd10d207;bd10c207;;
+212;hh_finances_order1b;first negative trait displayed;bd15x208;bd15w208;bd14v208;bd14u208;bd14t208;bd14s208;bd13r208;bd13q208;bd13p208;bd13o208;bd12n208;bd12m208;bd12l208;bd12k208;bd11i208;bd11h208;bd11g208;bd10f208;bd10e208;bd10d208;bd10c208;;
+213;hh_finances_order2b;second negative trait displayed;bd15x209;bd15w209;bd14v209;bd14u209;bd14t209;bd14s209;bd13r209;bd13q209;bd13p209;bd13o209;bd12n209;bd12m209;bd12l209;bd12k209;bd11i209;bd11h209;bd11g209;bd10f209;bd10e209;bd10d209;bd10c209;;
+214;hh_finances_order3b;third negative trait displayed;bd15x210;bd15w210;bd14v210;bd14u210;bd14t210;bd14s210;bd13r210;bd13q210;bd13p210;bd13o210;bd12n210;bd12m210;bd12l210;bd12k210;bd11i210;bd11h210;bd11g210;bd10f210;bd10e210;bd10d210;bd10c210;;
+215;hh_finances_order4b;fourth negative trait displayed;bd15x211;bd15w211;bd14v211;bd14u211;bd14t211;bd14s211;bd13r211;bd13q211;bd13p211;bd13o211;bd12n211;bd12m211;bd12l211;bd12k211;bd11i211;bd11h211;bd11g211;bd10f211;bd10e211;bd10d211;bd10c211;;
+216;hh_finances_order5b;fifth negative trait displayed;bd15x212;bd15w212;bd14v212;bd14u212;bd14t212;bd14s212;bd13r212;bd13q212;bd13p212;bd13o212;bd12n212;bd12m212;bd12l212;bd12k212;bd11i212;bd11h212;bd11g212;bd10f212;bd10e212;bd10d212;bd10c212;;
+217;hh_finances_order6b;sixth negative trait displayed;bd15x213;bd15w213;bd14v213;bd14u213;bd14t213;bd14s213;bd13r213;bd13q213;bd13p213;bd13o213;bd12n213;bd12m213;bd12l213;bd12k213;bd11i213;bd11h213;bd11g213;bd10f213;bd10e213;bd10d213;bd10c213;;
+218;hh_finances_order7b;seventh negative trait displayed;bd15x214;bd15w214;bd14v214;bd14u214;bd14t214;bd14s214;bd13r214;bd13q214;bd13p214;bd13o214;bd12n214;bd12m214;bd12l214;bd12k214;bd11i214;bd11h214;bd11g214;bd10f214;bd10e214;bd10d214;bd10c214;;
+219;hh_finances_order8b;eighth negative trait displayed;bd15x215;bd15w215;bd14v215;bd14u215;bd14t215;bd14s215;bd13r215;bd13q215;bd13p215;bd13o215;bd12n215;bd12m215;bd12l215;bd12k215;bd11i215;bd11h215;bd11g215;bd10f215;bd10e215;bd10d215;bd10c215;;
+220;hh_finances_order9b;ninth negative trait displayed;bd15x216;bd15w216;bd14v216;bd14u216;bd14t216;bd14s216;bd13r216;bd13q216;bd13p216;bd13o216;bd12n216;bd12m216;bd12l216;bd12k216;bd11i216;bd11h216;bd11g216;bd10f216;bd10e216;bd10d216;bd10c216;;
+221;hh_finances_order_a;first block emotions displayed;bd15x217;bd15w217;bd14v217;bd14u217;bd14t217;bd14s217;bd13r217;bd13q217;bd13p217;bd13o217;bd12n217;bd12m217;bd12l217;bd12k217;bd11i217;bd11h217;bd11g217;bd10f217;bd10e217;bd10d217;bd10c217;;
+222;hh_finances_order_b;second block emotions displayed;bd15x218;bd15w218;bd14v218;bd14u218;bd14t218;bd14s218;bd13r218;bd13q218;bd13p218;bd13o218;bd12n218;bd12m218;bd12l218;bd12k218;bd11i218;bd11h218;bd11g218;bd10f218;bd10e218;bd10d218;bd10c218;;
+223;newspaper_exp_article_a;newspaper report displayed;;;;;;;;;;;;;;;;bd11h391;bd11g331;;;;bd10c219;;
+224;newspaper_exp_priming;priming crisis/bankers;;;;;;;;;;;;;;;;;;;;bd10d224;;;
+225;acceptance_priming_a;statements about someone/the respondent personally;;;;;;;;;;;bd12n390;;;;;;;;;bd10d225;;;
+226;acceptance_priming_a;statements about someone/the respondent personally (same condition as in June 20;;;;;;;;;;;;;;;;bd11h390;;;;;;;
+227;economy_development_priming;position of questions on economic situation worldwide;bd15x226;bd15w226;bd14v226;bd14u226;bd14t226;bd14s226;bd13r226;bd13q226;bd13p226;bd13o226;bd12n226;bd12m226;bd12l226;bd12k226;bd11i226;bd11h226;bd11g226;bd10f226;bd10e226;bd10d226;;;
+228;economy_development_world_past;How do you see the development of the general economic situation worldwide? Do y;bd15x227;bd15w227;bd14v227;bd14u227;bd14t227;bd14s227;bd13r227;bd13q227;bd13p227;bd13o227;bd12n227;bd12m227;bd12l227;bd12k227;bd11i227;bd11h227;bd11g227;bd10f227;bd10e227;bd10d227;;;
+229;economy_development_world_fut;And how do you see the coming 12 months? Will the general economic situation wor;bd15x228;bd15w228;bd14v228;bd14u228;bd14t228;bd14s228;bd13r228;bd13q228;bd13p228;bd13o228;bd12n228;bd12m228;bd12l228;bd12k228;bd11i228;bd11h228;bd11g228;bd10f228;bd10e228;bd10d228;;;
+230;purchased_trip_long;In the past 12 months (calculated back from today), did you or someone in your h;bd15x229;bd15w229;bd14v229;bd14u229;bd14t229;bd14s229;bd13r229;bd13q229;bd13p229;bd13o229;bd12n229;bd12m229;bd12l229;bd12k229;bd11i229;bd11h229;bd11g229;bd10f229;bd10e229;bd10d229;;;
+231;purchased_trip_short;In the past 12 months (calculated back from today), did you or someone in your h;bd15x230;bd15w230;bd14v230;bd14u230;bd14t230;bd14s230;bd13r230;bd13q230;bd13p230;bd13o230;bd12n230;bd12m230;bd12l230;bd12k230;bd11i230;bd11h230;bd11g230;bd10f230;bd10e230;bd10d230;;;
+232;ch_purchased_trip_long;How much chance is there that you or someone in your household will, in the comi;bd15x231;bd15w231;bd14v231;bd14u231;bd14t231;bd14s231;bd13r231;bd13q231;bd13p231;bd13o231;bd12n231;bd12m231;bd12l231;bd12k231;bd11i231;bd11h231;bd11g231;bd10f231;bd10e231;bd10d231;;;
+233;ch_purchased_trip_short;How much chance is there that you or someone in your household will, in the comi;bd15x232;bd15w232;bd14v232;bd14u232;bd14t232;bd14s232;bd13r232;bd13q232;bd13p232;bd13o232;bd12n232;bd12m232;bd12l232;bd12k232;bd11i232;bd11h232;bd11g232;bd10f232;bd10e232;bd10d232;;;
+234;spent_grocery;Compared to what I did before, in the last six months I spent money on daily gro;bd15x236;bd15w236;bd14v236;bd14u236;bd14t236;bd14s236;bd13r236;bd13q236;bd13p236;bd13o236;bd12n236;bd12m236;bd12l236;bd12k236;bd11i236;bd11h236;bd11g236;bd10f236;bd10e236;bd10d236;;;
+235;spend_grocery;Compared to what I do now, over the next six months I intend to... spend money o;bd15x242;bd15w242;bd14v242;bd14u242;bd14t242;bd14s242;bd13r242;bd13q242;bd13p242;bd13o242;bd12n242;bd12m242;bd12l242;bd12k242;bd11i242;bd11h242;bd11g242;bd10f242;bd10e242;bd10d242;;;
+236;childhood_hh_income;During my childhood, the income of the household in which I grew up was...;;;;;;;;;;;;;;;;;;;;bd10d245;;;
+237;childhood_money;During my childhood, our family was short of money:;;;;;;;;;;;;;;;;;;;;bd10d246;;;
+238;childhood_frugal;During my childhood, my parents taught me to be frugal with money.;;;;;;;;;;;;;;;;;;;;bd10d247;;;
+239;childhood_inferior_own;Did you ever feel inferior during your childhood, on account of the financial si;;;;;;;;;;;;;;;;;;;;bd10d248;;;
+240;childhood_inferior_others;During your childhood, did you ever have the feeling that others viewed you as i;;;;;;;;;;;;;;;;;;;;bd10d249;;;
+241;now_hh_income;At present, the income of my household is...;;;;;;;;;;;;;;;;;;;;bd10d250;;;
+242;trust_national_politician;National politicians in The Hague - The degree to which I trust that members of;;;;;;;;bd13q253;;bd13o253;bd12n253;;bd12l253;;;bd11h253;;;;bd10d253;;;
+243;trust_local_politician;Local politicians in my place of residence - The degree to which I trust that me;;;;;;;;bd13q254;;bd13o254;bd12n254;;bd12l254;;;bd11h254;;;;bd10d254;;;
+244;trust_family_doctor;Family doctors - The degree to which I trust that members of this occupational g;;;;;;;;bd13q255;;bd13o255;bd12n255;;bd12l255;;;bd11h255;;;;bd10d255;;;
+245;trust_real_estate_agent;Real estate agents for private dwellings - The degree to which I trust that memb;;;;;;;;bd13q256;;bd13o256;bd12n256;;bd12l256;;;bd11h256;;;;bd10d256;;;
+246;trust_bankers;Bankers - The degree to which I trust that members of this occupational group ar;;;;;;;;bd13q257;;bd13o257;bd12n257;;bd12l257;;;bd11h257;;;;bd10d257;;;
+247;trustchange_national_politician;National politicians in The Hague - Over the past year, the degree to which I tr;;;;;;;;bd13q258;;bd13o258;bd12n258;;bd12l258;;;bd11h258;;;;bd10d258;;;
+248;trustchange_local_politician;Local politicians in my place of residence - Over the past year, the degree to w;;;;;;;;bd13q259;;bd13o259;bd12n259;;bd12l259;;;bd11h259;;;;bd10d259;;;
+249;trustchange_family_doctor;Family doctors - Over the past year, the degree to which I trust that members of;;;;;;;;bd13q260;;bd13o260;bd12n260;;bd12l260;;;bd11h260;;;;bd10d260;;;
+250;trustchange_real_estate_agent;Real estate agents for private dwellings - Over the past year, the degree to whi;;;;;;;;bd13q261;;bd13o261;bd12n261;;bd12l261;;;bd11h261;;;;bd10d261;;;
+251;trustchange_bankers;Bankers - Over the past year, the degree to which I trust that members of this o;;;;;;;;bd13q262;;bd13o262;bd12n262;;bd12l262;;;bd11h262;;;;bd10d262;;;
+252;acceptance_lying;Lying that you precisely observed a diet to lose weight.;;;;;;;;;;;bd12n263;;;;;bd11h263;;;;bd10d263;;;
+253;acceptance_imitation;Buying imitation brand clothing and pretending it's the real thing.;;;;;;;;;;;bd12n264;;;;;bd11h264;;;;bd10d264;;;
+254;acceptance_dishonesty;Dishonestly calling in sick to work for one day.;;;;;;;;;;;bd12n265;;;;;bd11h265;;;;bd10d265;;;
+255;acceptance_illigal_software;Using computer software or games without paying for it.;;;;;;;;;;;bd12n266;;;;;bd11h266;;;;bd10d266;;;
+256;acceptance_illigal_download;Downloading or copying films or music from the Internet without paying for it.;;;;;;;;;;;bd12n267;;;;;bd11h267;;;;bd10d267;;;
+257;acceptance_charge_little;Keeping quiet when a chain store accidentally charges too little for a product.;;;;;;;;;;;bd12n268;;;;;bd11h268;;;;bd10d268;;;
+258;acceptance_transfer_money;Not notifying the bank after it accidentally transfers money into your account.;;;;;;;;;;;bd12n269;;;;;bd11h269;;;;bd10d269;;;
+259;acceptance_pretending_price;Pretending to others that the price of a product is more than what you actually;;;;;;;;;;;bd12n270;;;;;bd11h270;;;;bd10d270;;;
+260;acceptance_guarantee;Claiming a guarantee on a product for which the term of the guarantee has actual;;;;;;;;;;;bd12n271;;;;;bd11h271;;;;bd10d271;;;
+261;acceptance_switch_tags;Switching price tags in a supermarket in order to get something more cheaply.;;;;;;;;;;;bd12n272;;;;;bd11h272;;;;bd10d272;;;
+262;acceptance_insurance_fraud;Dishonestly reporting something as stolen to a travel insurance.;;;;;;;;;;;bd12n273;;;;;bd11h273;;;;bd10d273;;;
+263;acceptance_stealing;Taking along a towel or another 'souvenir' from an international hotel or restau;;;;;;;;;;;bd12n274;;;;;bd11h274;;;;bd10d274;;;
+264;belonging_expensive;I admire people with expensive homes, cars and clothing;bd15x285;bd15w285;bd14v285;;bd14t285;;bd13r285;;bd13p285;;bd12n285;;;;;;;;bd10e285;;;;
+265;belonging_possessions;Some of the most important achievements in life relate to the acquisition of pos;bd15x286;bd15w286;bd14v286;;bd14t286;;bd13r286;;bd13p286;;bd12n286;;;;;;;;bd10e286;;;;
+266;belonging_sign_success;I do not attach much value to the number of possessions people own as a sign of;bd15x287;bd15w287;bd14v287;;bd14t287;;bd13r287;;bd13p287;;bd12n287;;;;;;;;bd10e287;;;;
+267;belonging_signal;The things I own say a lot about how I am doing in life;bd15x288;bd15w288;bd14v288;;bd14t288;;bd13r288;;bd13p288;;bd12n288;;;;;;;;bd10e288;;;;
+268;belonging_impress;I want to own things that impress other people;bd15x289;bd15w289;bd14v289;;bd14t289;;bd13r289;;bd13p289;;bd12n289;;;;;;;;bd10e289;;;;
+269;belonging_attention;I do not spend much attention on the material items other people own;bd15x290;bd15w290;bd14v290;;bd14t290;;bd13r290;;bd13p290;;bd12n290;;;;;;;;bd10e290;;;;
+270;belonging_need;I generally buy only the things that I need;bd15x291;bd15w291;bd14v291;;bd14t291;;bd13r291;;bd13p291;;bd12n291;;;;;;;;bd10e291;;;;
+271;belonging_keep_simple;I try to keep my life simple where my possessions are concerned;bd15x292;bd15w292;bd14v292;;bd14t292;;bd13r292;;bd13p292;;bd12n292;;;;;;;;bd10e292;;;;
+272;belonging_notimportant;The things that I own are actually not that important to me;bd15x293;bd15w293;bd14v293;;bd14t293;;bd13r293;;bd13p293;;bd12n293;;;;;;;;bd10e293;;;;
+273;belonging_useless;I enjoy spending money on things that are not practical or useful;bd15x294;bd15w294;bd14v294;;bd14t294;;bd13r294;;bd13p294;;bd12n294;;;;;;;;bd10e294;;;;
+274;belonging_pleasure;Buying things gives me pleasure;bd15x295;bd15w295;bd14v295;;bd14t295;;bd13r295;;bd13p295;;bd12n295;;;;;;;;bd10e295;;;;
+275;belonging_luxury;I like a lot of luxury in my life;bd15x296;bd15w296;bd14v296;;bd14t296;;bd13r296;;bd13p296;;bd12n296;;;;;;;;bd10e296;;;;
+276;belonging_less_important;I attach less significance to material possessions than most of the people I kno;bd15x510;bd15w510;bd14v510;;bd14t297;;bd13r297;;bd13p297;;bd12n297;;;;;;;;bd10e297;;;;
+277;belonging_have_all;I have all the things I really need to be able to enjoy life;bd15x298;bd15w298;bd14v298;;bd14t298;;bd13r298;;bd13p298;;bd12n298;bd12m484;;;;;;;bd10e298;;;;
+278;belonging_better;My life would look a lot better if I owned certain things I don't have now;bd15x299;bd15w299;bd14v299;;bd14t299;;bd13r299;;bd13p299;;bd12n299;bd12m485;;;;;;;bd10e299;;;;
+279;belonging_more_nothappier;I would not be happier if I owned more attractive things;bd15x300;bd15w300;bd14v300;;bd14t300;;bd13r300;;bd13p300;;bd12n300;bd12m486;;;;;;;bd10e300;;;;
+280;belonging_more_happier;I would be happier if I could afford to buy more things;bd15x301;bd15w301;bd14v301;;bd14t301;;bd13r301;;bd13p301;;bd12n301;bd12m487;;;;;;;bd10e301;;;;
+281;belonging_frustrated;I sometimes feel quite frustrated that I cannot buy all the things I love;bd15x302;bd15w302;bd14v302;;bd14t302;;bd13r302;;bd13p302;;bd12n302;bd12m488;;;;;;;bd10e302;;;;
+282;aow_before_surplus;Position of questions on General Old Age Pension Act (AOW);;;;;;;;;;;;;;;;;;bd10f303;;;;;
+283;surplus_befoer_aow;Position of question on allocation of amount;;;;;;;;;;;;;;;;;;bd10f304;;;;;
+284;surplus_reference_point;text question bd10f312 - bd10f314;;;;;;;;;;;;;;;;;;bd10f305;;;;;
+285;;year of birth panel member;;;;;;;;;;;;;;;;;;bd10f306;;;;;
+286;;age panel member;;;;;;;;;;;;;;;;;bd11g307;bd10f307;;;;;
+287;;year in which panel member turns 65;;;;;;;;;;;;;;;;;;bd10f308;;;;;
+288;aow_netamount_current;What is the net amount that a single person with a full AOW currently receives p;;;;;;;;;;;;;;;;;;bd10f309;;;;;
+289;aow_netamount_relative;How much would the net monthly amount of a full AOW for a single person have to;;;;;;;;;;;;;;;;;;bd10f310;;;;;
+290;aow_netamount_future;How much do you think the AOW amount will be in that year?;;;;;;;;;;;;;;;;;;bd10f311;;;;;
+291;surplus_leave_account;leave on the current account so you can access it directly:;;;;;;;;;;;;;;;;;;bd10f312;;;;;
+292;surplus_spend_pleasure;spend on useful and/or pleasurable things:;;;;;;;;;;;;;;;;;;bd10f313;;;;;
+293;surplus_saving_account;transfer to a separate long-term savings account to use at a later date:;;;;;;;;;;;;;;;;;;bd10f314;;;;;
+294;selfass_majorminor;I can easily distinguish major from minor issues in a conversation or discussion;;;;;;;;;;;;;;;;;;bd10f315;;bd10d275;;;
+295;selfass_larger_picture;I try to see the bigger connection between various minor issues;;;;;;;;;;;;;;;;;;bd10f316;;bd10d276;;;
+296;selfass_abstract_thinking;I am good at abstract thinking;;;;;;;;;;;;;;;;;;bd10f317;;bd10d277;;;
+297;selfass_red_thread;I quite naturally see the red thread running through a certain story or argume;;;;;;;;;;;;;;;;;;bd10f318;;bd10d278;;;
+298;selfass_regularity;I quickly recognize a regularity in things that seem disorderly;;;;;;;;;;;;;;;;;;bd10f319;;bd10d279;;;
+299;selfass_look_distance;I am good at looking at everyday things from a distance;;;;;;;;;;;;;;;;;;bd10f320;;bd10d280;;;
+300;selfass_specifically;I first examine questions specifically, before focusing on the general aspects;;;;;;;;;;;;;;;;;;bd10f321;;bd10d281;;;
+301;selfass_individual;I first consider the parts of something before looking at the whole;;;;;;;;;;;;;;;;;;bd10f322;;bd10d282;;;
+302;selfass_details;In a conversation or discussion, I can easily distinguish the details from the w;;;;;;;;;;;;;;;;;;bd10f323;;bd10d283;;;
+303;selfass_finer_detail;I am good at unraveling a certain subject into its finer details;;;;;;;;;;;;;;;;;;bd10f324;;bd10d284;;;
+304;tax_system_preference;Assuming overall conditions to be the same, which of the following tax systems w;;;;;;;;;;;;;;;;;;bd10f325;;;;;
+305;tax_perceived_burden;Where do you think you will find yourself at the end of your life, in terms of t;;;;;;;;;;;;;;;;;;bd10f326;;;;;
+306;statement_1;Generally speaking, people get what they deserve in life...;;;;;;;;;;;;;;;;;;bd10f327;;;;;
+307;statement_2;I have no problems at all with other people seeing the expensive things I buy or;;;;;;;;;;;;;;;;;;bd10f328;;;;;
+308;statement_3;I am against buying expensive luxury items, because not everyone can afford such;;;;;;;;;;;;;;;;;;bd10f329;;;;;
+309;advertisement_gender;sex used in advertisement slogans;;;;;;;;;;;;;;;;;bd11g330;;;;;;
+310;;gender panel member;;;;;;;;;;;;;;;;;bd11g332;;;;;;
+311;partner_begin_relation;In what year did your relationship with your partner begin?;;;;;;;;;;;;;;;;;bd11g333;;;;;;
+312;partner_begin_cohabit;In what year did you start living together with your partner (married or unmarri;;;;;;;;;;;;;;;;;bd11g334;;;;;;
+313;fin_crisis_affected;An increasing number of people have been affected by the crisis. Are you or is s;;;;;;;;;;;;;;;;bd11h335;bd11g335;;;;;;
+314;fin_crisis_affected_current;Do you or does someone in your household at present still personally experience;;;;;;;;;;;;;;;;bd11h336;bd11g336;;;;;;
+315;hh_make_ends_past;Did your household have trouble making ends meet during the last 12 months?;;;;;;;;;;;;;;;;bd11h337;bd11g337;;;;;;
+316;hh_make_ends_future;Do you anticipate that your household will have trouble making ends meet over th;;;;;;;;;;;;;;;;bd11h338;bd11g338;;;;;;
+317;hh_net_income_cat;What is your households net income per month?;;;;;;;;;;;;;;;;bd11h339;bd11g339;;;;;;
+318;fin_assistance_receive_parent;From whom did you receive this financial assistance? - parents;;;;;;;;;;;;;;;;bd11h340;bd11g340;;;;;;
+319;fin_assistance_receive_child;From whom did you receive this financial assistance? - (adult) children;;;;;;;;;;;;;;;;bd11h341;bd11g341;;;;;;
+320;fin_assistance_receive_family;From whom did you receive this financial assistance? - other family members;;;;;;;;;;;;;;;;bd11h342;bd11g342;;;;;;
+321;fin_assistance_receive_friends;From whom did you receive this financial assistance? - friends or acquaintances;;;;;;;;;;;;;;;;bd11h343;bd11g343;;;;;;
+322;fin_assistance_provide_parent;To whom did you provide this financial assistance? - parents;;;;;;;;;;;;;;;;bd11h344;bd11g344;;;;;;
+323;fin_assistance_provide_child;To whom did you provide this financial assistance? - (adult) children;;;;;;;;;;;;;;;;bd11h345;bd11g345;;;;;;
+324;fin_assistance_provide_family;To whom did you provide this financial assistance? - other family members;;;;;;;;;;;;;;;;bd11h346;bd11g346;;;;;;
+325;fin_assistance_provide_friends;To whom did you provide this financial assistance? - friends or acquaintances;;;;;;;;;;;;;;;;bd11h347;bd11g347;;;;;;
+326;advertisement_slogan1;An advertisement slogan for underwear for men / women (such as slips) - Every ma;;;;;;;;;;;;;;;;;bd11g350;;;;;;
+327;advertisement_wtp1;If you know that the prices for this type of product are on average between 10.9;;;;;;;;;;;;;;;;;bd11g351;;;;;;
+328;advertisement_slogan2;An advertisement slogan for deodorant for men / women - Every man's/woman's favo;;;;;;;;;;;;;;;;;bd11g352;;;;;;
+329;advertisement_wtp2;If you know that the prices for this type of product are on average between 2 an;;;;;;;;;;;;;;;;;bd11g353;;;;;;
+330;advertisement_slogan3;An advertisement slogan for a shirt for men / women - Men/Women love it - I find;;;;;;;;;;;;;;;;;bd11g354;;;;;;
+331;advertisement_wtp3;If you know that the prices for this type of product are on average between 15 a;;;;;;;;;;;;;;;;;bd11g355;;;;;;
+332;advertisement_slogan4;An advertisement slogan for shampoo for men / women - Every man's/woman's choice;;;;;;;;;;;;;;;;;bd11g356;;;;;;
+333;advertisement_wtp4;If you know that the prices for this type of product are on average between 2 an;;;;;;;;;;;;;;;;;bd11g357;;;;;;
+334;advertisement_slogan5;An advertisement slogan for a suitcase for men / women - Every man's/woman's cho;;;;;;;;;;;;;;;;;bd11g358;;;;;;
+335;advertisement_wtp5;If you know that the prices for this type of product are on average between 20 a;;;;;;;;;;;;;;;;;bd11g359;;;;;;
+336;advertisement_slogan6;An advertisement slogan for potato chips - Every man's/woman's choice - I find t;;;;;;;;;;;;;;;;;bd11g360;;;;;;
+337;advertisement_wtp6;If you know that the prices for this type of product are on average between 0.50;;;;;;;;;;;;;;;;;bd11g361;;;;;;
+338;advertisement_slogan7;An advertisement slogan for a savings account - Every man/woman loves it - I fin;;;;;;;;;;;;;;;;;bd11g362;;;;;;
+339;advertisement_wtp7;If you know that the interest offered for this type of savings product lies betw;;;;;;;;;;;;;;;;;bd11g363;;;;;;
+340;advertisement_slogan8;An advertisement slogan for an Internet subscription - Every man's/woman's favor;;;;;;;;;;;;;;;;;bd11g364;;;;;;
+341;advertisement_wtp8;If you know that the prices for this type of product are on average between 15 a;;;;;;;;;;;;;;;;;bd11g365;;;;;;
+342;advertisement_slogan9;An advertisement slogan for underwear for men / women (such as slips) - Everyone;;;;;;;;;;;;;;;;;bd11g366;;;;;;
+343;advertisement_wtp9;If you know that the prices for this type of product are on average between 10.9;;;;;;;;;;;;;;;;;bd11g367;;;;;;
+344;advertisement_slogan10;An advertisement slogan for deodorant for men / women - Everyone's favorite - I;;;;;;;;;;;;;;;;;bd11g368;;;;;;
+345;advertisement_wtp10;If you know that the prices for this type of product are on average between 2 an;;;;;;;;;;;;;;;;;bd11g369;;;;;;
+346;advertisement_slogan11;An advertisement slogan for a shirt for men / women - Everyone loves it - I find;;;;;;;;;;;;;;;;;bd11g370;;;;;;
+347;advertisement_wtp11;If you know that the prices for this type of product are on average between 15 a;;;;;;;;;;;;;;;;;bd11g371;;;;;;
+348;advertisement_slogan12;An advertisement slogan for shampoo for men / women - Everyone's choice - I find;;;;;;;;;;;;;;;;;bd11g372;;;;;;
+349;advertisement_wtp12;If you know that the prices for this type of product are on average between 2 an;;;;;;;;;;;;;;;;;bd11g373;;;;;;
+350;advertisement_slogan13;An advertisement slogan for a suitcase for men / women - Everyone's choice - I f;;;;;;;;;;;;;;;;;bd11g374;;;;;;
+351;advertisement_wtp13;If you know that the prices for this type of product are on average between 20 a;;;;;;;;;;;;;;;;;bd11g375;;;;;;
+352;advertisement_slogan14;An advertisement slogan for potato chips - Everyone's choice - I find this sloga;;;;;;;;;;;;;;;;;bd11g376;;;;;;
+353;advertisement_wtp14;If you know that the prices for this type of product are on average between 0.50;;;;;;;;;;;;;;;;;bd11g377;;;;;;
+354;advertisement_slogan15;An advertisement slogan for a savings account - Everyone loves it - I find this;;;;;;;;;;;;;;;;;bd11g378;;;;;;
+355;advertisement_wtp15;If you know that the interest offered for this type of savings product lies betw;;;;;;;;;;;;;;;;;bd11g379;;;;;;
+356;advertisement_slogan16;An advertisement slogan for an Internet subscription - Everyone's favorite - I f;;;;;;;;;;;;;;;;;bd11g380;;;;;;
+357;advertisement_wtp16;If you know that the prices for this type of product are on average between 15 a;;;;;;;;;;;;;;;;;bd11g381;;;;;;
+358;extent_threat;To what extent do you feel under threat?;;;;;;;;;;;;;;;;;bd11g382;;;;;;
+359;extent_protection;To what extent do you long to protect yourself?;;;;;;;;;;;;;;;;;bd11g383;;;;;;
+360;extent_romance;To what extent do you experience a romantic feeling?;;;;;;;;;;;;;;;;;bd11g384;;;;;;
+361;extent_love;To what extent do you long to find someone to love?;;;;;;;;;;;;;;;;;bd11g385;;;;;;
+362;;Do you think that, in the Netherlands over the past 12 months, things have got b;;;;;;;;;;;;;;;;;bd11g386;;;;;;
+363;;Will the general economic situation in the Netherlands get better, get worse or;;;;;;;;;;;;;;;;;bd11g387;;;;;;
+364;;Has the financial situation of your household got better or worse over the past;;;;;;;;;;;;;;;;;bd11g388;;;;;;
+365;;How do you think the financial situation of your household will develop over the;;;;;;;;;;;;;;;;;bd11g389;;;;;;
+366;trust_entrepreneurs;Entrepreneurs, people with their own (family) business - The degree to which I t;;;;;;;;bd13q392;;bd13o392;bd12n392;;bd12l392;;;bd11h392;;;;;;;
+367;trust_managers;Managers of large companies - The degree to which I trust that members of this o;;;;;;;;bd13q393;;bd13o393;bd12n393;;bd12l393;;;bd11h393;;;;;;;
+368;trust_professors;Professors and researchers at universities - The degree to which I trust that me;;;;;;;;bd13q394;;bd13o394;bd12n394;;bd12l394;;;bd11h394;;;;;;;
+369;trustchange_entrepreneurs;Entrepreneurs, people with their own (family) business - Over the past year, the;;;;;;;;bd13q395;;bd13o395;bd12n395;;bd12l395;;;bd11h395;;;;;;;
+370;trustchange_managers;Managers of large companies - Over the past year, the degree to which I trust th;;;;;;;;bd13q396;;bd13o396;bd12n396;;bd12l396;;;bd11h396;;;;;;;
+371;trustchange_professors;Professors and researchers at universities - Over the past year, the degree to w;;;;;;;;bd13q397;;bd13o397;bd12n397;;bd12l397;;;bd11h397;;;;;;;
+372;acceptance_reselling;Selling a used appliance (e.g. through an online second-hand goods site or an ad;;;;;;;;;;;bd12n398;;;;;bd11h398;;;;;;;
+373;acceptance_steal_candy;Taking a handful of candy from self-service containers at a candystore or drugst;;;;;;;;;;;bd12n399;;;;;bd11h399;;;;;;;
+374;acceptance_pretending_book;Pretending youve read a certain book or seen a certain film, while you only rea;;;;;;;;;;;bd12n400;;;;;bd11h400;;;;;;;
+375;acceptance_receive_change;Not saying anything when receiving too much change after paying for something.;;;;;;;;;;;bd12n401;;;;;bd11h401;;;;;;;
+376;plan_save_more;In the coming six months, compared to what I do at present, I intend tosave mon;;;;;;;;;;;;;;;;bd11h402;;;;;;;
+377;plan_surplus;In the coming six months, compared to what I do at present, I intend tohave mon;;;;;;;;;;;;;;;;bd11h403;;;;;;;
+378;save_saving_account;In the past six months, did you transfer any money which you would normally keep;;;;;;;;;;;;;;;;bd11h404;;;;;;;
+379;save_current_account;In the past six months, did you keep any money on your current (checking) accoun;;;;;;;;;;;;;;;;bd11h405;;;;;;;
+380;statement_5;Generally speaking, the world is a just place.;;;;;;;;;;;;;;;;bd11h406;;;;;;;
+381;statement_6;I believe that people generally get what they deserve.;;;;;;;;;;;;;;;;bd11h407;;;;;;;
+382;statement_7;I am usually treated fairly.;;;;;;;;;;;;;;;;bd11h408;;;;;;;
+383;statement_8;I think that I usually get what I deserve.;;;;;;;;;;;;;;;;bd11h409;;;;;;;
+384;statement_9;I am convinced that injustices in all aspects of life (e.g. job, family, politic;;;;;;;;;;;;;;;;bd11h410;;;;;;;
+385;statement_10;The events that occur in my life are for the most part just.;;;;;;;;;;;;;;;;bd11h411;;;;;;;
+386;statement_11;I am convinced that injustices are ultimately redressed.;;;;;;;;;;;;;;;;bd11h412;;;;;;;
+387;statement_12;I think that people try to be honest when taking important decisions.;;;;;;;;;;;;;;;;bd11h413;;;;;;;
+388;statement_13;In my life, injustice is something exceptional rather than normal.;;;;;;;;;;;;;;;;bd11h414;;;;;;;
+389;statement_14;I am convinced that justice will always triumph over injustice.;;;;;;;;;;;;;;;;bd11h415;;;;;;;
+390;statement_15;I believe that most of the things that happen in my life are fair.;;;;;;;;;;;;;;;;bd11h416;;;;;;;
+391;statement_16;I think that important decisions that are made about me are for the most part ju;;;;;;;;;;;;;;;;bd11h417;;;;;;;
+392;newspaper_exp_article_b;newspaper report displayed (if panel member did not participate in June 2010 mea;;;;;;;;;;;;;;;;bd11h418;;;;;;;
+393;acceptance_priming_b;statements about someone/the respondent personally (if panel member did not part;;;;;;;;;;;bd12n419;;;;;bd11h419;;;;;;;
+394;housing_rent;Do you rent a dwelling, sub-rent a dwelling, or are you the owner or co-owner of;;;;;;;;;;bd13o500;;;;;bd11i420;;;;;;;;
+395;ch_housing_move;How much chance is there that you will move home in the coming twelve months?;;;;;;;;;;bd13o501;;;;;bd11i421;;;;;;;;
+396;housing_move;What kind of a removal would this (most likely) entail?;;;;;;;;;;bd13o502;;;;;bd11i422;;;;;;;;
+397;housing_move_ownership;To what type of dwelling are you most likely to move?;;;;;;;;;;bd13o503;;;;;bd11i423;;;;;;;;
+398;housing_move_type;To what type of dwelling are you most likely to move?;;;;;;;;;;;;;;;bd11i424;;;;;;;;
+399;search_housing;In the past 3 months, did you visit a property sales website such as www.funda.n;;;;;;;;;;;;;;;bd11i425;;;;;;;;
+400;search_consider_buying;In the past 3 months, did you view a dwelling that you were or are considering t;;;;;;;;;;;;;;;bd11i426;;;;;;;;
+401;serach_enquire;In the past 3 months, did you enquire at a bank or mortgage agent about your opt;;;;;;;;;;;;;;;bd11i427;;;;;;;;
+402;dwelling_forsale;Is your dwelling currently for sale?;;;;;;;;;;;;;;;bd11i428;;;;;;;;
+403;dwelling_forsale_period;How long has your dwelling been for sale?;;;;;;;;;;;;;;;bd11i429;;;;;;;;
+404;dwelling_larger;To what extent do you currently have the following home wishes? - a larger dwell;;;;;;;;;;;;;;;bd11i430;;;;;;;;
+405;dwelling_smaller;To what extent do you currently have the following home wishes? - a smaller dwel;;;;;;;;;;;;;;;bd11i431;;;;;;;;
+406;dwelling_garden_larger;To what extent do you currently have the following home wishes? - a garden or a;;;;;;;;;;;;;;;bd11i432;;;;;;;;
+407;dwelling_garden_smaller;To what extent do you currently have the following home wishes? - no garden or a;;;;;;;;;;;;;;;bd11i433;;;;;;;;
+408;dwelling_larger_town;To what extent do you currently have the following home wishes? - a dwelling clo;;;;;;;;;;;;;;;bd11i434;;;;;;;;
+409;dwelling_countryside;To what extent do you currently have the following home wishes? - a dwelling clo;;;;;;;;;;;;;;;bd11i435;;;;;;;;
+410;dwelling_commute;To what extent do you currently have the following home wishes? - a dwelling clo;;;;;;;;;;;;;;;bd11i436;;;;;;;;
+411;dwelling_schools;To what extent do you currently have the following home wishes? - a dwelling clo;;;;;;;;;;;;;;;bd11i437;;;;;;;;
+412;dwelling_safer;To what extent do you currently have the following home wishes? - a dwelling in;;;;;;;;;;;;;;;bd11i438;;;;;;;;
+413;dwelling_congenial;To what extent do you currently have the following home wishes? - a dwelling in;;;;;;;;;;;;;;;bd11i439;;;;;;;;
+414;dwelling_better;To what extent do you currently have the following home wishes? - a better maint;;;;;;;;;;;;;;;bd11i440;;;;;;;;
+415;dwelling_efficient;To what extent do you currently have the following home wishes? - a more energy-;;;;;;;;;;;;;;;bd11i441;;;;;;;;
+416;dwelling_cheaper;To what extent do you currently have the following home wishes? - a dwelling wit;;;;;;;;;;;;;;;bd11i442;;;;;;;;
+417;exp_property_prices;What do you expect will happen to property prices in the Netherlands, in the com;;;;;;;;;;;;;;;bd11i443;;;;;;;;
+418;exp_property_price_fall;By how much percent do you expect property prices to fall in the Netherlands in;;;;;;;;;;;;;;;bd11i444;;;;;;;;
+419;exp_property_price_rise;By how much percent do you expect property prices to increase in the Netherlands;;;;;;;;;;;;;;;bd11i445;;;;;;;;
+420;exp_dwelling_price;What do you expect will happen to the price of your current dwelling in the comi;;;;;;;;;;;;;;;bd11i446;;;;;;;;
+421;exp_dwelling_price_fall;By how much percent do you expect the price of your current dwelling to decrease;;;;;;;;;;;;;;;bd11i447;;;;;;;;
+422;exp_dwelling_price_rise;By how much percent do you expect the price of your current dwelling to increase;;;;;;;;;;;;;;;bd11i448;;;;;;;;
+423;property_transfer_tax;Were you aware of this measure before you started completing this questionnaire?;;;;;;;;;;;;;;;bd11i449;;;;;;;;
+424;property_transfer_tax_effect;What is the effect of this measure on the likelihood that you will move to anoth;;;;;;;;;;;;;;;bd11i450;;;;;;;;
+425;property_transfer_tax_prolong;How likely do you think it is that this measure will be prolonged beyond June 20;;;;;;;;;;;;;;;bd11i451;;;;;;;;
+426;mortgage_rule;Were you aware of these new mortgage rules?;;;;;;;;;;;;;;;bd11i452;;;;;;;;
+427;mortgage_rule_effect;What is the effect of this measure on the likelihood that you will move to anoth;;;;;;;;;;;;;;;bd11i453;;;;;;;;
+428;mortgage_rule_prolong;How likely do you think it is that the current mortgage tax relief policy will r;;;;;;;;;;;;;;;bd11i454;;;;;;;;
+429;importance_belonging;A sense of belonging to something;;;;;;;;;;;;;;;bd11i455;;;;;;;;
+430;importance_exciting;Having an exciting life;;;;;;;;;;;;;;;bd11i456;;;;;;;;
+431;importance_relations;Maintaining warm relations with others;;;;;;;;;;;;;;;bd11i457;;;;;;;;
+432;importance_develop;Developing myself;;;;;;;;;;;;;;;bd11i458;;;;;;;;
+433;importance_respected;Being respected by others;;;;;;;;;;;;;;;bd11i459;;;;;;;;
+434;importance_pleasure;Having pleasure and fun in life;;;;;;;;;;;;;;;bd11i460;;;;;;;;
+435;importance_security;Having security;;;;;;;;;;;;;;;bd11i461;;;;;;;;
+436;importance_selfrespect;Having self-respect;;;;;;;;;;;;;;;bd11i462;;;;;;;;
+437;importance_achievement;Having a sense of achievement;;;;;;;;;;;;;;;bd11i463;;;;;;;;
+438;importance_comfort;Having a comfortable life;;;;;;;;;;;;;;;bd11i464;;;;;;;;
+439;importance_material;Having it all in material terms;;;;;;;;;;;;;;;bd11i465;;;;;;;;
+440;importance_health;Health;;;;;;;;;;;;;;;bd11i466;;;;;;;;
+441;importance_satisfaction;Being satisfied with what I have;;;;;;;;;;;;;;;bd11i467;;;;;;;;
+442;exp_unemployment;How do you think unemployment figures will develop in the Netherlands over the n;;;;;;;;;;;;bd12m474;;;;;;;;;;;
+443;hh_financial_situation_current;Is the financial situation in your household currently such that you are short o;;;;;;;;;;;;bd12m475;;;;;;;;;;;
+444;hh_financial_situation_future;Do you expect to be able to save some money over the next twelve months?;;;;;;;;;;;;bd12m476;;;;;;;;;;;
+445;current_saving_favorable;When you consider the general economic situation, do you think the current time;;;;;;;;;;;;bd12m477;;;;;;;;;;;
+446;selfass_intouch;I feel in touch with the people around me;;;;;;;;;;;;bd12m478;;;;;;;;;;;
+447;selfass_company_miss;I miss having company;;;;;;;;;;;;bd12m479;;;;;;;;;;;
+448;selfass_turnto;There is no one I can turn to;;;;;;;;;;;;bd12m480;;;;;;;;;;;
+449;selfass_shutout;I feel shut out;;;;;;;;;;;;bd12m481;;;;;;;;;;;
+450;selfass_isolated;I feel isolated from other people;;;;;;;;;;;;bd12m482;;;;;;;;;;;
+451;selfass_company_find;I can find company whenever I want to;;;;;;;;;;;;bd12m483;;;;;;;;;;;
+452;hh_finances_order10b;tenth negative trait displayed;bd15x489;bd15w489;bd14v489;bd14u489;bd14t489;bd14s489;bd13r489;bd13q489;bd13p489;bd13o489;;;;;;;;;;;;;
+453;hh_finances_gloomy;When I picture to myself how the financial situation of my household will be ove;bd15x490;bd15w490;bd14v490;bd14u490;bd14t490;bd14s490;bd13r490;bd13q490;bd13p490;bd13o490;;;;;;;;;;;;;
+454;trust_judges;Judges - The degree to which I trust that members of this occupational group are;;;;;;;;bd13q491;;bd13o491;;;;;;;;;;;;;
+455;trust_medical;Medical specialists in hospitals - The degree to which I trust that members of t;;;;;;;;bd13q492;;bd13o492;;;;;;;;;;;;;
+456;trustchange_judges;Judges - Over the past year, the degree to which I trust that members of this oc;;;;;;;;bd13q493;;bd13o493;;;;;;;;;;;;;
+457;trustchange_medical;Medical specialists in hospitals - Over the past year, the degree to which I tru;;;;;;;;bd13q494;;bd13o494;;;;;;;;;;;;;
+458;trust_cabinet;Cabinet - The degree to which I trust that this institution is acting in my inte;;;;;;;;bd13q495;;bd13o495;;;;;;;;;;;;;
+459;trust_monarchy;Monarchy -The degree to which I trust that this institution is acting in my inte;;;;;;;;bd13q496;;bd13o496;;;;;;;;;;;;;
+460;trust_tradeunion;Trade unions - The degree to which I trust that this institution is acting in my;;;;;;;;bd13q497;;bd13o497;;;;;;;;;;;;;
+461;trust_association;Housing associations - The degree to which I trust that this institution is acti;;;;;;;;bd13q498;;bd13o498;;;;;;;;;;;;;
+462;trust_justicesystem;The justice system (courts) - The degree to which I trust that this institution;;;;;;;;bd13q499;;bd13o499;;;;;;;;;;;;;
+463;rent_agreement_effect;The government has agreed that the rent for people in the high income bracket ma;;;;;;;;;;bd13o504;;;;;;;;;;;;;
+464;owner_agreement_effect;The government has agreed that home owners may choose to repay not 100% of their;;;;;;;;;;bd13o505;;;;;;;;;;;;;
+465;vat_agreement_restructure;The government has agreed that the VAT rate will be reduced from 21 to 6% for th;;;;;;;;;;bd13o506;;;;;;;;;;;;;
+466;vat_agreement_move;The government has agreed that the VAT rate for restructuring and renovation wor;;;;;;;;;;bd13o507;;;;;;;;;;;;;
+467;belonging_less_important;I attach less significance to material possessions than most of the people I kno;;;;;;;;;;;;;;;;;;;;;;;
+468;cohabit_preloaded;Preloaded variable: Lives together with a partner;bd15x511;;bd14v511;;;;;;;;;;;;;;;;;;;;
+469;cohabit;Do you currently have a partner with whom you also live together?;bd15x512;;bd14v512;;;;;;;;;;;;;;;;;;;;
+470;cohabit_no_confirm;According to our information you do not live together with a partner. Is this co;bd15x513;;bd14v513;;;;;;;;;;;;;;;;;;;;
+471;cohabit_yes_confirm;According to our information you live together with a partner. Is this correct?;bd15x514;;bd14v514;;;;;;;;;;;;;;;;;;;;
+472;disagree_finances;Me and my partner disagree on: Handling family finances;bd15x515;;bd14v515;;;;;;;;;;;;;;;;;;;;
+473;disagree_personal_purchase;Me and my partner disagree on: Amount of money you spend on personal purchases;bd15x516;;bd14v516;;;;;;;;;;;;;;;;;;;;
+474;diagree_time_shopping;Me and my partner disagree on: Amount of time you spend on shopping;bd15x517;;bd14v517;;;;;;;;;;;;;;;;;;;;
+475;disagree_time_together;Me and my partner disagree on: Amount of time spent together;bd15x518;;bd14v518;;;;;;;;;;;;;;;;;;;;
+476;diagree_major_decision;Me and my partner disagree on: How we make major decisions;bd15x519;;bd14v519;;;;;;;;;;;;;;;;;;;;
+477;disagree_hh_task;Me and my partner disagree on: Household tasks;bd15x520;;bd14v520;;;;;;;;;;;;;;;;;;;;
+478;disagree_leisure_time;Me and my partner disagree on: Leisure time interests and activities;bd15x521;;bd14v521;;;;;;;;;;;;;;;;;;;;
+479;disagree_hobby;Me and my partner disagree on: Recreation and hobbies;bd15x522;;bd14v522;;;;;;;;;;;;;;;;;;;;
+480;disagree_career;Me and my partner disagree on: Career and study decisions;bd15x523;;bd14v523;;;;;;;;;;;;;;;;;;;;
+481;disagree_affection;Me and my partner disagree on: Demonstrations of affection towards each other;bd15x524;;bd14v524;;;;;;;;;;;;;;;;;;;;
+482;disagree_sexuality;Me and my partner disagree on: Our sexuality;bd15x525;;bd14v525;;;;;;;;;;;;;;;;;;;;
+483;disagree_friends;Me and my partner disagree on: Friends;bd15x526;;bd14v526;;;;;;;;;;;;;;;;;;;;
+484;disagree_parents;Me and my partner disagree on: Ways of dealing with parents or in-laws;bd15x527;;bd14v527;;;;;;;;;;;;;;;;;;;;
+485;disagree_conventionality;Me and my partner disagree on: Conventionality (correct or proper behavior);bd15x528;;bd14v528;;;;;;;;;;;;;;;;;;;;
+486;disagree_aims;Me and my partner disagree on: Aims, goals, and things believed important in lif;bd15x529;;bd14v529;;;;;;;;;;;;;;;;;;;;
+487;disagree_religion;Me and my partner disagree on: Religious matters;bd15x530;;bd14v530;;;;;;;;;;;;;;;;;;;;
+488;;What kind of newspaper headlines are presented?;;bd15w531;;;;;;;;;;;;;;;;;;;;;
+489;discount_treatment;Amounts for the part on financial decisions;;bd15w532;;;;;;;;;;;;;;;;;;;;;
+490;;age;;bd15w533;;;;;;;;;;;;;;;;;;;;;
+491;;Newspaper heading 1: Number of vacancies grows, unemployment drops further. I th;;bd15w534;;;;;;;;;;;;;;;;;;;;;
+492;;Newspaper heading 1: Despite growth in vacancies, unemployment increases further;;bd15w535;;;;;;;;;;;;;;;;;;;;;
+493;;Newspaper headline 2: More vacancies and less unemployment. I think this newspap;;bd15w536;;;;;;;;;;;;;;;;;;;;;
+494;;Newspaper headline 2: More vacancies, but not necessarily less unemployment. I t;;bd15w537;;;;;;;;;;;;;;;;;;;;;
+495;econ_feel_secure;When I think about the economic situation in the Netherlands, I feel:;;bd15w538;;;;;;;;;;;;;;;;;;;;;
+496;pers_fin_feel_secure;When I think about my personal financial situation, I feel:;;bd15w539;;;;;;;;;;;;;;;;;;;;;
+497;discount_week;If I can only make use of the money after 1 week, then I would want to receive a;;bd15w540;;;;;;;;;;;;;;;;;;;;;
+498;discount_month;If I can only make use of the money after 1 month, then I would want to receive;;bd15w541;;;;;;;;;;;;;;;;;;;;;
+499;discount_year;If I can only make use of the money after 1 year, then I would want to receive a;;bd15w542;;;;;;;;;;;;;;;;;;;;;
+500;discount_five_years;If I can only make use of the money after 5 years, then I would want to receive;;bd15w543;;;;;;;;;;;;;;;;;;;;;
+501;discount_ten_years;If I can only make use of the money after 10 years, then I would want to receive;;bd15w544;;;;;;;;;;;;;;;;;;;;;
+502;saving_retire_liquid;Which option would you choose?;;bd15w545;;;;;;;;;;;;;;;;;;;;;
+503;loan_revolving;Which loan would you choose?;;bd15w546;;;;;;;;;;;;;;;;;;;;;
+504;escort_answer_general;"It is fine if you do not want to answer these four questions; you can indicate t";;bd15w547;;;;;;;;;;;;;;;;;;;;;
+505;escort_free_of_charge;You are offered the services of an escort for an evening, free of charge. Nobody;;bd15w548;;;;;;;;;;;;;;;;;;;;;
+506;net_income;My current net monthly income is approximately;;bd15w549;;;;;;;;;;;;;;;;;;;;;
+507;escort_certainly;I would make use of an escort service for an evening certainly if it cost X euro;;bd15w550;;;;;;;;;;;;;;;;;;;;;
+508;escort_probably;I would make use of an escort service for an evening probably if it cost X euros;;bd15w551;;;;;;;;;;;;;;;;;;;;;
+509;escort_probably_not;I would make use of an escort service for an evening probably not if it cost X e;;bd15w552;;;;;;;;;;;;;;;;;;;;;
+510;escort_certainly_not;I would make use of an escort service for an evening certainly not if it cost X;;bd15w553;;;;;;;;;;;;;;;;;;;;;
+511;escort_provide_general;You are asked to provide an escort service for an evening, for payment. Would yo;;bd15w554;;;;;;;;;;;;;;;;;;;;;
+512;net_income_2;My current net monthly income is approximately;;bd15w555;;;;;;;;;;;;;;;;;;;;;
+513;escort_general_certainly;I would offer my services as an escort for an evening certainly if it paid X eur;;bd15w556;;;;;;;;;;;;;;;;;;;;;
+514;escort_general_probably;I would offer my services as an escort for an evening probably if it paid X euro;;bd15w557;;;;;;;;;;;;;;;;;;;;;
+515;escort_general_probably_not;I would offer my services as an escort for an evening probably not if it paid X;;bd15w558;;;;;;;;;;;;;;;;;;;;;
+516;escort_general_certainly_not;I would offer my services as an escort for an evening certainly not if it paid X;;bd15w559;;;;;;;;;;;;;;;;;;;;;
+517;job_decision_sat_payorder;Jobs characteristics question bd15x565;bd15x560;;;;;;;;;;;;;;;;;;;;;;
+518;give_up_to_work_5_less;I would give up [0..1000] of the 1000 currency units to work 5 hours less than t;bd15x561;;;;;;;;;;;;;;;;;;;;;;
+519;give_up_to_work_10_less;I would give up [0..1000] of the 1000 currency units to work 10 hours less than;bd15x562;;;;;;;;;;;;;;;;;;;;;;
+520;receive_to_work_5_more;I would want to receive [integer] more currency units than the 1000 units I am p;bd15x563;;;;;;;;;;;;;;;;;;;;;;
+521;receive_to_work_10_more;I would want to receive [integer] more currency units than the 1000 units I am p;bd15x564;;;;;;;;;;;;;;;;;;;;;;
+522;job_decision_sat_vs_pay;In this situation, which job would you choose?;bd15x565;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,62 @@
+new_name;labels;ie13a_EN_1.0p.dta
+part_a;When was part A (ie13a004 through ie13a036) presented?;ie13a001
+part_b;When was part B (ie13a037 through ie13a047) presented?;ie13a002
+age;Age of household member;ie13a003
+economic_success_fair;Economic success among people in the Netherlands is achieved in a fair manner.;ie13a004
+success_intelligence;Please indicate first to what extent you believe that the following factors shou;ie13a005
+success_chance;Please indicate first to what extent you believe that the following factors shou;ie13a006
+success_social_skills;Please indicate first to what extent you believe that the following factors shou;ie13a007
+success_gender;Please indicate first to what extent you believe that the following factors shou;ie13a008
+success_hard_work;Please indicate first to what extent you believe that the following factors shou;ie13a009
+success_ethnicity;Please indicate first to what extent you believe that the following factors shou;ie13a010
+success_greed;Please indicate first to what extent you believe that the following factors shou;ie13a011
+success_ambitious;Please indicate first to what extent you believe that the following factors shou;ie13a012
+success_education;Please indicate first to what extent you believe that the following factors shou;ie13a013
+success_lying;Please indicate first to what extent you believe that the following factors shou;ie13a014
+success_factors_agreement;To what extent do you think that most people in the Netherlands will, in general;ie13a015
+success_fair_agreement;People in the Netherlands generally have the same opinion on what is a fair way;ie13a016
+general_intelligence;Estimate how important the following factors should be for someones economic su;ie13a017
+general_chance;Estimate how important the following factors should be for someones economic su;ie13a018
+general_social_skills;Estimate how important the following factors should be for someones economic su;ie13a019
+general_gender;Estimate how important the following factors should be for someones economic su;ie13a020
+general_hard_work;Estimate how important the following factors should be for someones economic su;ie13a021
+general_ethinicity;Estimate how important the following factors should be for someones economic su;ie13a022
+general_greed;Estimate how important the following factors should be for someones economic su;ie13a023
+general_ambitious;Estimate how important the following factors should be for someones economic su;ie13a024
+general_education;Estimate how important the following factors should be for someones economic su;ie13a025
+general_lying;Estimate how important the following factors should be for someones economic su;ie13a026
+actual_intelligence;Please indicate how important, in your opinion, these factors actually are, at p;ie13a027
+actual_chance;Please indicate how important, in your opinion, these factors actually are, at p;ie13a028
+actual_social_skills;Please indicate how important, in your opinion, these factors actually are, at p;ie13a029
+actual_gender;Please indicate how important, in your opinion, these factors actually are, at p;ie13a030
+actual_hard_work;Please indicate how important, in your opinion, these factors actually are, at p;ie13a031
+actual_ethnicity;Please indicate how important, in your opinion, these factors actually are, at p;ie13a032
+actual_greed;Please indicate how important, in your opinion, these factors actually are, at p;ie13a033
+actual_ambitious;Please indicate how important, in your opinion, these factors actually are, at p;ie13a034
+actual_education;Please indicate how important, in your opinion, these factors actually are, at p;ie13a035
+actual_lying;Please indicate how important, in your opinion, these factors actually are, at p;ie13a036
+preference_redistribution;It is the governments responsibility to reduce the difference in income between;ie13a037
+redistribution_costs;The government should reduce the income differences between people, even if it m;ie13a038
+redistribution_measure1;If the government decides to redistribute income, through which measure do you t;ie13a039
+redistribution_measure2;If the government decides to redistribute income, which measure has your persona;ie13a040
+spend_unemployed_income;Do you want the government to spend more or to spend less on compensating income;ie13a041
+spend_training;Do you want the government to spend more or to spend less on training courses an;ie13a042
+spend_healthcare;Do you want the government to spend more or to spend less on health care?;ie13a043
+redistribution_tax_measure;Would you prefer that the government imposes more tax on the higher incomes, or;ie13a044
+opinion_income_differences;Income differences in the Netherlands are too large.;ie13a045
+political_party;If general elections were to be held today, for which party would you vote?;ie13a046
+political_party2;What other party do you mean?;ie13a047
+sector_work;In what sector do you work?;ie13a048
+sector_work2;In what sector do you work, then?;ie13a049
+questionnaire_difficult;Was it difficult to answer the questions?;ie13a050
+questionnaire_clear;Were the questions sufficiently clear?;ie13a051
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ie13a052
+questionnaire_interesting;Was it an interesting subject?;ie13a053
+questionnaire_enjoy;Did you enjoy answering the questions?;ie13a054
+start_date;Starting date questionnaire;ie13a055
+start_time;Starting time questionnaire;ie13a056
+end_date;End date questionnaire;ie13a057
+end_time;End time questionnaire;ie13a058
+duration;duration in seconds;ie13a059
+date_fieldwork;Year and month of the field work period;ie13a_m
+personal_id;Number of household member encrypted;nomem_encr

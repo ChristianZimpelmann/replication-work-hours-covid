@@ -1,0 +1,112 @@
+new_name;labels;L_HMG_2019_5p.dta
+start_date;Datum begin vragenlijst;DatumB
+end_date;Datum einde vragenlijst;DatumE
+loc1;Hoe mijn leven verloopt hangt van mijzelf af;LOC1
+loc2;In vergelijking met anderen heb ik niet bereikt wat mij toekomt;LOC2
+loc3;Wat je bereikt in het leven is vooral een kwestie van geluk of het lot;LOC3
+loc4;Ik heb vaak het gevoel dat anderen beslissingen nemen over mijn leven;LOC4
+loc5;Als ik op problemen stuit, dan twijfel ik aan mijn vaardigheden;LOC5
+loc6;De mogelijkheden die ik in het leven krijg, worden bepaald door sociale omstandi;LOC6
+loc7;Ik heb weinig controle over de dingen die in mijn leven gebeuren;LOC7
+start_time;Tijd begin vragenlijst;TijdB
+end_time;Tijd einde vragenlijst;TijdE
+nr_hh_members;Aantal leden in het huishouden;aantalhh
+nr_children;Aantal thuiswonende kinderen in het huishouden;aantalki
+does_finances;Doet de financiële zaken;account
+occupation;Belangrijkste bezigheid;belbezig
+marital_status;Burgerlijke staat;burgstat
+duration_in_sec;Duur in seconden;duur
+questionnaire_difficult;Vond u het moeilijk om de vragen te beantwoorden?;eva2t1
+questionnaire_clear;Vond u de vragen duidelijk?;eva2t2
+questionnaire_thinking;Heeft de vragenlijst u aan het denken gezet?;eva2t3
+questionnaire_interesting;Vond u het onderwerp interessant?;eva2t4
+questionnaire_enjoy;Vond u het plezierig om de vragen in te vullen?;eva2t5
+comments;U kunt uw opmerking hieronder invullen.;evaopm
+portfolio2_amt;bedrag getoond bij portfolio2;fill2
+portfolio2b_amt;bedrag getoond bij portfolio2b;fill2b
+portfolio3_amt;bedrag getoond bij portfolio3;fill3
+portfolio3b_amt;bedrag getoond bij portfolio3b;fill3b
+portfolio4_amt;bedrag getoond bij portfolio4;fill4
+portfolio4b_amt;bedrag getoond bij portfolio4b;fill4b
+portfolio5_amt;bedrag getoond bij portfolio5;fill5
+portfolio5b_amt;bedrag getoond bij portfolio5b;fill5b
+birth_year;Geboortejaar;gebjaar
+gender;Geslacht;geslacht
+hh_member_age;Leeftijd van lid huishouden;leeftijd
+hh_head_age;Leeftijd van het huishoudhoofd;lftdhhh
+date_fieldwork;Jaar en maand van de veldwerkperiode;maandnr
+net_income;Persoonlijk netto inkomen, oorspronkelijke waarde;netinc
+hh_net_income_imp;Netto inkomen van het huishouden, geïmputeerd;nettohh_f
+monthly_net_income;Persoonlijk netto maandinkomen in euros;nettoink
+hh_id;Nummer van huishouden versleuteld;nohouse_encr
+personal_id;Nummer van lid huishouden versleuteld;nomem_encr
+num1;Een winkel verkoopt in de uitverkoop alle artikelen voor de halve prijs. Vóór de;num1
+num2;Als de kans om ziek te worden 10% is, hoeveel van de 1000 (duizend) mensen zal d;num2
+num3;Een verkoper van tweedehands autos verkoopt een auto voor 6.000 euro. Dat is tw;num3
+num4;Als u een blikje fris koopt voor 85 cent en u betaalt met een munt van 1 euro, h;num4
+num5;Als vijf mensen allemaal de winnende nummers in een loterij goed hebben en de ho;num5
+num6;Stel dat u 200 euro op een spaarrekening hebt staan. U zet niet nog een bedrag o;num6
+edu_cbs_categories;Opleiding in CBS-categorieën;oplcat
+highest_edu_with_diploma;Hoogste opleiding met diploma;oplmet
+highest_edu_no_diploma;Hoogste opleiding ongeacht diploma;oplzon
+has_partner;Het huishoudhoofd woont samen met een partner (gehuwd of ongehuwd);partner
+risk_partner;Is uw partner over het algemeen bereid om risicos te nemen?;partner1
+altruism_q1_partner;Hoe bereid is uw partner om vandaag iets op te geven dat voordelig is voor hem/h;partner2
+altruism_q2_partner;Is uw partner bereid aan goede doelen te geven zonder er iets voor terug te krij;partner3
+portfolio1;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;portfolio1
+portfolio1b;Wat heeft uw voorkeur: een 10 procent kans op het winnen van 300 euro met tegeli;portfolio1b
+portfolio2;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;portfolio2
+portfolio2b;Wat heeft uw voorkeur: een 10 procent kans op het winnen van 300 euro met tegeli;portfolio2b
+portfolio3;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;portfolio3
+portfolio3b;Wat heeft uw voorkeur: een 10 procent kans op het winnen van 300 euro met tegeli;portfolio3b
+portfolio4;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;portfolio4
+portfolio4b;Wat heeft uw voorkeur: een 10 procent kans op het winnen van 300 euro met tegeli;portfolio4b
+portfolio5;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;portfolio5
+portfolio5b;Wat heeft uw voorkeur: een 10 procent kans op het winnen van 300 euro met tegeli;portfolio5b
+hh_position;Positie in het huishouden;positie
+residence;Stedelijkheid woonplaats;sted
+gift_to_strangers;Geeft u één van de cadeaus aan de vreemde als bedankje? En zo ja, welk cadeau ;v105
+quant_altruism;Denkt u aan de volgende situatie: U hebt vandaag onverwacht 1200 euro ontvangen.;v106
+time_pref_154;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 154 euro ontvangen?;v107
+time_pref_125;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 125 euro ontvangen?;v108
+time_pref_112;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 112 euro ontvangen?;v109
+time_pref_106;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 106 euro ontvangen?;v110
+time_pref_103;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 103 euro ontvangen?;v111
+time_pref_109;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 109 euro ontvangen?;v112
+time_pref_119;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 119 euro ontvangen?;v113
+time_pref_122;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 122 euro ontvangen?;v114
+time_pref_116;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 116 euro ontvangen?;v115
+time_pref_139;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 139 euro ontvangen?;v116
+time_pref_132;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 132 euro ontvangen?;v117
+time_pref_129;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 129 euro ontvangen?;v118
+time_pref_136;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 136 euro ontvangen?;v119
+time_pref_146;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 146 euro ontvangen?;v120
+time_pref_143;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 143 euro ontvangen?;v121
+time_pref_150;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 150 euro ontvangen?;v122
+time_pref_185;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 185 euro ontvangen?;v123
+time_pref_202;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 202 euro ontvangen?;v124
+time_pref_193;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 193 euro ontvangen?;v125
+time_pref_197;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 197 euro ontvangen?;v126
+time_pref_189;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 189 euro ontvangen?;v127
+time_pref_210;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 210 euro ontvangen?;v128
+time_pref_215;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 215 euro ontvangen?;v129
+time_pref_206;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 206 euro ontvangen?;v130
+time_pref_169;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 169 euro ontvangen?;v131
+time_pref_161;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 161 euro ontvangen?;v132
+time_pref_158;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 158 euro ontvangen?;v133
+time_pref_165;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 165 euro ontvangen?;v134
+time_pref_177;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 177 euro ontvangen?;v135
+time_pref_173;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 173 euro ontvangen?;v136
+time_pref_181;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 181 euro ontvangen?;v137
+general_risk_q;Bent u, in het algemeen, bereid om risicos te nemen?;v71
+time_pref;iets opgeven dat vandaag voordelig is voor u, om er dan in de toekomst meer van ;v72a
+neg_rp_self;iemand straffen die u oneerlijk behandelt, zelfs als er kosten kunnen zijn voor ;v72b
+neg_rp_other;iemand straffen die anderen oneerlijk behandelt, zelfs als er kosten kunnen zijn;v72c
+qual_altruism;aan goede doelen geven zonder daarvoor iets terug te krijgen?;v72d
+pos_rp_self;Wanneer iemand me een dienst bewijst, ben ik bereid tot een wederdienst.;v73a
+revenge;Als ik zeer onrechtvaardig word behandeld, neem ik bij de eerste gelegenheid wra;v73b
+trust;Ik ga ervan uit dat mensen alleen de beste intenties hebben.;v73c
+good_at_maths;Ik ben goed in wiskunde.;v73d
+procrastinate;Ik heb de neiging taken uit te stellen, zelfs als ik weet dat het beter zou zijn;v73e
+house_type;Soort woning waarin het huishouden woont;woning
+relationship_status;Woonvorm huishouden;woonvorm

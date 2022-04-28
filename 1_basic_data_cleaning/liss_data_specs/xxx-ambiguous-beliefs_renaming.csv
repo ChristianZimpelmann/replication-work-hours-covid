@@ -1,0 +1,554 @@
+new_name;labels;L_gaudecker2021_7_6p.dta;L_gaudecker2020_6_6p.dta;L_gaudecker2020_5_6p.dta;L_gaudecker2019_4_6p.dta;L_gaudecker2019_3_6p.dta;L_gaudecker2018_2_6p.dta;L_gaudecker2018_1_6p.dta
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr
+hh_id;Number of household encrypted;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr
+date_fieldwork;Year and month of the field work period;maandnr;maandnr;maandnr;maandnr;maandnr;maandnr;maandnr
+start_date;Date of start of questionnaire;DatumB;DatumB;DatumB;DatumB;DatumB;DatumB;DatumB
+end_date;Date end of questionnaire;DatumE;DatumE;DatumE;DatumE;DatumE;DatumE;DatumE
+start_time;Time start questionnaire;TijdB;TijdB;TijdB;TijdB;TijdB;TijdB;TijdB
+end_time;Time end of questionnaire;TijdE;TijdE;TijdE;TijdE;TijdE;TijdE;TijdE
+pay_out_question_w1;Random number 1 - 91;;;;;;arandom;arandom
+pay_out_question_w3;Preload variable: Random number 1 - 91 wave 4;;;;arandom;crandom;;
+pay_out_question_w2;;;;;;brandom;brandom;
+pay_out_question_w4;;;;arandom;brandom;;;
+pay_out_question_w4_temp_aex;;;;p_crandom;crandom;;;
+pay_out_question_w5;Random number 1 - 91 wave 5;arandom;arandom;erandom;;;;
+pay_out_question_w6;Random number 1 - 91 wave 6;;frandom;;;;;
+pay_out_question_w7;Random number 1 - 91 wave 7;grandom;;;;;;
+check_aex_1_yes;On 31 October 2018 we look at how the AEX has developed. Suppose the AEX e;check_aex;check_aex;check_aex;check_aex;check_aex;check_aex;check_aex
+check_aex_2_yes;On 31 October 2018 we look at how the AEX has developed. Suppose the AEX e;check_aex2;check_aex2;check_aex2;check_aex2;check_aex2;check_aex2;check_aex2
+check_wheel_1_no;Imagine that six months have passed and you re-enter a questionnaire;check_rad;check_rad;check_rad;check_rad;check_rad;check_rad;check_rad
+check_wheel_2_no;Imagine that six months have passed and you re-enter a questionnaire;check_rad2;check_rad2;check_rad2;check_rad2;check_rad2;check_rad2;check_rad2
+duration_in_sec;Duration of the questionnaire in seconds;duur;duur;duur;duur;duur;duur;duur
+questionnaire_difficult;Did you find it difficult to answer the questions?;eva2t1;eva2t1;eva2t1;eva2t1;eva2t1;eva2t1;eva2t1
+questionnaire_clear;Did you find the questions clear?;eva2t2;eva2t2;eva2t2;eva2t2;eva2t2;eva2t2;eva2t2
+questionnaire_thinking;Did the questionnaire get you thinking?;eva2t3;eva2t3;eva2t3;eva2t3;eva2t3;eva2t3;eva2t3
+questionnaire_interesting;Did you find the subject interesting?;eva2t4;eva2t4;eva2t4;eva2t4;eva2t4;eva2t4;eva2t4
+questionnaire_enjoy;Did you find it pleasant to fill in the questions?;eva2t5;eva2t5;eva2t5;eva2t5;eva2t5;eva2t5;eva2t5
+comment;You can enter your comment below.;evaopm;evaopm;evaopm;evaopm;evaopm;evaopm;evaopm
+exit_message;Fill-tekst keuze AEX of loterij;f_exit;f_exit;f_exit;f_exit;f_exit;f_exit;f_exit
+choice_message;Fill-tekst bij de vraag uitbetaling;f_uitbetaling;f_uitbetaling;f_uitbetaling;f_uitbetaling;f_uitbetaling;f_uitbetaling;f_uitbetaling
+pc_or_phone_advice;;;;;;;;fill_intro
+event_e0_1;You can choose from option 1 or option 2.;keuze_1_1;keuze_1_1;keuze_1_1;keuze_1_1;keuze_1_1;keuze_1_1;keuze_1_1
+event_e0_10;You can choose from option 1 or option 2.;keuze_1_10;keuze_1_10;keuze_1_10;keuze_1_10;keuze_1_10;keuze_1_10;keuze_1_10
+event_e0_10_1;You can choose from option 1 or option 2.;keuze_1_10_1;keuze_1_10_1;keuze_1_10_1;keuze_1_10_1;keuze_1_10_1;keuze_1_10_1;keuze_1_10_1
+event_e0_11;You can choose from option 1 or option 2.;keuze_1_11;keuze_1_11;keuze_1_11;keuze_1_11;keuze_1_11;keuze_1_11;keuze_1_11
+event_e0_11_1;You can choose from option 1 or option 2.;keuze_1_11_1;keuze_1_11_1;keuze_1_11_1;keuze_1_11_1;keuze_1_11_1;keuze_1_11_1;keuze_1_11_1
+event_e0_12;You can choose from option 1 or option 2.;keuze_1_12;keuze_1_12;keuze_1_12;keuze_1_12;keuze_1_12;keuze_1_12;keuze_1_12
+event_e0_12_1;You can choose from option 1 or option 2.;keuze_1_12_1;keuze_1_12_1;keuze_1_12_1;keuze_1_12_1;keuze_1_12_1;keuze_1_12_1;keuze_1_12_1
+event_e0_13;You can choose from option 1 or option 2.;keuze_1_13;keuze_1_13;keuze_1_13;keuze_1_13;keuze_1_13;keuze_1_13;keuze_1_13
+event_e0_13_1;You can choose from option 1 or option 2.;keuze_1_13_1;keuze_1_13_1;keuze_1_13_1;keuze_1_13_1;keuze_1_13_1;keuze_1_13_1;keuze_1_13_1
+event_e0_1_1;You can choose from option 1 or option 2.;keuze_1_1_1;keuze_1_1_1;keuze_1_1_1;keuze_1_1_1;keuze_1_1_1;keuze_1_1_1;keuze_1_1_1
+event_e0_2;You can choose from option 1 or option 2.;keuze_1_2;keuze_1_2;keuze_1_2;keuze_1_2;keuze_1_2;keuze_1_2;keuze_1_2
+event_e0_2_1;You can choose from option 1 or option 2.;keuze_1_2_1;keuze_1_2_1;keuze_1_2_1;keuze_1_2_1;keuze_1_2_1;keuze_1_2_1;keuze_1_2_1
+event_e0_3;You can choose from option 1 or option 2.;keuze_1_3;keuze_1_3;keuze_1_3;keuze_1_3;keuze_1_3;keuze_1_3;keuze_1_3
+event_e0_3_1;You can choose from option 1 or option 2.;keuze_1_3_1;keuze_1_3_1;keuze_1_3_1;keuze_1_3_1;keuze_1_3_1;keuze_1_3_1;keuze_1_3_1
+event_e0_4;You can choose from option 1 or option 2.;keuze_1_4;keuze_1_4;keuze_1_4;keuze_1_4;keuze_1_4;keuze_1_4;keuze_1_4
+event_e0_4_1;You can choose from option 1 or option 2.;keuze_1_4_1;keuze_1_4_1;keuze_1_4_1;keuze_1_4_1;keuze_1_4_1;keuze_1_4_1;keuze_1_4_1
+event_e0_5;You can choose from option 1 or option 2.;keuze_1_5;keuze_1_5;keuze_1_5;keuze_1_5;keuze_1_5;keuze_1_5;keuze_1_5
+event_e0_5_1;You can choose from option 1 or option 2.;keuze_1_5_1;keuze_1_5_1;keuze_1_5_1;keuze_1_5_1;keuze_1_5_1;keuze_1_5_1;keuze_1_5_1
+event_e0_6;You can choose from option 1 or option 2.;keuze_1_6;keuze_1_6;keuze_1_6;keuze_1_6;keuze_1_6;keuze_1_6;keuze_1_6
+event_e0_6_1;You can choose from option 1 or option 2.;keuze_1_6_1;keuze_1_6_1;keuze_1_6_1;keuze_1_6_1;keuze_1_6_1;keuze_1_6_1;keuze_1_6_1
+event_e0_7;You can choose from option 1 or option 2.;keuze_1_7;keuze_1_7;keuze_1_7;keuze_1_7;keuze_1_7;keuze_1_7;keuze_1_7
+event_e0_7_1;You can choose from option 1 or option 2.;keuze_1_7_1;keuze_1_7_1;keuze_1_7_1;keuze_1_7_1;keuze_1_7_1;keuze_1_7_1;keuze_1_7_1
+event_e0_8;You can choose from option 1 or option 2.;keuze_1_8;keuze_1_8;keuze_1_8;keuze_1_8;keuze_1_8;keuze_1_8;keuze_1_8
+event_e0_8_1;You can choose from option 1 or option 2.;keuze_1_8_1;keuze_1_8_1;keuze_1_8_1;keuze_1_8_1;keuze_1_8_1;keuze_1_8_1;keuze_1_8_1
+event_e0_9;You can choose from option 1 or option 2.;keuze_1_9;keuze_1_9;keuze_1_9;keuze_1_9;keuze_1_9;keuze_1_9;keuze_1_9
+event_e0_9_1;You can choose from option 1 or option 2.;keuze_1_9_1;keuze_1_9_1;keuze_1_9_1;keuze_1_9_1;keuze_1_9_1;keuze_1_9_1;keuze_1_9_1
+event_e1_1;You can choose from option 1 or option 2.;keuze_2_1;keuze_2_1;keuze_2_1;keuze_2_1;keuze_2_1;keuze_2_1;keuze_2_1
+event_e1_10;You can choose from option 1 or option 2.;keuze_2_10;keuze_2_10;keuze_2_10;keuze_2_10;keuze_2_10;keuze_2_10;keuze_2_10
+event_e1_10_1;You can choose from option 1 or option 2.;keuze_2_10_1;keuze_2_10_1;keuze_2_10_1;keuze_2_10_1;keuze_2_10_1;keuze_2_10_1;keuze_2_10_1
+event_e1_11;You can choose from option 1 or option 2.;keuze_2_11;keuze_2_11;keuze_2_11;keuze_2_11;keuze_2_11;keuze_2_11;keuze_2_11
+event_e1_11_1;You can choose from option 1 or option 2.;keuze_2_11_1;keuze_2_11_1;keuze_2_11_1;keuze_2_11_1;keuze_2_11_1;keuze_2_11_1;keuze_2_11_1
+event_e1_12;You can choose from option 1 or option 2.;keuze_2_12;keuze_2_12;keuze_2_12;keuze_2_12;keuze_2_12;keuze_2_12;keuze_2_12
+event_e1_12_1;You can choose from option 1 or option 2.;keuze_2_12_1;keuze_2_12_1;keuze_2_12_1;keuze_2_12_1;keuze_2_12_1;keuze_2_12_1;keuze_2_12_1
+event_e1_13;You can choose from option 1 or option 2.;keuze_2_13;keuze_2_13;keuze_2_13;keuze_2_13;keuze_2_13;keuze_2_13;keuze_2_13
+event_e1_13_1;You can choose from option 1 or option 2.;keuze_2_13_1;keuze_2_13_1;keuze_2_13_1;keuze_2_13_1;keuze_2_13_1;keuze_2_13_1;keuze_2_13_1
+event_e1_1_1;You can choose from option 1 or option 2.;keuze_2_1_1;keuze_2_1_1;keuze_2_1_1;keuze_2_1_1;keuze_2_1_1;keuze_2_1_1;keuze_2_1_1
+event_e1_2;You can choose from option 1 or option 2.;keuze_2_2;keuze_2_2;keuze_2_2;keuze_2_2;keuze_2_2;keuze_2_2;keuze_2_2
+event_e1_2_1;You can choose from option 1 or option 2.;keuze_2_2_1;keuze_2_2_1;keuze_2_2_1;keuze_2_2_1;keuze_2_2_1;keuze_2_2_1;keuze_2_2_1
+event_e1_3;You can choose from option 1 or option 2.;keuze_2_3;keuze_2_3;keuze_2_3;keuze_2_3;keuze_2_3;keuze_2_3;keuze_2_3
+event_e1_3_1;You can choose from option 1 or option 2.;keuze_2_3_1;keuze_2_3_1;keuze_2_3_1;keuze_2_3_1;keuze_2_3_1;keuze_2_3_1;keuze_2_3_1
+event_e1_4;You can choose from option 1 or option 2.;keuze_2_4;keuze_2_4;keuze_2_4;keuze_2_4;keuze_2_4;keuze_2_4;keuze_2_4
+event_e1_4_1;You can choose from option 1 or option 2.;keuze_2_4_1;keuze_2_4_1;keuze_2_4_1;keuze_2_4_1;keuze_2_4_1;keuze_2_4_1;keuze_2_4_1
+event_e1_5;You can choose from option 1 or option 2.;keuze_2_5;keuze_2_5;keuze_2_5;keuze_2_5;keuze_2_5;keuze_2_5;keuze_2_5
+event_e1_5_1;You can choose from option 1 or option 2.;keuze_2_5_1;keuze_2_5_1;keuze_2_5_1;keuze_2_5_1;keuze_2_5_1;keuze_2_5_1;keuze_2_5_1
+event_e1_6;You can choose from option 1 or option 2.;keuze_2_6;keuze_2_6;keuze_2_6;keuze_2_6;keuze_2_6;keuze_2_6;keuze_2_6
+event_e1_6_1;You can choose from option 1 or option 2.;keuze_2_6_1;keuze_2_6_1;keuze_2_6_1;keuze_2_6_1;keuze_2_6_1;keuze_2_6_1;keuze_2_6_1
+event_e1_7;You can choose from option 1 or option 2.;keuze_2_7;keuze_2_7;keuze_2_7;keuze_2_7;keuze_2_7;keuze_2_7;keuze_2_7
+event_e1_7_1;You can choose from option 1 or option 2.;keuze_2_7_1;keuze_2_7_1;keuze_2_7_1;keuze_2_7_1;keuze_2_7_1;keuze_2_7_1;keuze_2_7_1
+event_e1_8;You can choose from option 1 or option 2.;keuze_2_8;keuze_2_8;keuze_2_8;keuze_2_8;keuze_2_8;keuze_2_8;keuze_2_8
+event_e1_8_1;You can choose from option 1 or option 2.;keuze_2_8_1;keuze_2_8_1;keuze_2_8_1;keuze_2_8_1;keuze_2_8_1;keuze_2_8_1;keuze_2_8_1
+event_e1_9;You can choose from option 1 or option 2.;keuze_2_9;keuze_2_9;keuze_2_9;keuze_2_9;keuze_2_9;keuze_2_9;keuze_2_9
+event_e1_9_1;You can choose from option 1 or option 2.;keuze_2_9_1;keuze_2_9_1;keuze_2_9_1;keuze_2_9_1;keuze_2_9_1;keuze_2_9_1;keuze_2_9_1
+event_e2_1;You can choose from option 1 or option 2.;keuze_3_1;keuze_3_1;keuze_3_1;keuze_3_1;keuze_3_1;keuze_3_1;keuze_3_1
+event_e2_10;You can choose from option 1 or option 2.;keuze_3_10;keuze_3_10;keuze_3_10;keuze_3_10;keuze_3_10;keuze_3_10;keuze_3_10
+event_e2_10_1;You can choose from option 1 or option 2.;keuze_3_10_1;keuze_3_10_1;keuze_3_10_1;keuze_3_10_1;keuze_3_10_1;keuze_3_10_1;keuze_3_10_1
+event_e2_11;You can choose from option 1 or option 2.;keuze_3_11;keuze_3_11;keuze_3_11;keuze_3_11;keuze_3_11;keuze_3_11;keuze_3_11
+event_e2_11_1;You can choose from option 1 or option 2.;keuze_3_11_1;keuze_3_11_1;keuze_3_11_1;keuze_3_11_1;keuze_3_11_1;keuze_3_11_1;keuze_3_11_1
+event_e2_12;You can choose from option 1 or option 2.;keuze_3_12;keuze_3_12;keuze_3_12;keuze_3_12;keuze_3_12;keuze_3_12;keuze_3_12
+event_e2_12_1;You can choose from option 1 or option 2.;keuze_3_12_1;keuze_3_12_1;keuze_3_12_1;keuze_3_12_1;keuze_3_12_1;keuze_3_12_1;keuze_3_12_1
+event_e2_13;You can choose from option 1 or option 2.;keuze_3_13;keuze_3_13;keuze_3_13;keuze_3_13;keuze_3_13;keuze_3_13;keuze_3_13
+event_e2_13_1;You can choose from option 1 or option 2.;keuze_3_13_1;keuze_3_13_1;keuze_3_13_1;keuze_3_13_1;keuze_3_13_1;keuze_3_13_1;keuze_3_13_1
+event_e2_1_1;You can choose from option 1 or option 2.;keuze_3_1_1;keuze_3_1_1;keuze_3_1_1;keuze_3_1_1;keuze_3_1_1;keuze_3_1_1;keuze_3_1_1
+event_e2_2;You can choose from option 1 or option 2.;keuze_3_2;keuze_3_2;keuze_3_2;keuze_3_2;keuze_3_2;keuze_3_2;keuze_3_2
+event_e2_2_1;You can choose from option 1 or option 2.;keuze_3_2_1;keuze_3_2_1;keuze_3_2_1;keuze_3_2_1;keuze_3_2_1;keuze_3_2_1;keuze_3_2_1
+event_e2_3;You can choose from option 1 or option 2.;keuze_3_3;keuze_3_3;keuze_3_3;keuze_3_3;keuze_3_3;keuze_3_3;keuze_3_3
+event_e2_3_1;You can choose from option 1 or option 2.;keuze_3_3_1;keuze_3_3_1;keuze_3_3_1;keuze_3_3_1;keuze_3_3_1;keuze_3_3_1;keuze_3_3_1
+event_e2_4;You can choose from option 1 or option 2.;keuze_3_4;keuze_3_4;keuze_3_4;keuze_3_4;keuze_3_4;keuze_3_4;keuze_3_4
+event_e2_4_1;You can choose from option 1 or option 2.;keuze_3_4_1;keuze_3_4_1;keuze_3_4_1;keuze_3_4_1;keuze_3_4_1;keuze_3_4_1;keuze_3_4_1
+event_e2_5;You can choose from option 1 or option 2.;keuze_3_5;keuze_3_5;keuze_3_5;keuze_3_5;keuze_3_5;keuze_3_5;keuze_3_5
+event_e2_5_1;You can choose from option 1 or option 2.;keuze_3_5_1;keuze_3_5_1;keuze_3_5_1;keuze_3_5_1;keuze_3_5_1;keuze_3_5_1;keuze_3_5_1
+event_e2_6;You can choose from option 1 or option 2.;keuze_3_6;keuze_3_6;keuze_3_6;keuze_3_6;keuze_3_6;keuze_3_6;keuze_3_6
+event_e2_6_1;You can choose from option 1 or option 2.;keuze_3_6_1;keuze_3_6_1;keuze_3_6_1;keuze_3_6_1;keuze_3_6_1;keuze_3_6_1;keuze_3_6_1
+event_e2_7;You can choose from option 1 or option 2.;keuze_3_7;keuze_3_7;keuze_3_7;keuze_3_7;keuze_3_7;keuze_3_7;keuze_3_7
+event_e2_7_1;You can choose from option 1 or option 2.;keuze_3_7_1;keuze_3_7_1;keuze_3_7_1;keuze_3_7_1;keuze_3_7_1;keuze_3_7_1;keuze_3_7_1
+event_e2_8;You can choose from option 1 or option 2.;keuze_3_8;keuze_3_8;keuze_3_8;keuze_3_8;keuze_3_8;keuze_3_8;keuze_3_8
+event_e2_8_1;You can choose from option 1 or option 2.;keuze_3_8_1;keuze_3_8_1;keuze_3_8_1;keuze_3_8_1;keuze_3_8_1;keuze_3_8_1;keuze_3_8_1
+event_e2_9;You can choose from option 1 or option 2.;keuze_3_9;keuze_3_9;keuze_3_9;keuze_3_9;keuze_3_9;keuze_3_9;keuze_3_9
+event_e2_9_1;You can choose from option 1 or option 2.;keuze_3_9_1;keuze_3_9_1;keuze_3_9_1;keuze_3_9_1;keuze_3_9_1;keuze_3_9_1;keuze_3_9_1
+event_e3_1;You can choose from option 1 or option 2.;keuze_4_1;keuze_4_1;keuze_4_1;keuze_4_1;keuze_4_1;keuze_4_1;keuze_4_1
+event_e3_10;You can choose from option 1 or option 2.;keuze_4_10;keuze_4_10;keuze_4_10;keuze_4_10;keuze_4_10;keuze_4_10;keuze_4_10
+event_e3_10_1;You can choose from option 1 or option 2.;keuze_4_10_1;keuze_4_10_1;keuze_4_10_1;keuze_4_10_1;keuze_4_10_1;keuze_4_10_1;keuze_4_10_1
+event_e3_11;You can choose from option 1 or option 2.;keuze_4_11;keuze_4_11;keuze_4_11;keuze_4_11;keuze_4_11;keuze_4_11;keuze_4_11
+event_e3_11_1;You can choose from option 1 or option 2.;keuze_4_11_1;keuze_4_11_1;keuze_4_11_1;keuze_4_11_1;keuze_4_11_1;keuze_4_11_1;keuze_4_11_1
+event_e3_12;You can choose from option 1 or option 2.;keuze_4_12;keuze_4_12;keuze_4_12;keuze_4_12;keuze_4_12;keuze_4_12;keuze_4_12
+event_e3_12_1;You can choose from option 1 or option 2.;keuze_4_12_1;keuze_4_12_1;keuze_4_12_1;keuze_4_12_1;keuze_4_12_1;keuze_4_12_1;keuze_4_12_1
+event_e3_13;You can choose from option 1 or option 2.;keuze_4_13;keuze_4_13;keuze_4_13;keuze_4_13;keuze_4_13;keuze_4_13;keuze_4_13
+event_e3_13_1;You can choose from option 1 or option 2.;keuze_4_13_1;keuze_4_13_1;keuze_4_13_1;keuze_4_13_1;keuze_4_13_1;keuze_4_13_1;keuze_4_13_1
+event_e3_1_1;You can choose from option 1 or option 2.;keuze_4_1_1;keuze_4_1_1;keuze_4_1_1;keuze_4_1_1;keuze_4_1_1;keuze_4_1_1;keuze_4_1_1
+event_e3_2;You can choose from option 1 or option 2.;keuze_4_2;keuze_4_2;keuze_4_2;keuze_4_2;keuze_4_2;keuze_4_2;keuze_4_2
+event_e3_2_1;You can choose from option 1 or option 2.;keuze_4_2_1;keuze_4_2_1;keuze_4_2_1;keuze_4_2_1;keuze_4_2_1;keuze_4_2_1;keuze_4_2_1
+event_e3_3;You can choose from option 1 or option 2.;keuze_4_3;keuze_4_3;keuze_4_3;keuze_4_3;keuze_4_3;keuze_4_3;keuze_4_3
+event_e3_3_1;You can choose from option 1 or option 2.;keuze_4_3_1;keuze_4_3_1;keuze_4_3_1;keuze_4_3_1;keuze_4_3_1;keuze_4_3_1;keuze_4_3_1
+event_e3_4;You can choose from option 1 or option 2.;keuze_4_4;keuze_4_4;keuze_4_4;keuze_4_4;keuze_4_4;keuze_4_4;keuze_4_4
+event_e3_4_1;You can choose from option 1 or option 2.;keuze_4_4_1;keuze_4_4_1;keuze_4_4_1;keuze_4_4_1;keuze_4_4_1;keuze_4_4_1;keuze_4_4_1
+event_e3_5;You can choose from option 1 or option 2.;keuze_4_5;keuze_4_5;keuze_4_5;keuze_4_5;keuze_4_5;keuze_4_5;keuze_4_5
+event_e3_5_1;You can choose from option 1 or option 2.;keuze_4_5_1;keuze_4_5_1;keuze_4_5_1;keuze_4_5_1;keuze_4_5_1;keuze_4_5_1;keuze_4_5_1
+event_e3_6;You can choose from option 1 or option 2.;keuze_4_6;keuze_4_6;keuze_4_6;keuze_4_6;keuze_4_6;keuze_4_6;keuze_4_6
+event_e3_6_1;You can choose from option 1 or option 2.;keuze_4_6_1;keuze_4_6_1;keuze_4_6_1;keuze_4_6_1;keuze_4_6_1;keuze_4_6_1;keuze_4_6_1
+event_e3_7;You can choose from option 1 or option 2.;keuze_4_7;keuze_4_7;keuze_4_7;keuze_4_7;keuze_4_7;keuze_4_7;keuze_4_7
+event_e3_7_1;You can choose from option 1 or option 2.;keuze_4_7_1;keuze_4_7_1;keuze_4_7_1;keuze_4_7_1;keuze_4_7_1;keuze_4_7_1;keuze_4_7_1
+event_e3_8;You can choose from option 1 or option 2.;keuze_4_8;keuze_4_8;keuze_4_8;keuze_4_8;keuze_4_8;keuze_4_8;keuze_4_8
+event_e3_8_1;You can choose from option 1 or option 2.;keuze_4_8_1;keuze_4_8_1;keuze_4_8_1;keuze_4_8_1;keuze_4_8_1;keuze_4_8_1;keuze_4_8_1
+event_e3_9;You can choose from option 1 or option 2.;keuze_4_9;keuze_4_9;keuze_4_9;keuze_4_9;keuze_4_9;keuze_4_9;keuze_4_9
+event_e3_9_1;You can choose from option 1 or option 2.;keuze_4_9_1;keuze_4_9_1;keuze_4_9_1;keuze_4_9_1;keuze_4_9_1;keuze_4_9_1;keuze_4_9_1
+event_e1c_1;You can choose from option 1 or option 2.;keuze_5_1;keuze_5_1;keuze_5_1;keuze_5_1;keuze_5_1;keuze_5_1;keuze_5_1
+event_e1c_10;You can choose from option 1 or option 2.;keuze_5_10;keuze_5_10;keuze_5_10;keuze_5_10;keuze_5_10;keuze_5_10;keuze_5_10
+event_e1c_10_1;You can choose from option 1 or option 2.;keuze_5_10_1;keuze_5_10_1;keuze_5_10_1;keuze_5_10_1;keuze_5_10_1;keuze_5_10_1;keuze_5_10_1
+event_e1c_11;You can choose from option 1 or option 2.;keuze_5_11;keuze_5_11;keuze_5_11;keuze_5_11;keuze_5_11;keuze_5_11;keuze_5_11
+event_e1c_11_1;You can choose from option 1 or option 2.;keuze_5_11_1;keuze_5_11_1;keuze_5_11_1;keuze_5_11_1;keuze_5_11_1;keuze_5_11_1;keuze_5_11_1
+event_e1c_12;You can choose from option 1 or option 2.;keuze_5_12;keuze_5_12;keuze_5_12;keuze_5_12;keuze_5_12;keuze_5_12;keuze_5_12
+event_e1c_12_1;You can choose from option 1 or option 2.;keuze_5_12_1;keuze_5_12_1;keuze_5_12_1;keuze_5_12_1;keuze_5_12_1;keuze_5_12_1;keuze_5_12_1
+event_e1c_13;You can choose from option 1 or option 2.;keuze_5_13;keuze_5_13;keuze_5_13;keuze_5_13;keuze_5_13;keuze_5_13;keuze_5_13
+event_e1c_13_1;You can choose from option 1 or option 2.;keuze_5_13_1;keuze_5_13_1;keuze_5_13_1;keuze_5_13_1;keuze_5_13_1;keuze_5_13_1;keuze_5_13_1
+event_e1c_1_1;You can choose from option 1 or option 2.;keuze_5_1_1;keuze_5_1_1;keuze_5_1_1;keuze_5_1_1;keuze_5_1_1;keuze_5_1_1;keuze_5_1_1
+event_e1c_2;You can choose from option 1 or option 2.;keuze_5_2;keuze_5_2;keuze_5_2;keuze_5_2;keuze_5_2;keuze_5_2;keuze_5_2
+event_e1c_2_1;You can choose from option 1 or option 2.;keuze_5_2_1;keuze_5_2_1;keuze_5_2_1;keuze_5_2_1;keuze_5_2_1;keuze_5_2_1;keuze_5_2_1
+event_e1c_3;You can choose from option 1 or option 2.;keuze_5_3;keuze_5_3;keuze_5_3;keuze_5_3;keuze_5_3;keuze_5_3;keuze_5_3
+event_e1c_3_1;You can choose from option 1 or option 2.;keuze_5_3_1;keuze_5_3_1;keuze_5_3_1;keuze_5_3_1;keuze_5_3_1;keuze_5_3_1;keuze_5_3_1
+event_e1c_4;You can choose from option 1 or option 2.;keuze_5_4;keuze_5_4;keuze_5_4;keuze_5_4;keuze_5_4;keuze_5_4;keuze_5_4
+event_e1c_4_1;You can choose from option 1 or option 2.;keuze_5_4_1;keuze_5_4_1;keuze_5_4_1;keuze_5_4_1;keuze_5_4_1;keuze_5_4_1;keuze_5_4_1
+event_e1c_5;You can choose from option 1 or option 2.;keuze_5_5;keuze_5_5;keuze_5_5;keuze_5_5;keuze_5_5;keuze_5_5;keuze_5_5
+event_e1c_5_1;You can choose from option 1 or option 2.;keuze_5_5_1;keuze_5_5_1;keuze_5_5_1;keuze_5_5_1;keuze_5_5_1;keuze_5_5_1;keuze_5_5_1
+event_e1c_6;You can choose from option 1 or option 2.;keuze_5_6;keuze_5_6;keuze_5_6;keuze_5_6;keuze_5_6;keuze_5_6;keuze_5_6
+event_e1c_6_1;You can choose from option 1 or option 2.;keuze_5_6_1;keuze_5_6_1;keuze_5_6_1;keuze_5_6_1;keuze_5_6_1;keuze_5_6_1;keuze_5_6_1
+event_e1c_7;You can choose from option 1 or option 2.;keuze_5_7;keuze_5_7;keuze_5_7;keuze_5_7;keuze_5_7;keuze_5_7;keuze_5_7
+event_e1c_7_1;You can choose from option 1 or option 2.;keuze_5_7_1;keuze_5_7_1;keuze_5_7_1;keuze_5_7_1;keuze_5_7_1;keuze_5_7_1;keuze_5_7_1
+event_e1c_8;You can choose from option 1 or option 2.;keuze_5_8;keuze_5_8;keuze_5_8;keuze_5_8;keuze_5_8;keuze_5_8;keuze_5_8
+event_e1c_8_1;You can choose from option 1 or option 2.;keuze_5_8_1;keuze_5_8_1;keuze_5_8_1;keuze_5_8_1;keuze_5_8_1;keuze_5_8_1;keuze_5_8_1
+event_e1c_9;You can choose from option 1 or option 2.;keuze_5_9;keuze_5_9;keuze_5_9;keuze_5_9;keuze_5_9;keuze_5_9;keuze_5_9
+event_e1c_9_1;You can choose from option 1 or option 2.;keuze_5_9_1;keuze_5_9_1;keuze_5_9_1;keuze_5_9_1;keuze_5_9_1;keuze_5_9_1;keuze_5_9_1
+event_e2c_1;You can choose from option 1 or option 2.;keuze_6_1;keuze_6_1;keuze_6_1;keuze_6_1;keuze_6_1;keuze_6_1;keuze_6_1
+event_e2c_10;You can choose from option 1 or option 2.;keuze_6_10;keuze_6_10;keuze_6_10;keuze_6_10;keuze_6_10;keuze_6_10;keuze_6_10
+event_e2c_10_1;You can choose from option 1 or option 2.;keuze_6_10_1;keuze_6_10_1;keuze_6_10_1;keuze_6_10_1;keuze_6_10_1;keuze_6_10_1;keuze_6_10_1
+event_e2c_11;You can choose from option 1 or option 2.;keuze_6_11;keuze_6_11;keuze_6_11;keuze_6_11;keuze_6_11;keuze_6_11;keuze_6_11
+event_e2c_11_1;You can choose from option 1 or option 2.;keuze_6_11_1;keuze_6_11_1;keuze_6_11_1;keuze_6_11_1;keuze_6_11_1;keuze_6_11_1;keuze_6_11_1
+event_e2c_12;You can choose from option 1 or option 2.;keuze_6_12;keuze_6_12;keuze_6_12;keuze_6_12;keuze_6_12;keuze_6_12;keuze_6_12
+event_e2c_12_1;You can choose from option 1 or option 2.;keuze_6_12_1;keuze_6_12_1;keuze_6_12_1;keuze_6_12_1;keuze_6_12_1;keuze_6_12_1;keuze_6_12_1
+event_e2c_13;You can choose from option 1 or option 2.;keuze_6_13;keuze_6_13;keuze_6_13;keuze_6_13;keuze_6_13;keuze_6_13;keuze_6_13
+event_e2c_13_1;You can choose from option 1 or option 2.;keuze_6_13_1;keuze_6_13_1;keuze_6_13_1;keuze_6_13_1;keuze_6_13_1;keuze_6_13_1;keuze_6_13_1
+event_e2c_1_1;You can choose from option 1 or option 2.;keuze_6_1_1;keuze_6_1_1;keuze_6_1_1;keuze_6_1_1;keuze_6_1_1;keuze_6_1_1;keuze_6_1_1
+event_e2c_2;You can choose from option 1 or option 2.;keuze_6_2;keuze_6_2;keuze_6_2;keuze_6_2;keuze_6_2;keuze_6_2;keuze_6_2
+event_e2c_2_1;You can choose from option 1 or option 2.;keuze_6_2_1;keuze_6_2_1;keuze_6_2_1;keuze_6_2_1;keuze_6_2_1;keuze_6_2_1;keuze_6_2_1
+event_e2c_3;You can choose from option 1 or option 2.;keuze_6_3;keuze_6_3;keuze_6_3;keuze_6_3;keuze_6_3;keuze_6_3;keuze_6_3
+event_e2c_3_1;You can choose from option 1 or option 2.;keuze_6_3_1;keuze_6_3_1;keuze_6_3_1;keuze_6_3_1;keuze_6_3_1;keuze_6_3_1;keuze_6_3_1
+event_e2c_4;You can choose from option 1 or option 2.;keuze_6_4;keuze_6_4;keuze_6_4;keuze_6_4;keuze_6_4;keuze_6_4;keuze_6_4
+event_e2c_4_1;You can choose from option 1 or option 2.;keuze_6_4_1;keuze_6_4_1;keuze_6_4_1;keuze_6_4_1;keuze_6_4_1;keuze_6_4_1;keuze_6_4_1
+event_e2c_5;You can choose from option 1 or option 2.;keuze_6_5;keuze_6_5;keuze_6_5;keuze_6_5;keuze_6_5;keuze_6_5;keuze_6_5
+event_e2c_5_1;You can choose from option 1 or option 2.;keuze_6_5_1;keuze_6_5_1;keuze_6_5_1;keuze_6_5_1;keuze_6_5_1;keuze_6_5_1;keuze_6_5_1
+event_e2c_6;You can choose from option 1 or option 2.;keuze_6_6;keuze_6_6;keuze_6_6;keuze_6_6;keuze_6_6;keuze_6_6;keuze_6_6
+event_e2c_6_1;You can choose from option 1 or option 2.;keuze_6_6_1;keuze_6_6_1;keuze_6_6_1;keuze_6_6_1;keuze_6_6_1;keuze_6_6_1;keuze_6_6_1
+event_e2c_7;You can choose from option 1 or option 2.;keuze_6_7;keuze_6_7;keuze_6_7;keuze_6_7;keuze_6_7;keuze_6_7;keuze_6_7
+event_e2c_7_1;You can choose from option 1 or option 2.;keuze_6_7_1;keuze_6_7_1;keuze_6_7_1;keuze_6_7_1;keuze_6_7_1;keuze_6_7_1;keuze_6_7_1
+event_e2c_8;You can choose from option 1 or option 2.;keuze_6_8;keuze_6_8;keuze_6_8;keuze_6_8;keuze_6_8;keuze_6_8;keuze_6_8
+event_e2c_8_1;You can choose from option 1 or option 2.;keuze_6_8_1;keuze_6_8_1;keuze_6_8_1;keuze_6_8_1;keuze_6_8_1;keuze_6_8_1;keuze_6_8_1
+event_e2c_9;You can choose from option 1 or option 2.;keuze_6_9;keuze_6_9;keuze_6_9;keuze_6_9;keuze_6_9;keuze_6_9;keuze_6_9
+event_e2c_9_1;You can choose from option 1 or option 2.;keuze_6_9_1;keuze_6_9_1;keuze_6_9_1;keuze_6_9_1;keuze_6_9_1;keuze_6_9_1;keuze_6_9_1
+event_e3c_1;You can choose from option 1 or option 2.;keuze_7_1;keuze_7_1;keuze_7_1;keuze_7_1;keuze_7_1;keuze_7_1;keuze_7_1
+event_e3c_10;You can choose from option 1 or option 2.;keuze_7_10;keuze_7_10;keuze_7_10;keuze_7_10;keuze_7_10;keuze_7_10;keuze_7_10
+event_e3c_10_1;You can choose from option 1 or option 2.;keuze_7_10_1;keuze_7_10_1;keuze_7_10_1;keuze_7_10_1;keuze_7_10_1;keuze_7_10_1;keuze_7_10_1
+event_e3c_11;You can choose from option 1 or option 2.;keuze_7_11;keuze_7_11;keuze_7_11;keuze_7_11;keuze_7_11;keuze_7_11;keuze_7_11
+event_e3c_11_1;You can choose from option 1 or option 2.;keuze_7_11_1;keuze_7_11_1;keuze_7_11_1;keuze_7_11_1;keuze_7_11_1;keuze_7_11_1;keuze_7_11_1
+event_e3c_12;You can choose from option 1 or option 2.;keuze_7_12;keuze_7_12;keuze_7_12;keuze_7_12;keuze_7_12;keuze_7_12;keuze_7_12
+event_e3c_12_1;You can choose from option 1 or option 2.;keuze_7_12_1;keuze_7_12_1;keuze_7_12_1;keuze_7_12_1;keuze_7_12_1;keuze_7_12_1;keuze_7_12_1
+event_e3c_13;You can choose from option 1 or option 2.;keuze_7_13;keuze_7_13;keuze_7_13;keuze_7_13;keuze_7_13;keuze_7_13;keuze_7_13
+event_e3c_13_1;You can choose from option 1 or option 2.;keuze_7_13_1;keuze_7_13_1;keuze_7_13_1;keuze_7_13_1;keuze_7_13_1;keuze_7_13_1;keuze_7_13_1
+event_e3c_1_1;You can choose from option 1 or option 2.;keuze_7_1_1;keuze_7_1_1;keuze_7_1_1;keuze_7_1_1;keuze_7_1_1;keuze_7_1_1;keuze_7_1_1
+event_e3c_2;You can choose from option 1 or option 2.;keuze_7_2;keuze_7_2;keuze_7_2;keuze_7_2;keuze_7_2;keuze_7_2;keuze_7_2
+event_e3c_2_1;You can choose from option 1 or option 2.;keuze_7_2_1;keuze_7_2_1;keuze_7_2_1;keuze_7_2_1;keuze_7_2_1;keuze_7_2_1;keuze_7_2_1
+event_e3c_3;You can choose from option 1 or option 2.;keuze_7_3;keuze_7_3;keuze_7_3;keuze_7_3;keuze_7_3;keuze_7_3;keuze_7_3
+event_e3c_3_1;You can choose from option 1 or option 2.;keuze_7_3_1;keuze_7_3_1;keuze_7_3_1;keuze_7_3_1;keuze_7_3_1;keuze_7_3_1;keuze_7_3_1
+event_e3c_4;You can choose from option 1 or option 2.;keuze_7_4;keuze_7_4;keuze_7_4;keuze_7_4;keuze_7_4;keuze_7_4;keuze_7_4
+event_e3c_4_1;You can choose from option 1 or option 2.;keuze_7_4_1;keuze_7_4_1;keuze_7_4_1;keuze_7_4_1;keuze_7_4_1;keuze_7_4_1;keuze_7_4_1
+event_e3c_5;You can choose from option 1 or option 2.;keuze_7_5;keuze_7_5;keuze_7_5;keuze_7_5;keuze_7_5;keuze_7_5;keuze_7_5
+event_e3c_5_1;You can choose from option 1 or option 2.;keuze_7_5_1;keuze_7_5_1;keuze_7_5_1;keuze_7_5_1;keuze_7_5_1;keuze_7_5_1;keuze_7_5_1
+event_e3c_6;You can choose from option 1 or option 2.;keuze_7_6;keuze_7_6;keuze_7_6;keuze_7_6;keuze_7_6;keuze_7_6;keuze_7_6
+event_e3c_6_1;You can choose from option 1 or option 2.;keuze_7_6_1;keuze_7_6_1;keuze_7_6_1;keuze_7_6_1;keuze_7_6_1;keuze_7_6_1;keuze_7_6_1
+event_e3c_7;You can choose from option 1 or option 2.;keuze_7_7;keuze_7_7;keuze_7_7;keuze_7_7;keuze_7_7;keuze_7_7;keuze_7_7
+event_e3c_7_1;You can choose from option 1 or option 2.;keuze_7_7_1;keuze_7_7_1;keuze_7_7_1;keuze_7_7_1;keuze_7_7_1;keuze_7_7_1;keuze_7_7_1
+event_e3c_8;You can choose from option 1 or option 2.;keuze_7_8;keuze_7_8;keuze_7_8;keuze_7_8;keuze_7_8;keuze_7_8;keuze_7_8
+event_e3c_8_1;You can choose from option 1 or option 2.;keuze_7_8_1;keuze_7_8_1;keuze_7_8_1;keuze_7_8_1;keuze_7_8_1;keuze_7_8_1;keuze_7_8_1
+event_e3c_9;You can choose from option 1 or option 2.;keuze_7_9;keuze_7_9;keuze_7_9;keuze_7_9;keuze_7_9;keuze_7_9;keuze_7_9
+event_e3c_9_1;You can choose from option 1 or option 2.;keuze_7_9_1;keuze_7_9_1;keuze_7_9_1;keuze_7_9_1;keuze_7_9_1;keuze_7_9_1;keuze_7_9_1
+birth_year;Year of birth;gebjaar;gebjaar;gebjaar;gebjaar;gebjaar;gebjaar;gebjaar
+gender;Sex;geslacht;geslacht;geslacht;geslacht;geslacht;geslacht;geslacht
+age;Age of household member;leeftijd;leeftijd;leeftijd;leeftijd;leeftijd;leeftijd;leeftijd
+age_cbs;Age in CBS categories;lftdcat;lftdcat;lftdcat;lftdcat;lftdcat;lftdcat;lftdcat
+education_cbs;Training in CBS categories;oplcat;oplcat;oplcat;oplcat;oplcat;oplcat;oplcat
+education_diploma;Highest training with diploma;oplmet;oplmet;oplmet;oplmet;oplmet;oplmet;oplmet
+education_nodiploma;Highest training regardless of diploma;oplzon;oplzon;oplzon;oplzon;oplzon;oplzon;oplzon
+occupation;Main activity;belbezig;belbezig;belbezig;belbezig;belbezig;belbezig;belbezig
+hh_position;Position in the household;p_positie;positie;positie;positie;positie;positie;positie
+civil_status;Marital status;burgstat;burgstat;burgstat;burgstat;burgstat;burgstat;burgstat
+hh_members;Number of members in the household;aantalhh;aantalhh;aantalhh;aantalhh;aantalhh;aantalhh;aantalhh
+hh_children;Number of children living at home in the household;aantalki;aantalki;aantalki;aantalki;aantalki;aantalki;aantalki
+hh_head_age;Age of the household head;lftdhhh;lftdhhh;lftdhhh;lftdhhh;lftdhhh;lftdhhh;lftdhhh
+hhh_partner;The head of household lives with a partner (married or unmarried);partner;partner;partner;partner;partner;partner;partner
+dom_situation;Residential form household;woonvorm;woonvorm;woonvorm;woonvorm;woonvorm;woonvorm;woonvorm
+dwelling_type;Type of house in which the household lives;woning;woning;woning;woning;woning;woning;woning
+location_urban;Urbanity residence;sted;sted;sted;sted;sted;sted;sted
+gross_income_cat;Personal gross monthly income in categories;brutocat;brutocat;brutocat;brutocat;brutocat;brutocat;brutocat
+gross_income_incl_cat;Personal gross monthly income in euros;brutoink;brutoink;brutoink;brutoink;brutoink;brutoink;brutoink
+gross_income_imputed;Personal gross income, imputed;brutoink_f;brutoink_f;brutoink_f;brutoink_f;brutoink_f;brutoink_f;brutoink_f
+gross_income_hh;Gross household income,imputed;brutohh_f;brutohh_f;brutohh_f;brutohh_f;brutohh_f;brutohh_f;brutohh_f
+net_income_original;Personal net income,original value;netinc;netinc;netinc;netinc;netinc;netinc;netinc
+net_income_cat;Personal net monthly income in categories;nettocat;nettocat;nettocat;nettocat;nettocat;nettocat;nettocat
+net_income_incl_cat;Personal net monthly income in euros;nettoink;nettoink;nettoink;nettoink;nettoink;nettoink;nettoink
+net_income_imputed;Personal net income,imputed ;nettoink_f;nettoink_f;nettoink_f;nettoink_f;nettoink_f;nettoink_f;nettoink_f
+net_income_hh;Net income of the household, imputed;nettohh_f;nettohh_f;nettohh_f;nettohh_f;nettohh_f;nettohh_f;nettohh_f
+financial_decider;Does the financial affairs;account;account;account;account;account;account;account
+demonstration;To show how it works, you will see the example again. Choose now;voorbeeld;voorbeeld;voorbeeld;voorbeeld;voorbeeld;voorbeeld;voorbeeld
+further_comments;Do you have further comments on this questionnaire?;opm;opm;opm;opm;opm;opm;opm
+identifier_from_buttun;Tekst behorend bij gekozen spel,brandom,wave 4;text;text;text;text;text;text;text
+prob_num_10w0r_chance_r;First, suppose that there are 10 white balls in the bin and not a red one. Without you;;F1;;;;F1;
+prob_num_7w3r_chance_w;Now suppose that there are 7 white balls and 3 red balls in the box. On a scale v;;F2;;;;F2;
+prob_num_70_chance_not;Suppose the weather forecast predicts that the probability that it will rain tomorrow is 70%. Go;;F3;;;;F3;
+prob_num_50_50_indepchance_both;How great is the chance that it will rain in your home and also in New York tomorrow?;;F4;;;;F4;
+prob_num_coin_gamblers_fallacy;How great is the chance that if your friend throws one more time it will be currency?;;F5;;;;F5;
+prob_num_chance_subset;Suppose the chance that tomorrow will be at least 10 degrees Celsius is 50%. What is da;;F6;;;;F6;
+prob_num_chance_superset;Suppose the chance that tomorrow will be at least 10 degrees Celsius is 50%. What is da;;F7;;;;F7;
+factors_when_investing;Indicate which reasons are important to you if you decide what you are doing with your sp;;;;;;PortfolioChoice;
+aex_interval_1_last_wave;Preload variable - AEX interval wave 1;aex_interval_1;aex_interval_1;aex_interval_1;aex_interval_1;aex_interval_1;aex_interval_1;
+aex_interval_2_last_wave;Preload variable - AEX interval wave 1;aex_interval_2;aex_interval_2;aex_interval_2;aex_interval_2;aex_interval_2;aex_interval_2;
+aex_perf;Preload variable - Performance AEX wave 1;aex_perf;aex_perf;aex_perf;aex_perf;aex_perf;aex_perf;
+aex_won;Preload variable - Result of AEX with chosen game wave 1;aex_won;aex_won;aex_won;aex_won;aex_won;aex_won;
+answered_last_wave;Preload variable - Whether or not the choice is answered at wave 1;answered;answered;answered;answered;answered;answered;
+choice_last_wave;Preload variable - Choice of chosen game wave 1;choice;choice;choice;choice;choice;choice;
+date_last_wave;Preload variable - Date of completion wave 1;f_date;f_date;f_date;date;date;date;
+lot_last_wave;Which lottery is shown with the chosen game wave 1;f_lot_prob;f_lot_prob;f_lot_prob;f_lot_prob;f_lot_prob;f_lot_prob;
+result_game_last_wave;The result of the chosen game wave 1, in textual form;f_uitslag;f_uitslag;f_uitslag;f_uitslag;f_uitslag;f_uitslag;
+final_position_wheel;Preload variable - wave 1;final_position;final_position;final_position;final_position;final_position;final_position;
+fin_num_interest_basic;Suppose you have 1000 euros in a savings account and the interest is 1% per year. Homestead;;finlit1;;;;finlit1;
+fin_num_interest;Suppose you put 1000 euros on a savings account and that it is certain that you run 0.3%;;finlit2;;;;finlit2;
+fin_num_interest_compound;And how much will there be in this account after five years? Is this:;;finlit3;;;;finlit3;
+fin_num_inflation;Suppose that the interest on your savings account is 1% per year, and that inflation is the same;;finlit4;;;;finlit4;
+wants_intro;Do you want this explanation?;intro_beliefs2;intro_beliefs2;intro_beliefs2;intro_beliefs2;;intro_beliefs2;
+lottery_col_last_wave;Color of the outcome of lottery with the chosen game wave 1;kleur;kleur;kleur;kleur;;kleur;
+lot_prob_last_wave;Preload variable - Which lottery is shown with the chosen game wave 1;lot_prob;lot_prob;lot_prob;lot_prob;;lot_prob;
+lottery_won_last_wave;Preload variable - Result of lottery at chosen game wave 1;lottery_won;lottery_won;lottery_won;lottery_won;;lottery_won;
+is_mobile;Is the mobile layout used.;mobile;mobile;mobile;mobile;mobile;mobile;
+text_w1;Preload variable - Text with chosen game arandom, wave 1;text_a;text_a;text_a;text_a;;text_a;
+text_w2;;;;;;text_b;;
+financial_adv;;;;;;FinancialAdvice;;
+hist_perf_e1_nocheck;;;;;;hist_perf_1_nocheck;;
+hist_perf_e3_nocheck;;;;;;hist_perf_2_nocheck;;
+hist_perf_e2_nocheck;;;;;;hist_perf_3_nocheck;;
+hist_perf_e1;;;;;;hist_perf_1;;
+hist_perf_e3;;;;;;hist_perf_2;;
+hist_perf_e2;;;;;;hist_perf_3;;
+hist_perf_sum;;;;;;hist_perf_totaal;;
+hist_perf_e0_nocheck;;;;;;HistoricPerformance2;;
+agree_future_like_past;;;;;;Predictor;;
+agree_future_like_past_2;;;;;;Predictor_a;;
+why_agree_future_like_past;;;;;;predict_toel;;
+exit_message_temp;Assign variable;;;;f_exit_clim;;;
+choice_message_temp;Assign variable;;;;f_uitbetaling_clim;;;
+climate_change_knowledge;Hoe zou u uw kennis van de oorzaken en de gevolgen van klimaatverandering omschr;;;;klimaat1;;;
+climate_change_threat;Geef aan of u het eens bent met de volgende uitspraak: Klimaatverandering is een;;;;klimaat2;;;
+event_e0_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_1;;;
+event_e0_2_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_2;;;
+event_e0_4_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_4;;;
+event_e0_8_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_8;;;
+event_e0_5_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_5;;;
+event_e0_9_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_9;;;
+event_e0_10_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_10;;;
+event_e0_3_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_3;;;
+event_e0_6_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_6;;;
+event_e0_11_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_11;;;
+event_e0_12_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_12;;;
+event_e0_7_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_7;;;
+event_e0_13_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_13;;;
+event_e1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_1;;;
+event_e1_2_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_2;;;
+event_e1_4_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_4;;;
+event_e1_8_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_8;;;
+event_e1_5_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_5;;;
+event_e1_9_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_9;;;
+event_e1_10_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_10;;;
+event_e1_3_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_3;;;
+event_e1_6_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_6;;;
+event_e1_11_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_11;;;
+event_e1_12_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_12;;;
+event_e1_7_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_7;;;
+event_e1_13_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_13;;;
+event_e2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_1;;;
+event_e2_2_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_2;;;
+event_e2_4_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_4;;;
+event_e2_8_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_8;;;
+event_e2_5_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_5;;;
+event_e2_9_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_9;;;
+event_e2_10_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_10;;;
+event_e2_3_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_3;;;
+event_e2_6_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_6;;;
+event_e2_11_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_11;;;
+event_e2_12_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_12;;;
+event_e2_7_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_7;;;
+event_e2_13_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_13;;;
+event_e3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_1;;;
+event_e3_2_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_2;;;
+event_e3_4_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_4;;;
+event_e3_8_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_8;;;
+event_e3_5_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_5;;;
+event_e3_9_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_9;;;
+event_e3_10_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_10;;;
+event_e3_3_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_3;;;
+event_e3_6_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_6;;;
+event_e3_11_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_11;;;
+event_e3_12_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_12;;;
+event_e3_7_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_7;;;
+event_e3_13_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_13;;;
+event_e1c_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_1;;;
+event_e1c_2_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_2;;;
+event_e1c_4_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_4;;;
+event_e1c_8_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_8;;;
+event_e1c_5_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_5;;;
+event_e1c_9_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_9;;;
+event_e1c_10_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_10;;;
+event_e1c_3_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_3;;;
+event_e1c_6_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_6;;;
+event_e1c_11_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_11;;;
+event_e1c_12_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_12;;;
+event_e1c_7_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_7;;;
+event_e1c_13_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_13;;;
+event_e2c_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_1;;;
+event_e2c_2_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_2;;;
+event_e2c_4_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_4;;;
+event_e2c_8_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_8;;;
+event_e2c_5_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_5;;;
+event_e2c_9_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_9;;;
+event_e2c_10_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_10;;;
+event_e2c_3_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_3;;;
+event_e2c_6_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_6;;;
+event_e2c_11_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_11;;;
+event_e2c_12_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_12;;;
+event_e2c_7_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_7;;;
+event_e2c_13_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_13;;;
+event_e3c_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_1;;;
+event_e3c_2_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_2;;;
+event_e3c_4_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_4;;;
+event_e3c_8_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_8;;;
+event_e3c_5_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_5;;;
+event_e3c_9_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_9;;;
+event_e3c_10_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_10;;;
+event_e3c_3_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_3;;;
+event_e3c_6_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_6;;;
+event_e3c_11_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_11;;;
+event_e3c_12_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_12;;;
+event_e3c_7_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_7;;;
+event_e3c_13_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_13;;;
+event_e0_1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_1_1;;;
+event_e0_2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_2_1;;;
+event_e0_3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_3_1;;;
+event_e0_4_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_4_1;;;
+event_e0_5_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_5_1;;;
+event_e0_6_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_6_1;;;
+event_e0_7_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_7_1;;;
+event_e0_8_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_8_1;;;
+event_e0_9_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_9_1;;;
+event_e0_10_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_10_1;;;
+event_e0_11_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_11_1;;;
+event_e0_12_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_12_1;;;
+event_e0_13_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_1_13_1;;;
+event_e1_1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_1_1;;;
+event_e1_2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_2_1;;;
+event_e1_3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_3_1;;;
+event_e1_4_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_4_1;;;
+event_e1_5_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_5_1;;;
+event_e1_6_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_6_1;;;
+event_e1_7_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_7_1;;;
+event_e1_8_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_8_1;;;
+event_e1_9_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_9_1;;;
+event_e1_10_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_10_1;;;
+event_e1_11_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_11_1;;;
+event_e1_12_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_12_1;;;
+event_e1_13_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_2_13_1;;;
+event_e2_1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_1_1;;;
+event_e2_2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_2_1;;;
+event_e2_3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_3_1;;;
+event_e2_4_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_4_1;;;
+event_e2_5_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_5_1;;;
+event_e2_6_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_6_1;;;
+event_e2_7_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_7_1;;;
+event_e2_8_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_8_1;;;
+event_e2_9_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_9_1;;;
+event_e2_10_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_10_1;;;
+event_e2_11_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_11_1;;;
+event_e2_12_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_12_1;;;
+event_e2_13_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_3_13_1;;;
+event_e3_1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_1_1;;;
+event_e3_2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_2_1;;;
+event_e3_3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_3_1;;;
+event_e3_4_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_4_1;;;
+event_e3_5_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_5_1;;;
+event_e3_6_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_6_1;;;
+event_e3_7_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_7_1;;;
+event_e3_8_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_8_1;;;
+event_e3_9_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_9_1;;;
+event_e3_10_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_10_1;;;
+event_e3_11_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_11_1;;;
+event_e3_12_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_12_1;;;
+event_e3_13_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_4_13_1;;;
+event_e1c_1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_1_1;;;
+event_e1c_2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_2_1;;;
+event_e1c_3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_3_1;;;
+event_e1c_4_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_4_1;;;
+event_e1c_5_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_5_1;;;
+event_e1c_6_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_6_1;;;
+event_e1c_7_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_7_1;;;
+event_e1c_8_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_8_1;;;
+event_e1c_9_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_9_1;;;
+event_e1c_10_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_10_1;;;
+event_e1c_11_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_11_1;;;
+event_e1c_12_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_12_1;;;
+event_e1c_13_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_5_13_1;;;
+event_e2c_1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_1_1;;;
+event_e2c_2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_2_1;;;
+event_e2c_3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_3_1;;;
+event_e2c_4_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_4_1;;;
+event_e2c_5_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_5_1;;;
+event_e2c_6_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_6_1;;;
+event_e2c_7_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_7_1;;;
+event_e2c_8_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_8_1;;;
+event_e2c_9_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_9_1;;;
+event_e2c_10_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_10_1;;;
+event_e2c_11_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_11_1;;;
+event_e2c_12_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_12_1;;;
+event_e2c_13_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_6_13_1;;;
+event_e3c_1_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_1_1;;;
+event_e3c_2_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_2_1;;;
+event_e3c_3_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_3_1;;;
+event_e3c_4_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_4_1;;;
+event_e3c_5_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_5_1;;;
+event_e3c_6_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_6_1;;;
+event_e3c_7_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_7_1;;;
+event_e3c_8_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_8_1;;;
+event_e3c_9_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_9_1;;;
+event_e3c_10_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_10_1;;;
+event_e3c_11_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_11_1;;;
+event_e3c_12_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_12_1;;;
+event_e3c_13_1_temp;Klimaat - U kunt kiezen uit optie 1 of optie 2.;;;;keuze_clim_7_13_1;;;
+date_corona_wave;Preload variable;;;p_DatumE;;;;
+bought_or_sold_stocks;We willen graag weten wat u met uw (eventuele) spaarvermogen hebt gedaan in de a;;;StockTrading;;;;
+weeks_comparison;berekend aantal weken;;;week_help;;;;
+amount_stocks_bought;In vergelijking met een normale periode van [week_help] weken in de afgelopen ja;;;stock3;;;;
+amount_stocks_sold;In vergelijking met een normale periode van [week_help] weken in de afgelopen ja;;;stock4;;;;
+amount_stocks_bought_merge;In vergelijking met een normale periode van [week_help] weken in de afgelopen ja;;;stock5;;;;
+amount_stocks_sold_merge;In vergelijking met een normale periode van [week_help] weken in de afgelopen ja;;;stock6;;;;
+p_6m_purchase_risky;Ik zal in de komende zes maanden risicovolle bezittingen zoals aandelen, bedrijf;;;IntBeh1;;;;
+p_6m_sell_risky;Ik zal in de komende zes maanden risicovolle bezittingen zoals aandelen, bedrijf;;;IntBeh2;;;;
+portfolio2_amt;bedrag getoond bij portfolio2;;fill2;;;;;
+portfolio3_amt;bedrag getoond bij portfolio3;;fill3;;;;;
+portfolio4_amt;bedrag getoond bij portfolio4;;fill4;;;;;
+portfolio5_amt;bedrag getoond bij portfolio5;;fill5;;;;;
+num1;Een winkel verkoopt in de uitverkoop alle artikelen voor de halve prijs. Vóór de;;num1;;;;;
+num3;Een verkoper van tweedehands autos verkoopt een auto voor 6.000 euro. Dat is tw;;num3;;;;;
+num5;Als vijf mensen allemaal de winnende nummers in een loterij goed hebben en de ho;;num5;;;;;
+num6;Stel dat u 200 euro op een spaarrekening hebt staan. U zet niet nog een bedrag o;;num6;;;;;
+portfolio1;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;;portfolio1;;;;;
+portfolio2;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;;portfolio2;;;;;
+portfolio3;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;;portfolio3;;;;;
+portfolio4;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;;portfolio4;;;;;
+portfolio5;Wat heeft uw voorkeur: een 50 procent kans op het winnen van 300 euro met tegeli;;portfolio5;;;;;
+time_pref_154;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 154 euro ontvangen?;;v107;;;;;
+time_pref_125;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 125 euro ontvangen?;;v108;;;;;
+time_pref_112;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 112 euro ontvangen?;;v109;;;;;
+time_pref_106;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 106 euro ontvangen?;;v110;;;;;
+time_pref_103;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 103 euro ontvangen?;;v111;;;;;
+time_pref_109;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 109 euro ontvangen?;;v112;;;;;
+time_pref_119;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 119 euro ontvangen?;;v113;;;;;
+time_pref_122;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 122 euro ontvangen?;;v114;;;;;
+time_pref_116;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 116 euro ontvangen?;;v115;;;;;
+time_pref_139;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 139 euro ontvangen?;;v116;;;;;
+time_pref_132;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 132 euro ontvangen?;;v117;;;;;
+time_pref_129;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 129 euro ontvangen?;;v118;;;;;
+time_pref_136;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 136 euro ontvangen?;;v119;;;;;
+time_pref_146;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 146 euro ontvangen?;;v120;;;;;
+time_pref_143;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 143 euro ontvangen?;;v121;;;;;
+time_pref_150;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 150 euro ontvangen?;;v122;;;;;
+time_pref_185;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 185 euro ontvangen?;;v123;;;;;
+time_pref_202;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 202 euro ontvangen?;;v124;;;;;
+time_pref_193;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 193 euro ontvangen?;;v125;;;;;
+time_pref_197;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 197 euro ontvangen?;;v126;;;;;
+time_pref_189;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 189 euro ontvangen?;;v127;;;;;
+time_pref_210;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 210 euro ontvangen?;;v128;;;;;
+time_pref_215;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 215 euro ontvangen?;;v129;;;;;
+time_pref_206;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 206 euro ontvangen?;;v130;;;;;
+time_pref_169;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 169 euro ontvangen?;;v131;;;;;
+time_pref_161;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 161 euro ontvangen?;;v132;;;;;
+time_pref_158;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 158 euro ontvangen?;;v133;;;;;
+time_pref_165;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 165 euro ontvangen?;;v134;;;;;
+time_pref_177;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 177 euro ontvangen?;;v135;;;;;
+time_pref_173;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 173 euro ontvangen?;;v136;;;;;
+time_pref_181;Zou u liever vandaag 100 euro ontvangen of over 12 maanden 181 euro ontvangen?;;v137;;;;;
+general_risk_q;"Bent u; in het algemeen; bereid om risicos te nemen?";;v71;;;;;
+general_risk_ex1a;"Bij het beantwoorden van de laatste vraag; ... dacht u dan eerder aan de negatie";;ex1a;;;;;
+general_risk_ex1b;"Bij het beantwoorden van de laatste vraag; ... dacht u dan eerder aan kleine all";;ex1b;;;;;
+general_risk_ex1c;"Bij het beantwoorden van de laatste vraag; ... dacht u dan eerder aan situaties ";;ex1c;;;;;
+general_risk_ex1d;"Bij het beantwoorden van de laatste vraag; ... dacht u dan eerder aan situaties ";;ex1d;;;;;
+general_risk_ex2_1;Wat had u in gedachten toen u aangaf hoe bereid u was om risicos te nemen (dat ;;ex2__1;;;;;
+general_risk_ex2_2;Wat had u in gedachten toen u aangaf hoe bereid u was om risicos te nemen (dat ;;ex2__2;;;;;
+general_risk_ex2_3;Wat had u in gedachten toen u aangaf hoe bereid u was om risicos te nemen (dat ;;ex2__3;;;;;
+general_risk_ex2_4;Wat had u in gedachten toen u aangaf hoe bereid u was om risicos te nemen (dat ;;ex2__4;;;;;
+general_risk_ex2_5;Wat had u in gedachten toen u aangaf hoe bereid u was om risicos te nemen (dat ;;ex2__5;;;;;
+general_risk_ex2_6;Wat had u in gedachten toen u aangaf hoe bereid u was om risicos te nemen (dat ;;ex2__6;;;;;
+general_risk_ex2_7;Wat had u in gedachten toen u aangaf hoe bereid u was om risicos te nemen (dat ;;ex2__7;;;;;
+time_pref;Hoe bereid bent u om op een bepaalde manier te handelen? iets opgeven dat vandaa;;v72a;;;;;
+num2;"Als de kans om ziek te worden 10% is; hoeveel van de 1000 (duizend) mensen zal d";;num2;;;;;
+num4;"Als u een blikje fris koopt voor 85 cent en u betaalt met een munt van 1 euro; h";;num4;;;;;
+partner_head;Preload variable - Het huishoudhoofd woont samen met een partner (gehuwd of onge;p_partner;;;;;;
+self_assessment_greedy;Ik ben eigenlijk wel hebzuchtig;self_assessment1;;;;;;
+self_assessment_gambler;Ik ben eigenlijk wel een gokker;self_assessment2;;;;;;
+self_assessment_selfish;Ik ben eigenlijk wel egoïstisch;self_assessment3;;;;;;
+other_stocks_greedy;Mensen die risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zijn ge;other_assess_risk1;;;;;;
+other_stocks_gambler;Mensen die risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zijn ge;other_assess_risk2;;;;;;
+other_stocks_selfish;Mensen die risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zijn ge;other_assess_risk3;;;;;;
+other_nostocks_greedy;Mensen die geen risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zi;other_assess_norisk1;;;;;;
+other_nostocks_gambler;Mensen die geen risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zi;other_assess_norisk2;;;;;;
+other_nostocks_selfish;Mensen die geen risicovolle investeringen hebben zoals bijvoorbeeld aandelen, zi;other_assess_norisk3;;;;;;
+response_stocks_greedy;Hoe antwoorden mensen die risicovolle investeringen hebben, zoals bijvoorbeeld a;self_assess_risk1;;;;;;
+response_stocks_gambler;Hoe antwoorden mensen die risicovolle investeringen hebben, zoals bijvoorbeeld a;self_assess_risk2;;;;;;
+response_stocks_selfish;Hoe antwoorden mensen die risicovolle investeringen hebben, zoals bijvoorbeeld a;self_assess_risk3;;;;;;
+response_nostocks_greedy;Hoe antwoorden mensen die geen risicovolle investeringen hebben, zoals bijvoorbe;self_assess_norisk1;;;;;;
+response_nostocks_gambler;Hoe antwoorden mensen die geen risicovolle investeringen hebben, zoals bijvoorbe;self_assess_norisk2;;;;;;
+response_nostocks_selfish;Hoe antwoorden mensen die geen risicovolle investeringen hebben, zoals bijvoorbe;self_assess_norisk3;;;;;;
+fin_invest;Hebt u zelf risicovolle investeringen (zoals aandelen of fondsen)?;fin_invest;;;;;;

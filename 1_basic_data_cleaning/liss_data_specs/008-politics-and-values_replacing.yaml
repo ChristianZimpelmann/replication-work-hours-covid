@@ -1,0 +1,345 @@
+--- # renaming political_values yaml file
+
+"type renaming":
+  "boolean":
+    "Ja": !!bool True
+    "ja": !!bool True
+    "Nee": !!bool False
+    "nee": !!bool False
+    "Yes": !!bool True
+    "No": !!bool False
+    "yes": !!bool True
+    "no": !!bool False
+
+"replacing":
+  "voted_recent_parl_election":
+    !!bool True: "yes"
+    !!bool False: "no"
+
+  "voted_for_prov":
+    "Ouderenpartij NH / Verenigde Senioren Partij (Senior citizens' party of North Ho": "Ouderenpartij NH / Verenigde Senioren Partij (Senior citizens' party of North Holland)"
+    "Ouderenpartij NH / Verenigde Senioren Partij (Senior citizens\x92 party of North Ho": "Ouderenpartij NH / Verenigde Senioren Partij (Senior citizens' party of North Holland)"
+    "Ouderenpartij NH / Verenigde Senioren Partij (Senior citizens party of North Ho": "Ouderenpartij NH / Verenigde Senioren Partij (Senior citizens' party of North Holland)"
+    " Leefbaar Zuid-Holland (provincial party of South Holland)": "Leefbaar Zuid-Holland (provincial party of South Holland)"
+
+  "would_vote_for_now_parl":
+    "Socialistische Partij (SP) (socialist party)": "SP (socialist party)"
+    "[if cv17i243=0: I would not vote]": "I would not vote"
+    "[if cv19k243=0: I would not vote]": "I would not vote"
+    "[if cv18j243=0: I would not vote]": "I would not vote"
+
+  "political_party":
+    "Socialistische Partij (SP) (socialist party)": "SP (socialist party)"
+    "other party, specify...": "other party"
+
+  "how_rightwing":
+    0: "0 left"
+    10: "10 right"
+    "0": "0 left"
+    "1": 1
+    "2": 2
+    "3": 3
+    "4": 4
+    "5": 5
+    "6": 6
+    "7": 7
+    "8": 8
+    "9": 9
+    "10": "10 right"
+    "right": "10 right"
+    "left": "0 left"
+
+  "pol_permit_euthanasia":
+    1: "1 euthanasia should be forbidden"
+    5: "5 euthanasia should be permitted"
+    "1": "1 euthanasia should be forbidden"
+    "2": 2
+    "3": 3
+    "4": 4
+    "5": "5 euthanasia should be permitted"
+    "euthanasia should be permitted": "5 euthanasia should be permitted"
+    "euthanasia schould be forbidden": "1 euthanasia should be forbidden"
+
+  "pol_support_income_diff_decr":
+    1: "1 differences in income should increase"
+    5: "5 differences in income should decrease"
+    "1": "1 differences in income should increase"
+    "2": 2
+    "3": 3
+    "4": 4
+    "5": "5 differences in income should decrease"
+    "differences in income should decrease": "5 differences in income should decrease"
+    "differences in income should increase": "1 differences in income should increase"
+
+  "pol_immigrants_should_adapt":
+    1: "1 immigrants can retain their own culture"
+    5: "5 immigrants should adapt entirely to Dutch culture"
+    "1": "1 immigrants can retain their own culture"
+    "2": 2
+    "3": 3
+    "4": 4
+    "5": "5 immigrants should adapt entirely to Dutch culture"
+    "immigrants should adapt entirely to dutch culture": "5 immigrants should adapt entirely to Dutch culture"
+    "immigrants should adapt entirely to Dutch culture": "5 immigrants should adapt entirely to Dutch culture"
+    "immigrants can retain their own culture": "1 immigrants can retain their own culture"
+
+  "pol_eu_unification_too_far":
+    1: "1 European unification should go further"
+    5: "5 European unification has already gone too far"
+    "1": "1 European unification should go further"
+    "2": 2
+    "3": 3
+    "4": 4
+    "5": "5 European unification has already gone too far"
+    "European unification has already gone too far": "5 European unification has already gone too far"
+    "European unification should go further": "1 European unification should go further"
+
+  "chart_experiment_took_part":
+    "panel members did not receive the chart experiment": !!bool False
+    "panel members did receive the chart experiment": !!bool True
+
+  "random_trad_or_chance_voting_q":
+    -9: !!float .nan
+    "The traditional version cv17i244": "The traditional version"
+    "The traditional version cv18j244": "The traditional version"
+    "The traditional version cv19k244": "The traditional version"
+    "The traditional version cv20l308": "The traditional version"
+    "The chance questions cv17i245 \u0096 cv17i262": "The chance questions"
+    "The chance questions cv18j245 \u0096 cv18j262": "The chance questions"
+    "The chance questions cv19k245 \u0096 cv19k262": "The chance questions"
+    "The chance questions cv20l245 \x96 cv20l262": "The chance questions"
+
+  "wld_vote_parl_chance":
+    "I am not eligible to vote": !!float .nan
+
+  "full_df":
+    "I don\x92t know": !!float .nan
+    "I don't know": !!float .nan
+    "I dont know": !!float .nan
+    "I prefer not to say": !!float .nan
+    -9.0: !!float .nan
+    -8.0: !!float .nan
+
+"multicolumn":
+  "read":
+    "columns":
+      - "news_read_nat_issues"
+      - "news_read_internat_issues"
+    "dictionary":
+      "(almost) never": "seldom or never"
+      "occasionally": "once in a while"
+
+  "ten scale confidence":
+    "columns":
+      - "confidence_dutch_gov"
+      - "confidence_dutch_parliament"
+      - "confidence_legal_system"
+      - "confidence_police"
+      - "confidence_politicians"
+      - "confidence_pol_parties"
+      - "confidence_eu_parliament"
+      - "confidence_un"
+      - "confidence_media"
+      - "confidence_military"
+      - "confidence_edu_system"
+      - "confidence_healthcare"
+      - "confidence_science"
+      - "confidence_economy"
+      - "confidence_democracy"
+      - "confidence_businesses_personal"
+      - "confidence_businesses_general"
+    "dictionary":
+      0: "0 no confidence at all"
+      10: "10 full confidence"
+      "0": "0 no confidence at all"
+      "1": 1
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": 5
+      "6": 6
+      "7": 7
+      "8": 8
+      "9": 9
+      "10": "10 full confidence"
+      "full confidence": "10 full confidence"
+      "no confidence at all": "0 no confidence at all"
+
+  "ten scale satisfied":
+    "columns":
+      - "satisfied_dutch_gov"
+      - "satisfied_dutch_parliament"
+      - "satisfied_legal_system"
+      - "satisfied_police"
+      - "satisfied_politicians"
+      - "satisfied_pol_parties"
+      - "satisfied_eu_parliament"
+      - "satisfied_un"
+      - "satisfied_media"
+      - "satisfied_military"
+      - "satisfied_edu_system"
+      - "satisfied_healthcare"
+      - "satisfied_science"
+      - "satisfied_economy"
+      - "satisfied_democracy"
+      - "satisfied_businesses_personal"
+      - "satisfied_businesses_general"
+    "dictionary":
+      0: "0 very dissatisfied"
+      10: "10 very satisfied"
+      "0": "0 very dissatisfied"
+      "1": 1
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": 5
+      "6": 6
+      "7": 7
+      "8": 8
+      "9": 9
+      "10": "10 very satisfied"
+      "very satisfied": "10 very satisfied"
+      "very dissatisfied": "0 very dissatisfied"
+
+  "ten scale sympathetic":
+    "columns":
+      - "sympathy_cda"
+      - "sympathy_pvda"
+      - "sympathy_vvd"
+      - "sympathy_sp"
+      - "sympathy_groenlinks"
+      - "sympathy_d66"
+      - "sympathy_christenunie"
+      - "sympathy_sgp"
+      - "sympathy_verdonk"
+      - "sympathy_pvv"
+      - "sympathy_animal_party"
+      - "leader_sympathy_balkenende"
+      - "leader_sympathy_bos"
+      - "leader_sympathy_rutte"
+      - "leader_sympathy_kant"
+      - "leader_sympathy_halsema"
+      - "leader_sympathy_pechtold"
+      - "leader_sympathy_rouvoet"
+      - "leader_sympathy_vdvlies"
+      - "leader_sympathy_verdonk"
+      - "leader_sympathy_wilders"
+      - "leader_sympathy_thieme"
+      - "leader_sympathy_cohen"
+      - "leader_sympathy_verhagen"
+      - "leader_sympathy_roemer"
+      - "leader_sympathy_vdstaaij"
+      - "leader_sympathy_sap"
+      - "leader_sympathy_slob"
+      - "party_sympathy_fiftyplus"
+      - "leader_sympathy_samsom"
+      - "leader_sympathy_buma"
+      - "leader_sympathy_ojik"
+      - "leader_sympathy_krol"
+      - "leader_sympathy_nagel"
+      - "leader_sympathy_klaver"
+      - "sympathy_denk"
+      - "sympathy_vnl"
+      - "leader_sympathy_samsom_asscher"
+      - "leader_sympathy_segers"
+      - "leader_sympathy_kuzu"
+      - "leader_sympathy_roos"
+      - "sympathy_democr"
+      - "leader_sympathy_baudet"
+      - "leader_sympathy_jetten"
+      - "leader_sympathy_azarkan"
+      - "leader_sympathy_heerma"
+      - "leader_sympathy_quwehand"
+    "dictionary":
+      0: "0 very unsympathetic"
+      10: "10 very sympathetic"
+      "0": "0 very unsympathetic"
+      "1": 1
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": 5
+      "6": 6
+      "7": 7
+      "8": 8
+      "9": 9
+      "10": "10 very sympathetic"
+      "very unsympathetic": "0 very unsympathetic"
+      "very sympathetic": "10 very sympathetic"
+
+  "do not care":
+    "columns":
+      - "parliament_not_care"
+      - "parties_not_care"
+      - "ppl_no_influence"
+      - "politically_able"
+      - "understand_pol_issues"
+      - "view_pol_complicated"
+    "dictionary":
+      "that is true": !!bool True
+      "that is not true": !!bool False
+
+  "political goal":
+    "columns":
+      - "political_priority1"
+      - "political_priority2"
+      - "political_priority3"
+    "dictionary":
+      "increasing citizens\x92 political say": "increasing citizens' political say"
+      "increasing citizens political say": "increasing citizens' political say"
+
+  "trade unions":
+    "columns":
+      - "view_unions_be_tougher"
+      - "view_unions_influence_members"
+      - "view_workers_fight"
+      - "view_social_inequality"
+    "dictionary":
+      "never thought about it": !!float .nan
+
+  "questionnaire scale":
+    "columns":
+      - "questionnaire_difficult"
+      - "questionnaire_clear"
+      - "questionnaire_thinking"
+      - "questionnaire_interesting"
+      - "questionnaire_enjoy"
+      - "questionnaire_difficult_1"
+      - "questionnaire_difficult_2"
+      - "questionnaire_difficult_3"
+      - "questionnaire_clear_1"
+      - "questionnaire_clear_2"
+      - "questionnaire_clear_3"
+      - "questionnaire_thinking_1"
+      - "questionnaire_thinking_2"
+      - "questionnaire_thinking_3"
+      - "questionnaire_interesting_1"
+      - "questionnaire_interesting_2"
+      - "questionnaire_interesting_3"
+      - "questionnaire_enjoy_1"
+      - "questionnaire_enjoy_2"
+      - "questionnaire_enjoy_3"
+    "dictionary":
+      1: "1 definitely no"
+      5: "5 definitely yes"
+      "1": "1 definitely no"
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": "5 definitely yes"
+      "definitely no": "1 definitely no"
+      "definitely yes": "5 definitely yes"
+      "certainly not": "1 definitely no"
+      "certainly yes": "5 definitely yes"
+      "1 certainly not": "1 definitely no"
+      "5 certainly yes": "5 definitely yes"
+
+  "political party ad":
+    "columns":
+      - "adherent_of_pol_party"
+      - "attracted_to_pol_party"
+    "dictionary":
+      "PvdA (labor party": "PvdA (labor party)"
+      "other party, specify...": "other"
+
+

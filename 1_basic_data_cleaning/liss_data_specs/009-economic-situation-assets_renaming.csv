@@ -1,0 +1,88 @@
+new_name;labels;ca20g_EN_1.0p.dta;ca18f_EN_1.0p.dta;ca16e_EN_1.0p.dta;ca14d_2.0p_EN.dta;ca12c_EN_1.0p.dta;ca10b_EN_1.0p.dta;ca08a_1.0p_EN.dta;type;categories_english;ordered
+;The head of household lives together with a partner (married or unmarried);ca20g001;ca18f001;ca16e001;ca14d001;ca12c001;ca10b001;ca08a001;;;
+financial_decider;Do you take care of financial matters in the household?;ca20g002;ca18f002;ca16e002;ca14d002;ca12c002;ca10b002;ca08a002;bool;;
+;Position in the household;ca20g003;ca18f003;ca16e003;ca14d003;ca12c003;ca10b003;ca08a003;;;
+banking_d;On 31 December 2007, did you possess one or more of the following assets? - Curr;ca20g078;ca18f078;ca16e078;ca14d078;ca12c078;ca10b078;ca08a004;bool;;
+insurance_d;On 31 December 2015, did you possess one or more of the following assets? - Sing;ca20g005;ca18f005;ca16e005;ca14d005;ca12c005;ca10b005;ca08a005;bool;;
+risky_financial_assets_d;On 31 December 2015, did you possess one or more of the following assets? - Inve;ca20g006;ca18f006;ca16e006;ca14d006;ca12c006;ca10b006;ca08a006;bool;;
+real_estate_d;On 31 December 2015, did you possess one or more of the following assets? - Real;ca20g007;ca18f007;ca16e007;ca14d007;ca12c007;ca10b007;ca08a007;bool;;
+durables_d;On 31 December 2015, did you possess one or more of the following assets? - Cars;ca20g008;ca18f008;ca16e008;ca14d008;ca12c008;ca10b008;ca08a008;bool;;
+no_wealth_d;On 31 December 2015, did you possess one or more of the following assets? - None;ca20g009;ca18f009;ca16e009;ca14d009;ca12c009;ca10b009;ca08a009;bool;;
+loan_out_d;Did you have any money loaned out to family, friends or acquaintances on 31 Dece;ca20g010;ca18f010;ca16e010;ca14d010;ca12c010;ca10b010;ca08a010;bool;;
+other_inv_d;On 31 December 2015, did you have any other assets or money saved or invested in;ca20g011;ca18f011;ca16e011;ca14d011;ca12c011;ca10b011;ca08a011;bool;;
+banking_v;What was the total balance of your banking account or giro (current accounts), s;ca20g012;ca18f012;ca16e012;ca14d012;ca12c012;ca10b012;ca08a012;float;;
+banking_c;To what category did the total balance (total value) belong on 31 December 2015;ca20g013;ca18f013;ca16e013;ca14d013;ca12c013;ca10b013;ca08a013;category;;
+insurance_v;What was the total sum of the guaranteed minimum payout of your single-premium o;ca20g014;ca18f014;ca16e014;ca14d014;ca12c014;ca10b014;ca08a014;float;;
+insurance_c;To what category did the sum of the guaranteed minimum payout of your single-pre;ca20g015;ca18f015;ca16e015;ca14d015;ca12c015;ca10b015;ca08a015;category;;
+risky_financial_assets_v;What was the total value of your investments (growth funds, share funds, bonds,;ca20g016;ca18f016;ca16e016;ca14d016;ca12c016;ca10b016;ca08a016;float;;
+risky_financial_assets_c;To what category did the total value belong?;ca20g017;ca18f017;ca16e017;ca14d017;ca12c017;ca10b017;ca08a017;category;;
+real_estate_v;What was the total value of the real estate (not used as personal home / second;ca20g018;ca18f018;ca16e018;ca14d018;ca12c018;ca10b018;ca08a018;float;;
+real_estate_c;To what category did the total value belong?;ca20g019;ca18f019;ca16e019;ca14d019;ca12c019;ca10b019;ca08a019;category;;
+mortgage_d;Do you have mortgages on this real estate?;ca20g020;ca18f020;ca16e020;ca14d020;ca12c020;ca10b020;ca08a020;bool;;
+mortgage_v;How high was the remaining mortgage debt on 31 December 2015?;ca20g021;ca18f021;ca16e021;ca14d021;ca12c021;ca10b021;ca08a021;float;;
+mortgage_c;To what category did the remaining debt belong?;ca20g022;ca18f022;ca16e022;ca14d022;ca12c022;ca10b022;ca08a022;category;;
+durables_v;Can you estimate the total sales value of the car(s), motorcycle(s), boat(s), (s;ca20g023;ca18f023;ca16e023;ca14d023;ca12c023;ca10b023;ca08a023;float;;
+durables_c;To what category did the estimated sales value belong?;ca20g024;ca18f024;ca16e024;ca14d024;ca12c024;ca10b024;ca08a024;category;;
+loan_out_v;You indicated that you had loaned money to family, friends or acquaintances. Wha;ca20g025;ca18f025;ca16e025;ca14d025;ca12c025;ca10b025;ca08a025;float;;
+loan_out_c;To what category did the amount belong on 31 December 2015?;ca20g026;ca18f026;ca16e026;ca14d026;ca12c026;ca10b026;ca08a026;category;;
+other_inv_v;You indicated that you have saved or invested money in a form not mentioned so f;ca20g027;ca18f027;ca16e027;ca14d027;ca12c027;ca10b027;ca08a027;float;;
+other_inv_c;To what category did the total value belong on 31 December 2015?;ca20g028;ca18f028;ca16e028;ca14d028;ca12c028;ca10b028;ca08a028;category;;
+priv_comp_d;Are you a majority-shareholder director (Dutch: DGA) of a private limited compan;ca20g079;ca18f079;ca16e079;ca14d079;ca12c079;ca10b079;ca08a029;bool;;
+priv_comp_pension;On 31 December 2015, was the private company linked to a private pension company;ca20g030;ca18f030;ca16e030;ca14d030;ca12c030;ca10b030;ca08a030;float;;
+;Can you indicate the size of your stake in this private pension company for the;;;;;;;ca08a031;;;
+;How large was the private equity of the private pension company, on 31 December;;;;;;;ca08a032;;;
+;Can you say, then, to what category the private equity of the private pension co;;;;;;;ca08a033;;;
+priv_comp_stake;Can you indicate the size of your stake in the private limited company of which;ca20g034;ca18f034;ca16e034;ca14d034;ca12c034;ca10b034;ca08a034;float;;
+priv_comp_v;How large was the private equity of this private company on 31 December 2015?;ca20g035;ca18f035;ca16e035;ca14d035;ca12c035;ca10b035;ca08a035;float;;
+priv_comp_c;To what category did the private equity of the private limited company of which;ca20g036;ca18f036;ca16e036;ca14d036;ca12c036;ca10b036;ca08a036;category;;
+;Did you have any money loaned out to the private limited company of which you ar;;;;;;ca10b037;ca08a037;;;
+;How much did you have loaned out to the private company on 31 December 2009?;;;;;;ca10b038;ca08a038;;;
+;Can you say, then, to what category the amount that you had loaned out to the pr;;;;;;ca10b039;ca08a039;;;
+pship_d;Are you part of any form of partnership (Dutch: maatschap or vennootschap onder;ca20g080;ca18f080;ca16e080;ca14d080;ca12c080;ca10b080;ca08a040;bool;;
+pship_fiscal;Did the fiscal year of your partnership correspond to the calendar year, on 31 D;ca20g041;ca18f041;ca16e041;ca14d041;ca12c041;ca10b041;ca08a041;bool;;
+pship_v;How large was your own share in the equity of the own partnership in the fiscal;ca20g083;ca18f083;ca16e083;ca14d083;ca12c083;ca10b042;ca08a042;float;;
+pship_c;Can you say, then, to what category your own share in the equity of the own part;ca20g084;ca18f084;ca16e084;ca14d084;ca12c084;ca10b043;ca08a043;category;;
+;Did you have any company equity outside the partnership (Dutch: buitenvennootsch;;;;;;;ca08a044;;;
+;How large was this equity in the fiscal year 2007 (/2006/2007) on the balance da;;;;;;;ca08a045;;;
+;Can you say, then, to what category the equity outside the partnership belonged,;;;;;;;ca08a046;;;
+self_empl_comp_d;Are you self-employed in a one-man company or as company owner (not a majority s;ca20g081;ca18f081;ca16e081;ca14d081;ca12c081;ca10b081;ca08a047;bool;;
+self_empl_comp_fiscal;Does your company's fiscal year correspond to the calendar year?;ca20g048;ca18f048;ca16e048;ca14d048;ca12c048;ca10b048;ca08a048;bool;;
+self_empl_comp_v;How large was your own equity in the fiscal year 2009 (2008/2009) according to t;ca20g085;ca18f085;ca16e085;ca14d085;ca12c085;ca10b049;ca08a049;float;;
+self_empl_comp_c;Can you say, then, to what category the equity of your own company belonged, on;ca20g086;ca18f086;ca16e086;ca14d086;ca12c086;ca10b050;ca08a050;category;;
+;Have you accrued a 'fiscal old age reserve' (Dutch: fiscale oudedagsreserve, FOR;;;;;;ca10b051;ca08a051;;;
+;How large was the FOR on 31 December 2009?;;;;;;ca10b052;ca08a052;;;
+;Can you say, then, to what category the FOR belonged, on 31 December 2009?;;;;;;ca10b053;ca08a053;;;
+study_grant_d;Did you have any debts on 31 December 2015, on account of a study grant? (E.g. v;ca20g054;ca18f054;ca16e054;ca14d054;ca12c054;ca10b054;ca08a054;bool;;
+study_grant_v;How much was the total (remaining) debt of your study grant(s) on 31 December 20;ca20g055;ca18f055;ca16e055;ca14d055;ca12c055;ca10b055;ca08a055;float;;
+study_grant_c;To what category did the total remaining debt belong?;ca20g056;ca18f056;ca16e056;ca14d056;ca12c056;ca10b056;ca08a056;category;;
+debt_hire_purchase_d;On 31 December 2015, did you have one or more personal loans, revolving credit a;ca20g057;ca18f057;ca16e057;ca14d057;ca12c057;ca10b057;ca08a057;bool;;
+debt_pledge_d;On 31 December 2015, did you have a loan or credit arrangement based on a pledge;ca20g058;ca18f058;ca16e058;ca14d058;ca12c058;ca10b058;ca08a058;bool;;
+debt_credit_card_d;On 31 December 2011, were you 'in the red' on one or more credit cards (meaning;ca20g087;ca18f087;ca16e087;ca14d087;ca12c059;ca10b059;ca08a059;bool;;
+debt_loan_family_d;On 31 December 2015, did you have money loaned from family, friends or acquainta;ca20g060;ca18f060;ca16e060;ca14d060;ca12c060;ca10b060;ca08a060;bool;;
+debt_other_d;On 31 December 2015, did you have any other credits, loans or debts not mentione;ca20g061;ca18f061;ca16e061;ca14d061;ca12c061;ca10b061;ca08a061;bool;;
+debt_no_d;None of these;ca20g062;ca18f062;ca16e062;ca14d062;ca12c062;ca10b062;ca08a062;bool;;
+debt_v;What was the total amount of the loans, credits and debts that you had on 31 Dec;ca20g063;ca18f063;ca16e063;ca14d063;ca12c063;ca10b063;ca08a063;float;;
+debt_c;To what category did the loans, credits and debts belong on 31 December 2015?;ca20g064;ca18f064;ca16e064;ca14d064;ca12c064;ca10b064;ca08a064;category;;
+debt_hard_repay;Please indicate on a scale from 0 to 10 how hard it is/was to pay off (repayment;ca20g065;ca18f065;ca16e065;ca14d065;ca12c065;ca10b065;ca08a065;category;0|1|2|3|4|5|6|7|8|9|10;True
+questionnaire_difficult;Was it difficult to answer the questions?;ca20g066;ca18f066;ca16e066;ca14d066;ca12c066;ca10b066;ca08a066;category;certainly not|2|3|4|certainly yes;True
+questionnaire_clear;Were the questions sufficiently clear?;ca20g067;ca18f067;ca16e067;ca14d067;ca12c067;ca10b067;ca08a067;category;certainly not|2|3|4|certainly yes;True
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ca20g068;ca18f068;ca16e068;ca14d068;ca12c068;ca10b068;ca08a068;category;certainly not|2|3|4|certainly yes;True
+questionnaire_interesting;Was it an interesting subject?;ca20g069;ca18f069;ca16e069;ca14d069;ca12c069;ca10b069;ca08a069;category;certainly not|2|3|4|certainly yes;True
+questionnaire_enjoy;Did you enjoy answering the questions?;ca20g070;ca18f070;ca16e070;ca14d070;ca12c070;ca10b070;ca08a070;category;certainly not|2|3|4|certainly yes;True
+start_date;Starting date of the questionnaire;ca20g071;ca18f071;ca16e071;ca14d071;ca12c071;ca10b071;ca08a071;object;;
+start_time;Starting time of the questionnaire;ca20g072;ca18f072;ca16e072;ca14d072;ca12c072;ca10b072;ca08a072;object;;
+end_date;End date of the questionnaire;ca20g073;ca18f073;ca16e073;ca14d073;ca12c073;ca10b073;ca08a073;object;;
+end_time;End time of the questionnaire;ca20g074;ca18f074;ca16e074;ca14d074;ca12c074;ca10b074;ca08a074;object;;
+duration;Duration in seconds;ca20g075;ca18f075;ca16e075;ca14d075;ca12c075;ca10b075;ca08a075;float;;
+date_fieldwork;Year and month of field work period;ca20g_m;ca18f_m;ca16e_m;ca14d_m;ca12c_m;ca10b_m;ca08a_m;float;;
+hh_id;Number of household encrypted;;;;;;nohouse_encr;nohouse_encr;float;;
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;int;;
+;Respondent has previously stated to have problems with answering such questions;;;;;;ca10b076;;;;
+;Are you willing to answer the questions on assets and loans this time?;;;;;;ca10b077;;;;
+;Age respondent;ca20g082;ca18f082;ca16e082;ca14d082;ca12c082;;;;;
+total_financial_assets;;;;;;;;;float;;
+non_fin_assets_excl_housing;;;;;;;;;float;;
+wealth_excl_housing;;;;;;;;;float;;
+has_rfa;;;;;;;;;float;;
+has_rfa_wide_def;;;;;;;;;int;;
+frac_rfa;;;;;;;;;float;;

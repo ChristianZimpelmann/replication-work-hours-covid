@@ -1,0 +1,84 @@
+--- # renaming work_and_schholing yaml file
+"mixed_case":
+  - "dom_situation"
+
+# "type renaming":
+#   "boolean":
+#     "Ja": !!bool True
+#     "ja": !!bool True
+#     "Nee": !!bool False
+#     "nee": !!bool False
+#     "Yes": !!bool True
+#     "No": !!bool False
+#     "yes": !!bool True
+#     "no": !!bool False
+
+"replacing":
+  "gender":
+    "Female": "female"
+    "Male": "male"
+
+  "sector":
+    "agriculture, forestry, fishery, hunting": "agri_business"
+    "business services (including real estate, rental)": "business_services"
+    "environmental services, culture, recreation and other services": "env_culture_recr"
+    "government services, public administration and mandatory social insurances": "public_services"
+    "healthcare and welfare": "health_welfare"
+    "industrial production": "industry"
+    "retail trade (including repairs of consumer goods)": "retail"
+    "transport, storage and communication": "logistics"
+    "utilities production, distribution and/or trade (electricity, natural gas, steam": "utilities"
+    "utilities production, distribution and/or trade (electricity, natural gas, steam, water)": "utilities"
+    "mining": "other"
+
+  "dom_situation":
+    "Single": "single_no_children"
+    "(Un)married co-habitation, without child(ren)": "relationship_no_children"
+    "(Un)married co-habitation, with child(ren)": "relationship_children"
+    "Single, with child(ren)": "single_children"
+    "Other": "other"
+
+  "occupation":
+    "Performs unpaid work while retaining unemployment benefit": "unpaid_work_benefit"
+    "Paid employment": "employee"
+    "Is pensioner ([voluntary] early retirement, old age pension scheme)": "pensioner"
+    "Performs voluntary work": "voluntary_work"
+    "Attends school or is studying": "school_uni"
+    "Autonomous professional, freelancer, or self-employed": "self_employed"
+    "Takes care of the housekeeping": "housekeeping"
+    "Has (partial) work disability": "work_disability"
+    "Works or assists in family business": "family_business"
+    "Is too young to have an occupation": "too_young"
+    "Job seeker following job loss": "unemployed"
+    "Does something else": "other"
+    "Exempted from job seeking following job loss": "unemployed"
+    "First-time job seeker": "unemployed"
+
+"multicolumn":
+
+  "mental_health":
+    "columns":
+      - "feel_anxious"
+      - "feel_calm"
+      - "feel_depressed"
+      - "feel_happy"
+      - "feel_down"
+    "dictionary":
+      "continuously": "constantly"
+
+    "professions":
+      "columns":
+      - "profession"
+      - "profession_firstjob"
+      "dictionary":
+        "higher academic or independent profession (e.g. architect, physician, scholar, academic instructor, engineer)": "higher_academic"
+        "higher supervisory profession (e.g. manager, director, owner of large company, supervisory civil servant)": "higher_supervisory"
+        "intermediate academic or independent profession (e.g. teacher, artist, nurse, social worker, policy assistant)": "intermediate_academic"
+        "intermediate supervisory or commercial profession (e.g. head representative, department manager, shopkeeper)": "intermediate_supervisory"
+        "other mental work (e.g. administrative assistant, accountant, sales assistant, family carer)": "other_mental"
+        "skilled and supervisory manual work (e.g. car mechanic, foreman, electrician)": "skilled_manual"
+        "semi-skilled manual work (e.g. driver, factory worker)": "semiskilled_manual"
+        "unskilled and trained manual work (e.g. cleaner, packer)": "unskilled_manual"
+        "agrarian profession (e.g. farm worker, independent agriculturalist)": "agricultural"
+
+

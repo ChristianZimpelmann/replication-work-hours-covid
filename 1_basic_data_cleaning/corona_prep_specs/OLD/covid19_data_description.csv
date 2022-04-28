@@ -1,0 +1,219 @@
+new_name;categories_english;group_english;label_english;nice_name_english;ordered;topic_english;type
+p_infected;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain, has already happened;Subjective Risks;How likely do you think it is that you will become infected with the new coronavirus in the next 2 months?;Be Infected;True;Health Beliefs;Categorical
+p_acquaintance_infected;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain, has already happened;Subjective Risks;How likely do you think it is that someone in your direct environment (family, friends, colleagues) will be infected with the new coronavirus in the next 2 months?;Friend Infected;True;Health Beliefs;Categorical
+p_hospital_if_infect_self;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain, has already happened;Subjective Risks;How likely do you think it is that you will need inpatient care if you became infected with the new coronavirus in the next 2 months?;Hospitalized;True;Health Beliefs;Categorical
+p_quarantine;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain, has already happened;Subjective Risks;How likely do you think it is that you will be quarantined in the next 2 months irrespective of whether you get infected or not?;Quarantine;True;Health Beliefs;Categorical
+p_infected_and_pass_on;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain, has already happened;Subjective Risks;How likely do you think it is that you will get infected and infect others in the next to months?;Spread Virus;True;Health Beliefs;Categorical
+p_hospital_healthy_5;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Hospitalization;How big do you think the chances are that an otherwise healthy 5 year old will have to go to the hospital?;Healthy Child;True;Health Beliefs;Categorical
+p_hospital_healthy_30;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Hospitalization;How big do you think the chances are that an otherwise healthy 30 year old will have to go to the hospital?;Healthy Adult;True;Health Beliefs;Categorical
+p_hospital_healthy_75;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Hospitalization;How big do you think the chances are that an otherwise healthy 75 year old will have to go to the hospital?;Healthy Old;True;Health Beliefs;Categorical
+p_hospital_preexist_30;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Hospitalization;How big do you think the chances are that an 30 year old with diabetes and chronic cardiovascular disease will have to go to the hospital?;Predisposed Adult;True;Health Beliefs;Categorical
+p_hospital_preexist_75;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Hospitalization;How big do you think the chances are that an 75 year old with diabetes and chronic cardiovascular disease will have to go to the hospital?;Predisposed Old;True;Health Beliefs;Categorical
+p_die_healthy_5;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Death;How big do you think the chances are that an otherwise healthy 5 year old will die?;Healthy Child ;True;Health Beliefs;Categorical
+p_die_healthy_30;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Death;How big do you think the chances are that an otherwise healthy 30 year old will die?;Healthy Adult;True;Health Beliefs;Categorical
+p_die_healthy_75;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Death;How big do you think the chances are that an otherwise healthy 75 year old will die?;Healthy Old;True;Health Beliefs;Categorical
+p_die_preexist_30;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Death;How big do you think the chances are that an 30 year old with diabetes and chronic cardiovascular disease will die?;Predisposed Adult;True;Health Beliefs;Categorical
+p_die_preexist_75;not at all likely, very unlikely, rather unlikely, moderately likely, rather likely, very likely, certain;Vignettes: Risk of Death;How big do you think the chances are that an 75 year old with diabetes and chronic cardiovascular disease will die?;Predisposed Old;True;Health Beliefs;Categorical
+avoid_busy_places;;Social Distancing;I have avoided certain (busy) places;Avoid Crowds;;Compliance;bool
+avoid_public_places;;Social Distancing;I have avoided public places;Avoid Places;;Compliance;bool
+maintain_distance;;Social Distancing;I have maintained physical distance from other people (> 1.5m);Distance;;Compliance;bool
+adjust_school_work;;Social Distancing;I have adjusted my school / work situation;Adjust Work;;Compliance;bool
+quarantine_symptoms;;Social Distancing;I have quarantined myself because I had symptoms.;Quarantine Sick;;Compliance;bool
+quarantine_no_symptoms;;Social Distancing;I have quarantined myself even though I have no symptoms.;Quarantine Well;;Compliance;bool
+no_health_behaviors;;Social Distancing;I have done none of the above;No Changes;;Compliance;bool
+effect_close_schools;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Policies;How effective do you think school and pre-k closures are in fighting the spread of coronavirus?;Close Schools;True;Policy;Categorical
+effect_close_sports;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Policies;How effective do you think is it to close sport establishments to fight the spread of coronavirus?;Close Sports;True;Policy;Categorical
+effect_close_food_service;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Policies;How effective do you think is it to close bars, cafes and restaurants to fight the spread of coronavirus?;Close Eateries;True;Policy;Categorical
+effect_close_most_stores;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Policies;How effective do you think is it to close all stores except grocery stores and pharmacies to fight the spread of coronavirus?;Close Shops;True;Policy;Categorical
+effect_forbid_hospital_visits;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Policies;How effective do you think is it to forbid visits to hospitals, nursing homes and retirement homes to fight the spread of coronavirus?;No Hospital Visits;True;Policy;Categorical
+effect_curfew_high_risk;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Policies;How effective do you think is it to enact a curfew (except on grocery shopping and necessary medical procedures) on over 70 year olds and people with preexisting conditions to fight the spread of coronavirus?;Curfew Elderly;True;Policy;Categorical
+effect_curfew_non_crucial;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Policies;How effective do you think is it to enact a curfew (except on grocery shopping and necessary medical procedures) on everyone except for people in critical professions to fight the spread of coronavirus?;Curfew Most;True;Policy;Categorical
+comply_curfew_self;yes, no, critical occupation;Compliance with Curfew;Would you comply with a curfew?;Would Comply;False;Compliance;Categorical
+approp_gov_medical;too few, rather too few, right amount, rather too many, too many ;Appropriateness of Policies;Has the federal government taken enough action to safeguard medical coverage to fight the current epidemic?;Medical System;True;Policy;Categorical
+approp_gov_restrict_public_life;too few, rather too few, right amount, rather too many, too many ;Appropriateness of Policies;Has the federal government taken enough action in restricting the public life to fight the current epidemic?;Public Life;True;Policy;Categorical
+approp_gov_econ_mitigation;too few, rather too few, right amount, rather too many, too many ;Appropriateness of Policies;Has the federal government taken enough action to mitigate the economic repercussions to fight the current epidemic?;Help Economy;True;Policy;Categorical
+approp_gov_communication;too few, rather too few, right amount, rather too many, too many ;Appropriateness of Policies;Has the federal government taken enough action communicating with the general public to fight the current epidemic?;Communication;True;Policy;Categorical
+trust_gov;1 no confidence at all, 2, 3, 4, 5 very confident;Trust in Government;In general, how confident are you in the government?;Confidence;True;Mental Health and Trust;Categorical
+labor_status_liss;employed, self-emplyed, unemployed, retired, social assistance, student or trainee, homemaker;Skip;Which of the following options describes your work situation at the beginning of March 2020 best?;Work Situation;False;Skip;Categorical
+nr_children_hh;;Skip;How many children under 12 are in your household?;How Many Children;;Skip;int
+cc_self_home;;Childcare Adjustments;I stay at home.;Self;;Economic Adjustments;bool
+cc_partner_home;;Childcare Adjustments;My partner stays at home.;Partner;;Economic Adjustments;bool
+cc_older_siblings;;Childcare Adjustments;The older siblings care for the younger children.;Older Siblings;;Economic Adjustments;bool
+cc_grand_parents;;Childcare Adjustments;The grandparents care for the children.;Grandparents;;Economic Adjustments;bool
+cc_other_relatives;;Childcare Adjustments;Other relatives or friends care for the children.;Other Relatives;;Economic Adjustments;bool
+cc_share_neighbors;;Childcare Adjustments;I organize child care with friends / neighbors together.;With Neighbors;;Economic Adjustments;bool
+cc_state;;Childcare Adjustments;The state organizes child care for my profession.;State Organized;;Economic Adjustments;bool
+cc_ex_partner;;Childcare Adjustments;My ex-partner cares for the children.;Ex Partner;;Economic Adjustments;bool
+cc_home_alone;;Childcare Adjustments;The child(ren) stay(s) at home alone.;Children Alone;;Economic Adjustments;bool
+cc_other;;Childcare Adjustments;Otherwise;Other;;Economic Adjustments;bool
+cc_other_str;;Skip;Otherwise, namely:;;;Skip;str
+cc_emergency_helpful;1 no not at all, 2, 3, 4, 5 yes very good;Skip;Are you well helped with this emergency (child) care?;State Care Helps;True;Economic Adjustments;Categorical
+cc_emergency_comment;;Skip;If you want to say something about this emergency (child) care, maybe about what you think could be improved, you can put it here;Comment Childcare;;Skip;str
+liked_survey;not at all, not very much, average, good, very good;Skip;How did you like this survey overall?;;True;Skip;Categorical
+remarks;;Skip;Do you have any remarks or would like to add something to the special survey on the topic of coronavirus?;;;Skip;str
+effect_mask;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Health Behaviors;In your opinion, how effective is wearing a mask when it comes to protecting yourself against the coronavirus?;Wear Mask;True;Health Beliefs;Categorical
+effect_pray;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Health Behaviors;In your opinion, how effective is praying when it comes to protecting yourself against the coronavirus?;Pray ;True;Health Beliefs;Categorical
+effect_wash_hands;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Health Behaviors;In your opinion, how effective is washing your hands or using desinfectant when it comes to protecting yourself against the coronavirus?;Wash Or Disinfect;True;Health Beliefs;Categorical
+effect_doctor_ill;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Health Behaviors;In your opinion, how effective is calling a physician if you are ill when it comes to protecting yourself against the coronavirus?;Physician (Sick);True;Health Beliefs;Categorical
+effect_doctor_healthy;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Health Behaviors;In your opinion, how effective is calling a physician if you don't feel ill but are worried when it comes to protecting yourself against the coronavirus?;Physician (Well);True;Health Beliefs;Categorical
+effect_avoid_public;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Social Distancing;In your opinion, how effective is avoiding public places when it comes to protecting yourself against the coronavirus?;Avoid Public;True;Health Beliefs;Categorical
+effect_avoid_high_risk;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Social Distancing;In your opinion, how effective is avoiding vulnerable people when it comes to protecting yourself against the coronavirus?;Avoid Vulnerable;True;Health Beliefs;Categorical
+effect_avoid_hospital;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Social Distancing;In your opinion, how effective is avoiding visitng others in the hospital or retirement homes when it comes to protecting yourself against the coronavirus?;No Hospital Visits;True;Health Beliefs;Categorical
+effect_avoid_gastro;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Social Distancing;In your opinion, how effective is avoiding cafes and restaurants when it comes to protecting yourself against the coronavirus?;Avoid Eateries;True;Health Beliefs;Categorical
+effect_avoid_public_transp;not effective at all, hardly effective, somewhat effective, effective, very effective;Subjective Effectiveness of Social Distancing;In your opinion, how effective is avoiding public transport when it comes to protecting yourself against the coronavirus?;No Public Transport;True;Health Beliefs;Categorical
+contact_older_people;Not at all, hardly, some contact, much contact, very much contact;Contact with the Elderly;Have you had personal, social contact with older people in the past seven days?;Contact With Old;True;Compliance;Categorical
+supp_close_schools;totally disagree, disagree, neither/nore, agree, totally agree;Support for Policies;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? All kindergardens and schools have ot stay closed;Close Schools;True;Policy;Categorical
+supp_close_cafes;totally disagree, disagree, neither/nore, agree, totally agree;Support for Policies;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? All cafes and restaurants have to stay closed;Close Eateries ;True;Policy;Categorical
+supp_close_most_shops;totally disagree, disagree, neither/nore, agree, totally agree;Support for Policies;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? All shops except for supermarkets and pharmacies have to stay closed;Close Shops;True;Policy;Categorical
+supp_no_visitors;totally disagree, disagree, neither/nore, agree, totally agree;Support for Policies;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? No visitors in hospitals and elderly homes;No Hospital Visits;True;Policy;Categorical
+supp_curfew_high_risk;totally disagree, disagree, neither/nore, agree, totally agree;Support for Policies;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? People aged 70 and over or with a medical condition have to stay at home except to do basic shopping or because urgent medical attention is required;Curfew Elderly;True;Policy;Categorical
+supp_curfew_non_crucial;totally disagree, disagree, neither/nore, agree, totally agree;Support for Policies;Under the current circumstances, do you disagree or agree with the following (possible) policies against spreading the coronavirus? Everyone who does not work in a crucial profession has to stay at home except to do basic shopping or because urgent medical care is required;Curfew Most;True;Policy;Categorical
+duration_restrictions;until April 6, btw. April 6 and 2 months, btw. 2 and 4 months, btw. 4 and 8 months, btw. 8 and 12 months, for more than 1 year;Expected Duration of Restrictions;Until when dou you think that the limitations that exist now will remain in effect?;Duration;True;Economic Expectations;Categorical
+comply_curfew_others;;Expected Compliance of Others;If the government obliges everyone to stay home tomorrow (except to do basic groceries), how many out of 100 people who don't work in critical professions would do this, do you think?;How Many Comply;;Compliance;int
+comply_bc_civic;;Reasons for Complying with Curfew;I would comply with a curfew because I see it as my civic duty.;Civic Duty;;Compliance;bool
+comply_bc_fear_punished;;Reasons for Complying with Curfew;I would comply with a curfew out of fear of being punished.;Punishment;;Compliance;bool
+comply_bc_protect_self;;Reasons for Complying with Curfew;I would comply with a curfew to protect myself from being infected.;Protect Self;;Compliance;bool
+comply_bc_protect_close;;Reasons for Complying with Curfew;I would comply with a curfew to protect those close to me.;Protect Close;;Compliance;bool
+comply_bc_protect_all;;Reasons for Complying with Curfew;I would comply with a curfew to protect others in general.;Protect Others;;Compliance;bool
+comply_bc_high_risk;;Reasons for Complying with Curfew;I would comply with a curfew to protect vulnerable groups.;Protect Vulnerable;;Compliance;bool
+comply_bc_other;;Reasons for Complying with Curfew;I would comply with a curfew for another reason.;Other;;Compliance;bool
+comply_bc_other_str;;Skip;I would comply with a curfew because of another resaon, namely:;;;Skip;str
+disobey_bc_freedom;;Reasons for Disobeying a Curfew;I would disobey a curfew because I don't accept such drastic infringements of my liberties;Liberty;;Compliance;bool
+disobey_bc_not_punish;;Reasons for Disobeying a Curfew;I would disobey a curfew because I don't believe that I would be punished.;No Punishment;;Compliance;bool
+disobey_bc_unjustified;;Reasons for Disobeying a Curfew;I would disobey a curfew because I don't believe such drastic infringements are justified to stop the spread of coronavirus.;Unjustified;;Compliance;bool
+disobey_bc_obligations;;Reasons for Disobeying a Curfew;I would disobey a curfew because I have obligations because of which I cannot follow the recommendaitons.;Obligations;;Compliance;bool
+disobey_bc_ineffective;;Reasons for Disobeying a Curfew;I would disobey a curfew because I don't believe that a curfew will slow the spread of coronavirus.;Ineffective;;Compliance;bool
+disobey_bc_unaffected;;Reasons for Disobeying a Curfew;I would disobey a curfew because I don't believe I will be affected by the outbreak.;Unaffected;;Compliance;bool
+disobey_bc_bored;;Reasons for Disobeying a Curfew;I would disobey a curfew because it would be too boring to stay home all the time.;Bored;;Compliance;bool
+disobey_bc_other;;Skip;I would disobey a curfew because of another reason.;Other;;Skip;bool
+disobey_bc_other_str;;Skip;I would disobey a curfew because of another reason, namely: ;Other;;Skip;str
+workplace_h_before;;Working Hours;On average, how many hours per week did you work at your workplace in early March?;At Office Before;;Economic Adjustments;float
+workplace_h_after;;Working Hours;On average, how many hours per week did you work at your workplace in the past seven days?;At Office Now;;Economic Adjustments;float
+home_h_before;;Working Hours;On average, how many hours per week did you work at home in early March?;At Home Before;;Economic Adjustments;float
+home_h_after;;Working Hours;On average, how many hours per week did you work at home  in the past seven days?;At Home Now;;Economic Adjustments;float
+not_work_lessbusiness;;Reasons for Not Working Among Employees;Less business activity in the company where I work;Less Business;;Economic Adjustments;bool
+not_work_care;;Reasons for Not Working Among Employees;Must take care of people (children, parents) who depend on me;Provide Care;;Economic Adjustments;bool
+not_work_fear_infection;;Reasons for Not Working Among Employees;I do not go to my workplace because I am afraid of being infected by the coronavirus and I cannot do the work I do at;Fear Of Infection;;Economic Adjustments;bool
+not_work_employer;;Reasons for Not Working Among Employees;Because of the risk of infection, my employer postponed work;Work Suspended;;Economic Adjustments;bool
+not_work_fired;;Reasons for Not Working Among Employees;I got fired;Fired;;Economic Adjustments;bool
+not_work_other;;Reasons for Not Working Among Employees;Otherwise;Other;;Economic Adjustments;bool
+not_work_other_str;;Skip;Otherwise, namely:;Other;;Skip;str
+less_work_lessbusiness;;Reasons for Working Less Among Employees;Less business activity in the company where I work;Less Business;;Economic Adjustments;bool
+less_work_care;;Reasons for Working Less Among Employees;Must take care of people (children, parents) who depend on me;Provide Care;;Economic Adjustments;bool
+less_work_fear_infection;;Reasons for Working Less Among Employees;I go to my workplace less because of fear of being infected by the coronavirus and not able to work at home.;Fear Of Infection;;Economic Adjustments;bool
+less_work_employer;;Reasons for Working Less Among Employees;Because of the risk of infection, my employer has decided that less work will be done;Work Suspended;;Economic Adjustments;bool
+less_work_other;;Reasons for Working Less Among Employees;Otherwise;Other;;Economic Adjustments;bool
+less_work_other_str;;Skip;Otherwise, namely:;Other;;Skip;str
+selfempl_less_business;;Reasons for Working Less Among the Self-Employed;Less business activity in my company;Less Business;;Economic Adjustments;bool
+selfempl_less_care;;Reasons for Working Less Among the Self-Employed;Must take care of people (children, parents) who depend on me;Provide Care;;Economic Adjustments;bool
+selfempl_less_closure;;Reasons for Working Less Among the Self-Employed;The entire company is closed (for now) due to the risk of contamination;Company Closed;;Economic Adjustments;bool
+selfempl_less_other;;Reasons for Working Less Among the Self-Employed;I am working less for another reason.;Other;;Economic Adjustments;bool
+selfempl_less_other_str;;Skip;Otherwise, namely:;Other;;Skip;str
+contact_workers;Never, once a week, several times a week, every day;Contact with Workers or Students;How often do you have personal social contacts with people who now work or study?;Contact;;Compliance;Categorical
+health_skills;No unable, no lacking skills, medical training, social work training, organizational skills;Skip;Do you have a background or skill that can be immediately used by hospitals or healthcare to fight the coronavirus?;Health Skills;;Skip;Categorical
+prepared_to_help;0 not prepared at all, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 definitely prepared;Skip;Suppose healthcare is overloaded by patients infected with the coronavirus. To what extent are you willing to volunteer in hospitals or retirement homes and care for people who are very ill from the coronavirus, even if that means that you are likely to contract the virus yourself?;Willing To Help;;Skip;Categorical
+intend_save_more;;Consumption Plans;Do you intend to do the following things in response to the spread of the coronavirus? Save more to have something to fall back on when things get worse;Save More;;Economic Adjustments;bool
+intend_postpone_purchase;;Consumption Plans;Do you intend to do the following things in response to the spread of the coronavirus? Postpone purchases of durable goods, such as a car, technical appliances or furniture, for the foreseeable future;Delay Purchases;;Economic Adjustments;bool
+intend_postpone_house;;Consumption Plans;Do you intend to do the following things in response to the spread of the coronavirus? Postpone the purchase of a house or apartment;Delay House;;Economic Adjustments;bool
+intend_reduce_housing;;Consumption Plans;Do you intend to do the following things in response to the spread of the coronavirus? Moving to a smaller house or apartment;Smaller Flat;;Economic Adjustments;bool
+intend_sell_shares;;Consumption Plans;Do you intend to do the following things in response to the spread of the coronavirus? Selling shares;Sell Shares;;Economic Adjustments;bool
+intend_buy_shares;;Consumption Plans;Do you intend to do the following things in response to the spread of the coronavirus? Buying shares;Buy Shares;;Economic Adjustments;bool
+intend_none;;Consumption Plans;Do you intend to do the following things in response to the spread of the coronavirus? None of the above;No Change;;Economic Adjustments;bool
+eur_1k_basic_needs;;Use of One-Time Allowance;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Basic needs (e.g. groceries);Basic Needs;;Economic Expectations;int
+eur_1k_expenses;;Use of One-Time Allowance;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Expenses (e.g. books);Other Expenses;;Economic Expectations;int
+eur_1k_durables;;Use of One-Time Allowance;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Durables;Durable Goods;;Economic Expectations;int
+eur_1k_savings;;Use of One-Time Allowance;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Savings;Savings;;Economic Expectations;int
+eur_1k_support_others;;Use of One-Time Allowance;If the Dutch government today announced you would receive 1000 euros next week, what would you use that money for? Financially support others;Help Others;;Economic Expectations;int
+p_selfempl_as_normal;;Employer Prospects;My company will continue as before;No Change ;;Economic Expectations;int
+p_selfempl_fewer;;Employer Prospects;My company will have fewer activities, but will not need government support;Less Activity;;Economic Expectations;int
+p_selfempl_shutdown_gov;;Employer Prospects;My business will have to shut down, at least temporarily, but government support will help me keep my head above water;Government Rescue;;Economic Expectations;int
+p_selfempl_shutdown_no_gov;;Employer Prospects;My company will have to shut down, at least temporarily, and I don't get enough support from the government;Closure;;Economic Expectations;int
+p_selfempl_other;;Employer Prospects;Something else;Other;;Economic Expectations;int
+p_severe_financial_distress;;Probability of No Or Insufficient Income;What is the probability that the Coronavirus crisis will lead to a situation where you have no income or where your income is lower than what you need to cover basic needs and outstanding payment obligations?;Probability;;Economic Expectations;int
+cope_savings;;Economic Coping Strategies;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Use savings;Use Savings;;Economic Expectations;bool
+cope_loan;;Economic Coping Strategies;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Have to take out a loan / increase the mortgage;Get Loan;;Economic Expectations;bool
+cope_family;;Economic Coping Strategies;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on family;Family;;Economic Expectations;bool
+cope_unemp;;Economic Coping Strategies;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must apply for unemployment / disability benefits;Unempl. Benefits;;Economic Expectations;bool
+cope_retire;;Economic Coping Strategies;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must retire (early);Retire;;Economic Expectations;bool
+cope_soc_assist;;Economic Coping Strategies;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Must rely on social assistance;Social Assistance;;Economic Expectations;bool
+cope_other;;Skip;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Other, namely:;Other;;Skip;bool
+cope_other_str;;Skip;If the crisis leads to a situation where you have no income or where the income is lower than what you need to cover basic needs and outstanding payment obligations, how do you or your household deal with this? Other, namely:;Other;;Skip;str
+nervous;never, rarely, sometimes, often, mostly, constantly;Mental Health in the Past Week;The past seven days I was very nervous;Nervous;True;Mental Health and Trust;Categorical
+depressed;never, rarely, sometimes, often, mostly, constantly;Mental Health in the Past Week;The past seven days I was so down that nothing could cheer me up;Depressed;True;Mental Health and Trust;Categorical
+calm;never, rarely, sometimes, often, mostly, constantly;Mental Health in the Past Week;The past seven days I felt calm and peaceful;Calm;True;Mental Health and Trust;Categorical
+gloomy;never, rarely, sometimes, often, mostly, constantly;Mental Health in the Past Week;The past seven days I felt dejected and gloomy;Gloomy;True;Mental Health and Trust;Categorical
+happy;never, rarely, sometimes, often, mostly, constantly;Mental Health in the Past Week;The past seven daysI felt happy;Happy;True;Mental Health and Trust;Categorical
+concern_bored;1 not concerned at all, 2, 3, 4, 5 very concerned;Health Concerns;That I get very bored;Bored;True;Mental Health and Trust;Categorical
+concern_serious_ill;1 not concerned at all, 2, 3, 4, 5 very concerned;Health Concerns;That I become infected with the coronavirus and become very ill or die;Very Sick Or Die;True;Mental Health and Trust;Categorical
+concern_infect_others;1 not concerned at all, 2, 3, 4, 5 very concerned;Health Concerns;That I get infected with the coronavirus and infect others;Spreading;True;Mental Health and Trust;Categorical
+concern_loved_ill;1 not concerned at all, 2, 3, 4, 5 very concerned;Health Concerns;That loved ones become infected with the coronavirus and become very ill or die;Loved Ones;True;Mental Health and Trust;Categorical
+concern_unemp;1 not concerned at all, 2, 3, 4, 5 very concerned;Economic Concerns;That I will lose my job;Lose Job;True;Mental Health and Trust;Categorical
+concern_company;1 not concerned at all, 2, 3, 4, 5 very concerned;Economic Concerns;That my company gets in financial difficulties.;Employer;True;Mental Health and Trust;Categorical
+concern_new_job;1 not concerned at all, 2, 3, 4, 5 very concerned;Economic Concerns;That I won't be able to find a new job.;No New Job;True;Mental Health and Trust;Categorical
+concern_food;1 not concerned at all, 2, 3, 4, 5 very concerned;Economic Concerns;That I am unable to buy enough food;Not Enough Food;True;Mental Health and Trust;Categorical
+concern_health_care;1 not concerned at all, 2, 3, 4, 5 very concerned;Health Concerns;That I will not get good health care;Health Care;True;Mental Health and Trust;Categorical
+concern_fav_shop_bancrupt;1 not concerned at all, 2, 3, 4, 5 very concerned;Economic Concerns;That my favorite restaurant / cafe is going bankrupt;Favorite Shop;True;Mental Health and Trust;Categorical
+duration_econ_crisis;less than 1 month, 1 to 3 months, 3 to 6 months, 6 to 12 months, 1 to 2 years, 2 to 3 years, 3 years or more;Duration of the Economic Crisis;How long do you think the economic crisis will last?;Duration;True;Economic Expectations;Categorical
+p_job_loss_empl;not applicable, very unlikely, unlikely, likely, very likely;Probabilities of Economic Repercussions;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Job loss (employed);Job Loss;True;Economic Expectations;Categorical
+p_job_loss_selfempl;not applicable, very unlikely, unlikely, likely, very likely;Probabilities of Economic Repercussions;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? No more contracts (self-employed);No More Orders;True;Economic Expectations;Categorical
+p_shorten_pension;not applicable, very unlikely, unlikely, likely, very likely;Probabilities of Economic Repercussions;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Shortening my pension;Pension Smaller;True;Economic Expectations;Categorical
+p_drop_in_assets;not applicable, very unlikely, unlikely, likely, very likely;Probabilities of Economic Repercussions;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Assets will drop in value;Asset Values;True;Economic Expectations;Categorical
+p_bank_bancrupt;not applicable, very unlikely, unlikely, likely, very likely;Probabilities of Economic Repercussions;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? My bank will go bankrupt;Bank Failure;True;Economic Expectations;Categorical
+p_struggle_debts;not applicable, very unlikely, unlikely, likely, very likely;Probabilities of Economic Repercussions;How likely is it that the following economic effects of the coronavirus crisis will occur to you in the next 12 months? Struggle to repay debts;Hard To Repay Debt;True;Economic Expectations;Categorical
+exp_house_prices_direction;House prices will be lower, House prices will be the same, House prices will be higher;House Prices;At what level will house prices in 12 months be compared to house prices in February (ie before the coronavirus outbreak)?;Direction;True;Economic Expectations;Categorical
+exp_house_prices_percent;less than 2%, 2% to 5%, 5% to 10%, 10% to 20%, 30% or more;House Prices;How many percent ^ f_hogerlager ;Price Change;True;Economic Expectations;Categorical
+exp_spend_less;0 totally disagree, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 totally agree;Consumption Plans Next 12 Months;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Spend less;Spend Less;True;Economic Expectations;Categorical
+exp_work_more;1 totally disagree, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 totally agree;Consumption Plans Next 12 Months;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Work more;Work More;True;Economic Expectations;Categorical
+exp_work_less;2 totally disagree, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 totally agree;Consumption Plans Next 12 Months;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Work less;Work Less;True;Economic Expectations;Categorical
+exp_borrow;3 totally disagree, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 totally agree;Consumption Plans Next 12 Months;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Borrow extra;Borrow Extra;True;Economic Expectations;Categorical
+exp_postpone_house;4 totally disagree, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 totally agree;Consumption Plans Next 12 Months;If you think about the coronavirus outbreak at this moment and then look ahead to the next 12 months, do you agree with the following statements? Postpone house purchase;Delay House;True;Economic Expectations;Categorical
+gov_action_approp;totally disagree, disagree, neither/nore, agree, totally agree;Skip;I think the government's action is appropriate;;True;Skip;Categorical
+gov_action_insuff;totally disagree, disagree, neither/nore, agree, totally agree;Skip;I think the measures taken are insufficient;;True;Skip;Categorical
+save_banks;totally disagree, disagree, neither/nore, agree, totally agree;Skip;The government must be prepared to save banks;;True;Skip;Categorical
+help_pension_funds;totally disagree, disagree, neither/nore, agree, totally agree;Skip;Pension funds need to be helped.;;True;Skip;Categorical
+personal_id;;Skip;personal identifier;;;Skip;float
+p_employed_keep;;Employment;I will keep my job because my employer / company is not financially affected by the corona virus or is financially healthy enough to continue to pay wages;Healthy Job;;Economic Expectations;int
+p_employed_keep_gov;;Employment;I will keep my job because the government provides help to my employer / company (eg by paying wages);Job With Help;;Economic Expectations;int
+p_employed_lost;;Employment;I will have lost my job or the number of hours will have been reduced to 0 indefinitely (e.g., forced unpaid leave, I am paid per hour in a restaurant ...);No Income;;Economic Expectations;int
+p_employed_other;;Employment;Something else is happening;Other;;Economic Expectations;int
+;;;;;;;
+note_survey;;questionnaire;Would you like to comment on the coronavirus outbreak? For example about things that you find important and about which we have not asked questions, or about which you would like to provide more information?;;;questionnaire;str
+questionnaire_difficult;;questionnaire;Was it difficult to answer the questions?;;;questionnaire;float
+questionnaire_clear;;questionnaire;Were the questions sufficiently clear?;;;questionnaire;float
+questionnaire_thinking;;questionnaire;Did the questionnaire get you thinking about things?;;;questionnaire;float
+questionnaire_interesting;;questionnaire;Was it an interesting subject?;;;questionnaire;float
+questionnaire_enjoy;;questionnaire;Did you enjoy answering the questions?;;;questionnaire;float
+start_date;20-03-2020, 21-03-2020, 22-03-2020, 23-03-2020, 24-03-2020, 25-03-2020, 26-03-2020, 27-03-2020;questionnaire;date of questionnaire start;;TRUE;questionnaire;Categorical
+start_time;;questionnaire;time of questionnaire start;;;questionnaire;str
+end_date;20-03-2020, 21-03-2020, 22-03-2020, 23-03-2020, 24-03-2020, 25-03-2020, 26-03-2020, 27-03-2020;questionnaire;date of questionnaire end;;TRUE;questionnaire;Categorical
+end_time;;questionnaire;time of questionnaire end ;;;questionnaire;str
+duration;;questionnaire;time it took to fill the questionnaire in seconds;;;questionnaire;float
+hh_id;;background;Household number;;;background;float
+hh_position;Household head, Wedded partner, Child living at home, Unwedded partner, Parent (in law), Housemate, Family member or boarder;background;;;FALSE;background;Categorical
+birth_year;;background;birth year;;;background;float
+age;;background;Age ;;;background;float
+hh_members;;background;Number of Household Members.;;;background;float
+hh_children;;background;number of all children living in the household;;;background;int
+hhh_partner;;background;do you live with a married or unmarried partner;;;background;bool
+civil_status;Never been married, Married, Divorced, Widow or widower, Separated;background;Marital status;;FALSE;background;Categorical
+dom_situation;Single, (Un)married co-habitation, with child(ren), (Un)married co-habitation, without child(ren), Single, with child(ren), Other;background;What is your domestic situation? ;;FALSE;background;Categorical
+dwelling_type;Self-owned dwelling, Rental dwelling, Cost-free dwelling;background;;;FALSE;background;Categorical
+location_urban;Not urban, Slightly urban, Moderately urban, Very urban, Extremely urban;background;;;TRUE;background;Categorical
+occupation;Paid employment, Is pensioner ([voluntary] early retirement or old age pension scheme), Autonomous professional freelancer or self-employed, Takes care of the housekeeping, Has (partial) work disability, Attends school or is studying, First-time job seeker, Does something else, Performs voluntary work;background;;;FALSE;background;Categorical
+net_income_hh;;background;Net income household;;;background;float
+gross_income_hh;;background;Gross income household;;;background;float
+education_cbs;primary school, vmbo (intermediate secondary education US: junior high school), havo/vwo (higher secondary education/preparatory university education US: senio, mbo (intermediate vocational education US: junior college), hbo (higher vocational education US: college), wo (university), other, Not (yet) completed any education, Not yet started any education*;background;education in CBS categories;;TRUE;background;Categorical
+edu;"""lower_secondary_and_lower"", ""upper_secondary"", ""tertiary""";background;Education;;TRUE;background;Categorical
+edu_4;"""primary"", ""lower_secondary"", ""upper_secondary"", ""tertiary""";background;Education;;TRUE;background;Categorical
+gender;male, female;background;Gender;;FALSE;background;Categorical
+female;;background;Female;;;background;bool
+net_income;;background;Individual net income;;;background;float
+gross_income;;background;Individual gross income;;;background;float
+;;;;;;;
+;;;;;;;
+;;;;;;;
+cc_number;;;Economic Adjustments;childcare;Number of different arrangements that families use!;;float
+cc_nuclear_family;;;Economic Adjustments;childcare;Indicator making use of nuclear family;;bool
+cc_family;;;Economic Adjustments;childcare;Indicator making use of family;;bool
+work_h_before;;;;;Total hours worked before;;float
+work_h_after;;;;;Total hours worked after;;float

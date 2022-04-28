@@ -1,0 +1,114 @@
+new_name;labels;ks13a_EN_1.0p.dta
+exp_treatment_status;Determining condition 1-2-3;ks13a001
+age_child;How old is your child?;ks13a002
+gender_child;What is the gender of your child?;ks13a003
+country_of_birth_child;In which country was your child born?;ks13a004
+attends_special_ed;Does your child attend special education?;ks13a005
+fig_relation_c;Please select the figure which best describes your relationship with your child.;ks13a006
+has_close_relation_w_child;My relationship with my child is close.;ks13a007
+misses_child_when_apart;When we are apart, I miss my child a great deal.;ks13a008
+shares_personal_things_w_c;My child and I disclose important personal things to each other.;ks13a009
+has_strong_conn_w_c;My child and I have a strong connection.;ks13a010
+wants_to_spend_time_w_c;My child and I want to spend time together.;ks13a011
+is_sure_of_relation_w_c;I?m sure of my relationship with my child.;ks13a012
+child_is_priority;My child is a priority in my life.;ks13a013
+does_lots_of_things_w_c;My child and I do a lot of things together.;ks13a014
+spends_freetime_w_c;When I have free time I choose to spend it alone with my child.;ks13a015
+thinks_abt_child;I think about my child a lot.;ks13a016
+relation_w_child_is_important;My relationship with my child is important in my life.;ks13a017
+considers_c_when_making_desc;I consider my child when making important decisions;ks13a018
+fig_relation_friend_of_c;Please select the figure which best describes your relationship with the best fr;ks13a019
+trait_self_assured;Please select for each pair the trait that best applies to you.;ks13a020
+trait_centre_of_attention1;Please select for each pair the trait that best applies to you.;ks13a021
+trait_confident;Please select for each pair the trait that best applies to you.;ks13a022
+trait_leader1;Please select for each pair the trait that best applies to you.;ks13a023
+trait_manipulator;Please select for each pair the trait that best applies to you.;ks13a024
+trait_demand_respect;Please select for each pair the trait that best applies to you.;ks13a025
+trait_showoff;Please select for each pair the trait that best applies to you.;ks13a026
+trait_confident_in_what_does1;Please select for each pair the trait that best applies to you.;ks13a027
+trait_story_teller;Please select for each pair the trait that best applies to you.;ks13a028
+trait_demands_much_others;Please select for each pair the trait that best applies to you.;ks13a029
+trait_centre_of_attention2;Please select for each pair the trait that best applies to you.;ks13a030
+trait_leader2;Please select for each pair the trait that best applies to you.;ks13a031
+trait_will_be_great;Please select for each pair the trait that best applies to you.;ks13a032
+trait_manipulator2;Please select for each pair the trait that best applies to you.;ks13a033
+trait_confident_in_what_does2;Please select for each pair the trait that best applies to you.;ks13a034
+trait_confident2;Please select for each pair the trait that best applies to you.;ks13a035
+has_fulfilled_ambit;Up to this point in my life I feel? I have fulfilled most of my ambitions.;ks13a036
+has_been_successful1;Up to this point in my life I feel? I have been successful.;ks13a037
+has_been_successful2;Up to this point in my life I feel? I have experienced lots of successes.;ks13a038
+has_not_fulfilled_ambit;Up to this point in my life I feel? I have fulfilled few of my ambitions.;ks13a039
+has_not_been_successful1;Up to this point in my life I feel? I have been unsuccessful.;ks13a040
+has_not_been_successful2;Up to this point in my life I feel? I have experienced few successes.;ks13a041
+is_worthy;I feel that I?m a person of worth, at least on an equal plane with others;ks13a042
+has_good_qualities;I feel that I have a number of good qualities;ks13a043
+is_failure;All in all, I am inclined to feel that I am a failure;ks13a044
+is_as_good_as_others;I am able to do things as well as most other people;ks13a045
+no_reason_to_be_proud;I feel I do not have much to be proud of;ks13a046
+has_pos_attitude;I take a positive attitude towards myself;ks13a047
+is_satisfied_w_self;On the whole, I am satisfied with myself;ks13a048
+wish_could_respect_self_more;I wish I could have more respect for myself;ks13a049
+feels_useless_sometimes;I certainly feel useless at times;ks13a050
+feels_incompetent_sometimes;At times, I think I am no good at all;ks13a051
+is_satisfied_w_looks;I am satisfied with the way I look;ks13a052
+feels_good_about_self;I feel good about myself;ks13a053
+has_confidence_in_capab;I have confidence in my capabilities;ks13a054
+self_ambition1_importance;Ambition 1: How important is this ambition to you currently?;ks13a055
+self_ambition1_disappointed;Ambition 1: I?m disappointed that I have not been able to achieve this ambition.;ks13a056
+self_ambition1_sad;Ambition 1: I?m sad that I have not been able to achieve this ambition.;ks13a057
+self_ambition2_importance;Ambition 2: How important is this ambition to you currently?;ks13a058
+self_ambition2_disappointed;Ambition 2: I?m disappointed that I have not been able to achieve this ambition.;ks13a059
+self_ambition2_sad;Ambition 2: I?m sad that I have not been able to achieve this ambition.;ks13a060
+acqu_ambition1_importance;Ambition 1: How important is this ambition to your acquaintance currently?;ks13a061
+acqu_ambition1_disappointed;Ambition 1: My acquaintance is disappointed that he/she has not been able to ach;ks13a062
+acqu_ambition1_sad;Ambition 1: My acquaintance is sad that he/she has not been able to achieve this;ks13a063
+acqu_ambition2_importance;Ambition 2: How important is this ambition to your acquaintance currently?;ks13a064
+acqu_ambition2_disappointed;Ambition 2: My acquaintance is disappointed that he/she has not been able to ach;ks13a065
+acqu_ambition2_sad;Ambition 2: My acquaintance is sad that he/she has not been able to achieve this;ks13a066
+self_present1_importance;Present 1: How important is this present to you currently?;ks13a067
+self_present1_disappointed;Present 1: I?m disappointed that I have never received this present.;ks13a068
+self_present1_sad;Present 1: I?m sad that I have never received this present.;ks13a069
+self_present2_importance;Present 2: How important is this present to you currently?;ks13a070
+self_present2_disappointed;Present 2: I?m disappointed that I have never received this present.;ks13a071
+self_present2_sad;Present 2: I?m sad that I have never received this present.;ks13a072
+now_feel_achieved_ambit;Right now, at this moment, I feel that I have achieved many of my ambitions.;ks13a073
+now_feel_anot_chieved_ambit;Right now, at this moment, I feel that I have achieved few of my ambitions.;ks13a074
+now_fig_feel;Please select the figure that best describes  how you feel now, at this moment.;ks13a075
+now_fig_satisfied;Please select the figure that best describes how satisfied you are with yourself;ks13a076
+hope_child_surpasses1;I hope that my child? will achieve in life what I wasn?t able to achieve.;ks13a077
+hope_child_surpasses2;I hope that my child? will reach goals that I wasn?t able to reach.;ks13a078
+hope_child_surpasses3;I hope that my child? will realize ambitions that I wasn?t able to realize.;ks13a079
+hope_child_surpasses4;I hope that my child? will fulfill dreams that I wasn?t able to fulfill.;ks13a080
+hope_child_equals1;I hope that my child? will achieve in life what I have also achieved.;ks13a081
+hope_child_equals2;I hope that my child? will reach goals that I have also reached.;ks13a082
+hope_child_equals3;I hope that my child? will realize ambitions that I have also realized.;ks13a083
+hope_child_equals4;I hope that my child? will fulfill dreams that I have also fulfilled.;ks13a084
+c_free_to_pursue_achievements;I want to give my child the freedom to choose? what he/she wishes to achieve in;ks13a085
+c_free_to_pursue_goals;I want to give my child the freedom to choose? which goals he/she wants to reach;ks13a086
+c_free_to_pursue_ambitions;I want to give my child the freedom to choose? which ambitions he/she wants to r;ks13a087
+c_free_to_pursue_dreams;I want to give my child the freedom to choose? which dreams he/she wishes to ful;ks13a088
+hope_child_achieves_max;I hope that my child? will achieve as much as possible in life.;ks13a089
+hope_child_excels;I hope that my child? will excel.;ks13a090
+hope_child_successful;I hope that my child? will be successful.;ks13a091
+hope_child_accomplished;I hope that my child? will accomplish a lot in life.;ks13a092
+think_abt_things_c_does_well;I like to think about all the things my child can do well.;ks13a093
+c_makes_class_fun;Without my child, his/her class would be much less fun.;ks13a094
+c_deserves_special_treat;My child deserves special treatment.;ks13a095
+c_prob_extraord_talented;I would not be surprised to learn that my child has extraordinary talents.;ks13a096
+wld_disapp_if_c_regular;I would find it disappointing if my child was just a ?regular? child.;ks13a097
+c_underestimated_by_others;My child is underestimated by others.;ks13a098
+c_more_special_than_others;My child is more special than other children.;ks13a099
+c_deserves_something_extra;My child deserves something extra in life.;ks13a100
+c_is_example_for_others;My child is an example for other children to follow.;ks13a101
+questionnaire_difficult;Was it difficult to answer the questions?;ks13a102
+questionnaire_clear;Were the questions sufficiently clear?;ks13a103
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ks13a104
+questionnaire_interesting;Was it an interesting subject?;ks13a105
+questionnaire_enjoy;Did you enjoy answering the questions?;ks13a106
+start_date;Starting date questionnaire;ks13a107
+start_time;Starting time questionnaire;ks13a108
+end_date;End date questionnaire;ks13a109
+end_time;End time questionnaire;ks13a110
+duration;Duration in seconds;ks13a111
+date_fieldwork;Year and month of the field work period;ks13a_m
+personal_id;Number of the household member encrypted;nomem_encr

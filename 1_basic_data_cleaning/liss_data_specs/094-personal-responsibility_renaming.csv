@@ -1,0 +1,179 @@
+;new_name;labels;hg12a_EN_1.0p.dta
+0;principal_occupation;Principal occupation;hg12a001
+1;age;Age of household member;hg12a002
+2;order_questions1;Order of the response options for questions hg12a140 and hg12a141 - category sho;hg12a003
+3;order_questions2;Order of the response options for questions hg12a140 and hg12a141 - category sho;hg12a004
+4;order_questions3;Order of the response options for questions hg12a140 and hg12a141 - category sho;hg12a005
+5;order_questions4;Order of the response options for questions hg12a140 and hg12a141 - category sho;hg12a006
+6;order_questions5;Order of the response options for questions hg12a140 and hg12a141 - category sho;hg12a007
+7;order_questions6;Order of the response options for questions hg12a140 and hg12a141 - category sho;hg12a008
+8;distribution_question1;Distribution explication questions;hg12a009
+9;distribution_question2;Distribution question hg12a102 / hg12a103;hg12a010
+10;state_interference;The state interferes with too many matters.;hg12a011
+11;personal_responsibility;People need to carry more personal responsibility for their well-being and shou;hg12a012
+12;politics_decrease;The political establishment in The Hague has increasingly less to say about faci;hg12a013
+13;state_citizens;The state should leave more matters to citizens personally.;hg12a014
+14;probability_exploit;Do you think that most people would try to exploit you if they had a chance to d;hg12a015
+15;probability_helpful;Do you think that most people try to be helpful or that they mostly look out fo;hg12a016
+16;state_current_education1;Primary and secondary education - To what extent do you think that the state is;hg12a017
+17;state_should_education1;Primary and secondary education - To what extent do you think that the state sho;hg12a018
+18;state_current_education2;Tertiary education - To what extent do you think that the state is currently res;hg12a019
+19;state_should_education2;Tertiary education - To what extent do you think that the state should be respon;hg12a020
+20;state_current_income;An adequate income for everyone - To what extent do you think that the state is;hg12a021
+21;state_should_income;An adequate income for everyone - To what extent do you think that the state sho;hg12a022
+22;state_current_jobs;Enough jobs - To what extent do you think that the state is currently responsibl;hg12a023
+23;state_should_jobs;Enough jobs - To what extent do you think that the state should be responsible f;hg12a024
+24;state_current_daycare;Child day care - To what extent do you think that the state is currently respons;hg12a025
+25;state_should_daycare;Child day care - To what extent do you think that the state should be responsibl;hg12a026
+26;state_current_upbringing;Child rearing - To what extent do you think that the state is currently responsi;hg12a027
+27;state_should_upbringing;Child rearing - To what extent do you think that the state should be responsible;hg12a028
+28;state_current_art;Art and culture - To what extent do you think that the state is currently respon;hg12a029
+29;state_should_art;Art and culture - To what extent do you think that the state should be responsib;hg12a030
+30;state_current_healthcare;Health care - To what extent do you think that the state is currently responsibl;hg12a031
+31;state_should_healthcare;Health care - To what extent do you think that the state should be responsible f;hg12a032
+32;state_current_housing;Sufficient affordable housing - To what extent do you think that the state is cu;hg12a033
+33;state_should_housing;Sufficient affordable housing - To what extent do you think that the state shoul;hg12a034
+34;state_current_safety;Public space safety - To what extent do you think that the state is currently re;hg12a035
+35;state_should_safety;Public space safety - To what extent do you think that the state should be respo;hg12a036
+36;parent_school_rules;Parents must make sure that their children obey the rules in school.;hg12a037
+37;parent_school_upbringing;Parents too easily expect schools to take on childrearing tasks.;hg12a038
+38;parent_school_accountable;Schools should be accountable to parents for the results that they achieve with;hg12a039
+39;parent_school_support;Parents should support the school if the school or teacher takes measures agains;hg12a040
+40;parent_school_homehelp;Parents should do more at home to help their children learn.;hg12a041
+41;parent_school_busy;Even if parents are busy the school may expect them to help their children lear;hg12a042
+42;parent_school_diploma;Youths should do their best to obtain a diploma otherwise they are not entitled;hg12a043
+43;study_loan;The state should no longer give students a study grant but only a study loan un;hg12a044
+44;extra_tuition;Students that take long to complete their study should also pay extra tuition fe;hg12a045
+45;costs_study_inequality;If students only have the option of a study loan and the tuition fees go up the;hg12a046
+46;state_parent_upbringing;To what extent do you think that the state should help every parent with child r;hg12a047
+47;situation1_1;Her parents think that it?s not such a problem and that it will pass by itself.;hg12a048
+48;situation1_2;Now it turns out that the teachers and care workers think that Lisa?s parents ha;hg12a049
+49;situation1_3;They also think that Lisa?s development is at serious risk. Do you think that in;hg12a050
+50;situation2_1;His parents think that it?s not such a problem and that it will pass by itself.;hg12a051
+51;situation2_2;Now it turns out that the teachers and care workers think that Tom?s parents hav;hg12a052
+52;situation2_3;They also think that Tom?s development is at serious risk. Do you think that in;hg12a053
+53;situation3_1;Roos?s parents think that it?s not such a problem. Do you think the state should;hg12a054
+54;situation3_2;Now it turns out that the teachers and care workers think that Roos?s parents ha;hg12a055
+55;situation3_3;They also think that Roos?s development is at serious risk. Do you think that in;hg12a056
+56;percentage_current_childcare;What percentage of the child care costs do parents currently pay on average;hg12a057
+57;percentage_should_childcare;What percentage should parents pay?;hg12a058
+58;state_childcare_costs;Please indicate what role you think the state should play in the following domai;hg12a059
+59;state_childcare_availability;Please indicate what role you think the state should play in the following domai;hg12a060
+60;state_childcare_quality;Please indicate what role you think the state should play in the following domai;hg12a061
+61;childcare_market;Bad or expensive child care providers will be elbowed out of the market and simp;hg12a062
+62;childcare_usage;Do you use child care or have you used child care in the past?;hg12a063
+63;childcare_parent_quality;Parents notice if the quality of the child care is insufficient. / As a parent;hg12a064
+64;childcare_change;You shouldn?t transfer children that are attached to care center workers and fri;hg12a065
+65;childcare_parent_dissatisfied;If parents are dissatisfied with a child day care center they can easily find ot;hg12a066
+66;unemployed_qualitfications;Do you think that an unemployed person should be obliged to accept paid work at;hg12a067
+67;unemployed_wage;Do you think that an unemployed person should be obliged to accept paid work wit;hg12a068
+68;unemployed_move;Do you think that an unemployed person should be obliged to accept paid work tha;hg12a069
+69;work_obligation_old;How do you think the obligation to work should be applied for the following popu;hg12a070
+70;work_obligation_disabled;How do you think the obligation to work should be applied for the following popu;hg12a071
+71;work_obligation_toddler;How do you think the obligation to work should be applied for the following popu;hg12a072
+72;work_obligation_schoolchild;How do you think the obligation to work should be applied for the following popu;hg12a073
+73;work_obligation_volunteer;How do you think the obligation to work should be applied for the following popu;hg12a074
+74;work_obligation_carer;How do you think the obligation to work should be applied for the following popu;hg12a075
+75;work_status;According to our information you currently [do not] have paid work. Is that cor;hg12a076
+76;work_status_type;Which of the following situations applies to you?;hg12a077
+77;retirement_status;Are you currently on voluntary early retirement (Dutch: VUT) and/or do your rece;hg12a078
+78;job_training_own;At my employer it is the employees own responsibility to make sure they follow;hg12a079
+79;job_training_hours;At my employer work-related courses and training programmers need to be follow;hg12a080
+80;situation4_1;What do you think: should they take out an insurance to make sure that Suzanne h;hg12a081
+81;situation4_2;Who do you think is responsible for the rest of her income?;hg12a082
+82;live_partner;Do you currently live with a partner?;hg12a083
+83;partner_insurance;Have you and your partner taken out an insurance to ensure that the other has an;hg12a084
+84;preferred_retirement_age;At what age do you want to stop working?;hg12a085
+85;able_retirement_age;Do you think that based on the pension scheme of your pension fund you will be;hg12a086
+86;actual_retirement_age;At what age did you stop working?;hg12a087
+87;measures_retirement;Have you taken any measures to enable you to stop working earlier?;hg12a088
+88;measures_retirement_saving;What measures have you taken? - I started saving extra money on my own savings;hg12a089
+89;measures_retirement_lifecourse;What measures have you taken? - I joined a life course savings scheme.;hg12a090
+90;measures_retirement_annuity;What measures have you taken? - I purchased an annuity plan or single premium po;hg12a091
+91;measures_retirement_other;What measures have you taken? - other;hg12a092
+92;measures_retirement_reason1;What is the main reason that you have not taken any measures?;hg12a093
+93;measures_retirement_reason2;What is the main reason that you didn?t take any measures?;hg12a094
+94;general_health;How is your health generally speaking;hg12a095
+95;state_health_carer;It is good for the state to expect people to take more care of each other when s;hg12a096
+96;state_health_financial;Financing domestic help for sick and handicapped people is not a job for the sta;hg12a097
+97;state_health_entitled;People who are entitled to care and who can arrange for this care themselves sho;hg12a098
+98;state_health_money;The state should be able to check whether the money is spent in a suitable manne;hg12a099
+99;state_help_lonely;It is a task for the state to offer help to lonely elderly people even if they;hg12a100
+100;responsible_unhealthy;It is acceptable to make people financially responsible for the consequences of;hg12a101
+101;state_check_health;The state should have the means to check whether people live in a healthy manner;hg12a102
+102;insurer_check_health;The health care insurer should have the means to check whether people live in a;hg12a103
+103;rights_unhealthy;People with an unhealthy lifestyle have just as much right to medical treatment;hg12a104
+104;state_health_coverage;It is good for the state to reduce the coverage provided by the basic insurance;hg12a105
+105;buy_rented_house;All tenants of a housing association should be given the right to buy their rent;hg12a106
+106;state_encourage_house;It is a task for the state to encourage people to buy a house.;hg12a107
+107;waiting_rented_house;Housing associations should ensure that house-seekers don?t need to wait for mor;hg12a108
+108;rent_rented_house;The rent of cheap and popular rented dwellings should be raised so that the ren;hg12a109
+109;rent_subsidy;It is good that tenants with a low income can get rent subsidy.;hg12a110
+110;starters_loan;People buying a house for the first time should be supported with a favorable lo;hg12a111
+111;deduct_mortgage;It is good that all people with a bought house can fully deduct their mortgage i;hg12a112
+112;state_support_mortgage;Everyone should pay their own mortgage or rent without state support.;hg12a113
+113;build_own_house;The more that people can design and build their own house the more attractive;hg12a114
+114;visual_build_house;It is important for a municipality to be able to block the construction of new h;hg12a115
+115;state_crime_involve;I think it?s good for the state to involve citizens more in combating criminalit;hg12a116
+116;crime_report;If someone seriously suspects a crime has been committed he or she must always;hg12a117
+117;crime_confrontation;People should confront one another in case of nuisance or other annoying behavio;hg12a118
+118;crime_protection_property;Citizens may inflict serious injury on someone if that is what it takes to prote;hg12a119
+119;crime_help_population;Citizens should help the police solve crimes if the police asks for their help (;hg12a120
+120;confrontation_behavior;I do not tolerate other people confronting me with my behavior.;hg12a121
+121;help_victim;If you see someone being attacked you should always help the victim;hg12a122
+122;disproportionate_violence;I am afraid that some people will use a disproportionate amount of violence if t;hg12a123
+123;victim_risky;If people fall victim to crime as a result of their own risky behavior;hg12a124
+124;victim_carelessness;If people fall victim to crime due to carelessness then the policy need not spend;hg12a125
+125;effort_safety_nothing;What would most encourage you to make a more active effort for a safer society?;hg12a126
+126;effort_safety_neighborhood;What would most encourage you to make a more active effort for a safer society?;hg12a127
+127;effort_safety_support;What would most encourage you to make a more active effort for a safer society?;hg12a128
+128;effort_safety_police;What would most encourage you to make a more active effort for a safer society?;hg12a129
+129;effort_safety_victim;What would most encourage you to make a more active effort for a safer society?;hg12a130
+130;effort_safety_arrest;What would most encourage you to make a more active effort for a safer society?;hg12a131
+131;effort_safety_time;What would most encourage you to make a more active effort for a safer society?;hg12a132
+132;effort_safet_other;What would most encourage you to make a more active effort for a safer society?;hg12a133
+133;state_organize_artclasses1;To what extent do you think that either the state or the citizen should organize;hg12a134
+134;state_organize_artclasses2;To what extent do you think that either the state or the citizen should organize;hg12a135
+135;state_organize_art;To what extent do you think that either the state or the citizen should organize;hg12a136
+136;volunteer_status;Do you do voluntary work for a cultural institute or association or have you do;hg12a137
+137;volunteer_culture;Suppose someone were to ask you would you be willing to do voluntary work for c;hg12a138
+138;state_cut_culture;The present government wishes to spend less effort and money on art and culture;hg12a139
+139;state_cut_facility;The present government wishes to cut spending on culture. On what do you think i;hg12a140
+140;state_spending_facility;And on what do you think it should least cut spending?;hg12a141
+141;concerts_price_increase;If performances concerts and exhibitions were to become 20% more expensive;hg12a142
+142;neighborhood_effort_practical;Have you made any efforts in the past 12 months to improve your neighborhood thr;hg12a143
+143;neighborhood_effort_organizing;Have you made any efforts in the past 12 months to improve your neighborhood thr;hg12a144
+144;neighborhood_effort_nothing;Which of the following things would encourage you to [do even more / make an eff;hg12a145
+145;neighborhood_effort_munic;Which of the following things would encourage you to [do even more / make an eff;hg12a146
+146;neighborhood_effort_money;Which of the following things would encourage you to [do even more / make an eff;hg12a147
+147;neighborhood_effort_facility;Which of the following things would encourage you to [do even more / make an eff;hg12a148
+148;neighborhood_effort_influence;Which of the following things would encourage you to [do even more / make an eff;hg12a149
+149;neighborhood_effort_other;Which of the following things would encourage you to [do even more / make an eff;hg12a150
+150;achieve_muncipality;For each of these options please indicate if you think this would achieve a lot;hg12a151
+151;achieve_others;For each of these options please indicate if you think this would achieve a lot;hg12a152
+152;achieve_organisation;For each of these options please indicate if you think this would achieve a lot;hg12a153
+153;achieve_mayor;For each of these options please indicate if you think this would achieve a lot;hg12a154
+154;achieve_media;For each of these options please indicate if you think this would achieve a lot;hg12a155
+155;confidence_government;On a scale from 0 to 10 please indicate how much confidence you have personally;hg12a156
+156;confidence_house;On a scale from 0 to 10 please indicate how much confidence you have personally;hg12a157
+157;confidence_municipality;On a scale from 0 to 10 please indicate how much confidence you have personally;hg12a158
+158;confidence_corporations;On a scale from 0 to 10 please indicate how much confidence you have personally;hg12a159
+159;confidence_housing;On a scale from 0 to 10 please indicate how much confidence you have personally;hg12a160
+160;confidence_hospitals;On a scale from 0 to 10 please indicate how much confidence you have personally;hg12a161
+161;confidence_trade_union;On a scale from 0 to 10 please indicate how much confidence you have personally;hg12a162
+162;municipal_facilities;Which of the following three options do you prefer where it concerns municipal;hg12a163
+163;insurance_health_care;Below you will see four methods of insuring health care costs. Which method do y;hg12a165
+164;state_increase_responsibilty;The Dutch government wishes to reduce the size of the state and to leave more up;hg12a167
+165;charity_choice;Suppose you had 10 euros to give to a charity goal. To what charity goal would y;hg12a171
+166;questionnaire_difficult;Was it difficult to answer the questions?;hg12a172
+167;questionnaire_clear;Were the questions sufficiently clear?;hg12a173
+168;questionnaire_thinking;Did the questionnaire get you thinking about things?;hg12a174
+169;questionnaire_interesting;Was it an interesting subject?;hg12a175
+170;questionnaire_enjoy;Did you enjoy answering the questions?;hg12a176
+171;start_date;Starting date questionnaire;hg12a177
+172;start_time;Starting time questionnaire;hg12a178
+173;end_date;End date questionnaire;hg12a179
+174;end_time;End time questionnaire;hg12a180
+175;duration;Duration of questionnaire in seconds;hg12a181
+176;date_fieldwork;Year and month of the field work period;hg12a_m
+177;personal_id;Number of the household member encrypted;nomem_encr

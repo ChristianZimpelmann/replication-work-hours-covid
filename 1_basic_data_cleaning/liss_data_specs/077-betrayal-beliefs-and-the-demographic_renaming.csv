@@ -1,0 +1,45 @@
+new_name;labels;fi11a_EN_1.0p.dta
+belief_modus;Belief elicitation modus;fi11a001
+player_type;Type of player;fi11a002
+game_order;Order of game;fi11a003
+part_paid;Part that is paid out;fi11a004
+choice_computer;Computer choice for option 1 or option 2;fi11a005
+preloaded_group;Preloaded variable group;fi11a006
+need_examples1;Do you need more examples or are the instructions clear to you?;fi11a007
+received_points1;How many points do you get?;fi11a008
+number_participants_example;How many of the 100 participants that may have been coupled to you need to have;fi11a009
+setup_clear;Are things clear or do you need more examples?;fi11a010
+chosen_option1;Which option do you choose?;fi11a011
+number_participants1;How many of the 100 participants that may have been coupled to you do you think;fi11a012
+chosen_row1;We now ask you to choose one of the 11 rows shown in the table.;fi11a013
+number_participants2;How many of the 100 participants do you think chose situation B in the previous;fi11a014
+chosen_row2;We now ask you to choose one of the 11 rows shown in the table.;fi11a015
+need_examples2;Do you need more examples or are the instructions clear to you?;fi11a016
+received_points2;How many points do you get?;fi11a017
+number_draws1;How many of the 100 numbers drawn by the computer need to be 1?s for you to opt;fi11a018
+number_draws2;How many of the 100 numbers drawn by the computer in the previous part do you th;fi11a019
+number_participants3;How many of the 100 participants do you think chose situation B in the previous;fi11a020
+number_participants4;How many of the 100 participants do you think chose situation B in the previous;fi11a021
+need_examples3;Are things clear or do you need more examples?;fi11a022
+received_points3;How many points do you get?;fi11a023
+number_participants5;How many of the 100 participants that may have been coupled to you need to have;fi11a024
+need_examples4;Are things clear or do you need more examples?;fi11a025
+chosen_option2;Which option do you choose?;fi11a026
+trust_experience;Whenever you trusted someone in the past that trust was betrayed;fi11a027
+trust_strangers1;You can no longer trust strangers.;fi11a028
+trust_me;People can trust me.;fi11a029
+trust_strangers2;When dealing with strangers it is better to first take care before you start to;fi11a030
+lend_money;I regularly lend money to friends.;fi11a031
+questionnaire_difficult;Was it difficult to answer the questions?;fi11a032
+questionnaire_clear;Were the questions sufficiently clear?;fi11a033
+questionnaire_thinking;Did the questionnaire get you thinking about things?;fi11a034
+questionnaire_interesting;Was it an interesting subject;fi11a035
+questionnaire_enjoy;Did you enjoy answering the questions?;fi11a036
+start_date;Starting date questionnaire;fi11a037
+start_time;Starting time questionnaire;fi11a038
+end_date;End date questionnaire;fi11a039
+end_time;End time questionnaire;fi11a040
+duration;Duration in seconds;fi11a041
+date_fieldwork;Year and month of questionnaire administration.;fi11a_m
+hh_id;Number of the household encrypted.;nohouse_encr
+personal_id;Number of the household member encrypted.;nomem_encr

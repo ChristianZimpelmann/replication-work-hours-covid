@@ -1,0 +1,168 @@
+--- # renaming health yaml file
+
+"type renaming":
+  "boolean":
+    "yes": !!bool True
+    "ja": !!bool True
+    "no": !!bool False
+    "nee": !!bool False
+    "complaints": !!bool True
+    "no complaints": !!bool False
+
+"numeric":
+  - "drink_days"
+
+"replacing":
+  "healthcare_allowance":
+    !!bool False: "no"
+
+  "health_general":
+    "zeer goed": "very good"
+    "goed": "good"
+    "matig": "moderate"
+    "uitstekend": "excellent"
+    "slecht": "poor"
+
+  "health_compare":
+    "gelijk": "the same"
+    "enigszins slechter": "somewhat poorer"
+    "enigszins beter": "somewhat better"
+    "aanzienlijk beter": "considerably better"
+    "aanzienlijk slechter": "considerably better"
+
+  "drink_year":
+    "een of twee keer per maand": "once or twice a month"
+    "een of twee keer per week": "once or twice a week"
+    "helemaal niet in de afgelopen 12 maanden": "not at all over the last 12 months"
+    "een keer in de twee maanden": "once every two months"
+    "bijna elke dag": "almost every day"
+    "een of twee keer per jaar": "once or twice a year"
+    "vijf of zes dagen per week": "five or six days per week"
+    "drie of vier dagen per week": "three or four days per week"
+    "three of four days per week": "three or four days per week"
+
+  "moment_sick":
+    "I do not work because of my health": "I do not work on account of my health"
+
+  "insurance_own_risk":
+    "I have no voluntary own risk": !!float .nan
+
+  "premium_period":
+    "I did not pay premium by myself": !!float .nan
+    "I don't pay premium by myself": !!float .nan
+
+  "full_df":
+    9e20: !!float .nan
+    "not applicable (no partner)": !!float .nan
+    "not applicable (no children)": !!float .nan
+    "not applicable": !!float .nan
+    "I don\x92t know": !!float .nan
+    "don't know": !!float .nan
+    "don\x92t know": !!float .nan
+    "I don't know": !!float .nan
+    "no, I stopped": !!bool False
+    "nee, ik ben gestopt": !!bool False
+    " ": !!float .nan
+    "don\"t know": !!float .nan
+
+"multicolumn":
+  "feeling columns":
+    "columns":
+      - "feel_anxious"
+      - "feel_down"
+      - "feel_calm"
+      - "feel_depressed"
+      - "feel_happy"
+    "dictionary":
+      "nooit": "never"
+      "meestal": "mostly"
+      "soms": "sometimes"
+      "vaak": "often"
+      "voortdurend": "constantly"
+      "zelden": "rarely"
+      "seldom": "rarely"
+      "continously": "constantly"
+
+  "expectations live":
+    "columns":
+      - "live_75"
+      - "live_80"
+      - "live_85"
+      - "live_90"
+      - "live_95"
+    "dictionary":
+      "no chance at all": 0
+      "absolutely certain": 10
+
+  "affect_peers":
+    "columns":
+      - "affect_partner_work"
+      - "affect_child_work"
+    "dictionary":
+      "stopped working": "stop working"
+      "started working less": "start working less"
+      "started working": "start working"
+      "started working more": "start working more"
+
+  "five scale":
+    "columns":
+      - "questionnaire_difficult"
+      - "questionnaire_clear"
+      - "questionnaire_thinking"
+      - "questionnaire_interesting"
+      - "questionnaire_enjoy"
+    "dictionary":
+      "1": 1
+      "2": 2
+      "3": 3
+      "4": 4
+      "5": 5
+      "certainly not": 1
+      "1 certainly not": 1
+      "certainly yes": 5
+      "5 certainly yes": 5
+      "1 = certainly not": 1
+      "5 = certainly yes": 5
+
+  "drugs":
+    "columns":
+      - "drugs1"
+      - "drugs2"
+      - "drugs3"
+      - "drugs4"
+      - "drugs5"
+      - "drugs6"
+    "dictionary":
+      "nooit": "never"
+      "soms": "sometimes"
+      "regelmatig": "regularly"
+
+  "trouble":
+    "columns":
+      - "trouble_walking100"
+      - "trouble_sitting"
+      - "trouble_standing"
+      - "trouble_stairs"
+      - "trouble_climbing"
+      - "trouble_crouching"
+      - "trouble_reaching"
+      - "trouble_moving"
+      - "trouble_lifting"
+      - "trouble_picking"
+      - "trouble_dressing"
+      - "trouble_walking"
+      - "trouble_bathing"
+      - "trouble_eating"
+      - "trouble_bed"
+      - "trouble_toilet"
+      - "trouble_map"
+      - "trouble_cooking"
+      - "trouble_shopping"
+      - "trouble_telephoning"
+      - "trouble_medicine"
+      - "trouble_housework"
+      - "trouble_finances"
+    "dictionary":
+      "only with the help of others": "only with an aid or the help of others"
+      "not": "not at all"
+      5: "not at all"

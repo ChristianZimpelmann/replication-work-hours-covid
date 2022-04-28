@@ -1,0 +1,1164 @@
+--- # renaming corona yaml file
+"numeric":
+  - "birth_year"
+  - "age"
+  - "first_primary_birth"
+  - "second_primary_birth"
+  - "third_primary_birth"
+  - "fourth_primary_birth"
+  - "fifth_primary_birth"
+  - "first_sec_birth"
+  - "second_sec_birth"
+  - "third_sec_birth"
+  - "fourth_sec_birth"
+  - "fifth_sec_birth"
+  - "alcohol_amount"
+
+"nan_cols":
+  - "impact_college_sec_child5"
+  - "impact_college_sec_child4"
+
+"sum_checks":
+  - "starts": "p_year_unemployed"
+    "sum": 100
+  - "starts": "p_year_employee"
+    "sum": 100
+  - "starts": "p_year_selfempl"
+    "sum": 100
+  - "starts": "p_3m_employee"
+    "sum": 100
+  - "starts": "p_3m_unemployed"
+    "sum": 100
+  - "starts": "p_3m_selfempl"
+    "sum": 100
+
+"replacing":
+  "comply_curfew_self":
+    !!bool True: "yes"
+    !!bool False: "no"
+    "Ik werk zelf in een cruciale beroepsgroep": "critical profession"
+
+  "cc_emergency_helpful":
+    1: "1 no, not at all"
+    2: "2"
+    3: "3"
+    4: "4"
+    5: "5 yes, totally"
+    "1": "1 no, not at all"
+    "5": "5 yes, totally"
+    "Ja, heel goed": "5 yes, totally"
+    "Nee, helemaal niet": "1 no, not at all"
+
+  "infection_diagnosed":
+    "Ja, die diagnose is bij mij gesteld": "yes, I have been diagnosed with it"
+    !!bool False: "no"
+    "Het is nog niet zeker": "unsure"
+
+  "infection_perceived":
+    !!bool True: "yes"
+    !!bool False: "no"
+    "Ik weet het niet": "I don't know"
+
+  "work_status_202002":
+    "Ik deed het huishouden": "homemaker"
+    "Ik ontving een arbeidsongeschiktheidsuitkering of sociale bijstand en was niet o": "social assistance"
+    "Ik verrichtte betaald werk in loondienst, full-time of part-time": "employed"
+    "Ik was (vervroegd) gepensioneerd": "retired"
+    "Ik was leerling / student / stagiair en kreeg alleen een onkostenvergoeding": "student or trainee"
+    "Ik was werkloos en was op zoek naar werk": "unemployed"
+    "Ik was zelfstandig ondernemer": "self-employed"
+
+  "workplace_pot_distance":
+    "Niet te combineren": "non-combinable"
+    "Zeer moeilijk": "very difficult"
+    "Moeilijk": "difficult"
+    "Makkelijk": "easy"
+    "Zeer makkelijk": "very easy"
+
+  "contact_older_people":
+    1: "none at all"
+    2: "hardly any"
+    3: "some"
+    4: "a lot"
+    5: "a whole lot"
+    "1": "none at all"
+    "2": "hardly any"
+    "3": "some"
+    "4": "a lot"
+    "5": "a whole lot"
+    "Heel veel": "a whole lot"
+    "Helemaal niet": "none at all"
+
+  "contact_young_people":
+    "Nooit": "never"
+    "Eens per week": "once a week"
+    "Enkele keren per week": "several times a week"
+    "Elke dag": "daily"
+
+  "e_2020_hh_income":
+    11111111111.0: !!float .nan
+    60500625.0: !!float .nan
+    9600400.0: !!float .nan
+
+  "pensioner_prepared_to_help":
+    "Helemaal niet bereid": "0 not prepared at all"
+    "Zeker bereid": "10 definitely prepared"
+
+  "pensioner_useful_skill":
+    "Nee, ik heb geen achtergrond of vaardigheid die nuttig kan zijn": "no, lacking skills"
+    "Nee, ik kan geen bijdrage leveren (bv. ben te oud, ziek, enz.)": "no, unable"
+    "Ik heb enige medische opleiding": "medical training"
+    "Ik heb organisatievaardigheden die nuttig kunnen zijn": "organizational skills"
+    "Ik heb enige opleiding in maatschappelijk werk of vergelijkbaar": "social work training"
+
+  "duration_econ_crisis":
+    "Minder dan 1 maand": "less than 1 month"
+    "1 tot 3 maanden": "1 to 3 months"
+    "3 tot 6 maanden": "3 to 6 months"
+    "6 tot 12 maanden": "6 to 12 months"
+    "1 tot 2 jaar": "1 to 2 years"
+    "2 tot 3 jaar": "2 to 3 years"
+    "3 jaar of langer": "3 years or more"
+
+  "e_12m_house_prices_direction":
+    "Huizenprijzen zullen lager zijn": "house prices will be lower"
+    "Huizenprijzen zullen gelijk zijn": "house prices will be the same"
+    "Huizenprijzen zullen hoger zijn": "house prices will be higher"
+
+  "e_12m_house_prices_change":
+    "Minder dan 2%": "less than 2%"
+    "2% tot 5%": "2% to 5%"
+    "5% tot 10%": "5% to 10%"
+    "10% tot 20%": "10% to 20%"
+    "20% tot 30%": "20% to 30%"
+    "30% of meer": "more than 30%"
+
+  "hh_position":
+    "Huishoudhoofd": "Household head"
+    "Gehuwde partner": "Wedded partner"
+    "Kind dat thuis woont": "Child living at home"
+    "Ongehuwde partner": "Unwedded partner"
+    "(Schoon)ouder": "Parent (in law)"
+    "Huisgenoot": "Housemate"
+    "Familielid of kostganger": "Family member or boarder"
+    "Onbekend (missing)": !!float .nan
+
+  "hh_members":
+    "E\u00e9n persoon": 1
+    "Twee personen": 2
+    "Drie personen": 3
+    "Vier personen": 4
+    "Vijf personen": 5
+    "Zes personen": 6
+    "Zeven personen": 7
+    "Acht personen": 8
+    "Negen personen of meer": 9
+
+  "year_lost_job":
+    "ik heb nooit een baan gehad": "I have never had a job"
+
+  "hh_children":
+    "Geen": 0
+    "E\u00e9n kind": 1
+    "Twee kinderen": 2
+    "Drie kinderen": 3
+    "Vier kinderen": 4
+    "Vijf kinderen": 5
+    "Zes kinderen": 6
+    "Zeven kinderen": 7
+    "Acht kinderen": 8
+    "Negen kinderen of meer": 9
+
+  "civil_status":
+    "Nooit getrouwd": "Never been married"
+    "Gehuwd": "Married"
+    "Gescheiden": "Divorced"
+    "Weduwe of weduwnaar": "Widow or widower"
+    "Gescheiden van tafel en bed": "Separated"
+
+  "dom_situation":
+    "Alleenstaande": "Single"
+    "(On)gehuwd samenwonend, met kind(eren)": "(Un)married co-habitation, with child(ren)"
+    "(On)gehuwd samenwonend, zonder kind(eren)": "(Un)married co-habitation, without child(ren)"
+    "Alleenstaande, met kind(eren)": "Single, with child(ren)"
+    "Anders": "Other"
+
+  "dwelling_type":
+    "Koopwoning": "Self-owned dwelling"
+    "Huurwoning": "Rental dwelling"
+    "Woning in onderhuur": "Sublet dwelling"
+    "Gratis woning": "Cost-free dwelling"
+    "Onbekend (missing)": !!float .nan
+
+  "location_urban":
+    "Niet stedelijk": "Not urban"
+    "Weinig stedelijk": "Slightly urban"
+    "Matig stedelijk": "Moderately urban"
+    "Sterk stedelijk": "Very urban"
+    "Zeer sterk stedelijk": "Extremely urban"
+
+  "occupation":
+    "Verricht betaald werk in loondienst": "Paid employment"
+    "Werkt of is meewerkend in gezins- of familiebedrijf": "Works or assists in family business"
+    "Is vrije beroepsbeoefenaar, freelancer of zelfstandige": "Autonomous professional, freelancer, or self-employed"
+    "Zoekt werk na verlies werkkring": "Job seeker following job loss"
+    "Zoekt voor het eerst werk": "First-time job seeker"
+    "Vrijgesteld van werkzoeken na verlies van werkkring": "Exempted from job seeking following job loss"
+    "Gaat naar school of studeert": "Attends school or is studying"
+    "Verzorgt de huishouding": "Takes care of the housekeeping"
+    "Is met pensioen (vervroegd, AOW of VUT)": "Is pensioner ([voluntary] early retirement, old age pension scheme)"
+    "Is (gedeeltelijk) arbeidsongeschikt": "Has (partial) work disability"
+    "Verricht onbetaald werk met behoud van uitkering": "Performs unpaid work while retaining unemployment benefit"
+    "Verricht vrijwilligerswerk": "Performs voluntary work"
+    "Doet iets anders": "Does something else"
+    "Is te jong, heeft nog geen bezigheden": "Is too young to have an occupation"
+
+  "is_smoking":
+    !!bool True: "yes"
+    "nee, ik ben gestopt": "no, I quit"
+    "nee, ik heb nooit gerookt": "no, I never smoked"
+
+  "bought_or_sold_stocks":
+    "heb ik helemaal geen risicovolle bezittingen zoals aandelen, bedrijfsobligaties,": "I have no risky assets such as shares, corporate bonds, investments in investment funds, etc., at all."
+    "heb ik risicovolle bezittingen, maar heb ik geen aankoop of verkoop gedaan.": "I have risky assets, but have not made a purchase or sale."
+    "heb ik risicovolle bezittingen verkocht, maar heb ik niets gekocht.": "I sold risky assets, but I didn't buy."
+    "heb ik risicovolle bezittingen gekocht, maar heb ik niets verkocht.": "I bought risky assets, but I didn't sell."
+    "heb ik risicovolle bezittingen gekocht en verkocht.": "I bought and sold risky assets."
+
+  "health_comparison_6m":
+    "Veel slechter": "much worse"
+    "Een beetje slechter": "a little worse"
+    "Gelijk": "same"
+    "Een beetje beter": "a little better"
+    "Veel beter": "much better"
+
+  "work_status":
+    "Ik verricht betaald werk in loondienst, full-time of part-time": "employed"
+    "Ik ben zelfstandig ondernemer": "self-employed"
+    "Ik ben werkloos en ben op zoek naar werk": "unemployed"
+    "Ik ben (vervroegd) gepensioneerd": "retired"
+    "Ik ontvang een arbeidsongeschiktheidsuitkering of sociale bijstand en ben niet o": "social assistance"
+    "Ik ben leerling / student / stagiair en krijg alleen een onkostenvergoeding": "student or trainee"
+    "Ik doe het huishouden": "homemaker"
+
+  "self_grekening":
+    "Ja,": "yes"
+    "Nee, maar ik ga dit wel doen": "no, but I'm gonna do this"
+    "Nee, ik denk niet dat mijn bedrijf hiervoor in aanmerking komt": "no, I don't think my company qualifies"
+    "Nee, dit is te veel administratief gedoe": "no, this is too much paperwork"
+    "Nee, om een andere reden": "no, for another reason"
+    "Ik wist niet dat deze regeling er is": "I didn't know there was this arrangement"
+    "Niet van toepassing/ik heb geen g-rekening": "not applicable/I don't have a g-account"
+
+  "change_empl":
+    "Ik heb een arbeidscontract met meer uren": "I have an employment contract with more hours"
+    "Ik heb een arbeidscontract met hetzelfde aantal uren": "I have an employment contract with the same number of hours"
+    "Ik heb een arbeidscontract met minder uren": "I have an employment contract with fewer hours"
+    "Mijn werkgever heeft me ontslagen, maar het ontslag is nog niet ingegaan": "my employer fired me, but the dismissal hasn't taken effect yet"
+    "Anders, namelijk...": "other"
+
+  "inflvacc2020_reason_yes":
+    "Om het risico op griep te verkleinen": "lower risk infl"
+    "Om te voorkomen dat ik de griep en corona op hetzelfde moment krijg": "avoid getting infl and corona"
+    "Om mensen waarmee ik regelmatig contact heb te beschermen tegen de griep": "protect other people infl"
+    "Anders, namelijk...": "other"
+
+  "inflvacc2020_reason_no":
+    "Heb het niet nodig": "don't need it"
+    "Het voelde niet veilig om naar de dokter te gaan vanwege het risico op Covid-19-": "avoided doctor because of covid"
+    "Anderen hebben het meer nodig dan ik": "others need it more"
+    "Ik ben er niet aan toe gekomen": "did not have time"
+    "Geloof niet in griepvaccins": "don't believe in infl vaccines"
+    "Kan ziek worden van het vaccin": "potential major side effects"
+    "Je kunt bijwerkingen krijgen": "potential side effects"
+    "Houd niet van naalden": "afraid of vaccination process"
+    "Een dokter vertelde me niet dat ik het nodig had": "doctor deemed unnecessary"
+    "Griepvaccins kosten te veel": "too expensive"
+    "Er was geen vaccin beschikbaar": "no vacine available"
+    "Voldoende andere mensen krijgen het vaccin, dus het is niet nodig": "enough get it already"
+    "Anders, namelijk...": "other"
+
+  "change_selfempl":
+    "Mijn inkomen is hoger": "my income is higher"
+    "Mijn inkomen is hetzelfde": "my income is the same"
+    "Mijn inkomen is lager": "my income is lower"
+    "Ik heb faillissement aangevraagd": "I have filed for bankruptcy"
+    "Anders, namelijk...": "other"
+
+  "change_unempl":
+    "Ik was al werkloos voordat de crisis begon": "I was unemployed before the crisis started"
+    "Ik ben werkloos geworden door de crisis": "I have become unemployed because of the crisis"
+    "Ik ben werkloos geworden, niet door de crisis, maar vanwege andere redenen": "I became unemployed, not because of the crisis, but because of other reasons"
+    "Anders, namelijk...": "other"
+
+  "month_lost_job":
+    "januari": "January"
+    "februari": "February"
+    "maart": "March"
+    "april": "April"
+    "mei": "May"
+    "juni": "June"
+    "juli": "July"
+    "augustus": "August"
+    "september": "September"
+    "oktober": "October"
+    "november": "November"
+    "december": "December"
+    "ik heb nooit een baan gehad": "I have never had a job"
+
+
+  "retire_early_reason":
+    "Langer doorwerken heeft nu meer gezondheidsrisico’s": "working longer now has more health risks"
+    "Langer doorwerken heeft nu meer gezondheidsrisico\x92s": "working longer now has more health risks"
+    "Er is onvoldoende werk voor mij om langer door te gaan": "there is not enough work for me to go on any longer"
+    "Werk is minder belangrijk geworden": "work has become less important"
+    "Om mantelzorg te verlenen": "to provide informal care"
+    "Anders, namelijk:": "other"
+    "Anders, namelijk...": "other"
+
+  "retire_later_reason":
+    "Eerder stoppen kan ik me minder goed veroorloven": "I can't afford to quit sooner"
+    "Mijn werk is belangrijker geworden": "my work has become more important"
+    "Met pensioen zijn is momenteel minder aantrekkelijk": "retiring is currently less attractive"
+    "Anders, namelijk...": "other"
+
+  "e_pension_cut":
+    "Nul": "zero"
+    "Zeer klein": "very small"
+    "Klein": "small"
+    "Niet klein, niet groot": "not small nor big"
+    "Groot": "large"
+    "Zeer groot": "very large"
+    "Zeker": "certain"
+
+  "seeking_intensity":
+    "nee, ik ben niet op zoek": "no I'm not looking"
+    "nee, ik heb al een andere baan gevonden maar ben nog niet begonnen": "no, I already found another job but haven't started yet"
+    "ja, ik denk er wel over": "yes, I think about it"
+    "ja, ik ben serieus op zoek": "yes, I am seriously looking"
+
+  "job_search_same":
+    "een zelfde soort baan": "the same kind of job"
+    "een andere soort baan": "a different kind of job"
+    "een zelfde of andere soort baan": "the same or different kind of job"
+
+  "seeking_none_reason":
+    "ik heb geen geschikte advertentie of vacature gezien": "I have not seen a suitable advertisement or vacancy"
+    "ik denk dat er geen geschikte baan voor mij is": "I don't think there is one suitable for me"
+    "ik heb een baan gevonden, maar ben nog niet begonnen": "I found a job, but haven't started yet"
+    "ik wacht een sollicitatie of gesprek af": "I await an application or interview"
+    "ik heb een geschikte baan gezien, maar het salaris was te laag": "I saw a suitable job, but the salary was too low"
+    "ik moet zorgen voor mensen (kinderen, ouders) die van mij afhankelijk zijn": "I have to take care of people who depend on me"
+    "door het coronavirus is het niet veilig voor mij om te werken": "due to coronavirus it is not safe for me to work"
+    "andere reden": "other"
+    "ik weet het niet": "I don't know"
+
+  "hpay_situation":
+    "Ik heb mijn vakantiegeld afgelopen mei ontvangen.": "I received my vacation pay last May"
+    "Ik heb mijn vakantiegeld afgelopen mei ontvangen, maar door corona is er nu mind": "I received my vacation pay last May, but due to corona I have received less"
+    "Mijn vakantiegeld wordt, in overleg, later dit jaar uitgekeerd.": "my vacation pay will be paid out later this year, by mutual agreement"
+    "Mijn vakantiegeld wordt, in overleg, niet dit jaar maar pas volgend jaar uitgeke": "my vacation pay will not be paid out this year but only next year, by mutual agreement"
+    "Het is nog onbekend wanneer ik mijn vakantiegeld van dit jaar krijg uitgekeerd.": "it is still unknown when I will receive my vacation pay this year"
+    "Mijn werkgever heeft dit jaar geen vakantiegeld uitgekeerd, omdat mijn werkgever": "my employer has not paid out any vacation money this year, because my employer has gone bankrupt or is threatened to go bankrupt"
+    "Niet van toepassing, ik heb geen recht op vakantiegeld (bijvoorbeeld ik werk nie": "not applicable, I am not entitled to vacation pay (e.g. I don't work)"
+    "Anders, namelijk...": "other"
+
+  "age_cbs":
+    "14 jaar en jonger": "14 years and younger"
+    "15 - 24 jaar": "15 - 24 years"
+    "25 - 34 jaar": "25 - 34 years"
+    "35 - 44 jaar": "35 - 44 years"
+    "45 - 54 jaar": "45 - 54 years"
+    "55 - 64 jaar": "55 - 64 years"
+    "65 jaar en ouder": "65 years and older"
+
+  "information_treatment":
+    "geen informatie": "no information"
+    "informatie daling, 9 - 13 maart": "decreasing AEX"
+    "informatie stijging, 23 - 27 maart": "increasing AEX"
+
+  "full_df":
+    "Niet van toepassing": !!float .nan
+    "Weet ik niet": !!float .nan
+    "Weet ik niet/Niet van toepassing": !!float .nan
+    "nvt": !!float .nan
+    "Dat wil ik niet zeggen": !!float .nan
+
+"multicolumn":
+  "duration restrictions":
+    "columns":
+      - "duration_restrictions_general"
+    "dictionary":
+      "tot en met uiterlijk 6 april, zoals aangekondigd op 15 maart": "until April 6/28"
+      "tot en met uiterlijk 28 april, zoals aangekondigd op 31 maart": "until April 6/28"
+      "minstens tot en met 6 april, maar tot minder dan 2 maanden vanaf vandaag": "btw. April 6/28 and 2 months"
+      "minstens tot en met 28 april, maar tot minder dan 2 maanden vanaf vandaag": "btw. April 6/28 and 2 months"
+      "tussen 2 en 4 maanden vanaf vandaag": "btw. 2 and 4 months"
+      "tussen 4 en 8 maanden vanaf vandaag": "btw. 4 and 8 months"
+      "tussen 8 en 12 maanden vanaf vandaag": "btw. 8 and 12 months"
+      "voor langer dan 12 maanden": "for more than 1 year"
+
+  "health beliefs":
+    "columns":
+      - "l_2m_hospital_healthy_30"
+      - "l_2m_die_healthy_30"
+      - "l_2m_hospital_healthy_75"
+      - "l_2m_die_healthy_75"
+      - "l_2m_hospital_healthy_5"
+      - "l_2m_die_healthy_5"
+      - "l_2m_hospital_preexist_30"
+      - "l_2m_die_preexist_30"
+      - "l_2m_hospital_preexist_75"
+      - "l_2m_die_preexist_75"
+      - "l_2m_infected"
+      - "l_2m_acquaintance_infected"
+      - "l_2m_hospital_if_infect_self"
+      - "l_2m_quarantine"
+      - "l_2m_infected_and_pass_on"
+
+    "dictionary":
+      "Geen kans": "not at all likely"
+      "Zeer kleine kans": "very unlikely"
+      "Kleine kans": "rather unlikely"
+      "Tussen groot en klein in": "moderately likely"
+      "Tussen klein en groot in": "moderately likely"
+      "Grote kans": "rather likely"
+      "Zeer grote kans": "very likely"
+      "Absoluut zeker": "certain"
+      "Dat is al gebeurd": "happened already"
+
+  "effectivity beliefs":
+    "columns":
+      - "effect_mask"
+      - "effect_pray"
+      - "effect_wash_hands"
+      - "effect_doctor_ill"
+      - "effect_doctor_healthy"
+      - "effect_avoid_public_places"
+      - "effect_avoid_high_risk"
+      - "effect_avoid_hospital"
+      - "effect_avoid_gastro"
+      - "effect_avoid_public_transp"
+      - "effect_close_schools"
+      - "effect_close_sports"
+      - "effect_close_food_service"
+      - "effect_close_most_stores"
+      - "effect_forbid_hospital_visits"
+      - "effect_curfew_high_risk"
+      - "effect_curfew_non_crucial"
+
+    "dictionary":
+      "Helemaal niet effectief": "not effective at all"
+      "Weinig effectief": "hardly effective"
+      "Enigszins effectief": "somewhat effective"
+      "Effectief": "effective"
+      "Zeer effectief": "very effective"
+
+  "agree vars":
+    "columns":
+      - "support_close_schools"
+      - "support_close_cafes"
+      - "support_close_most_shops"
+      - "support_no_visitors"
+      - "support_curfew_high_risk"
+      - "support_curfew_non_crucial"
+      - "support_curfew"
+      - "support_close_cc_some_schools"
+      - "support_close_cc_all_schools"
+      - "gov_action_approp"
+      - "gov_action_insuff"
+      - "save_banks"
+      - "help_pension_funds"
+      - "support_go_uni_prim_child1"
+      - "material_go_uni_prim_child1"
+      - "support_earn_well_prim_child1"
+      - "material_earn_well_prim_child1"
+      - "support_go_uni_prim_child2"
+      - "material_go_uni_prim_child2"
+      - "support_earn_well_prim_child2"
+      - "material_earn_well_prim_child2"
+      - "support_go_uni_prim_child3"
+      - "material_go_uni_prim_child3"
+      - "support_earn_well_prim_child3"
+      - "material_earn_well_prim_child3"
+      - "support_go_uni_prim_child4"
+      - "material_go_uni_prim_child4"
+      - "support_earn_well_prim_child4"
+      - "material_earn_well_prim_child4"
+      - "support_go_uni_prim_child5"
+      - "material_go_uni_prim_child5"
+      - "support_earn_well_prim_child5"
+      - "material_earn_well_prim_child5"
+      - "support_go_uni_sec_child1"
+      - "material_go_uni_sec_child1"
+      - "support_earn_well_sec_child1"
+      - "material_earn_well_sec_child1"
+      - "support_go_uni_sec_child2"
+      - "material_go_uni_sec_child2"
+      - "support_earn_well_sec_child2"
+      - "material_earn_well_sec_child2"
+      - "support_go_uni_sec_child3"
+      - "material_go_uni_sec_child3"
+      - "support_earn_well_sec_child3"
+      - "material_earn_well_sec_child3"
+      - "support_go_uni_sec_child4"
+      - "material_go_uni_sec_child4"
+      - "support_earn_well_sec_child4"
+      - "material_earn_well_sec_child4"
+      - "support_go_uni_sec_child5"
+      - "material_go_uni_sec_child5"
+      - "support_earn_well_sec_child5"
+      - "material_earn_well_sec_child5"
+      - "covid_health_concern"
+      - "covid_vaccine_effective"
+      - "covid_vaccine_safe"
+
+    "dictionary":
+      "Helemaal mee oneens": "totally disagree"
+      "Helemaal eens": "totally agree"
+      "Helemaal mee eens": "totally agree"
+      "Oneens": "disagree"
+      "Niet oneens en niet eens": "neither/nore"
+      "Niet oneens, niet eens": "neither/nore"
+      "Niet oneens/niet eens": "neither/nore"
+      "Eens": "agree"
+      "Helemaal oneens": "totally disagree"
+      "helemaal mee eens": "totally agree"
+      "helemaal oneens": "totally disagree"
+      "oneens": "disagree"
+      "niet oneens en niet eens": "neither/nore"
+      "niet oneens, niet eens": "neither/nore"
+      "niet oneens/niet eens": "neither/nore"
+      "eens": "agree"
+      "helemaal eens": "totally agree"
+
+  "mental health":
+    "columns":
+      - "nervous_7d"
+      - "depressed_7d"
+      - "calm_7d"
+      - "gloomy_7d"
+      - "happy_7d"
+      - "nervous_month"
+      - "depressed_month"
+      - "calm_month"
+      - "gloomy_month"
+      - "happy_month"
+
+    "dictionary":
+      "Nooit": "never"
+      "Zelden": "rarely"
+      "Soms": "sometimes"
+      "Vaak": "often"
+      "Meestal": "mostly"
+      "Voortdurend": "constantly"
+      "seldom": "rarely"
+      "continously": "constantly"
+
+  "mental health worried":
+    "columns":
+      - "concern_4w_bored"
+      - "concern_4w_serious_ill"
+      - "concern_4w_infect_others"
+      - "concern_4w_loved_ill"
+      - "concern_4w_unemp"
+      - "concern_4w_company"
+      - "concern_4w_new_job"
+      - "concern_4w_food"
+      - "concern_4w_health_care"
+      - "concern_4w_fav_shop_bancrupt"
+
+    "dictionary":
+      1: "1 not worried at all"
+      2: "2"
+      3: "3"
+      4: "4"
+      5: "5 very worried"
+      "1": "1 not worried at all"
+      "5": "5 very worried"
+      "Heel erg bezorgd": "5 very worried"
+      "Helemaal niet bezorgd": "1 not worried at all"
+
+  "approp variables":
+    "columns":
+      - "approp_gov_medical"
+      - "approp_gov_restrict_public_life"
+      - "approp_gov_econ_mitigation"
+      - "approp_gov_communication"
+
+    "dictionary":
+      "Te weinig": "too few"
+      "Eerder te weinig dan te veel": "rather too few"
+      "Precies voldoende": "right amount"
+      "Eerder te veel dan te weinig": "rather too many"
+      "Te veel": "too many"
+
+  "v variables one":
+    "columns":
+      - "l_12m_job_loss_employee"
+      - "l_12m_no_contracts_selfempl"
+      - "l_12m_reduction_pension"
+      - "l_12m_drop_in_assets"
+      - "l_12m_bank_bankrupt"
+      - "l_12m_struggle_repay_debts"
+
+    "dictionary":
+      "Niet van toepassing": !!float .nan
+      "Zeer onwaarschijnlijk": "very unlikely"
+      "Onwaarschijnlijk": "unlikely"
+      "Waarschijnlijk": "likely"
+      "Zeer waarschijnlijk": "very likely"
+      "-7": !!float .nan
+
+  "v variables two":
+    "columns":
+      - "intend_12m_spend_less"
+      - "intend_12m_work_more"
+      - "intend_12m_work_less"
+      - "intend_12m_borrow"
+      - "intend_12m_postpone_house"
+
+    "dictionary":
+      "0 helemaal oneens": "0 totally disagree"
+      "1 helemaal eens": "10 totally agree"
+      "10 helemaal eens": "10 totally agree"
+      0: "0 totally disagree"
+      1: "1"
+      2: "2"
+      3: "3"
+      4: "4"
+      5: "5"
+      6: "6"
+      7: "7"
+      8: "8"
+      9: "9"
+      10: "10 totally agree"
+      "0": "0 totally disagree"
+      "10": "10 totally agree"
+
+  "questionnaire scale":
+    "columns":
+      - "questionnaire_difficult"
+      - "questionnaire_clear"
+      - "questionnaire_thinking"
+      - "questionnaire_interesting"
+      - "questionnaire_enjoy"
+      - "activities_give_money"
+      - "activities_save_more"
+      - "activities_more_care"
+      - "activities_less_care"
+      - "activities_postpone_doctor"
+      - "activities_postpone_hospital"
+      - "activities_postpone_pickup_meds"
+      - "activities_less_physio"
+      - "activities_move_less"
+      - "activities_eat_healthy"
+      - "activities_lonely"
+      # - "liked_survey"
+
+    "dictionary":
+      "1 Beslist niet": "1 definitely not"
+      "1 beslist niet": "1 definitely not"
+      "1 = beslist niet": "1 definitely not"
+      "5 beslist wel": "5 certainly yes"
+      "5 Beslist wel": "5 certainly yes"
+      "5 = beslist wel": "5 certainly yes"
+      1: "1 definitely not"
+      2: "2"
+      3: "3"
+      4: "4"
+      5: "5 certainly yes"
+      "1": "1 definitely not"
+      "5": "5 certainly yes"
+      6: !!float .nan
+      "6": !!float .nan
+
+  "gender columns":
+    "columns":
+      - "gender"
+      - "first_primary_gender"
+      - "second_primary_gender"
+      - "third_primary_gender"
+      - "fourth_primary_gender"
+      - "fifth_primary_gender"
+      - "first_sec_gender"
+      - "second_sec_gender"
+      - "third_sec_gender"
+      - "fourth_sec_gender"
+      - "fifth_sec_gender"
+
+    "dictionary":
+      "Vrouw": "Female"
+      "Man": "Male"
+      "vrouw": :"FeMale"
+      "man": "Male"
+      "Jongen": "Male"
+      "jongen": "Male"
+      "Meisje": "Female"
+      "meisje": "Female"
+
+  "income columns":
+    "columns":
+      - "gross_income_incl_cat"
+      - "net_income_incl_cat"
+      - "net_income_original"
+
+    "dictionary":
+      -13: !!float .nan
+      -14: !!float .nan
+      -15: !!float .nan
+
+  "income columns categories":
+    "columns":
+      - "gross_income_cat"
+      - "net_income_cat"
+
+    "dictionary":
+      "Geen inkomen": "no income"
+      "EUR 500 of minder": "500 EUR or less"
+      "EUR 501 t/m EUR 1000": "501 EUR to 1000 EUR"
+      "EUR 1001 t/m EUR 1500": "1001 EUR to 1500 EUR"
+      "EUR 1501 t/m EUR 2000": "1501 EUR to 2000 EUR"
+      "EUR 2001 t/m EUR 2500": "2001 EUR to 2500 EUR"
+      "EUR 2501 t/m EUR 3000": "2501 EUR to 3000 EUR"
+      "EUR 3001 t/m EUR 3500": "3001 EUR to 3500 EUR"
+      "EUR 3501 t/m EUR 4000": "3501 EUR to 4000 EUR"
+      "EUR 4001 t/m EUR 4500": "4001 EUR to 4500 EUR"
+      "EUR 4501 t/m EUR 5000": "4501 EUR to 5000 EUR"
+      "EUR 5001 t/m EUR 7500": "5001 EUR to 7500 EUR"
+      "Meer dan EUR 7500": "more than 7500 EUR"
+      "Weet ik niet": !!float .nan
+      "Dat weet ik echt niet": !!float .nan
+      "Dat wil ik niet zeggen": !!float .nan
+
+  "education vars":
+    "columns":
+      - "education_nodiploma"
+      - "education_diploma"
+      - "education_cbs"
+
+    "dictionary":
+      "basisonderwijs": "primary school"
+      "vmbo": "vmbo (intermediate secondary education, US: junior high school)"
+      "havo/vwo": "havo/vwo (higher secondary education/preparatory university education, US: senio"
+      "mbo": "mbo (intermediate vocational education, US: junior college)"
+      "hbo": "hbo (higher vocational education, US: college)"
+      "wo": "wo (university)"
+      "anders": "other"
+      "Nog geen onderwijs afgerond": "not (yet) completed any education"
+      "(Nog) geen onderwijs afgerond": "not (yet) completed any education"
+      "(Nog) geen onderwijs (gevolgd)": "not yet started any education"
+      "Volgt nog geen onderwijs": "not yet started any education"
+
+  "took drugs":
+    "columns":
+      - "took_soothing"
+      - "took_soft_drugs"
+      - "took_xtc"
+      - "took_psychodelic"
+      - "took_hard_drugs"
+
+    "dictionary":
+      "nooit": "never"
+      "soms": "sometimes"
+      "regelmatig": "regularly"
+
+  "threefold variables":
+    "columns":
+      - "feeling_emptiness"
+      - "enough_people_approach"
+      - "enough_people_trust"
+      - "enough_people_bond"
+      - "miss_people_around"
+      - "feel_let_down_often"
+
+    "dictionary":
+      "ja": "yes"
+      "nee": "no"
+      "Ja": "yes"
+      "Nee": "no"
+      !!bool True: "yes"
+      !!bool False: "no"
+      3: "yes"
+      2: "more or less"
+      "min of meer": "more or less"
+
+  "much less - much more":
+    "columns":
+      - "change_contacts_personal"
+      - "change_contacts_distanced"
+      - "amount_stocks_bought"
+      - "amount_stocks_sold"
+
+    "dictionary":
+      "veel minder nu": "much less"
+      "minder nu": "less"
+      "ongeveer hetzelfde": "roughly equal"
+      "meer nu": "more"
+      "veel meer nu": "much more"
+      "veel minder": "much less"
+      "minder": "less"
+      "meer": "more"
+      "veel meer": "much more"
+
+  "expectation unemployment":
+    "columns":
+      - "e_2020_unemp_rate_202002"
+      - "e_2021_unemp_rate_202002"
+      - "e_2022_unemp_rate_202002"
+      - "e_2020_unemp_rate"
+      - "e_2021_unemp_rate"
+      - "e_2022_unemp_rate"
+
+    "dictionary":
+      "minder dan 3.0%": "less than 3.0%"
+      "3.0% tot 6.0%": "3.0% to 6.0%"
+      "6.0% tot 9.0%": "6.0% to 9.0%"
+      "9.0% tot 12.0%": "9.0% to 12.0%"
+      "12.0% of hoger": "12.0% or greater"
+
+  "expectation gdp before":
+    "columns":
+      - "e_2020_gdp_202002"
+      - "e_2021_gdp_202002"
+      - "e_2022_gdp_202002"
+
+    "dictionary":
+      "minder dan -4%": "less than -4%"
+      "-4% tot -2%": "-4% to -2%"
+      "-2% tot 0%": "-2% to 0%"
+      "0% tot 2%": "0% to 2%"
+      "2% tot 4%": "2% to 4%"
+      "4% of hoger": "4% or greater"
+
+  "expectation gdp today":
+    "columns":
+      - "e_2020_gdp"
+      - "e_2021_gdp"
+      - "e_2022_gdp"
+
+    "dictionary":
+      "minder dan -10%": "less than -10%"
+      "-10% tot -5%": "-10% to -5%"
+      "-5% tot 0%": "-5% to 0%"
+      "0% tot 5%": "0% to 5%"
+      "5% tot 10%": "5% to 10%"
+      "10% of hoger": "10% or greater"
+      "minder dan -6%": "less than -6%"
+      "-6% tot -4%": "-6% to -4%"
+      "-4% tot -2%": "-4% to -2%"
+      "-2% tot 0%": "-2% to 0%"
+      "0% tot 2%": "0% to 2%"
+      "2% tot 4%": "2% to 4%"
+      "4% of hoger": "4% or greater"
+
+  "expectation inflation":
+    "columns":
+      - "e_2020_infl_202002"
+      - "e_2021_infl_202002"
+      - "e_2022_infl_202002"
+      - "e_2020_infl"
+      - "e_2021_infl"
+      - "e_2022_infl"
+
+    "dictionary":
+      "minder dan -2%": "less than -2%"
+      "-2% tot 0%": "-2% to 0%"
+      "0% tot 2%": "0% to 2%"
+      "2% tot 4%": "2% to 4%"
+      "4% tot 6%": "4% to 6%"
+      "6% of hoger": "6% or greater"
+
+  "duration variables":
+    "columns":
+      - "duration_restrictions_schools"
+      - "duration_restrictions_cafes"
+      - "duration_restrictions_holidays"
+      - "duration_restrictions_econ"
+
+    "dictionary":
+      "tegen eind juni": "by the end of June"
+      "tussen juli en eind augustus": "between July and the end of August"
+      "tussen september en het eind van het jaar": "between september and the end of the year"
+      "in 2021": "in 2021"
+      "in 2022 of later": "in 2022 or later"
+
+  "application employer":
+    "columns":
+      - "employer_application_now"
+      - "employer_application_togs"
+      - "employer_application_deferral"
+
+    "dictionary":
+      "Nee, ik denk niet dat het nodig is": "no, I don't think it's necessary"
+      "Ja, de aanvraag is toegekend": "yes, the application has been granted"
+      "Ik weet het niet": "I don't know"
+      "Nee, maar ik denk dat mijn werkgever dit wel gaat doen": "no, but I think my employer is gonna do this"
+      "Ja, maar ik weet nog niet of de aanvraag is toegekend": "yes, but I don't yet know if the application has been granted"
+      "Nee, ik denk niet dat het mogelijk is": "no, I don't think it's possible"
+      "Ja, maar de aanvraag is afgewezen": "yes, but the application was rejected"
+
+  "application self":
+    "columns":
+      - "self_application_now"
+      - "self_application_togs"
+      - "self_application_deferral"
+      - "self_application_tozo"
+
+    "dictionary":
+      "Ja, de aanvraag is toegekend": "yes, the application has been granted"
+      "Ja, maar de aanvraag is afgewezen": "yes, but the application was rejected"
+      "Ja, maar ik weet nog niet of de aanvraag is toegekend": "yes, but I don't yet know if the application has been granted"
+      "Nee, maar ik ga dit wel doen": "no, but I'm gonna do this"
+      "Nee, ik denk niet dat mijn bedrijf hiervoor in aanmerking komt": "no, I don't think my company qualifies"
+      "Nee, ik heb geen werknemers in dienst/geen loonkosten": "no, I have no employees/no payroll costs"
+      "Nee, dit is te veel administratief gedoe": "no, this is too much paperwork"
+      "Nee, om een andere reden": "no, for another reason"
+      "Ik wist niet dat deze regeling er is": "I didn't know there was this arrangement"
+      "Nee, mijn partner heeft teveel inkomen": "no, my partner has too much income"
+
+  "have you used":
+    "columns":
+      - "self_used_apa"
+      - "self_used_guarantee"
+      - "self_used_go"
+      - "self_used_qredits"
+      - "self_used_loan_fund"
+
+    "dictionary":
+      !!bool True: "yes"
+      "Ja": "yes"
+      "Nee, maar ik ga dit wel doen": "no, but I'm gonna do this"
+      "Nee, ik ben dat ook niet van plan": "no, I don't intend to"
+      "Ik wist niet dat deze regeling er is": "I didn't know there was this arrangement"
+
+  "spark level":
+    "columns":
+      - "first_sec_level"
+      - "second_sec_level"
+      - "third_sec_level"
+      - "fourth_sec_level"
+      - "fifth_sec_level"
+
+    "dictionary":
+      "praktijkonderwijs": "practical education"
+
+  "class variables":
+    "columns":
+      - "first_sec_class"
+      - "second_sec_class"
+      - "third_sec_class"
+      - "fourth_sec_class"
+      - "fifth_sec_class"
+
+    "dictionary":
+      "1e klas": 1
+      "2e klas": 2
+      "3e klas": 3
+      "4e klas": 4
+      "5e klas": 5
+      "6e klas": 6
+
+  "impact variables":
+    "columns":
+      - "impact_mental_prim_child1"
+      - "impact_friendships_prim_child1"
+      - "impact_grades_dutch_prim_child1"
+      - "impact_grades_prim_child1"
+      - "impact_college_prim_child1"
+      - "impact_career_prim_child1"
+      - "impact_mental_prim_child2"
+      - "impact_friendships_prim_child2"
+      - "impact_grades_dutch_prim_child2"
+      - "impact_grades_prim_child2"
+      - "impact_college_prim_child2"
+      - "impact_career_prim_child2"
+      - "impact_mental_prim_child3"
+      - "impact_friendships_prim_child3"
+      - "impact_grades_dutch_prim_child3"
+      - "impact_grades_prim_child3"
+      - "impact_college_prim_child3"
+      - "impact_career_prim_child3"
+      - "impact_mental_prim_child4"
+      - "impact_friendships_prim_child4"
+      - "impact_grades_dutch_prim_child4"
+      - "impact_grades_prim_child4"
+      - "impact_college_prim_child4"
+      - "impact_career_prim_child4"
+      - "impact_mental_prim_child5"
+      - "impact_friendships_prim_child5"
+      - "impact_grades_dutch_prim_child5"
+      - "impact_grades_prim_child5"
+      - "impact_college_prim_child5"
+      - "impact_career_prim_child5"
+      - "impact_mental_sec_child1"
+      - "impact_friendships_sec_child1"
+      - "impact_grades_dutch_sec_child1"
+      - "impact_grades_sec_child1"
+      - "impact_college_sec_child1"
+      - "impact_career_sec_child1"
+      - "impact_mental_sec_child2"
+      - "impact_friendships_sec_child2"
+      - "impact_grades_dutch_sec_child2"
+      - "impact_grades_sec_child2"
+      - "impact_college_sec_child2"
+      - "impact_career_sec_child2"
+      - "impact_mental_sec_child3"
+      - "impact_friendships_sec_child3"
+      - "impact_grades_dutch_sec_child3"
+      - "impact_grades_sec_child3"
+      - "impact_college_sec_child3"
+      - "impact_career_sec_child3"
+      - "impact_mental_sec_child4"
+      - "impact_friendships_sec_child4"
+      - "impact_grades_dutch_sec_child4"
+      - "impact_grades_sec_child4"
+      - "impact_college_sec_child4"
+      - "impact_career_sec_child4"
+      - "impact_mental_sec_child5"
+      - "impact_friendships_sec_child5"
+      - "impact_grades_dutch_sec_child5"
+      - "impact_grades_sec_child5"
+      - "impact_college_sec_child5"
+      - "impact_career_sec_child5"
+
+    "dictionary":
+      "Zeer negatieve invloed": "very negative influence"
+      "Negatieve invloed": "negative influence"
+      "Geen invloed": "no influence"
+      "Positieve invloed": "positive influence"
+      "Zeer positieve invloed": "very positive influence"
+
+  "support variables":
+    "columns":
+      - "support_childcare_open"
+      - "support_primary_open"
+      - "support_cafe_open"
+      - "support_transport_rules"
+      - "support_sports_rules"
+      - "support_workplace_rules"
+      - "support_nightclubs_close"
+
+    "dictionary":
+      "Te soepel": "too flexible"
+      "Eerder te soepel dan te streng": "rather flexible"
+      "Precies voldoende": "just enough"
+      "Eerder te streng dan te soepel": "rather too strict"
+      "Te streng": "too strict"
+
+  "avoid variables":
+    "columns":
+      - "avoid_cafe"
+      - "avoid_theater"
+      - "avoid_public_transport"
+      - "avoid_gym"
+
+    "dictionary":
+      "voor de uitbraak niet en nu ook niet": "not before the outbreak and not now"
+      "veel minder vaak dan voor de uitbraak": "much less often than before the outbreak"
+      "een beetje minder vaak dan voor de uitbraak": "a little less often than before the outbreak"
+      "net zo vaak als voor de uitbraak": "as often as before the outbreak"
+      "vaker dan voor de uitbraak": "more often than before the outbreak"
+      "voor de uitbraak wel, maar nu zeker niet": "before the outbreak, but not now"
+
+  "expected duration variables":
+    "columns":
+      - "duration_open_schools"
+      - "duration_open_cafes"
+      - "duration_no_masks_transport"
+      - "duration_sports"
+      - "duration_no_measures_workplace"
+
+    "dictionary":
+      "vanaf 1 juli": "from 1 July"
+      "tussen juli en eind augustus": "between July and the end of August"
+      "tussen september en het eind van het jaar": "between September and the end of the year"
+      "in 2021": "in 2021"
+      "in 2022 of later": "in 2022 or later"
+
+  "belief job variables":
+    "columns":
+      - "l_findoldjob_rel"
+      - "l_findcurrentjob_rel"
+
+    "dictionary":
+      "veel makkelijker dan in andere soort banen": "much easier than in other types of jobs"
+      "een beetje makkelijker dan in andere soort banen": "a little easier than in other types of jobs"
+      "niet makkelijker en niet moeilijker dan in andere banen": "no easier and no harder than in other jobs"
+      "een beetje moeilijker dan in andere soort banen": "a little more difficult than in other types of jobs"
+      "veel moeilijker dan in andere soort banen": "much more difficult than in other types of jobs"
+
+  "belief find job variables":
+    "columns":
+      - "impact_corona_findoldjob"
+      - "impact_corona_findcurrentjob"
+
+    "dictionary":
+      "het is veel makkelijker om een baan te vinden": "much easier to find a job"
+      "het is een beetje makkelijker om een baan te vinden": "a little easier to find a job"
+      "het is niet makkelijker en niet moeilijker": "no easier or harder"
+      "het is een beetje moeilijker om een baan te vinden": "a little harder to find a job"
+      "het is veel moeilijker om een baan te vinden": "much harder to find a job"
+
+  "belief salary job variables":
+    "columns":
+      - "finoldjob_wage_rel"
+      - "findcurrentjob_wage_rel"
+
+    "dictionary":
+      "minder salaris": "less salary"
+      "hetzelfde salaris": "the same salary"
+      "meer salaris": "more salary"
+      "ik weet het niet": "I don't know"
+
+  "seeking wage hours":
+    "columns":
+      - "seeking_wage"
+      - "seeking_hours"
+
+    "dictionary":
+      # "Weet ik niet": !!float .nan
+      # "weet ik niet": !!float .nan
+      # "Ik weet het niet": !!float .nan
+      # "ik weet het niet": !!float .nan
+      -9: !!float .nan
+
+  "importance job variables":
+    "columns":
+      - "job_important_flexible_hours"
+      - "job_important_salary"
+      - "job_important_contact"
+      - "job_important_no_contact"
+      - "job_important_homeoffice"
+      - "job_important_security"
+      - "job_important_travel_time"
+      - "job_important_transport"
+      # - "job_important_flexible_hours_merge"
+      # - "job_important_salary_merge"
+      # - "job_important_contact_merge"
+      # - "job_important_no_contact_merge"
+      # - "job_important_homeoffice_merge"
+      # - "job_important_security_merge"
+      # - "job_important_travel_time_merge"
+      # - "job_important_transport_merge"
+
+    "dictionary":
+      "veel minder belangrijk": "much less important"
+      "minder belangrijk": "less important"
+      "niet minder en niet meer belangrijk": "neither unimportant nor important"
+      "belangrijker": "more important"
+      "veel belangrijker": "much more important"
+
+  "searching training":
+    "columns":
+      - "change_proff_job"
+      - "change_proff_education"
+
+    "dictionary":
+      "Ja, daar ben ik al mee bezig": "yes, I am already working on that"
+      "Ja, ik ben van plan dit in de komende zes maanden te doen": "yes, I intend to do this in the next six months"
+      "Ja, Ik ga dit binnen een jaar doen als ik geen kansen op de lange termijn zie in het beroep [dat ik nu heb/dat ik heb gehad]": "yes, I'm going to do this within a year if I don't see any chances in the long term in the profession [that I have now/that I have had]"
+      "Ja, Ik ga dit binnen een jaar doen als ik geen kansen op de lange termijn zie in": "yes, I'm going to do this within a year if I don't see any chances in the long term in the profession [that I have now/that I have had]"
+      "Nee": "no"
+      !!bool False: "no"
+

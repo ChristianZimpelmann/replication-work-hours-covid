@@ -1,0 +1,90 @@
+;new_name;labels;lx15a_1.0p_EN.dta
+0;age;Age respondent;lx15a001
+1;financial_situation;Compared to three years ago, has your financial situation improved, worsened, or;lx15a002
+2;reason_bad_fin_sit;What has caused this? Choose the reason that most contributed to the worsening o;lx15a003
+3;reason_bad_fin_sit_costs;I had to deal with greater costs, namely;lx15a004
+4;reason_bad_fin_sit_other;Other, namely;lx15a005
+5;has_cut_expenditures;Have you cut down on your expenditures, in the past year?;lx15a006
+6;has_income_pension_benefits;Do you have income through pension benefits? This does not include general old a;lx15a007
+7;income_pension_benefits_since;Since what year do you have income through pension benefits?;lx15a008
+8;net_pension_benefit_amt;What net amount of (supplementary) pension benefits do you receive monthly, appr;lx15a009
+9;pension_indexed_past_year;Was your pension indexed in the period or periods indicated below? - In the past;lx15a010
+10;pension_indexed_2012_2013;Was your pension indexed in the period or periods indicated below? - In the peri;lx15a011
+11;pension_indexed_2009_2011;Was your pension indexed in the period or periods indicated below? - In the peri;lx15a012
+12;pension_reduced_past_year;Was your total (supplementary) pension reduced in the period or periods indicate;lx15a013
+13;pension_reduced_2012_2013;Was your total (supplementary) pension reduced in the period or periods indicate;lx15a014
+14;pension_reduced_2009_2011;Was your total (supplementary) pension reduced in the period or periods indicate;lx15a015
+15;pension_reduction_amt_past_year;What was the net amount of the reduction per month, in the past year?;lx15a016
+16;pension_reduction_amt_2012_2013;What was the net amount of the reduction per month, in the period 2012-2013?;lx15a017
+17;pension_reduction_amt_2009_2011;What was the net amount of the reduction per month, in the period 2009-2011?;lx15a018
+18;health_care_deductible_used_amt;In 2014, the health care deductible was ? 360. How much of that sum did you use,;lx15a019
+19;used_med_w_oop_expense_2014;Did you use medicines in 2014 for which you had to pay a contribution (or that y;lx15a020
+20;med_w_oop_expense_amt;What amount did you pay out of your own pocket for medicines in 2014, approximat;lx15a021
+21;health_care_oop_2013_v_2014;In 2014, did you pay more, as much or less out of your own pocket for medicines,;lx15a022
+22;used_taxi_cost_reimb_2014;Did you use any form of taxi cost reimbursement in 2014: regional taxi (?regiota;lx15a023
+23;taxi_cost_reimb_changed;Did the amount of this reimbursement change in 2015?;lx15a024
+24;taxi_cost_reimb_amt;What difference does this make in amount of euros, net per month or per year? -;lx15a025
+25;taxi_cost_reimb_amt_month;What difference does this make in amount of euros, net per month or per year? -;lx15a026
+26;taxi_cost_reimb_amt_year;What difference does this make in amount of euros, net per month or per year? -;lx15a027
+27;used_dom_help_home_care_14;Did you make use of domestic help via a home care organization, in 2014?;lx15a028
+28;dom_help_own_contrib_amt_14;What was the amount of your own contribution per four weeks, in 2014 (or what wa;lx15a029
+29;used_dom_help_home_care_15;Are you currently, in 2015, using domestic help via a home care organization?;lx15a030
+30;dom_help_own_contrib_amt_15;What is the amount of your own contribution per four weeks, in 2015?;lx15a031
+31;used_health_care_14;Did you use any nursing or health care via an organization, in 2014?;lx15a032
+32;health_care_own_contrib_amt_14;What was the amount of your own contribution per four weeks, in 2014 (or what wa;lx15a033
+33;used_health_care_15;Are you currently, in 2015, using nursing or health care via a home care organiz;lx15a034
+34;health_care_own_contrib_amt_15;What is the amount of your own contribution per four weeks, in 2015?;lx15a035
+35;used_aid_scooter_14;Did you use one of the following aids in 2014? - Scooter;lx15a036
+36;used_aid_rollator_14;Did you use one of the following aids in 2014? - Rollator;lx15a037
+37;used_aid_wheelchair_14;Did you use one of the following aids in 2014? - Wheelchair;lx15a038
+38;used_aid_stairlift_14;Did you use one of the following aids in 2014? - Stair lift;lx15a039
+39;used_aid_liftingaid_14;Did you use one of the following aids in 2014? - Lifting aid;lx15a040
+40;used_aid_toiletseat_14;Did you use one of the following aids in 2014? - Toilet or shower seat;lx15a041
+41;used_aid_none_14;Did you use one of the following aids in 2014? - None of these aids;lx15a042
+42;purchased_aid_scooter_14;Did you lease or purchase this aid in 2014? - Scooter;lx15a043
+43;purchased_aid_rollator_14;Did you lease or purchase this aid in 2014? - Rollator;lx15a044
+44;purchased_aid_wheelchair_14;Did you lease or purchase this aid in 2014? - Wheelchair;lx15a045
+45;purchased_aid_stairlift_14;Did you lease or purchase this aid in 2014? - Stair lift;lx15a046
+46;purchased_aid_liftingaid_14;Did you lease or purchase this aid in 2014? - Lifting aid;lx15a047
+47;purchased_aid_toiletseat_14;Did you lease or purchase this aid in 2014? - Toilet or shower seat;lx15a048
+48;scooter_own_contrib_amt_14;What contribution did you pay out of your own pocket for the scooter, in 2014?;lx15a049
+49;scooter_own_contrib_amt_15;And what contribution will you pay for the scooter in 2015?;lx15a050
+50;rollator_own_contrib_amt_14;What contribution did you pay out of your own pocket for the rollator, in 2014?;lx15a051
+51;rollator_own_contrib_amt_15;And what contribution will you pay for the rollator in 2015?;lx15a052
+52;wheelchair_own_contrib_amt_14;What contribution did you pay out of your own pocket for the wheelchair, in 2014;lx15a053
+53;wheelchair_own_contrib_amt_15;And what contribution will you pay for the wheelchair in 2015?;lx15a054
+54;stairlift_own_contrib_amt_14;What contribution did you pay out of your own pocket for the stair lift, in 2014;lx15a055
+55;stairlift_own_contrib_amt_15;And what contribution will you pay for the stair lift in 2015?;lx15a056
+56;liftingaid_own_contrib_amt_14;What contribution did you pay out of your own pocket for the lifting aid, in 201;lx15a057
+57;liftingaid_own_contrib_amt_15;And what contribution will you pay for the lifting aid in 2015?;lx15a058
+58;toiletseat_own_contrib_amt_14;What contribution did you pay out of your own pocket for the toilet or shower se;lx15a059
+59;toiletseat_own_contrib_amt_15;And what contribution will you pay for the toiler or shower seat in 2015?;lx15a060
+60;relied_other_comp_provisions;Do you have or rely on (other) provisions for which you were compensated last ye;lx15a061
+61;relied_other_comp_provisions_s;What provision(s) do you mean?;lx15a062
+62;expect_use_own_savings_cost;Do you expect to have to use some of your savings/own capital this year to cover;lx15a063
+63;expect_own_savings_groceries;What are these costs, mainly? Multiple answers are permitted. - for daily grocer;lx15a064
+64;expect_own_savings_housing;What are these costs, mainly? Multiple answers are permitted. - for housing-rela;lx15a065
+65;expect_own_savings_care;What are these costs, mainly? Multiple answers are permitted. - for care-related;lx15a066
+66;expect_own_savings_other;What are these costs, mainly? Multiple answers are permitted. - other, namely;lx15a067
+67;expect_own_savings_other_s;What are these costs, mainly?;lx15a068
+68;saves_for_pension;Do you save for (a supplement to) your pension? This question pertains to all fo;lx15a069
+69;reason_not_saving_for_pension;Why do you not save for this?;lx15a070
+70;reason_not_saving_o;Why then do you not save for this?;lx15a071
+71;savesd_for_pension_before_retir;Did you save (before you retired) for (a supplement to) your pension?;lx15a072
+72;reason_not_saving_before_retir;Why did you not save for this?;lx15a073
+73;reason_not_saving_bf_retir_o;Why then did you not save for this?;lx15a074
+74;wld_better_if_saved_bf_ret;Do you think now that it would have been better if you had saved for (a suppleme;lx15a075
+75;miss_additional_savings;Do you now miss a (supplement to your) pension or additional savings?;lx15a076
+76;reason_miss_savings;Why do you miss this?;lx15a077
+77;questionnaire_difficult;Was it difficult to answer the questions?;lx15a078
+78;questionnaire_clear;Were the questions sufficiently clear?;lx15a079
+79;questionnaire_thinking;Did the questionnaire get you thinking about things?;lx15a080
+80;questionnaire_interesting;Was it an interesting subject?;lx15a081
+81;questionnaire_enjoy;Did you enjoy answering the questions?;lx15a082
+82;start_date;Starting date questionnaire;lx15a083
+83;start_time;Starting time questionnaire;lx15a084
+84;end_date;End date questionnaire;lx15a085
+85;end_time;End time questionnaire;lx15a086
+86;duration;Duration in seconds;lx15a087
+87;date_fieldwork;Year and month of the field work period;lx15a_m
+88;personal_id;Number of the household member encrypted;nomem_encr

@@ -1,0 +1,228 @@
+new_name;labels;cp20l_EN_1.0p.dta;cp19k_EN_1.0p.dta;cp18j_EN_1.0p.dta;cp17i_EN_1.0p.dta;cp15h_EN_1.0p.dta;cp14g_EN_1.0p.dta;cp13f_EN_1.0p.dta;cp12e_1.0p_EN.dta;cp11d_1.0p_EN.dta;cp10c_1.0p_EN.dta;cp09b_1.0p_EN.dta;cp08a_1p_EN.dta
+questionnaires_enjoyment_online;I really enjoy responding to questionnaires through the mail or Internet.;;;cp18j001;cp17i001;cp15h001;cp14g001;cp13f001;cp12e001;cp11d001;cp10c001;cp09b001;cp08a001
+questionnaires_enjoyment_phone;I really enjoy being interviewed for a survey.;;;cp18j002;cp17i002;cp15h002;cp14g002;cp13f002;cp12e002;cp11d002;cp10c002;cp09b002;cp08a002
+questionnaires_interesting;Surveys are interesting in themselves.;;;cp18j003;cp17i003;cp15h003;cp14g003;cp13f003;cp12e003;cp11d003;cp10c003;cp09b003;cp08a003
+questionnaires_importance;Surveys are important for society.;;;cp18j004;cp17i004;cp15h004;cp14g004;cp13f004;cp12e004;cp11d004;cp10c004;cp09b004;cp08a004
+questionnaires_information_gain;A lot can be learned from information collected through surveys.;;;cp18j005;cp17i005;cp15h005;cp14g005;cp13f005;cp12e005;cp11d005;cp10c005;cp09b005;cp08a005
+questionnaires_waste_of_time;Completing surveys is a waste of time.;;;cp18j006;cp17i006;cp15h006;cp14g006;cp13f006;cp12e006;cp11d006;cp10c006;cp09b006;cp08a006
+questionnaires_too_many;I receive far too many requests to participate in surveys.;;;cp18j007;cp17i007;cp15h007;cp14g007;cp13f007;cp12e007;cp11d007;cp10c007;cp09b007;cp08a007
+questionnaires_privacy_invasion;Opinion polls are an invasion of privacy.;;;cp18j008;cp17i008;cp15h008;cp14g008;cp13f008;cp12e008;cp11d008;cp10c008;cp09b008;cp08a008
+questionnaires_exhaustive;It is exhaustive to answer so many questions in a survey.;;;cp18j009;cp17i009;cp15h009;cp14g009;cp13f009;cp12e009;cp11d009;cp10c009;cp09b009;cp08a009
+mood_happiness;On the whole, how happy would you say you are?;cp20l010;cp19k010;cp18j010;cp17i010;cp15h010;cp14g010;cp13f010;cp12e010;cp11d010;cp10c010;cp09b010;cp08a010
+satisfaction_current_life;How satisfied are you with the life you lead at the moment?;cp20l011;cp19k011;cp18j011;cp17i011;cp15h011;cp14g011;cp13f011;cp12e011;cp11d011;cp10c011;cp09b011;cp08a011
+mood_currently;How do you feel at the moment?;cp20l012;cp19k012;cp18j012;cp17i012;cp15h012;cp14g012;cp13f012;cp12e012;cp11d012;cp10c012;cp09b012;cp08a012
+mood_generally;In general, how do you feel?;cp20l013;cp19k013;cp18j013;cp17i013;cp15h013;cp14g013;cp13f013;cp12e013;cp11d013;cp10c013;cp09b013;cp08a013
+satisfaction_ideal_life;In most ways my life is close to my ideal;cp20l014;cp19k014;cp18j014;cp17i014;cp15h014;cp14g014;cp13f014;cp12e014;cp11d014;cp10c014;cp09b014;cp08a014
+satisfaction_life_conditions;The conditions of my life are excellent;cp20l015;cp19k015;cp18j015;cp17i015;cp15h015;cp14g015;cp13f015;cp12e015;cp11d015;cp10c015;cp09b015;cp08a015
+satisfaction_life;I am satisfied with my life;cp20l016;cp19k016;cp18j016;cp17i016;cp15h016;cp14g016;cp13f016;cp12e016;cp11d016;cp10c016;cp09b016;cp08a016
+satisfaction_achievments;So far I have gotten the important things I want in life;cp20l017;cp19k017;cp18j017;cp17i017;cp15h017;cp14g017;cp13f017;cp12e017;cp11d017;cp10c017;cp09b017;cp08a017
+satisfaction_no_regrets;If I could live my life over, I would change almost nothing;cp20l018;cp19k018;cp18j018;cp17i018;cp15h018;cp14g018;cp13f018;cp12e018;cp11d018;cp10c018;cp09b018;cp08a018
+ess_trust;Generally speaking, would you say that most people can be trusted, or that you c;cp20l019;cp19k019;cp18j019;cp17i019;cp15h019;cp14g019;cp13f019;cp12e019;cp11d019;cp10c019;cp09b019;cp08a019
+bigV_e_1;Am the life of the party.;cp20l020;cp19k020;cp18j020;cp17i020;cp15h020;cp14g020;cp13f020;cp12e020;cp11d020;cp10c020;cp09b020;cp08a020
+bigV_a_neg_1;Feel little concern for others.;cp20l021;cp19k021;cp18j021;cp17i021;cp15h021;cp14g021;cp13f021;cp12e021;cp11d021;cp10c021;cp09b021;cp08a021
+bigV_c_1;Am always prepared.;cp20l022;cp19k022;cp18j022;cp17i022;cp15h022;cp14g022;cp13f022;cp12e022;cp11d022;cp10c022;cp09b022;cp08a022
+bigV_n_1;Get stressed out easily.;cp20l023;cp19k023;cp18j023;cp17i023;cp15h023;cp14g023;cp13f023;cp12e023;cp11d023;cp10c023;cp09b023;cp08a023
+bigV_o_1;Have a rich vocabulary.;cp20l024;cp19k024;cp18j024;cp17i024;cp15h024;cp14g024;cp13f024;cp12e024;cp11d024;cp10c024;cp09b024;cp08a024
+bigV_e_neg_2;Dont talk a lot.;cp20l025;cp19k025;cp18j025;cp17i025;cp15h025;cp14g025;cp13f025;cp12e025;cp11d025;cp10c025;cp09b025;cp08a025
+bigV_a_2;Am interested in people.;cp20l026;cp19k026;cp18j026;cp17i026;cp15h026;cp14g026;cp13f026;cp12e026;cp11d026;cp10c026;cp09b026;cp08a026
+bigV_c_neg_2;Leave my belongings around.;cp20l027;cp19k027;cp18j027;cp17i027;cp15h027;cp14g027;cp13f027;cp12e027;cp11d027;cp10c027;cp09b027;cp08a027
+bigV_n_neg_2;Am relaxed most of the time.;cp20l028;cp19k028;cp18j028;cp17i028;cp15h028;cp14g028;cp13f028;cp12e028;cp11d028;cp10c028;cp09b028;cp08a028
+bigV_o_neg_2;Have difficulty understanding abstract ideas.;cp20l029;cp19k029;cp18j029;cp17i029;cp15h029;cp14g029;cp13f029;cp12e029;cp11d029;cp10c029;cp09b029;cp08a029
+bigV_e_neg_3;Feel comfortable around people.;cp20l030;cp19k030;cp18j030;cp17i030;cp15h030;cp14g030;cp13f030;cp12e030;cp11d030;cp10c030;cp09b030;cp08a030
+bigV_a_neg_3;Insult people.;cp20l031;cp19k031;cp18j031;cp17i031;cp15h031;cp14g031;cp13f031;cp12e031;cp11d031;cp10c031;cp09b031;cp08a031
+bigV_c_3;Pay attention to details.;cp20l032;cp19k032;cp18j032;cp17i032;cp15h032;cp14g032;cp13f032;cp12e032;cp11d032;cp10c032;cp09b032;cp08a032
+bigV_n_3;Worry about things.;cp20l033;cp19k033;cp18j033;cp17i033;cp15h033;cp14g033;cp13f033;cp12e033;cp11d033;cp10c033;cp09b033;cp08a033
+bigV_o_3;Have a vivid imagination.;cp20l034;cp19k034;cp18j034;cp17i034;cp15h034;cp14g034;cp13f034;cp12e034;cp11d034;cp10c034;cp09b034;cp08a034
+bigV_e_neg_4;Keep in the background.;cp20l035;cp19k035;cp18j035;cp17i035;cp15h035;cp14g035;cp13f035;cp12e035;cp11d035;cp10c035;cp09b035;cp08a035
+bigV_a_4;Sympathize with others feelings.;cp20l036;cp19k036;cp18j036;cp17i036;cp15h036;cp14g036;cp13f036;cp12e036;cp11d036;cp10c036;cp09b036;cp08a036
+bigV_c_neg_4;Make a mess of things.;cp20l037;cp19k037;cp18j037;cp17i037;cp15h037;cp14g037;cp13f037;cp12e037;cp11d037;cp10c037;cp09b037;cp08a037
+bigV_n_neg_4;Seldom feel blue.;cp20l038;cp19k038;cp18j038;cp17i038;cp15h038;cp14g038;cp13f038;cp12e038;cp11d038;cp10c038;cp09b038;cp08a038
+bigV_o_neg_4;Am not interested in abstract ideas.;cp20l039;cp19k039;cp18j039;cp17i039;cp15h039;cp14g039;cp13f039;cp12e039;cp11d039;cp10c039;cp09b039;cp08a039
+bigV_e_5;Start conversations.;cp20l040;cp19k040;cp18j040;cp17i040;cp15h040;cp14g040;cp13f040;cp12e040;cp11d040;cp10c040;cp09b040;cp08a040
+bigV_a_neg_5;Am not interested in other peoples problems.;cp20l041;cp19k041;cp18j041;cp17i041;cp15h041;cp14g041;cp13f041;cp12e041;cp11d041;cp10c041;cp09b041;cp08a041
+bigV_c_5;Get chores done right away.;cp20l042;cp19k042;cp18j042;cp17i042;cp15h042;cp14g042;cp13f042;cp12e042;cp11d042;cp10c042;cp09b042;cp08a042
+bigV_n_5;Am easily disturbed.;cp20l043;cp19k043;cp18j043;cp17i043;cp15h043;cp14g043;cp13f043;cp12e043;cp11d043;cp10c043;cp09b043;cp08a043
+bigV_o_5;Have excellent ideas.;cp20l044;cp19k044;cp18j044;cp17i044;cp15h044;cp14g044;cp13f044;cp12e044;cp11d044;cp10c044;cp09b044;cp08a044
+bigV_e_neg_6;Have little to say.;cp20l045;cp19k045;cp18j045;cp17i045;cp15h045;cp14g045;cp13f045;cp12e045;cp11d045;cp10c045;cp09b045;cp08a045
+bigV_a_6;Have a soft heart.;cp20l046;cp19k046;cp18j046;cp17i046;cp15h046;cp14g046;cp13f046;cp12e046;cp11d046;cp10c046;cp09b046;cp08a046
+bigV_c_neg_6;Often forget to put things back in their proper place.;cp20l047;cp19k047;cp18j047;cp17i047;cp15h047;cp14g047;cp13f047;cp12e047;cp11d047;cp10c047;cp09b047;cp08a047
+bigV_n_6;Get upset easily.;cp20l048;cp19k048;cp18j048;cp17i048;cp15h048;cp14g048;cp13f048;cp12e048;cp11d048;cp10c048;cp09b048;cp08a048
+bigV_o_neg_6;Do not have a good imagination.;cp20l049;cp19k049;cp18j049;cp17i049;cp15h049;cp14g049;cp13f049;cp12e049;cp11d049;cp10c049;cp09b049;cp08a049
+bigV_e_7;Talk to a lot of different people at parties.;cp20l050;cp19k050;cp18j050;cp17i050;cp15h050;cp14g050;cp13f050;cp12e050;cp11d050;cp10c050;cp09b050;cp08a050
+bigV_a_neg_7;Am not really interested in others.;cp20l051;cp19k051;cp18j051;cp17i051;cp15h051;cp14g051;cp13f051;cp12e051;cp11d051;cp10c051;cp09b051;cp08a051
+bigV_c_7;Like order.;cp20l052;cp19k052;cp18j052;cp17i052;cp15h052;cp14g052;cp13f052;cp12e052;cp11d052;cp10c052;cp09b052;cp08a052
+bigV_n_7;Change my mood a lot.;cp20l053;cp19k053;cp18j053;cp17i053;cp15h053;cp14g053;cp13f053;cp12e053;cp11d053;cp10c053;cp09b053;cp08a053
+bigV_o_7;Am quick to understand things.;cp20l054;cp19k054;cp18j054;cp17i054;cp15h054;cp14g054;cp13f054;cp12e054;cp11d054;cp10c054;cp09b054;cp08a054
+bigV_e_neg_8;Dont like to draw attention to myself.;cp20l055;cp19k055;cp18j055;cp17i055;cp15h055;cp14g055;cp13f055;cp12e055;cp11d055;cp10c055;cp09b055;cp08a055
+bigV_a_8;Take time out for others.;cp20l056;cp19k056;cp18j056;cp17i056;cp15h056;cp14g056;cp13f056;cp12e056;cp11d056;cp10c056;cp09b056;cp08a056
+bigV_c_neg_8;Shirk my duties.;cp20l057;cp19k057;cp18j057;cp17i057;cp15h057;cp14g057;cp13f057;cp12e057;cp11d057;cp10c057;cp09b057;cp08a057
+bigV_n_8;Have frequent mood swings.;cp20l058;cp19k058;cp18j058;cp17i058;cp15h058;cp14g058;cp13f058;cp12e058;cp11d058;cp10c058;cp09b058;cp08a058
+bigV_o_8;Use difficult words.;cp20l059;cp19k059;cp18j059;cp17i059;cp15h059;cp14g059;cp13f059;cp12e059;cp11d059;cp10c059;cp09b059;cp08a059
+bigV_e_9;Dont mind being the center of attention.;cp20l060;cp19k060;cp18j060;cp17i060;cp15h060;cp14g060;cp13f060;cp12e060;cp11d060;cp10c060;cp09b060;cp08a060
+bigV_a_9;Feel others emotions.;cp20l061;cp19k061;cp18j061;cp17i061;cp15h061;cp14g061;cp13f061;cp12e061;cp11d061;cp10c061;cp09b061;cp08a061
+bigV_c_9;Follow a schedule.;cp20l062;cp19k062;cp18j062;cp17i062;cp15h062;cp14g062;cp13f062;cp12e062;cp11d062;cp10c062;cp09b062;cp08a062
+bigV_n_9;Get irritated easily.;cp20l063;cp19k063;cp18j063;cp17i063;cp15h063;cp14g063;cp13f063;cp12e063;cp11d063;cp10c063;cp09b063;cp08a063
+bigV_o_9;Spend time reflecting on things.;cp20l064;cp19k064;cp18j064;cp17i064;cp15h064;cp14g064;cp13f064;cp12e064;cp11d064;cp10c064;cp09b064;cp08a064
+bigV_e_neg_10;Am quiet around strangers.;cp20l065;cp19k065;cp18j065;cp17i065;cp15h065;cp14g065;cp13f065;cp12e065;cp11d065;cp10c065;cp09b065;cp08a065
+bigV_a_10;Make people feel at ease.;cp20l066;cp19k066;cp18j066;cp17i066;cp15h066;cp14g066;cp13f066;cp12e066;cp11d066;cp10c066;cp09b066;cp08a066
+bigV_c_10;Am exacting in my work.;cp20l067;cp19k067;cp18j067;cp17i067;cp15h067;cp14g067;cp13f067;cp12e067;cp11d067;cp10c067;cp09b067;cp08a067
+bigV_n_10;Often feel blue.;cp20l068;cp19k068;cp18j068;cp17i068;cp15h068;cp14g068;cp13f068;cp12e068;cp11d068;cp10c068;cp09b068;cp08a068
+bigV_o_10;Am full of ideas.;cp20l069;cp19k069;cp18j069;cp17i069;cp15h069;cp14g069;cp13f069;cp12e069;cp11d069;cp10c069;cp09b069;cp08a069
+rses_worthy;I feel that Im a person of worth, at least on an equal plane with others;cp20l070;cp19k070;cp18j070;cp17i070;cp15h070;cp14g070;cp13f070;cp12e070;cp11d070;cp10c070;cp09b070;cp08a070
+rses_qualities;I feel that I have a number of good qualities;cp20l071;cp19k071;cp18j071;cp17i071;cp15h071;cp14g071;cp13f071;cp12e071;cp11d071;cp10c071;cp09b071;cp08a071
+rses_failure;All in all, I am inclined to feel that I am a failure;cp20l072;cp19k072;cp18j072;cp17i072;cp15h072;cp14g072;cp13f072;cp12e072;cp11d072;cp10c072;cp09b072;cp08a072
+rses_aboveaverage;I am able to do things as well as most other people;cp20l073;cp19k073;cp18j073;cp17i073;cp15h073;cp14g073;cp13f073;cp12e073;cp11d073;cp10c073;cp09b073;cp08a073
+rses_notproud;I feel I do not have much to be proud of;cp20l074;cp19k074;cp18j074;cp17i074;cp15h074;cp14g074;cp13f074;cp12e074;cp11d074;cp10c074;cp09b074;cp08a074
+rses_selfattitude;I take a positive attitude towards myself;cp20l075;cp19k075;cp18j075;cp17i075;cp15h075;cp14g075;cp13f075;cp12e075;cp11d075;cp10c075;cp09b075;cp08a075
+rses_selfsatisfied;On the whole, I am satisfied with myself;cp20l076;cp19k076;cp18j076;cp17i076;cp15h076;cp14g076;cp13f076;cp12e076;cp11d076;cp10c076;cp09b076;cp08a076
+rses_selfrespect;I wish I could have more respect for myself;cp20l077;cp19k077;cp18j077;cp17i077;cp15h077;cp14g077;cp13f077;cp12e077;cp11d077;cp10c077;cp09b077;cp08a077
+rses_useless;I certainly feel useless at times;cp20l078;cp19k078;cp18j078;cp17i078;cp15h078;cp14g078;cp13f078;cp12e078;cp11d078;cp10c078;cp09b078;cp08a078
+rses_nogood;At times, I think I am no good at all;cp20l079;cp19k079;cp18j079;cp17i079;cp15h079;cp14g079;cp13f079;cp12e079;cp11d079;cp10c079;cp09b079;cp08a079
+selfesteem_appearance;I am satisfied with the way I look;;;cp18j080;cp17i080;cp15h080;cp14g080;cp13f080;cp12e080;cp11d080;cp10c080;cp09b080;cp08a080
+selfesteem_feelgood;I feel good about myself;;;cp18j081;cp17i081;cp15h081;cp14g081;cp13f081;cp12e081;cp11d081;cp10c081;cp09b081;cp08a081
+selfesteem_capabilities;I have confidence in my capabilities;;;cp18j082;cp17i082;cp15h082;cp14g082;cp13f082;cp12e082;cp11d082;cp10c082;cp09b082;cp08a082
+nes_formopinions;I form opinions about everything;;;cp18j083;cp17i083;cp15h083;cp14g083;cp13f083;cp12e083;cp11d083;cp10c083;cp09b083;cp08a083
+nes_avoidextremes;I prefer to avoid taking extreme positions;;;cp18j084;cp17i084;cp15h084;cp14g084;cp13f084;cp12e084;cp11d084;cp10c084;cp09b084;cp08a084
+nes_strongopinions;Its very important to me to hold strong opinions;;;cp18j085;cp17i085;cp15h085;cp14g085;cp13f085;cp12e085;cp11d085;cp10c085;cp09b085;cp08a085
+nes_knowgoodbad;I want to know exactly what is good and bad about everything;;;cp18j086;cp17i086;cp15h086;cp14g086;cp13f086;cp12e086;cp11d086;cp10c086;cp09b086;cp08a086
+nes_neutral;I often prefer to remain neutral about complex issues;;;cp18j087;cp17i087;cp15h087;cp14g087;cp13f087;cp12e087;cp11d087;cp10c087;cp09b087;cp08a087
+nes_selfaffecting;If something does not affect me, I do not usually determine if it is good or bad;;;cp18j088;cp17i088;cp15h088;cp14g088;cp13f088;cp12e088;cp11d088;cp10c088;cp09b088;cp08a088
+nes_enjoyment;I enjoy strongly liking and disliking new things;;;cp18j089;cp17i089;cp15h089;cp14g089;cp13f089;cp12e089;cp11d089;cp10c089;cp09b089;cp08a089
+nes_nopreference;There are many things for which I do not have a preference;;;cp18j090;cp17i090;cp15h090;cp14g090;cp13f090;cp12e090;cp11d090;cp10c090;cp09b090;cp08a090
+nes_notneutral;It bothers me to remain neutral;;;cp18j091;cp17i091;cp15h091;cp14g091;cp13f091;cp12e091;cp11d091;cp10c091;cp09b091;cp08a091
+nes_notselfaffecting;I like to have strong opinions even when I am not personally involved;;;cp18j092;cp17i092;cp15h092;cp14g092;cp13f092;cp12e092;cp11d092;cp10c092;cp09b092;cp08a092
+nes_aboveaverage;I have many more opinions than the average person;;;cp18j093;cp17i093;cp15h093;cp14g093;cp13f093;cp12e093;cp11d093;cp10c093;cp09b093;cp08a093
+nes_preferstrong;I would rather have a strong opinion than no opinion at all;;;cp18j094;cp17i094;cp15h094;cp14g094;cp13f094;cp12e094;cp11d094;cp10c094;cp09b094;cp08a094
+nes_attention;I pay a lot of attention to whether things are good or bad;;;cp18j095;cp17i095;cp15h095;cp14g095;cp13f095;cp12e095;cp11d095;cp10c095;cp09b095;cp08a095
+nes_avoidopinions;I only form strong opinions when I have to;;;cp18j096;cp17i096;cp15h096;cp14g096;cp13f096;cp12e096;cp11d096;cp10c096;cp09b096;cp08a096
+nes_extremes;I like to decide that new things are really good or really bad;;;cp18j097;cp17i097;cp15h097;cp14g097;cp13f097;cp12e097;cp11d097;cp10c097;cp09b097;cp08a097
+nes_indifferent;I am pretty much indifferent to many important issues;;;cp18j098;cp17i098;cp15h098;cp14g098;cp13f098;cp12e098;cp11d098;cp10c098;cp09b098;cp08a098
+rvs_sincere;sincere and truthful;cp20l099;cp19k099;cp18j099;cp17i099;cp15h099;cp14g099;cp13f099;cp12e099;cp11d099;cp10c099;cp09b099;cp08a099
+rvs_responsible;responsible;cp20l100;cp19k100;cp18j100;cp17i100;cp15h100;cp14g100;cp13f100;cp12e100;cp11d100;cp10c100;cp09b100;cp08a100
+rvs_hardworking;hardworking;cp20l101;cp19k101;cp18j101;cp17i101;cp15h101;cp14g101;cp13f101;cp12e101;cp11d101;cp10c101;cp09b101;cp08a101
+rvs_forgiving;forgiving;cp20l102;cp19k102;cp18j102;cp17i102;cp15h102;cp14g102;cp13f102;cp12e102;cp11d102;cp10c102;cp09b102;cp08a102
+rvs_openminded;open-minded;cp20l103;cp19k103;cp18j103;cp17i103;cp15h103;cp14g103;cp13f103;cp12e103;cp11d103;cp10c103;cp09b103;cp08a103
+rvs_courageous;courageous;cp20l104;cp19k104;cp18j104;cp17i104;cp15h104;cp14g104;cp13f104;cp12e104;cp11d104;cp10c104;cp09b104;cp08a104
+rvs_helpful;helpful;cp20l105;cp19k105;cp18j105;cp17i105;cp15h105;cp14g105;cp13f105;cp12e105;cp11d105;cp10c105;cp09b105;cp08a105
+rvs_loving;loving;cp20l106;cp19k106;cp18j106;cp17i106;cp15h106;cp14g106;cp13f106;cp12e106;cp11d106;cp10c106;cp09b106;cp08a106
+rvs_capable;capable;cp20l107;cp19k107;cp18j107;cp17i107;cp15h107;cp14g107;cp13f107;cp12e107;cp11d107;cp10c107;cp09b107;cp08a107
+rvs_clean;clean;cp20l108;cp19k108;cp18j108;cp17i108;cp15h108;cp14g108;cp13f108;cp12e108;cp11d108;cp10c108;cp09b108;cp08a108
+rvs_selfcontrolled;self-controlled;cp20l109;cp19k109;cp18j109;cp17i109;cp15h109;cp14g109;cp13f109;cp12e109;cp11d109;cp10c109;cp09b109;cp08a109
+rvs_independent;independent;cp20l110;cp19k110;cp18j110;cp17i110;cp15h110;cp14g110;cp13f110;cp12e110;cp11d110;cp10c110;cp09b110;cp08a110
+rvs_happy;happy;cp20l111;cp19k111;cp18j111;cp17i111;cp15h111;cp14g111;cp13f111;cp12e111;cp11d111;cp10c111;cp09b111;cp08a111
+rvs_polite;polite;cp20l112;cp19k112;cp18j112;cp17i112;cp15h112;cp14g112;cp13f112;cp12e112;cp11d112;cp10c112;cp09b112;cp08a112
+rvs_intellectual;intellectual;cp20l113;cp19k113;cp18j113;cp17i113;cp15h113;cp14g113;cp13f113;cp12e113;cp11d113;cp10c113;cp09b113;cp08a113
+rvs_obedient;obedient;cp20l114;cp19k114;cp18j114;cp17i114;cp15h114;cp14g114;cp13f114;cp12e114;cp11d114;cp10c114;cp09b114;cp08a114
+rvs_logical;logical;cp20l115;cp19k115;cp18j115;cp17i115;cp15h115;cp14g115;cp13f115;cp12e115;cp11d115;cp10c115;cp09b115;cp08a115
+rvs_creative;creative;cp20l116;cp19k116;cp18j116;cp17i116;cp15h116;cp14g116;cp13f116;cp12e116;cp11d116;cp10c116;cp09b116;cp08a116
+rvs_peaceful;a world at peace;cp20l117;cp19k117;cp18j117;cp17i117;cp15h117;cp14g117;cp13f117;cp12e117;cp11d117;cp10c117;cp09b117;cp08a117
+rvs_familysecurity;family security;cp20l118;cp19k118;cp18j118;cp17i118;cp15h118;cp14g118;cp13f118;cp12e118;cp11d118;cp10c118;cp09b118;cp08a118
+rvs_freedom;freedom;cp20l119;cp19k119;cp18j119;cp17i119;cp15h119;cp14g119;cp13f119;cp12e119;cp11d119;cp10c119;cp09b119;cp08a119
+rvs_equality;equality;cp20l120;cp19k120;cp18j120;cp17i120;cp15h120;cp14g120;cp13f120;cp12e120;cp11d120;cp10c120;cp09b120;cp08a120
+rvs_selfrespect;self-respect;cp20l121;cp19k121;cp18j121;cp17i121;cp15h121;cp14g121;cp13f121;cp12e121;cp11d121;cp10c121;cp09b121;cp08a121
+rvs_happiness;happiness;cp20l122;cp19k122;cp18j122;cp17i122;cp15h122;cp14g122;cp13f122;cp12e122;cp11d122;cp10c122;cp09b122;cp08a122
+rvs_wisdom;wisdom;cp20l123;cp19k123;cp18j123;cp17i123;cp15h123;cp14g123;cp13f123;cp12e123;cp11d123;cp10c123;cp09b123;cp08a123
+rvs_nationalsecurity;national security;cp20l124;cp19k124;cp18j124;cp17i124;cp15h124;cp14g124;cp13f124;cp12e124;cp11d124;cp10c124;cp09b124;cp08a124
+rvs_salvation;salvation;cp20l125;cp19k125;cp18j125;cp17i125;cp15h125;cp14g125;cp13f125;cp12e125;cp11d125;cp10c125;cp09b125;cp08a125
+rvs_friendship;true friendship;cp20l126;cp19k126;cp18j126;cp17i126;cp15h126;cp14g126;cp13f126;cp12e126;cp11d126;cp10c126;cp09b126;cp08a126
+rvs_accomplishment;a sense of accomplishment;cp20l127;cp19k127;cp18j127;cp17i127;cp15h127;cp14g127;cp13f127;cp12e127;cp11d127;cp10c127;cp09b127;cp08a127
+rvs_innerharmony;inner harmony;cp20l128;cp19k128;cp18j128;cp17i128;cp15h128;cp14g128;cp13f128;cp12e128;cp11d128;cp10c128;cp09b128;cp08a128
+rvs_comfortablelife;a comfortable life;cp20l129;cp19k129;cp18j129;cp17i129;cp15h129;cp14g129;cp13f129;cp12e129;cp11d129;cp10c129;cp09b129;cp08a129
+rvs_maturelove;mature love;cp20l130;cp19k130;cp18j130;cp17i130;cp15h130;cp14g130;cp13f130;cp12e130;cp11d130;cp10c130;cp09b130;cp08a130
+rvs_worldofbeauty;a world of beauty;cp20l131;cp19k131;cp18j131;cp17i131;cp15h131;cp14g131;cp13f131;cp12e131;cp11d131;cp10c131;cp09b131;cp08a131
+rvs_pleasure;pleasure;cp20l132;cp19k132;cp18j132;cp17i132;cp15h132;cp14g132;cp13f132;cp12e132;cp11d132;cp10c132;cp09b132;cp08a132
+rvs_recognition;social recognition;cp20l133;cp19k133;cp18j133;cp17i133;cp15h133;cp14g133;cp13f133;cp12e133;cp11d133;cp10c133;cp09b133;cp08a133
+rvs_excitinglife;an exciting life;cp20l134;cp19k134;cp18j134;cp17i134;cp15h134;cp14g134;cp13f134;cp12e134;cp11d134;cp10c134;cp09b134;cp08a134
+ios_inclusion_of_others;The rating scale with circles below is used to assess the degree to which people;cp20l135;cp19k135;cp18j135;cp17i135;cp15h135;cp14g135;cp13f135;cp12e135;cp11d135;cp10c135;cp09b135;cp08a135
+mc_sds_helpothers;I never hesitate to go out of my way to help someone in trouble;cp20l136;cp19k136;cp18j136;cp17i136;cp15h136;cp14g136;cp13f136;cp12e136;cp11d136;cp10c136;cp09b136;cp08a136
+mc_sds_dislike;I have never intensely disliked anyone;cp20l137;cp19k137;cp18j137;cp17i137;cp15h137;cp14g137;cp13f137;cp12e137;cp11d137;cp10c137;cp09b137;cp08a137
+mc_sds_rebllious;There have been times when I felt like rebelling against people in authority eve;cp20l138;cp19k138;cp18j138;cp17i138;cp15h138;cp14g138;cp13f138;cp12e138;cp11d138;cp10c138;cp09b138;cp08a138
+mc_sds_playingsick;"I can remember ""playing sick"" to get out of something";cp20l139;cp19k139;cp18j139;cp17i139;cp15h139;cp14g139;cp13f139;cp12e139;cp11d139;cp10c139;cp09b139;cp08a139
+mc_sds_admittingignorance;When I dont know something I dont at all mind admitting it;cp20l140;cp19k140;cp18j140;cp17i140;cp15h140;cp14g140;cp13f140;cp12e140;cp11d140;cp10c140;cp09b140;cp08a140
+mc_sds_courteous;I am always courteous, even to people who are disagreeable;cp20l141;cp19k141;cp18j141;cp17i141;cp15h141;cp14g141;cp13f141;cp12e141;cp11d141;cp10c141;cp09b141;cp08a141
+mc_sds_insistence;At times I have really insisted on having things my own way;cp20l142;cp19k142;cp18j142;cp17i142;cp15h142;cp14g142;cp13f142;cp12e142;cp11d142;cp10c142;cp09b142;cp08a142
+mc_sds_responsible;I would never think of letting someone else be punished for my wrongdoings;cp20l143;cp19k143;cp18j143;cp17i143;cp15h143;cp14g143;cp13f143;cp12e143;cp11d143;cp10c143;cp09b143;cp08a143
+mc_sds_jealous;There have been times when I was quite jealous of the good fortune of others;cp20l144;cp19k144;cp18j144;cp17i144;cp15h144;cp14g144;cp13f144;cp12e144;cp11d144;cp10c144;cp09b144;cp08a144
+mc_sds_irritated;I am sometimes irritated by people who ask favors of me;cp20l145;cp19k145;cp18j145;cp17i145;cp15h145;cp14g145;cp13f145;cp12e145;cp11d145;cp10c145;cp09b145;cp08a145
+panas_interested;Indicate to what extent you feel, right now, that is, at the present moment inte;cp20l146;cp19k146;cp18j146;cp17i146;cp15h146;cp14g146;cp13f146;cp12e146;cp11d146;cp10c146;cp09b146;cp08a146
+panas_distressed;Indicate to what extent you feel, right now, that is, at the present moment dist;cp20l147;cp19k147;cp18j147;cp17i147;cp15h147;cp14g147;cp13f147;cp12e147;cp11d147;cp10c147;cp09b147;cp08a147
+panas_excited;Indicate to what extent you feel, right now, that is, at the present moment exci;cp20l148;cp19k148;cp18j148;cp17i148;cp15h148;cp14g148;cp13f148;cp12e148;cp11d148;cp10c148;cp09b148;cp08a148
+panas_upset;Indicate to what extent you feel, right now, that is, at the present moment upse;cp20l149;cp19k149;cp18j149;cp17i149;cp15h149;cp14g149;cp13f149;cp12e149;cp11d149;cp10c149;cp09b149;cp08a149
+panas_strong;Indicate to what extent you feel, right now, that is, at the present moment stro;cp20l150;cp19k150;cp18j150;cp17i150;cp15h150;cp14g150;cp13f150;cp12e150;cp11d150;cp10c150;cp09b150;cp08a150
+panas_guilty;Indicate to what extent you feel, right now, that is, at the present moment guil;cp20l151;cp19k151;cp18j151;cp17i151;cp15h151;cp14g151;cp13f151;cp12e151;cp11d151;cp10c151;cp09b151;cp08a151
+panas_scared;Indicate to what extent you feel, right now, that is, at the present moment scar;cp20l152;cp19k152;cp18j152;cp17i152;cp15h152;cp14g152;cp13f152;cp12e152;cp11d152;cp10c152;cp09b152;cp08a152
+panas_hostile;Indicate to what extent you feel, right now, that is, at the present moment host;cp20l153;cp19k153;cp18j153;cp17i153;cp15h153;cp14g153;cp13f153;cp12e153;cp11d153;cp10c153;cp09b153;cp08a153
+panas_enthusiastic;Indicate to what extent you feel, right now, that is, at the present moment enth;cp20l154;cp19k154;cp18j154;cp17i154;cp15h154;cp14g154;cp13f154;cp12e154;cp11d154;cp10c154;cp09b154;cp08a154
+panas_proud;Indicate to what extent you feel, right now, that is, at the present moment prou;cp20l155;cp19k155;cp18j155;cp17i155;cp15h155;cp14g155;cp13f155;cp12e155;cp11d155;cp10c155;cp09b155;cp08a155
+panas_irritable;Indicate to what extent you feel, right now, that is, at the present moment irri;cp20l156;cp19k156;cp18j156;cp17i156;cp15h156;cp14g156;cp13f156;cp12e156;cp11d156;cp10c156;cp09b156;cp08a156
+panas_alert;Indicate to what extent you feel, right now, that is, at the present moment aler;cp20l157;cp19k157;cp18j157;cp17i157;cp15h157;cp14g157;cp13f157;cp12e157;cp11d157;cp10c157;cp09b157;cp08a157
+panas_ashamed;Indicate to what extent you feel, right now, that is, at the present moment asha;cp20l158;cp19k158;cp18j158;cp17i158;cp15h158;cp14g158;cp13f158;cp12e158;cp11d158;cp10c158;cp09b158;cp08a158
+panas_inspired;Indicate to what extent you feel, right now, that is, at the present moment insp;cp20l159;cp19k159;cp18j159;cp17i159;cp15h159;cp14g159;cp13f159;cp12e159;cp11d159;cp10c159;cp09b159;cp08a159
+panas_nervous;Indicate to what extent you feel, right now, that is, at the present moment nerv;cp20l160;cp19k160;cp18j160;cp17i160;cp15h160;cp14g160;cp13f160;cp12e160;cp11d160;cp10c160;cp09b160;cp08a160
+panas_determined;Indicate to what extent you feel, right now, that is, at the present moment dete;cp20l161;cp19k161;cp18j161;cp17i161;cp15h161;cp14g161;cp13f161;cp12e161;cp11d161;cp10c161;cp09b161;cp08a161
+panas_attentive;Indicate to what extent you feel, right now, that is, at the present moment atte;cp20l162;cp19k162;cp18j162;cp17i162;cp15h162;cp14g162;cp13f162;cp12e162;cp11d162;cp10c162;cp09b162;cp08a162
+panas_jittery;Indicate to what extent you feel, right now, that is, at the present moment jitt;cp20l163;cp19k163;cp18j163;cp17i163;cp15h163;cp14g163;cp13f163;cp12e163;cp11d163;cp10c163;cp09b163;cp08a163
+panas_active;Indicate to what extent you feel, right now, that is, at the present moment acti;cp20l164;cp19k164;cp18j164;cp17i164;cp15h164;cp14g164;cp13f164;cp12e164;cp11d164;cp10c164;cp09b164;cp08a164
+panas_afraid;Indicate to what extent you feel, right now, that is, at the present moment afra;cp20l165;cp19k165;cp18j165;cp17i165;cp15h165;cp14g165;cp13f165;cp12e165;cp11d165;cp10c165;cp09b165;cp08a165
+nfc_complexproblems;I would prefer complex to simple problems;;;cp18j166;cp17i166;cp15h166;cp14g166;cp13f166;cp12e166;cp11d166;cp10c166;cp09b166;cp08a166
+nfc_lotofthinking;I like to have the responsibility of handling a situation that requires a lot of;;;cp18j167;cp17i167;cp15h167;cp14g167;cp13f167;cp12e167;cp11d167;cp10c167;cp09b167;cp08a167
+nfc_thinkingnotfun;Thinking is not my idea of fun;;;cp18j168;cp17i168;cp15h168;cp14g168;cp13f168;cp12e168;cp11d168;cp10c168;cp09b168;cp08a168
+nfc_littlethought;I would rather do something that requires little thought than something that is;;;cp18j169;cp17i169;cp15h169;cp14g169;cp13f169;cp12e169;cp11d169;cp10c169;cp09b169;cp08a169
+nfc_avoidchallenges;I try to anticipate and avoid situations where there is likely chance that I wil;;;cp18j170;cp17i170;cp15h170;cp14g170;cp13f170;cp12e170;cp11d170;cp10c170;cp09b170;cp08a170
+nfc_deliberating;I find satisfaction in deliberating hard and for long hours;;;cp18j171;cp17i171;cp15h171;cp14g171;cp13f171;cp12e171;cp11d171;cp10c171;cp09b171;cp08a171
+nfc_bareminimum;I only think as hard as I have to;;;cp18j172;cp17i172;cp15h172;cp14g172;cp13f172;cp12e172;cp11d172;cp10c172;cp09b172;cp08a172
+nfc_shortterm;I prefer to think about small, daily projects to long-term ones;;;cp18j173;cp17i173;cp15h173;cp14g173;cp13f173;cp12e173;cp11d173;cp10c173;cp09b173;cp08a173
+nfc_easytasks;I like tasks that require little thought once Ive learned them;;;cp18j174;cp17i174;cp15h174;cp14g174;cp13f174;cp12e174;cp11d174;cp10c174;cp09b174;cp08a174
+nfc_relyingonthought;The idea of relying on thought to make my way to the top appeals to me;;;cp18j175;cp17i175;cp15h175;cp14g175;cp13f175;cp12e175;cp11d175;cp10c175;cp09b175;cp08a175
+nfc_newsolutions;I really enjoy a task that involves coming up with new solutions to problems;;;cp18j176;cp17i176;cp15h176;cp14g176;cp13f176;cp12e176;cp11d176;cp10c176;cp09b176;cp08a176
+nfc_noexcitement;Learning new ways to think doesnt excite me very much;;;cp18j177;cp17i177;cp15h177;cp14g177;cp13f177;cp12e177;cp11d177;cp10c177;cp09b177;cp08a177
+nfc_puzzles;I prefer my life to be filled with puzzles that I must solve;;;cp18j178;cp17i178;cp15h178;cp14g178;cp13f178;cp12e178;cp11d178;cp10c178;cp09b178;cp08a178
+nfc_abstraction;The notion of thinking abstractly is appealing to me;;;cp18j179;cp17i179;cp15h179;cp14g179;cp13f179;cp12e179;cp11d179;cp10c179;cp09b179;cp08a179
+nfc_intellectual;I would prefer a task that is intellectual, difficult and important to one that;;;cp18j180;cp17i180;cp15h180;cp14g180;cp13f180;cp12e180;cp11d180;cp10c180;cp09b180;cp08a180
+nfc_relief;I feel relief rather than satisfaction after completing a task that required a l;;;cp18j181;cp17i181;cp15h181;cp14g181;cp13f181;cp12e181;cp11d181;cp10c181;cp09b181;cp08a181
+nfc_pragmatic;"Its enough for me that somthing gets the job done; I dont care how or why it w";;;cp18j182;cp17i182;cp15h182;cp14g182;cp13f182;cp12e182;cp11d182;cp10c182;cp09b182;cp08a182
+nfc_nonpersonal;I usually end up deliberating issues even when they do not affect me personally;;;cp18j183;cp17i183;cp15h183;cp14g183;cp13f183;cp12e183;cp11d183;cp10c183;cp09b183;cp08a183
+questionnaire_difficult;Was it difficult to answer the questions?;cp20l184;cp19k184;cp18j184;cp17i184;cp15h184;cp14g184;cp13f184;cp12e184;cp11d184;cp10c184;cp09b184;cp08a184
+questionnaire_clear;Were the questions sufficiently clear?;cp20l185;cp19k185;cp18j185;cp17i185;cp15h185;cp14g185;cp13f185;cp12e185;cp11d185;cp10c185;cp09b185;cp08a185
+questionnaire_thinking;Did the questionnaire get you thinking about things?;cp20l186;cp19k186;cp18j186;cp17i186;cp15h186;cp14g186;cp13f186;cp12e186;cp11d186;cp10c186;cp09b186;cp08a186
+questionnaire_interesting;Was it an interesting subject?;cp20l187;cp19k187;cp18j187;cp17i187;cp15h187;cp14g187;cp13f187;cp12e187;cp11d187;cp10c187;cp09b187;cp08a187
+questionnaire_enjoy;Did you enjoy answering the questions?;cp20l188;cp19k188;cp18j188;cp17i188;cp15h188;cp14g188;cp13f188;cp12e188;cp11d188;cp10c188;cp09b188;cp08a188
+start_date;Starting date of the questionnaire;cp20l189;cp19k189;cp18j189;cp17i189;cp15h189;cp14g189;cp13f189;cp12e189;cp11d189;cp10c189;cp09b189;cp08a189
+start_time;Starting time of the questionnaire;cp20l190;cp19k190;cp18j190;cp17i190;cp15h190;cp14g190;cp13f190;cp12e190;cp11d190;cp10c190;cp09b190;cp08a190
+end_date;End date of the questionnaire;cp20l191;cp19k191;cp18j191;cp17i191;cp15h191;cp14g191;cp13f191;cp12e191;cp11d191;cp10c191;cp09b191;cp08a191
+end_time;End time of the questionnaire;cp20l192;cp19k192;cp18j192;cp17i192;cp15h192;cp14g192;cp13f192;cp12e192;cp11d192;cp10c192;cp09b192;cp08a192
+duration;Duration in seconds;cp20l193;cp19k193;cp18j193;cp17i193;cp15h193;cp14g193;cp13f193;cp12e193;cp11d193;cp10c193;cp09b193;cp08a193
+date_fieldwork;Year and month of fieldwork period;cp20l_m;cp19k_m;cp18j_m;cp17i_m;cp15h_m;cp14g_m;cp13f_m;cp12e_m;cp11d_m;cp10c_m;cp09b_m;cp08a_m
+hh_id;Number of household encrypted;;;;;;;;;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr
+ios_liss_panel;And to what extent do you feel connected to the LISS panel?;;;cp18j194;cp17i194;cp15h194;cp14g194;cp13f194;cp12e194;cp11d194;cp10c194;cp09b194;
+;Were panel members presented with the long or short version of the questionnaire;;;;;;;;;;cp10c195;;
+;Did panel members participate in the video experiment.;;;;;;;;;cp11d196;;;
+;What version of the questionnaire did the respondent fill out?;;;cp18j197;;cp15h197;;;cp12e197;;;;
+lot_r_expectbest;In uncertain times, I usually expect the best.;cp20l198;cp19k198;cp18j198;cp17i198;cp15h198;cp14g198;cp13f198;cp12e198;;;;
+lot_r_relax;It's easy for me to relax.;cp20l199;cp19k199;cp18j199;cp17i199;cp15h199;cp14g199;cp13f199;cp12e199;;;;
+lot_r_pessimistic_future;If something can go wrong for me, it will.;cp20l200;cp19k200;cp18j200;cp17i200;cp15h200;cp14g200;cp13f200;cp12e200;;;;
+lot_r_optimistic_future;I'm always optimistic about my future.;cp20l201;cp19k201;cp18j201;cp17i201;cp15h201;cp14g201;cp13f201;cp12e201;;;;
+lot_r_friends;I enjoy my friends a lot.;cp20l202;cp19k202;cp18j202;cp17i202;cp15h202;cp14g202;cp13f202;cp12e202;;;;
+lot_r_keepbusy;It's important for me to keep busy.;cp20l203;cp19k203;cp18j203;cp17i203;cp15h203;cp14g203;cp13f203;cp12e203;;;;
+lot_r_hardlyoptimistic;I hardly ever expect things to go my way.;cp20l204;cp19k204;cp18j204;cp17i204;cp15h204;cp14g204;cp13f204;cp12e204;;;;
+lot_r_notupset;I don't get upset too easily.;cp20l205;cp19k205;cp18j205;cp17i205;cp15h205;cp14g205;cp13f205;cp12e205;;;;
+lot_r_pessimistic_events;I rarely count on good things happening to me.;cp20l206;cp19k206;cp18j206;cp17i206;cp15h206;cp14g206;cp13f206;cp12e206;;;;
+lot_r_optimistic_events;Overall, I expect more good things to happen to me than bad.;cp20l207;cp19k207;cp18j207;cp17i207;cp15h207;cp14g207;cp13f207;cp12e207;;;;
+;Did the respondent answer the IOS scale twice?;;;;;;;cp13f208;;;;;
+;Which version of the IOS scale was presented to the respondent?;;;;;;;cp13f209;;;;;
+;Start position in new version IOS;;;;;;;cp13f210;;;;;
+;Please indicate to what extent you generally feel connected to other people.;;;;;;;cp13f211;;;;;
+;And to what extent do you feel connected to the LISS panel?;;;;;;;cp13f212;;;;;
+;The rating scale with circles below is used to assess the degree to which people;;;;;;;cp13f213;;;;;
+;And to what extent do you feel connected to the LISS panel?;;;;;;;cp13f214;;;;;
+;Please indicate to what extent you generally feel connected to other people.;;;;;;;cp13f215;;;;;
+;And to what extent do you feel connected to the LISS panel?;;;;;;;cp13f216;;;;;
+optimism;;;;;;;;;;;;;
+pessimism;;;;;;;;;;;;;
+social_desirability;;;;;;;;;;;;;
+extraversion;;;;;;;;;;;;;
+agreeableness;;;;;;;;;;;;;
+conscientiousness;;;;;;;;;;;;;
+neuroticism;;;;;;;;;;;;;
+openness;;;;;;;;;;;;;

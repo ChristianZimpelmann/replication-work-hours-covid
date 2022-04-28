@@ -1,0 +1,127 @@
+# renaming time_use_consumption yaml file.
+"replacing":
+  "hh_children":
+    "None": 0
+    "Geen": 0
+    "One child": 1
+    "Een kind": 1
+    "E\u00e9n kind": 1
+    "Two children": 2
+    "Twee kinderen": 2
+    "Three children": 3
+    "Drie kinderen": 3
+    "Four children": 4
+    "Vier kinderen": 4
+    "Five children": 5
+    "Vijf kinderen": 5
+    "Six children": 6
+    "Zes kinderen": 6
+    "Seven children": 7
+    "Eight children": 8
+    "Acht kinderen": 8
+    "Nine or more children": 9
+    "Negen kinderen of meer": 9
+
+  "hh_position":
+    1: "Household head"
+    "Huishoudhoofd": "Household head"
+    2: "Wedded partner"
+    3: "Unwedded partner"
+    "Ongehuwde partner": "Unwedded partner"
+    "Gehuwde partner": "Wedded partner"
+    4: "Parent (in-law)"
+    "(Schoon)ouder": "Parent (in-law)"
+    5: "Child living at home"
+    6: "House mate"
+    7: "Family member or boarder"
+    "Huisgenoot": "House mate"
+    "Kind dat thuis woont": "Child living at home"
+    "Familielid of kostganger": "Family member or boarder"
+    "Unknown (missing)": !!float .nan
+    "-99.0": !!float .nan
+
+  "hh_size":
+    "None": 0,
+    "One person": 1
+    "Een persoon": 1
+    "E\u00e9n persoon": 1
+    "Two persons": 2
+    "Twee personen": 2
+    "Three persons": 3
+    "Drie personen": 3
+    "Four persons": 4
+    "Vier personen": 4
+    "Five persons": 5
+    "Vijf personen": 5
+    "Six persons": 6
+    "Zes personen": 6
+    "Seven persons": 7
+    "Zeven personen": 7
+    "Eight persons": 8
+    "Acht personen": 8
+    "Nine persons or more": 9
+    "Negen personen of meer": 9
+    "11.0": !!float .nan
+    11.0: !!float .nan
+
+  "cohabiting_partner":
+    "yes": 1
+    "no, I do not live together with my partner": 0
+    "no, I do not have a steady partner": 0
+    "ja": 1
+    "nee, ik heb geen vaste partner": 0
+    "nee, ik woon niet samen met mijn partner": 0
+
+  "full_df":
+    "Yes": 1
+    "yes": 1
+    "No": 0
+    "no": 0
+    "Ja": 1
+    "Nee": 0
+    "ja": 1
+    "nee": 0
+    "I really do not know": !!float .nan
+    "": !!float .nan
+    " ": !!float .nan
+    "I am not the one that knows about this": !!float .nan
+    "entirely satisfied": 10
+    "I don't know": !!float .nan
+    "ik weet dit echt niet": !!float .nan
+    "Ik weet dit echt niet": !!float .nan
+    "not at all satisfied": 0
+    "5 Agree entirely": 5
+    "1 Disagree entirely": 1
+    "1 = certainly not": 1
+    "1 beslist niet": 1
+    "certainly not": 1
+    "certainly yes": 5
+    "5 = certainly yes": 5
+    "5 beslist wel": 5
+    "4": 4
+    "3": 3
+    "2": 2
+
+"sum_checks":
+  # Check that time use answers add up to 168 hours (take care of rounding error)
+  - "vars":
+      - "hours_leisure_alone"
+      - "hours_schooling"
+      - "hours_work"
+      - "hours_workplace"
+      - "hours_leisure"
+      - "hours_help_other"
+      - "hours_childcare"
+      - "hours_resting"
+      - "hours_homeschooling"
+      - "hours_other_activity"
+      - "hours_leisure_friends"
+      - "hours_home_office_no_kids"
+      - "hours_help_family"
+      - "hours_help_parents"
+      - "hours_chores"
+      - "hours_commute"
+      - "hours_home_office_kids_care"
+    "sum": 168
+    "round": 0
+    "query": "year > 201900"

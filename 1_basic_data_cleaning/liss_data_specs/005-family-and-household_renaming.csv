@@ -1,0 +1,472 @@
+new_name;labels;cf19l_EN_1.0p.dta;cf18k_EN_1.0p.dta;cf17j_EN_1.0p.dta;cf16i_EN_1.0p.dta;cf15h_EN_1.0p.dta;cf14g_EN_1.1p.dta;cf13f_EN_1.1p_corrected.dta;cf12e_EN_2.1p.dta;cf11d_EN_1.1p.dta;cf10c_EN_1.0p.dta;cf09b_EN_2.2p.dta;cf08a_2p_EN.dta
+random_child;Randomly selected child;cf19l001;cf18k001;cf17j001;cf16i001;cf15h001;cf14g001;cf13f001;cf12e001;cf11d001;cf10c001;cf09b001;cf08a001
+random_birth;Year of birth of randomly selected child;cf19l002;cf18k002;cf17j002;cf16i002;cf15h002;cf14g002;cf13f002;cf12e002;cf11d002;cf10c002;cf09b002;cf08a002
+gender;Gender respondent;cf19l003;cf18k003;cf17j003;cf16i003;cf15h003;cf14g003;cf13f003;cf12e003;cf11d003;cf10c003;cf09b003;cf08a003
+age;Age respondent;cf19l004;cf18k004;cf17j004;cf16i004;cf15h004;cf14g004;cf13f004;cf12e004;cf11d004;cf10c004;cf09b004;cf08a004
+father_birth;What is the year of birth of your father?;cf19l005;cf18k005;cf17j005;cf16i005;cf15h005;cf14g005;cf13f005;cf12e005;cf11d005;cf10c005;cf09b005;cf08a005
+father_birth_period;Can you perhaps indicate the period in which your biological father was born?;cf19l449;cf18k449;cf17j449;cf16i449;cf15h449;cf14g006;cf13f006;cf12e006;cf11d006;cf10c006;cf09b006;cf08a006
+father_alive;Is your father still alive?;cf19l007;cf18k007;cf17j007;cf16i007;cf15h007;cf14g007;cf13f007;cf12e007;cf11d007;cf10c007;cf09b007;cf08a007
+father_died;In what year did your father pass away?;cf19l008;cf18k008;cf17j008;cf16i008;cf15h008;cf14g008;cf13f008;cf12e008;cf11d008;cf10c008;cf09b008;cf08a008
+mother_birth;What is the year of birth of your mother?;cf19l009;cf18k009;cf17j009;cf16i009;cf15h009;cf14g009;cf13f009;cf12e009;cf11d009;cf10c009;cf09b009;cf08a009
+mother_birth_period;Can you perhaps indicate the period in which your biological mother was born?;cf19l450;cf18k450;cf17j450;cf16i450;cf15h450;cf14g010;cf13f010;cf12e010;cf11d010;cf10c010;cf09b010;cf08a010
+mother_alive;Is your mother still alive?;cf19l011;cf18k011;cf17j011;cf16i011;cf15h011;cf14g011;cf13f011;cf12e011;cf11d011;cf10c011;cf09b011;cf08a011
+mother_died;In what year did your mother pass away?;cf19l012;cf18k012;cf17j012;cf16i012;cf15h012;cf14g012;cf13f012;cf12e012;cf11d012;cf10c012;cf09b012;cf08a012
+parents_divorce;Did your own parents ever divorce?;cf19l013;cf18k013;cf17j013;cf16i013;cf15h013;cf14g013;cf13f013;cf12e013;cf11d013;cf10c013;cf09b013;cf08a013
+parents_divorce_age;How old were you when your parents separated?;cf19l014;cf18k014;cf17j014;cf16i014;cf15h014;cf14g014;cf13f014;cf12e014;cf11d014;cf10c014;cf09b014;cf08a014
+father_partner;Is your father currently living together with a partner?;cf19l015;cf18k015;cf17j015;cf16i015;cf15h015;cf14g015;cf13f015;cf12e015;cf11d015;cf10c015;cf09b015;cf08a015
+mother_partner;Is your mother currently living together with a partner?;cf19l016;cf18k016;cf17j016;cf16i016;cf15h016;cf14g016;cf13f016;cf12e016;cf11d016;cf10c016;cf09b016;cf08a016
+parents_postal;'Do you know the postal code of your parents'' address?';cf19l451;cf18k451;cf17j451;cf16i451;cf15h451;cf14g017;cf13f017;cf12e017;cf11d017;cf10c017;cf09b017;cf08a017
+father_postal;'Do you know the postal code of your father''s address?';cf19l018;cf18k018;cf17j018;cf16i018;cf15h018;cf14g018;cf13f018;cf12e018;cf11d018;cf10c018;cf09b018;cf08a018
+mother_postal;'Do you know the postal code of your mother''s address?';cf19l019;cf18k019;cf17j019;cf16i019;cf15h019;cf14g019;cf13f019;cf12e019;cf11d019;cf10c019;cf09b019;cf08a019
+father_seen;How often did you see your father over the past 12 months?;cf19l020;cf18k020;cf17j020;cf16i020;cf15h020;cf14g020;cf13f020;cf12e020;cf11d020;cf10c020;cf09b020;cf08a020
+father_contact;How often did you have contact with your father over the past 12 months;;;;;;cf14g021;cf13f021;cf12e021;cf11d021;cf10c021;cf09b021;cf08a021
+mother_seen;How often did you see your mother over the past 12 months?;cf19l022;cf18k022;cf17j022;cf16i022;cf15h022;cf14g022;cf13f022;cf12e022;cf11d022;cf10c022;cf09b022;cf08a022
+mother_contact;How often did you have contact with your mother over the past 12 months;;;;;;cf14g023;cf13f023;cf12e023;cf11d023;cf10c023;cf09b023;cf08a023
+partner;Do you currently have a partner?;cf19l024;cf18k024;cf17j024;cf16i024;cf15h024;cf14g024;cf13f024;cf12e024;cf11d024;cf10c024;cf09b024;cf08a024
+partner_live;Do you live together with this partner?;cf19l025;cf18k025;cf17j025;cf16i025;cf15h025;cf14g025;cf13f025;cf12e025;cf11d025;cf10c025;cf09b025;cf08a025
+partner_birth;What is his or her year of birth?;cf19l026;cf18k026;cf17j026;cf16i026;cf15h026;cf14g026;cf13f026;cf12e026;cf11d026;cf10c026;cf09b026;cf08a026
+partner_country;In which country was your partner born?;cf19l027;cf18k027;cf17j027;cf16i027;cf15h027;cf14g027;cf13f027;cf12e027;cf11d027;cf10c027;cf09b027;cf08a027
+partner_begin;In what year did the relationship with your partner begin?;cf19l028;cf18k028;cf17j028;cf16i028;cf15h028;cf14g028;cf13f028;cf12e028;cf11d028;cf10c028;cf09b028;cf08a028
+partner_live_begin;In what year did you start living together with your partner?;cf19l029;cf18k029;cf17j029;cf16i029;cf15h029;cf14g029;cf13f029;cf12e029;cf11d029;cf10c029;cf09b029;cf08a029
+married;Are you married to this partner?;cf19l030;cf18k030;cf17j030;cf16i030;cf15h030;cf14g030;cf13f030;cf12e030;cf11d030;cf10c030;cf09b030;cf08a030
+marry_year;In what year did you marry?;cf19l031;cf18k031;cf17j031;cf16i031;cf15h031;cf14g031;cf13f031;cf12e031;cf11d031;cf10c031;cf09b031;cf08a031
+partner_gender;'What is your partner''s gender?';cf19l032;cf18k032;cf17j032;cf16i032;cf15h032;cf14g032;cf13f032;cf12e032;cf11d032;cf10c032;cf09b032;cf08a032
+married_before;Were you married to another partner before?;cf19l033;cf18k033;cf17j033;cf16i033;cf15h033;cf14g033;cf13f033;cf12e033;cf11d033;cf10c033;cf09b033;cf08a033
+maried_before_end;Did you separate or did your previous partner pass away?;cf19l034;cf18k034;cf17j034;cf16i034;cf15h034;cf14g034;cf13f034;cf12e034;cf11d034;cf10c034;cf09b034;cf08a034
+children;Have you had any children?;cf19l454;cf18k454;cf17j454;cf16i454;cf15h454;cf14g035;cf13f035;cf12e035;cf11d035;cf10c035;cf09b035;cf08a035
+children_amount;How many children have you had in total?;cf19l455;cf18k455;cf17j455;cf16i455;cf15h455;cf14g036;cf13f036;cf12e036;cf11d036;cf10c036;cf09b036;cf08a036
+child1_birth;Birth year first child;cf19l456;cf18k456;cf17j456;cf16i456;cf15h456;cf14g037;cf13f037;cf12e037;cf11d037;cf10c037;cf09b037;cf08a037
+child2_birth;Birth year second child;cf19l457;cf18k457;cf17j457;cf16i457;cf15h457;cf14g038;cf13f038;cf12e038;cf11d038;cf10c038;cf09b038;cf08a038
+child3_birth;Birth year third child;cf19l458;cf18k458;cf17j458;cf16i458;cf15h458;cf14g039;cf13f039;cf12e039;cf11d039;cf10c039;cf09b039;cf08a039
+child4_birth;Birth year fourth child;cf19l459;cf18k459;cf17j459;cf16i459;cf15h459;cf14g040;cf13f040;cf12e040;cf11d040;cf10c040;cf09b040;cf08a040
+child5_birth;Birth year fifth child;cf19l460;cf18k460;cf17j460;cf16i460;cf15h460;cf14g041;cf13f041;cf12e041;cf11d041;cf10c041;cf09b041;cf08a041
+child6_birth;Birth year sixth child;cf19l461;cf18k461;cf17j461;cf16i461;cf15h461;cf14g042;cf13f042;cf12e042;cf11d042;cf10c042;cf09b042;cf08a042
+child7_birth;Birth year seventh child;cf19l462;cf18k462;cf17j462;cf16i462;cf15h462;cf14g043;cf13f043;cf12e043;cf11d043;cf10c043;cf09b043;cf08a043
+child8_birth;Birth year eighth child;cf19l463;cf18k463;cf17j463;cf16i463;cf15h463;cf14g044;cf13f044;cf12e044;cf11d044;cf10c044;cf09b044;cf08a044
+child9_birth;Birth year ninth child;cf19l464;cf18k464;cf17j464;cf16i464;cf15h464;cf14g045;cf13f045;cf12e045;cf11d045;cf10c045;cf09b045;cf08a045
+child10_birth;Birth year tenth child;cf19l465;cf18k465;cf17j465;cf16i465;cf15h465;cf14g046;cf13f046;cf12e046;cf11d046;cf10c046;cf09b046;cf08a046
+child11_birth;Birth year eleventh child;cf19l466;cf18k466;cf17j466;cf16i466;cf15h466;cf14g047;cf13f047;cf12e047;cf11d047;cf10c047;cf09b047;cf08a047
+child12_birth;Birth year twelfth child;cf19l467;cf18k467;cf17j467;cf16i467;cf15h467;cf14g048;cf13f048;cf12e048;cf11d048;cf10c048;cf09b048;cf08a048
+child13_birth;Birth year thirteenth child;cf19l468;cf18k468;cf17j468;cf16i468;cf15h468;cf14g049;cf13f049;cf12e049;cf11d049;cf10c049;cf09b049;cf08a049
+child14_birth;Birth year fourteenth child;cf19l469;cf18k469;cf17j469;cf16i469;cf15h469;cf14g050;cf13f050;cf12e050;cf11d050;cf10c050;cf09b050;cf08a050
+child15_birth;Birth year fifteenth child;cf19l470;cf18k470;cf17j470;cf16i470;cf15h470;cf14g051;cf13f051;cf12e051;cf11d051;cf10c051;cf09b051;cf08a051
+children_alive;Are all your children still alive?;;;;;;cf14g052;cf13f052;cf12e052;cf11d052;cf10c052;cf09b052;cf08a052
+child1_died;Passed away: first child;;;;;;cf14g053;cf13f053;cf12e053;cf11d053;cf10c053;cf09b053;cf08a053
+child2_died;Passed away: second child;;;;;;cf14g054;cf13f054;cf12e054;cf11d054;cf10c054;cf09b054;cf08a054
+child3_died;Passed away: third child;;;;;;cf14g055;cf13f055;cf12e055;cf11d055;cf10c055;cf09b055;cf08a055
+child4_died;Passed away: fourth child;;;;;;cf14g056;cf13f056;cf12e056;cf11d056;cf10c056;cf09b056;cf08a056
+child5_died;Passed away: fifth child;;;;;;cf14g057;cf13f057;cf12e057;cf11d057;cf10c057;cf09b057;cf08a057
+child6_died;Passed away: sixth child;;;;;;cf14g058;cf13f058;cf12e058;cf11d058;cf10c058;cf09b058;cf08a058
+child7_died;Passed away: seventh child;;;;;;cf14g059;cf13f059;cf12e059;cf11d059;cf10c059;cf09b059;cf08a059
+child8_died;Passed away: eighth child;;;;;;cf14g060;cf13f060;cf12e060;cf11d060;cf10c060;cf09b060;cf08a060
+child9_died;Passed away: ninth child;;;;;;cf14g061;cf13f061;cf12e061;cf11d061;cf10c061;cf09b061;cf08a061
+child10_died;Passed away: tenth child;;;;;;cf14g062;cf13f062;cf12e062;cf11d062;cf10c062;cf09b062;cf08a062
+child11_died;Passed away: eleventh child;;;;;;cf14g063;cf13f063;cf12e063;cf11d063;cf10c063;cf09b063;cf08a063
+child12_died;Passed away: twelfth child;;;;;;cf14g064;cf13f064;cf12e064;cf11d064;cf10c064;cf09b064;cf08a064
+child13_died;Passed away: thirteenth child;;;;;;cf14g065;cf13f065;cf12e065;cf11d065;cf10c065;cf09b065;cf08a065
+child14_died;Passed away: fourteenth child;;;;;;cf14g066;cf13f066;cf12e066;cf11d066;cf10c066;cf09b066;cf08a066
+child15_died;Passed away: fifteenth child;;;;;;cf14g067;cf13f067;cf12e067;cf11d067;cf10c067;cf09b067;cf08a067
+child1_sex;Gender: first child;cf19l068;cf18k068;cf17j068;cf16i068;cf15h068;cf14g068;cf13f068;cf12e068;cf11d068;cf10c068;cf09b068;cf08a068
+child2_sex;Gender: second child;cf19l069;cf18k069;cf17j069;cf16i069;cf15h069;cf14g069;cf13f069;cf12e069;cf11d069;cf10c069;cf09b069;cf08a069
+child3_sex;Gender: third child;cf19l070;cf18k070;cf17j070;cf16i070;cf15h070;cf14g070;cf13f070;cf12e070;cf11d070;cf10c070;cf09b070;cf08a070
+child4_sex;Gender: fourth child;cf19l071;cf18k071;cf17j071;cf16i071;cf15h071;cf14g071;cf13f071;cf12e071;cf11d071;cf10c071;cf09b071;cf08a071
+child5_sex;Gender: fifth child;cf19l072;cf18k072;cf17j072;cf16i072;cf15h072;cf14g072;cf13f072;cf12e072;cf11d072;cf10c072;cf09b072;cf08a072
+child6_sex;Gender: sixth child;cf19l073;cf18k073;cf17j073;cf16i073;cf15h073;cf14g073;cf13f073;cf12e073;cf11d073;cf10c073;cf09b073;cf08a073
+child7_sex;Gender: seventh child;cf19l074;cf18k074;cf17j074;cf16i074;cf15h074;cf14g074;cf13f074;cf12e074;cf11d074;cf10c074;cf09b074;cf08a074
+child8_sex;Gender: eighth child;cf19l075;cf18k075;cf17j075;cf16i075;cf15h075;cf14g075;cf13f075;cf12e075;cf11d075;cf10c075;cf09b075;cf08a075
+child9_sex;Gender: ninth child;cf19l076;cf18k076;cf17j076;cf16i076;cf15h076;cf14g076;cf13f076;cf12e076;cf11d076;cf10c076;cf09b076;cf08a076
+child10_sex;Gender: tenth child;cf19l077;cf18k077;cf17j077;cf16i077;cf15h077;cf14g077;cf13f077;cf12e077;cf11d077;cf10c077;cf09b077;cf08a077
+child11_sex;Gender: eleventh child;cf19l078;cf18k078;cf17j078;cf16i078;cf15h078;cf14g078;cf13f078;cf12e078;cf11d078;cf10c078;cf09b078;cf08a078
+child12_sex;Gender: twelfth child;cf19l079;cf18k079;cf17j079;cf16i079;cf15h079;cf14g079;cf13f079;cf12e079;cf11d079;cf10c079;cf09b079;cf08a079
+child13_sex;Gender: thirteenth child;cf19l080;cf18k080;cf17j080;cf16i080;cf15h080;cf14g080;cf13f080;cf12e080;cf11d080;cf10c080;cf09b080;cf08a080
+child14_sex;Gender: fourteenth child;cf19l081;cf18k081;cf17j081;cf16i081;cf15h081;cf14g081;cf13f081;cf12e081;cf11d081;cf10c081;cf09b081;cf08a081
+child15_sex;Gender: fifteenth child;cf19l082;cf18k082;cf17j082;cf16i082;cf15h082;cf14g082;cf13f082;cf12e082;cf11d082;cf10c082;cf09b082;cf08a082
+child1_home;Living at home or living independently: first child;cf19l083;cf18k083;cf17j083;cf16i083;cf15h083;cf14g083;cf13f083;cf12e083;cf11d083;cf10c083;cf09b083;cf08a083
+child2_home;Living at home or living independently: second child;cf19l084;cf18k084;cf17j084;cf16i084;cf15h084;cf14g084;cf13f084;cf12e084;cf11d084;cf10c084;cf09b084;cf08a084
+child3_home;Living at home or living independently: third child;cf19l085;cf18k085;cf17j085;cf16i085;cf15h085;cf14g085;cf13f085;cf12e085;cf11d085;cf10c085;cf09b085;cf08a085
+child4_home;Living at home or living independently: fourth child;cf19l086;cf18k086;cf17j086;cf16i086;cf15h086;cf14g086;cf13f086;cf12e086;cf11d086;cf10c086;cf09b086;cf08a086
+child5_home;Living at home or living independently: fifth child;cf19l087;cf18k087;cf17j087;cf16i087;cf15h087;cf14g087;cf13f087;cf12e087;cf11d087;cf10c087;cf09b087;cf08a087
+child6_home;Living at home or living independently: sixth child;cf19l088;cf18k088;cf17j088;cf16i088;cf15h088;cf14g088;cf13f088;cf12e088;cf11d088;cf10c088;cf09b088;cf08a088
+child7_home;Living at home or living independently: seventh child;cf19l089;cf18k089;cf17j089;cf16i089;cf15h089;cf14g089;cf13f089;cf12e089;cf11d089;cf10c089;cf09b089;cf08a089
+child8_home;Living at home or living independently: eighth child;cf19l090;cf18k090;cf17j090;cf16i090;cf15h090;cf14g090;cf13f090;cf12e090;cf11d090;cf10c090;cf09b090;cf08a090
+child9_home;Living at home or living independently: ninth child;cf19l091;cf18k091;cf17j091;cf16i091;cf15h091;cf14g091;cf13f091;cf12e091;cf11d091;cf10c091;cf09b091;cf08a091
+child10_home;Living at home or living independently: tenth child;cf19l092;cf18k092;cf17j092;cf16i092;cf15h092;cf14g092;cf13f092;cf12e092;cf11d092;cf10c092;cf09b092;cf08a092
+child11_home;Living at home or living independently: eleventh child;cf19l093;cf18k093;cf17j093;cf16i093;cf15h093;cf14g093;cf13f093;cf12e093;cf11d093;cf10c093;cf09b093;cf08a093
+child12_home;Living at home or living independently: twelfth child;cf19l094;cf18k094;cf17j094;cf16i094;cf15h094;cf14g094;cf13f094;cf12e094;cf11d094;cf10c094;cf09b094;cf08a094
+child13_home;Living at home or living independently: thirteenth child;cf19l095;cf18k095;cf17j095;cf16i095;cf15h095;cf14g095;cf13f095;cf12e095;cf11d095;cf10c095;cf09b095;cf08a095
+child14_home;Living at home or living independently: fourteenth child;cf19l096;cf18k096;cf17j096;cf16i096;cf15h096;cf14g096;cf13f096;cf12e096;cf11d096;cf10c096;cf09b096;cf08a096
+child15_home;Living at home or living independently: fifteenth child;cf19l097;cf18k097;cf17j097;cf16i097;cf15h097;cf14g097;cf13f097;cf12e097;cf11d097;cf10c097;cf09b097;cf08a097
+child1_parent;Kind of parent: first child;cf19l098;cf18k098;cf17j098;cf16i098;cf15h098;cf14g098;cf13f098;cf12e098;cf11d098;cf10c098;cf09b098;cf08a098
+child2_parent;Kind of parent: second child;cf19l099;cf18k099;cf17j099;cf16i099;cf15h099;cf14g099;cf13f099;cf12e099;cf11d099;cf10c099;cf09b099;cf08a099
+child3_parent;Kind of parent: third child;cf19l100;cf18k100;cf17j100;cf16i100;cf15h100;cf14g100;cf13f100;cf12e100;cf11d100;cf10c100;cf09b100;cf08a100
+child4_parent;Kind of parent: fourth child;cf19l101;cf18k101;cf17j101;cf16i101;cf15h101;cf14g101;cf13f101;cf12e101;cf11d101;cf10c101;cf09b101;cf08a101
+child5_parent;Kind of parent: fifth child;cf19l102;cf18k102;cf17j102;cf16i102;cf15h102;cf14g102;cf13f102;cf12e102;cf11d102;cf10c102;cf09b102;cf08a102
+child6_parent;Kind of parent: sixth child;cf19l103;cf18k103;cf17j103;cf16i103;cf15h103;cf14g103;cf13f103;cf12e103;cf11d103;cf10c103;cf09b103;cf08a103
+child7_parent;Kind of parent: seventh child;cf19l104;cf18k104;cf17j104;cf16i104;cf15h104;cf14g104;cf13f104;cf12e104;cf11d104;cf10c104;cf09b104;cf08a104
+child8_parent;Kind of parent: eighth child;cf19l105;cf18k105;cf17j105;cf16i105;cf15h105;cf14g105;cf13f105;cf12e105;cf11d105;cf10c105;cf09b105;cf08a105
+child9_parent;Kind of parent: ninth child;cf19l106;cf18k106;cf17j106;cf16i106;cf15h106;cf14g106;cf13f106;cf12e106;cf11d106;cf10c106;cf09b106;cf08a106
+child10_parent;Kind of parent: tenth child;cf19l107;cf18k107;cf17j107;cf16i107;cf15h107;cf14g107;cf13f107;cf12e107;cf11d107;cf10c107;cf09b107;cf08a107
+child11_parent;Kind of parent: eleventh child;cf19l108;cf18k108;cf17j108;cf16i108;cf15h108;cf14g108;cf13f108;cf12e108;cf11d108;cf10c108;cf09b108;cf08a108
+child12_parent;Kind of parent: twelfth child;cf19l109;cf18k109;cf17j109;cf16i109;cf15h109;cf14g109;cf13f109;cf12e109;cf11d109;cf10c109;cf09b109;cf08a109
+child13_parent;Kind of parent: thirteenth child;cf19l110;cf18k110;cf17j110;cf16i110;cf15h110;cf14g110;cf13f110;cf12e110;cf11d110;cf10c110;cf09b110;cf08a110
+child14_parent;Kind of parent: fourteenth child;cf19l111;cf18k111;cf17j111;cf16i111;cf15h111;cf14g111;cf13f111;cf12e111;cf11d111;cf10c111;cf09b111;cf08a111
+child15_parent;Kind of parent: fifteenth child;cf19l112;cf18k112;cf17j112;cf16i112;cf15h112;cf14g112;cf13f112;cf12e112;cf11d112;cf10c112;cf09b112;cf08a112
+child1_partner;Current partner biological parent: first child;cf19l113;cf18k113;cf17j113;cf16i113;cf15h113;cf14g113;cf13f113;cf12e113;cf11d113;cf10c113;cf09b113;cf08a113
+child2_partner;Current partner biological parent: second child;cf19l114;cf18k114;cf17j114;cf16i114;cf15h114;cf14g114;cf13f114;cf12e114;cf11d114;cf10c114;cf09b114;cf08a114
+child3_partner;Current partner biological parent: third child;cf19l115;cf18k115;cf17j115;cf16i115;cf15h115;cf14g115;cf13f115;cf12e115;cf11d115;cf10c115;cf09b115;cf08a115
+child4_partner;Current partner biological parent: fourth child;cf19l116;cf18k116;cf17j116;cf16i116;cf15h116;cf14g116;cf13f116;cf12e116;cf11d116;cf10c116;cf09b116;cf08a116
+child5_partner;Current partner biological parent: fifth child;cf19l117;cf18k117;cf17j117;cf16i117;cf15h117;cf14g117;cf13f117;cf12e117;cf11d117;cf10c117;cf09b117;cf08a117
+child6_partner;Current partner biological parent: sixth child;cf19l118;cf18k118;cf17j118;cf16i118;cf15h118;cf14g118;cf13f118;cf12e118;cf11d118;cf10c118;cf09b118;cf08a118
+child7_partner;Current partner biological parent: seventh child;cf19l119;cf18k119;cf17j119;cf16i119;cf15h119;cf14g119;cf13f119;cf12e119;cf11d119;cf10c119;cf09b119;cf08a119
+child8_partner;Current partner biological parent: eighth child;cf19l120;cf18k120;cf17j120;cf16i120;cf15h120;cf14g120;cf13f120;cf12e120;cf11d120;cf10c120;cf09b120;cf08a120
+child9_partner;Current partner biological parent: ninth child;cf19l121;cf18k121;cf17j121;cf16i121;cf15h121;cf14g121;cf13f121;cf12e121;cf11d121;cf10c121;cf09b121;cf08a121
+child10_partner;Current partner biological parent: tenth child;cf19l122;cf18k122;cf17j122;cf16i122;cf15h122;cf14g122;cf13f122;cf12e122;cf11d122;cf10c122;cf09b122;cf08a122
+child11_partner;Current partner biological parent: eleventh child;cf19l123;cf18k123;cf17j123;cf16i123;cf15h123;cf14g123;cf13f123;cf12e123;cf11d123;cf10c123;cf09b123;cf08a123
+child12_partner;Current partner biological parent: twelfth child;cf19l124;cf18k124;cf17j124;cf16i124;cf15h124;cf14g124;cf13f124;cf12e124;cf11d124;cf10c124;cf09b124;cf08a124
+child13_partner;Current partner biological parent: thirteenth child;cf19l125;cf18k125;cf17j125;cf16i125;cf15h125;cf14g125;cf13f125;cf12e125;cf11d125;cf10c125;cf09b125;cf08a125
+child14_partner;Current partner biological parent: fourteenth child;cf19l126;cf18k126;cf17j126;cf16i126;cf15h126;cf14g126;cf13f126;cf12e126;cf11d126;cf10c126;cf09b126;cf08a126
+child15_partner;Current partner biological parent: fifteenth child;cf19l127;cf18k127;cf17j127;cf16i127;cf15h127;cf14g127;cf13f127;cf12e127;cf11d127;cf10c127;cf09b127;cf08a127
+children_future;Do you think you will have [more] children in the future?;cf19l128;cf18k128;cf17j128;cf16i128;cf15h128;cf14g128;cf13f128;cf12e128;cf11d128;cf10c128;cf09b128;cf08a128
+children_future_amount;How many [more] children do you think you will have in the future?;cf19l129;cf18k129;cf17j129;cf16i129;cf15h129;cf14g129;cf13f129;cf12e129;cf11d129;cf10c129;cf09b129;cf08a129
+children_future_time;Within how many years do you hope to have your [first/next] child?;cf19l130;cf18k130;cf17j130;cf16i130;cf15h130;cf14g130;cf13f130;cf12e130;cf11d130;cf10c130;cf09b130;cf08a130
+help_father_household;Did you receive any help from your father over the past 3 months in doing househ;cf19l131;cf18k131;cf17j131;cf16i131;cf15h131;cf14g131;cf13f131;cf12e131;cf11d131;cf10c131;cf09b131;cf08a131
+help_mother_household;Did you receive any help from your mother over the past 3 months in doing househ;cf19l132;cf18k132;cf17j132;cf16i132;cf15h132;cf14g132;cf13f132;cf12e132;cf11d132;cf10c132;cf09b132;cf08a132
+help_father_child;Did you receive any help from your father over the past 3 months in tending to t;cf19l133;cf18k133;cf17j133;cf16i133;cf15h133;cf14g133;cf13f133;cf12e133;cf11d133;cf10c133;cf09b133;cf08a133
+help_mother_child;Did you receive any help from your mother over the past 3 months in tending to t;cf19l134;cf18k134;cf17j134;cf16i134;cf15h134;cf14g134;cf13f134;cf12e134;cf11d134;cf10c134;cf09b134;cf08a134
+help_father_practical;Did you receive any help from your father over the past 3 months in practical ma;cf19l135;cf18k135;cf17j135;cf16i135;cf15h135;cf14g135;cf13f135;cf12e135;cf11d135;cf10c135;cf09b135;cf08a135
+help_mother_practical;Did you receive any help from your mother over the past 3 months in practical ma;cf19l136;cf18k136;cf17j136;cf16i136;cf15h136;cf14g136;cf13f136;cf12e136;cf11d136;cf10c136;cf09b136;cf08a136
+receive_father;Did you receive any valuable items or a sum of money from your father;cf19l137;cf18k137;cf17j137;cf16i137;cf15h137;cf14g137;cf13f137;cf12e137;cf11d137;cf10c137;cf09b137;cf08a137
+receive_mother;Did you receive any valuable items or a sum of money from your mother;cf19l138;cf18k138;cf17j138;cf16i138;cf15h138;cf14g138;cf13f138;cf12e138;cf11d138;cf10c138;cf09b138;cf08a138
+receive_parents;Did you receive any valuable items or a sum of money from your father and your m;cf19l139;cf18k139;cf17j139;cf16i139;cf15h139;cf14g139;cf13f139;cf12e139;cf11d139;cf10c139;cf09b139;cf08a139
+receive_father_500;Did that sum amount to more or to less than 500 euros? - your father;cf19l140;cf18k140;cf17j140;cf16i140;cf15h140;cf14g140;cf13f140;cf12e140;cf11d140;cf10c140;cf09b140;cf08a140
+receive_mother_500;Did that sum amount to more or to less than 500 euros? - your mother;cf19l141;cf18k141;cf17j141;cf16i141;cf15h141;cf14g141;cf13f141;cf12e141;cf11d141;cf10c141;cf09b141;cf08a141
+receive_parents_500;Did that sum amount to more or to less than 500 euros? - your father and mother;cf19l142;cf18k142;cf17j142;cf16i142;cf15h142;cf14g142;cf13f142;cf12e142;cf11d142;cf10c142;cf09b142;cf08a142
+interest_father;Has your father displayed any interest in your personal life;cf19l143;cf18k143;cf17j143;cf16i143;cf15h143;cf14g143;cf13f143;cf12e143;cf11d143;cf10c143;cf09b143;cf08a143
+interest_mother;Has your mother displayed any interest in your personal life;cf19l144;cf18k144;cf17j144;cf16i144;cf15h144;cf14g144;cf13f144;cf12e144;cf11d144;cf10c144;cf09b144;cf08a144
+counsel_father;Did you receive any counsel or advice from your father;cf19l145;cf18k145;cf17j145;cf16i145;cf15h145;cf14g145;cf13f145;cf12e145;cf11d145;cf10c145;cf09b145;cf08a145
+counsel_mother;Did you receive any counsel or advice from your mother;cf19l146;cf18k146;cf17j146;cf16i146;cf15h146;cf14g146;cf13f146;cf12e146;cf11d146;cf10c146;cf09b146;cf08a146
+provide_father_household;Did you provide any help to your father over the past 3 months in doing househol;cf19l147;cf18k147;cf17j147;cf16i147;cf15h147;cf14g147;cf13f147;cf12e147;cf11d147;cf10c147;cf09b147;cf08a147
+provide_mother_household;Did you provide any help to your mother over the past 3 months in doing househol;cf19l148;cf18k148;cf17j148;cf16i148;cf15h148;cf14g148;cf13f148;cf12e148;cf11d148;cf10c148;cf09b148;cf08a148
+provide_father_practical;Did you provide any help to your father over the past 3 months in practical matt;cf19l149;cf18k149;cf17j149;cf16i149;cf15h149;cf14g149;cf13f149;cf12e149;cf11d149;cf10c149;cf09b149;cf08a149
+provide_mother_practical;Did you provide any help to your mother over the past 3 months in practical matt;cf19l150;cf18k150;cf17j150;cf16i150;cf15h150;cf14g150;cf13f150;cf12e150;cf11d150;cf10c150;cf09b150;cf08a150
+give_father;Did you give any valuable items or a sum of money to your father;cf19l151;cf18k151;cf17j151;cf16i151;cf15h151;cf14g151;cf13f151;cf12e151;cf11d151;cf10c151;cf09b151;cf08a151
+give_mother;Did you give any valuable items or a sum of money to your mother;cf19l152;cf18k152;cf17j152;cf16i152;cf15h152;cf14g152;cf13f152;cf12e152;cf11d152;cf10c152;cf09b152;cf08a152
+give_parents;Did you give any valuable items or a sum of money to your father and mother toge;cf19l153;cf18k153;cf17j153;cf16i153;cf15h153;cf14g153;cf13f153;cf12e153;cf11d153;cf10c153;cf09b153;cf08a153
+give_father_500;Did that sum amount to more or to less than 500 euros? - your father;cf19l154;cf18k154;cf17j154;cf16i154;cf15h154;cf14g154;cf13f154;cf12e154;cf11d154;cf10c154;cf09b154;cf08a154
+give_mother_500;Did that sum amount to more or to less than 500 euros? - your mother;cf19l155;cf18k155;cf17j155;cf16i155;cf15h155;cf14g155;cf13f155;cf12e155;cf11d155;cf10c155;cf09b155;cf08a155
+give_parents_500;Did that sum amount to more or to less than 500 euros? - your father and your mo;cf19l156;cf18k156;cf17j156;cf16i156;cf15h156;cf14g156;cf13f156;cf12e156;cf11d156;cf10c156;cf09b156;cf08a156
+display_father;Did you display any interest in the personal life of your father;cf19l157;cf18k157;cf17j157;cf16i157;cf15h157;cf14g157;cf13f157;cf12e157;cf11d157;cf10c157;cf09b157;cf08a157
+display_mother;Did you display any interest in the personal life of your mother;cf19l158;cf18k158;cf17j158;cf16i158;cf15h158;cf14g158;cf13f158;cf12e158;cf11d158;cf10c158;cf09b158;cf08a158
+adviced_father;Did you give any counsel or advice to your father over the past 3 months?;cf19l159;cf18k159;cf17j159;cf16i159;cf15h159;cf14g159;cf13f159;cf12e159;cf11d159;cf10c159;cf09b159;cf08a159
+adviced_mother;Did you give any counsel or advice to your mother over the past 3 months?;cf19l160;cf18k160;cf17j160;cf16i160;cf15h160;cf14g160;cf13f160;cf12e160;cf11d160;cf10c160;cf09b160;cf08a160
+relation_mother;How would you describe your overall relationship with your mother?;cf19l161;cf18k161;cf17j161;cf16i161;cf15h161;cf14g161;cf13f161;cf12e161;cf11d161;cf10c161;cf09b161;cf08a161
+relation_father;How would you describe your overall relationship with your father?;cf19l162;cf18k162;cf17j162;cf16i162;cf15h162;cf14g162;cf13f162;cf12e162;cf11d162;cf10c162;cf09b162;cf08a162
+friends_share;Are the friends that you have mainly your own friends;cf19l163;cf18k163;cf17j163;cf16i163;cf15h163;cf14g163;cf13f163;cf12e163;cf11d163;cf10c163;cf09b163;cf08a163
+activity_alone;How often per week does it happen;cf19l164;cf18k164;cf17j164;cf16i164;cf15h164;cf14g164;cf13f164;cf12e164;cf11d164;cf10c164;cf09b164;cf08a164
+activity_partner;How often per week does it happen;cf19l165;cf18k165;cf17j165;cf16i165;cf15h165;cf14g165;cf13f165;cf12e165;cf11d165;cf10c165;cf09b165;cf08a165
+single_satisfied;How satisfied are you with your situation as a single?;cf19l166;cf18k166;cf17j166;cf16i166;cf15h166;cf14g166;cf13f166;cf12e166;cf11d166;cf10c166;cf09b166;cf08a166
+partner_younger;How desirable would it be to you to have a partner that is 5 years younger than;;;;;;;;;;;;cf08a167
+partner_same_age;How desirable would it be to you to have a partner that is the same age as you?;;;;;;;;;;;;cf08a168
+partner_older;How desirable would it be to you to have a partner that is 5 years older than yo;;;;;;;;;;;;cf08a169
+partner_religious;How desirable would it be to you to have a partner that is religious?;;;;;;;;;;;;cf08a170
+partner_atheist;How desirable would it be to you to have a partner that is not religious?;;;;;;;;;;;;cf08a171
+partner_primary;How desirable would it be to you to have a partner whose highest level of educat;;;;;;;;;;;;cf08a172
+partner_secondary;How desirable would it be to you to have a partner whose highest level of educat;;;;;;;;;;;;cf08a173
+partner_vocational;How desirable would it be to you to have a partner whose highest level of educat;;;;;;;;;;;;cf08a174
+partner_academic;How desirable would it be to you to have a partner whose highest level of educat;;;;;;;;;;;;cf08a175
+partner_unemployed;How desirable would it be to you to have a partner that does not have a paid job;;;;;;;;;;;;cf08a176
+partner_employed;How desirable would it be to you to have a partner that has a paid job?;;;;;;;;;;;;cf08a177
+partner_single;How desirable would it be to you to have a partner that has not previously lived;;;;;;;;;;;;cf08a178
+partner_married;How desirable would it be to you to have a partner that has previously lived tog;;;;;;;;;;;;cf08a179
+relation_satisfaction;How satisfied are you with your current relationship?;cf19l180;cf18k180;cf17j180;cf16i180;cf15h180;cf14g180;cf13f180;cf12e180;cf11d180;cf10c180;cf09b180;cf08a180
+family_satisfaction;How satisfied are you with your family life?;cf19l181;cf18k181;cf17j181;cf16i181;cf15h181;cf14g181;cf13f181;cf12e181;cf11d181;cf10c181;cf09b181;cf08a181
+disagree_money;Can you indicate whether you and your partner had any differences of opinion reg;cf19l182;cf18k182;cf17j182;cf16i182;cf15h182;cf14g182;cf13f182;cf12e182;cf11d182;cf10c182;cf09b182;cf08a182
+disagree_children;Can you indicate whether you and your partner had any differences of opinion reg;cf19l183;cf18k183;cf17j183;cf16i183;cf15h183;cf14g183;cf13f183;cf12e183;cf11d183;cf10c183;cf09b183;cf08a183
+disagree_household;Can you indicate whether you and your partner had any differences of opinion reg;cf19l184;cf18k184;cf17j184;cf16i184;cf15h184;cf14g184;cf13f184;cf12e184;cf11d184;cf10c184;cf09b184;cf08a184
+disagree_leisure;Can you indicate whether you and your partner had any differences of opinion reg;cf19l185;cf18k185;cf17j185;cf16i185;cf15h185;cf14g185;cf13f185;cf12e185;cf11d185;cf10c185;cf09b185;cf08a185
+disagree_working;Can you indicate whether you and your partner had any differences of opinion reg;cf19l186;cf18k186;cf17j186;cf16i186;cf15h186;cf14g186;cf13f186;cf12e186;cf11d186;cf10c186;cf09b186;cf08a186
+division_food;How is the household work divided between you and your partner? - preparing food;cf19l483;cf18k483;cf17j483;cf16i483;cf15h483;cf14g187;cf13f187;cf12e187;cf11d187;cf10c187;cf09b187;cf08a187
+division_laundry;How is the household work divided between you and your partner? - laundry;cf19l484;cf18k484;cf17j484;cf16i484;cf15h484;cf14g188;cf13f188;cf12e188;cf11d188;cf10c188;cf09b188;cf08a188
+division_cleaning;How is the household work divided between you and your partner? - house cleaning;cf19l485;cf18k485;cf17j485;cf16i485;cf15h485;cf14g189;cf13f189;cf12e189;cf11d189;cf10c189;cf09b189;cf08a189
+division_chores;How is the household work divided between you and your partner? - odd jobs in an;cf19l486;cf18k486;cf17j486;cf16i486;cf15h486;cf14g190;cf13f190;cf12e190;cf11d190;cf10c190;cf09b190;cf08a190
+division_finances;How is the household work divided between you and your partner? - financial admi;cf19l487;cf18k487;cf17j487;cf16i487;cf15h487;cf14g191;cf13f191;cf12e191;cf11d191;cf10c191;cf09b191;cf08a191
+division_groceries;How is the household work divided between you and your partner? - grocery shoppi;cf19l488;cf18k488;cf17j488;cf16i488;cf15h488;cf14g192;cf13f192;cf12e192;cf11d192;cf10c192;cf09b192;cf08a192
+child_food;Did your eldest living-at-home child help with the following household tasks;cf19l193;cf18k193;cf17j193;cf16i193;cf15h193;cf14g193;cf13f193;cf12e193;cf11d193;cf10c193;cf09b193;cf08a193
+child_laundry;Did your eldest living-at-home child help with the following household tasks;cf19l194;cf18k194;cf17j194;cf16i194;cf15h194;cf14g194;cf13f194;cf12e194;cf11d194;cf10c194;cf09b194;cf08a194
+child_cleaning;Did your eldest living-at-home child help with the following household tasks;cf19l195;cf18k195;cf17j195;cf16i195;cf15h195;cf14g195;cf13f195;cf12e195;cf11d195;cf10c195;cf09b195;cf08a195
+child_chores;Did your eldest living-at-home child help with the following household tasks;cf19l196;cf18k196;cf17j196;cf16i196;cf15h196;cf14g196;cf13f196;cf12e196;cf11d196;cf10c196;cf09b196;cf08a196
+child_groceries;Did your eldest living-at-home child help with the following household tasks;cf19l197;cf18k197;cf17j197;cf16i197;cf15h197;cf14g197;cf13f197;cf12e197;cf11d197;cf10c197;cf09b197;cf08a197
+raising_playing;How have you and your partner arranged the work of raising and caring for the ch;cf19l198;cf18k198;cf17j198;cf16i198;cf15h198;cf14g198;cf13f198;cf12e198;cf11d198;cf10c198;cf09b198;cf08a198
+raising_logistic;How have you and your partner arranged the work of raising and caring for the ch;cf19l199;cf18k199;cf17j199;cf16i199;cf15h199;cf14g199;cf13f199;cf12e199;cf11d199;cf10c199;cf09b199;cf08a199
+raising_behaviour;How have you and your partner arranged the work of raising and caring for the ch;cf19l200;cf18k200;cf17j200;cf16i200;cf15h200;cf14g200;cf13f200;cf12e200;cf11d200;cf10c200;cf09b200;cf08a200
+raising_outings;How have you and your partner arranged the work of raising and caring for the ch;cf19l201;cf18k201;cf17j201;cf16i201;cf15h201;cf14g201;cf13f201;cf12e201;cf11d201;cf10c201;cf09b201;cf08a201
+act_diapers;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l202;cf18k202;cf17j202;cf16i202;cf15h202;cf14g202;cf13f202;cf12e202;cf11d202;cf10c202;cf09b202;cf08a202
+act_night;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l203;cf18k203;cf17j203;cf16i203;cf15h203;cf14g203;cf13f203;cf12e203;cf11d203;cf10c203;cf09b203;cf08a203
+act_washing;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l204;cf18k204;cf17j204;cf16i204;cf15h204;cf14g204;cf13f204;cf12e204;cf11d204;cf10c204;cf09b204;cf08a204
+act_doctor;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l205;cf18k205;cf17j205;cf16i205;cf15h205;cf14g205;cf13f205;cf12e205;cf11d205;cf10c205;cf09b205;cf08a205
+act_home;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l206;cf18k206;cf17j206;cf16i206;cf15h206;cf14g206;cf13f206;cf12e206;cf11d206;cf10c206;cf09b206;cf08a206
+raised_below12;In the period that your children were younger than 12 years old;cf19l207;cf18k207;cf17j207;cf16i207;cf15h207;cf14g207;cf13f207;cf12e207;cf11d207;cf10c207;cf09b207;cf08a207
+raised_playing;How did you and your partner arrange the work of raising and caring for the chil;cf19l208;cf18k208;cf17j208;cf16i208;cf15h208;cf14g208;cf13f208;cf12e208;cf11d208;cf10c208;cf09b208;cf08a208
+raised_logistic;How did you and your partner arrange the work of raising and caring for the chil;cf19l209;cf18k209;cf17j209;cf16i209;cf15h209;cf14g209;cf13f209;cf12e209;cf11d209;cf10c209;cf09b209;cf08a209
+raised_behaviour;How did you and your partner arrange the work of raising and caring for the chil;cf19l210;cf18k210;cf17j210;cf16i210;cf15h210;cf14g210;cf13f210;cf12e210;cf11d210;cf10c210;cf09b210;cf08a210
+raised_outings;How did you and your partner arrange the work of raising and caring for the chil;cf19l211;cf18k211;cf17j211;cf16i211;cf15h211;cf14g211;cf13f211;cf12e211;cf11d211;cf10c211;cf09b211;cf08a211
+raised_below4;In the period that your children were younger than 4 years old;cf19l212;cf18k212;cf17j212;cf16i212;cf15h212;cf14g212;cf13f212;cf12e212;cf11d212;cf10c212;cf09b212;cf08a212
+acted_diapers;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l213;cf18k213;cf17j213;cf16i213;cf15h213;cf14g213;cf13f213;cf12e213;cf11d213;cf10c213;cf09b213;cf08a213
+acted_night;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l214;cf18k214;cf17j214;cf16i214;cf15h214;cf14g214;cf13f214;cf12e214;cf11d214;cf10c214;cf09b214;cf08a214
+acted_washing;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l215;cf18k215;cf17j215;cf16i215;cf15h215;cf14g215;cf13f215;cf12e215;cf11d215;cf10c215;cf09b215;cf08a215
+acted_doctor;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l216;cf18k216;cf17j216;cf16i216;cf15h216;cf14g216;cf13f216;cf12e216;cf11d216;cf10c216;cf09b216;cf08a216
+acted_home;Below we list a number of care-related tasks. Can you indicate which of you perf;cf19l217;cf18k217;cf17j217;cf16i217;cf15h217;cf14g217;cf13f217;cf12e217;cf11d217;cf10c217;cf09b217;cf08a217
+involve_friends;'How much do you know about: who your child''s friends are';cf19l218;cf18k218;cf17j218;cf16i218;cf15h218;cf14g218;cf13f218;cf12e218;cf11d218;cf10c218;cf09b218;cf08a218
+involve_parents;'How much do you know about: who the parents of your child''s friends are';cf19l219;cf18k219;cf17j219;cf16i219;cf15h219;cf14g219;cf13f219;cf12e219;cf11d219;cf10c219;cf09b219;cf08a219
+involve_money;How much do you know about: what your child spends his/her money on;cf19l220;cf18k220;cf17j220;cf16i220;cf15h220;cf14g220;cf13f220;cf12e220;cf11d220;cf10c220;cf09b220;cf08a220
+involve_place;How much do you know about: where your child is after school hours;cf19l221;cf18k221;cf17j221;cf16i221;cf15h221;cf14g221;cf13f221;cf12e221;cf11d221;cf10c221;cf09b221;cf08a221
+involve_out;How much do you know about: where your child goes when he/she goes out;cf19l222;cf18k222;cf17j222;cf16i222;cf15h222;cf14g222;cf13f222;cf12e222;cf11d222;cf10c222;cf09b222;cf08a222
+involve_leisure;How much do you know about: what your child does in his/her leisure time;cf19l223;cf18k223;cf17j223;cf16i223;cf15h223;cf14g223;cf13f223;cf12e223;cf11d223;cf10c223;cf09b223;cf08a223
+involve_grades;How much do you know about: what grades your child gets in school;cf19l224;cf18k224;cf17j224;cf16i224;cf15h224;cf14g224;cf13f224;cf12e224;cf11d224;cf10c224;cf09b224;cf08a224
+behavior_quarrel;Behavior of your child over the past three months: your child is too quarrelsome;;;;;;cf14g225;cf13f225;cf12e225;cf11d225;cf10c225;cf09b225;cf08a225
+behavior_focus;Behavior of your child over the past three months: your child has trouble concen;;;;;;cf14g226;cf13f226;cf12e226;cf11d226;cf10c226;cf09b226;cf08a226
+behavior_confused;Behavior of your child over the past three months: your child is easily confused;;;;;;cf14g227;cf13f227;cf12e227;cf11d227;cf10c227;cf09b227;cf08a227
+behavior_social;Behavior of your child over the past three months: your child has trouble relati;;;;;;cf14g228;cf13f228;cf12e228;cf11d228;cf10c228;cf09b228;cf08a228
+behavior_worthless;Behavior of your child over the past three months: your child feels worthless or;;;;;;cf14g229;cf13f229;cf12e229;cf11d229;cf10c229;cf09b229;cf08a229
+behavior_disliked;Behavior of your child over the past three months: your child is not liked by ot;;;;;;cf14g230;cf13f230;cf12e230;cf11d230;cf10c230;cf09b230;cf08a230
+behavior_headstrong;Behavior of your child over the past three months: your child is headstrong;;;;;;cf14g231;cf13f231;cf12e231;cf11d231;cf10c231;cf09b231;cf08a231
+behavior_sad;Behavior of your child over the past three months: your child is unhappy;;;;;;cf14g232;cf13f232;cf12e232;cf11d232;cf10c232;cf09b232;cf08a232
+behavior_adults;Behavior of your child over the past three months: your child clings to adults;;;;;;cf14g233;cf13f233;cf12e233;cf11d233;cf10c233;cf09b233;cf08a233
+behavior_dependent;Behavior of your child over the past three months: your child is too dependent o;;;;;;cf14g234;cf13f234;cf12e234;cf11d234;cf10c234;cf09b234;cf08a234
+behavior_disobedient;Behavior of your child over the past three months: your child is disobedient in;;;;;;cf14g235;cf13f235;cf12e235;cf11d235;cf10c235;cf09b235;cf08a235
+behavior_teachers;Behavior of your child over the past three months: your child has trouble relati;;;;;;cf14g236;cf13f236;cf12e236;cf11d236;cf10c236;cf09b236;cf08a236
+behavior_explain;'If you would like to explain your answers concerning your child''s behavior';;;;;;cf14g237;cf13f237;cf12e237;cf11d237;cf10c237;cf09b237;cf08a237
+childcare_young_nursery;For your living-at-home children born from 2011 onwards;cf19l238;cf18k238;cf17j238;cf16i238;cf15h238;cf14g238;cf13f238;cf12e238;cf11d238;cf10c238;cf09b238;cf08a238
+childcare_young_daycare;For your living-at-home children born from 2011 onwards;cf19l239;cf18k239;cf17j239;cf16i239;cf15h239;cf14g239;cf13f239;cf12e239;cf11d239;cf10c239;cf09b239;cf08a239
+childcare_young_preschool;For your living-at-home children born from 2011 onwards;cf19l240;cf18k240;cf17j240;cf16i240;cf15h240;cf14g240;cf13f240;cf12e240;cf11d240;cf10c240;cf09b240;cf08a240
+childcare_young_afterschool;For your living-at-home children born from 2011 onwards;cf19l241;cf18k241;cf17j241;cf16i241;cf15h241;cf14g241;cf13f241;cf12e241;cf11d241;cf10c241;cf09b241;cf08a241
+childcare_young_host;For your living-at-home children born from 2011 onwards;cf19l242;cf18k242;cf17j242;cf16i242;cf15h242;cf14g242;cf13f242;cf12e242;cf11d242;cf10c242;cf09b242;cf08a242
+childcare_young_paid;For your living-at-home children born from 2011 onwards;cf19l243;cf18k243;cf17j243;cf16i243;cf15h243;cf14g243;cf13f243;cf12e243;cf11d243;cf10c243;cf09b243;cf08a243
+childcare_young_home;For your living-at-home children born from 2011 onwards;cf19l244;cf18k244;cf17j244;cf16i244;cf15h244;cf14g244;cf13f244;cf12e244;cf11d244;cf10c244;cf09b244;cf08a244
+childcare_young_unpaid;For your living-at-home children born from 2011 onwards;cf19l245;cf18k245;cf17j245;cf16i245;cf15h245;cf14g245;cf13f245;cf12e245;cf11d245;cf10c245;cf09b245;cf08a245
+childcare_young_other;For your living-at-home children born from 2011 onwards;cf19l246;cf18k246;cf17j246;cf16i246;cf15h246;cf14g246;cf13f246;cf12e246;cf11d246;cf10c246;cf09b246;cf08a246
+childcare_young_none;For your living-at-home children born from 2011 onwards;cf19l247;cf18k247;cf17j247;cf16i247;cf15h247;cf14g247;cf13f247;cf12e247;cf11d247;cf10c247;cf09b247;cf08a247
+unpaid_childsitter_young;Who is generally this unpaid childsitter?;cf19l248;cf18k248;cf17j248;cf16i248;cf15h248;cf14g248;cf13f248;cf12e248;cf11d248;cf10c248;cf09b248;cf08a248
+childcare_young_days;How many part-days per week do you make use of this childcare;cf19l249;cf18k249;cf17j249;cf16i249;cf15h249;cf14g249;cf13f249;cf12e249;cf11d249;cf10c249;cf09b249;cf08a249
+childcare_young_hours;How many hours per week do you make use of this childcare;cf19l250;cf18k250;cf17j250;cf16i250;cf15h250;cf14g250;cf13f250;cf12e250;cf11d250;cf10c250;cf09b250;cf08a250
+childcare_young_costs;How much do you pay per month;cf19l251;cf18k251;cf17j251;cf16i251;cf15h251;cf14g251;cf13f251;;cf11d251;cf10c251;cf09b251;cf08a251
+child1_school;Does child 1 (born in the years 1997 through 2010) attend school?;cf19l252;cf18k252;cf17j252;cf16i252;cf15h252;cf14g252;cf13f252;cf12e252;cf11d252;cf10c252;cf09b252;cf08a252
+child2_school;Does child 2 (born in the years 1997 through 2010) attend school?;cf19l253;cf18k253;cf17j253;cf16i253;cf15h253;cf14g253;cf13f253;cf12e253;cf11d253;cf10c253;cf09b253;cf08a253
+child3_school;Does child 3 (born in the years 1997 through 2010) attend school?;cf19l254;cf18k254;cf17j254;cf16i254;cf15h254;cf14g254;cf13f254;cf12e254;cf11d254;cf10c254;cf09b254;cf08a254
+child4_school;Does child 4 (born in the years 1997 through 2010) attend school?;cf19l255;cf18k255;cf17j255;cf16i255;cf15h255;cf14g255;cf13f255;cf12e255;cf11d255;cf10c255;cf09b255;cf08a255
+child5_school;Does child 5 (born in the years 1997 through 2010) attend school?;cf19l256;cf18k256;cf17j256;cf16i256;cf15h256;cf14g256;cf13f256;cf12e256;cf11d256;cf10c256;cf09b256;cf08a256
+child6_school;Does child 6 (born in the years 1997 through 2010) attend school?;cf19l257;cf18k257;cf17j257;cf16i257;cf15h257;cf14g257;cf13f257;cf12e257;cf11d257;cf10c257;cf09b257;cf08a257
+child7_school;Does child 7 (born in the years 1997 through 2010) attend school?;cf19l258;cf18k258;cf17j258;cf16i258;cf15h258;cf14g258;cf13f258;cf12e258;cf11d258;cf10c258;cf09b258;cf08a258
+child8_school;Does child 8 (born in the years 1997 through 2010) attend school?;cf19l259;cf18k259;cf17j259;cf16i259;cf15h259;cf14g259;cf13f259;cf12e259;cf11d259;cf10c259;cf09b259;cf08a259
+child9_school;Does child 9 (born in the years 1997 through 2010) attend school?;cf19l260;cf18k260;cf17j260;cf16i260;cf15h260;cf14g260;cf13f260;cf12e260;cf11d260;cf10c260;cf09b260;cf08a260
+child10_school;Does child 10 (born in the years 1997 through 2010) attend school?;cf19l261;cf18k261;cf17j261;cf16i261;cf15h261;cf14g261;cf13f261;cf12e261;cf11d261;cf10c261;cf09b261;cf08a261
+child11_school;Does child 11 (born in the years 1997 through 2010) attend school?;cf19l262;cf18k262;cf17j262;cf16i262;cf15h262;cf14g262;cf13f262;cf12e262;cf11d262;cf10c262;cf09b262;cf08a262
+child12_school;Does child 12 (born in the years 1997 through 2010) attend school?;cf19l263;cf18k263;cf17j263;cf16i263;cf15h263;cf14g263;cf13f263;cf12e263;cf11d263;cf10c263;cf09b263;cf08a263
+child13_school;Does child 13 (born in the years 1997 through 2010) attend school?;cf19l264;cf18k264;cf17j264;cf16i264;cf15h264;cf14g264;cf13f264;cf12e264;cf11d264;cf10c264;cf09b264;cf08a264
+child14_school;Does child 14 (born in the years 1997 through 2010) attend school?;cf19l265;cf18k265;cf17j265;cf16i265;cf15h265;cf14g265;cf13f265;cf12e265;cf11d265;cf10c265;cf09b265;cf08a265
+child15_school;Does child 15 (born in the years 1997 through 2010) attend school?;cf19l266;cf18k266;cf17j266;cf16i266;cf15h266;cf14g266;cf13f266;cf12e266;cf11d266;cf10c266;cf09b266;cf08a266
+child1_track;What school does child 1 (born in the years 1996 through 2009) attend?;cf19l489;cf18k489;cf17j489;cf16i489;cf15h489;cf14g267;cf13f267;cf12e267;cf11d267;cf10c267;cf09b267;cf08a267
+child2_track;What school does child 2 (born in the years 1996 through 2009) attend?;cf19l490;cf18k490;cf17j490;cf16i490;cf15h490;cf14g268;cf13f268;cf12e268;cf11d268;cf10c268;cf09b268;cf08a268
+child3_track;What school does child 3 (born in the years 1996 through 2009) attend?;cf19l491;cf18k491;cf17j491;cf16i491;cf15h491;cf14g269;cf13f269;cf12e269;cf11d269;cf10c269;cf09b269;cf08a269
+child4_track;What school does child 4 (born in the years 1996 through 2009) attend?;cf19l492;cf18k492;cf17j492;cf16i492;cf15h492;cf14g270;cf13f270;cf12e270;cf11d270;cf10c270;cf09b270;cf08a270
+child5_track;What school does child 5 (born in the years 1996 through 2009) attend?;cf19l493;cf18k493;cf17j493;cf16i493;cf15h493;cf14g271;cf13f271;cf12e271;cf11d271;cf10c271;cf09b271;cf08a271
+child6_track;What school does child 6 (born in the years 1996 through 2009) attend?;cf19l494;cf18k494;cf17j494;cf16i494;cf15h494;cf14g272;cf13f272;cf12e272;cf11d272;cf10c272;cf09b272;cf08a272
+child7_track;What school does child 7 (born in the years 1996 through 2009) attend?;cf19l495;cf18k495;cf17j495;cf16i495;cf15h495;cf14g273;cf13f273;cf12e273;cf11d273;cf10c273;cf09b273;cf08a273
+child8_track;What school does child 8 (born in the years 1996 through 2009) attend?;cf19l496;cf18k496;cf17j496;cf16i496;cf15h496;cf14g274;cf13f274;cf12e274;cf11d274;cf10c274;cf09b274;cf08a274
+child9_track;What school does child 9 (born in the years 1996 through 2009) attend?;cf19l497;cf18k497;cf17j497;cf16i497;cf15h497;cf14g275;cf13f275;cf12e275;cf11d275;cf10c275;cf09b275;cf08a275
+child10_track;What school does child 10 (born in the years 1996 through 2009) attend?;cf19l498;cf18k498;cf17j498;cf16i498;cf15h498;cf14g276;cf13f276;cf12e276;cf11d276;cf10c276;cf09b276;cf08a276
+child11_track;What school does child 11 (born in the years 1996 through 2009) attend?;cf19l499;cf18k499;cf17j499;cf16i499;cf15h499;cf14g277;cf13f277;cf12e277;cf11d277;cf10c277;cf09b277;cf08a277
+child12_track;What school does child 12 (born in the years 1996 through 2009) attend?;cf19l500;cf18k500;cf17j500;cf16i500;cf15h500;cf14g278;cf13f278;cf12e278;cf11d278;cf10c278;cf09b278;cf08a278
+child13_track;What school does child 13 (born in the years 1996 through 2009) attend?;cf19l501;cf18k501;cf17j501;cf16i501;cf15h501;cf14g279;cf13f279;cf12e279;cf11d279;cf10c279;cf09b279;cf08a279
+child14_track;What school does child 14 (born in the years 1996 through 2009) attend?;cf19l502;cf18k502;cf17j502;cf16i502;cf15h502;cf14g280;cf13f280;cf12e280;cf11d280;cf10c280;cf09b280;cf08a280
+child15_track;What school does child 15 (born in the years 1996 through 2009) attend?;cf19l503;cf18k503;cf17j503;cf16i503;cf15h503;cf14g281;cf13f281;cf12e281;cf11d281;cf10c281;cf09b281;cf08a281
+child1_denom;What is the denominational nature or direction of the school of child 1 (born in;cf19l434;cf18k434;cf17j434;cf16i434;cf15h434;cf14g434;cf13f434;cf12e434;cf11d434;cf10c282;cf09b282;cf08a282
+child2_denom;What is the denominational nature or direction of the school of child 2 (born in;cf19l435;cf18k435;cf17j435;cf16i435;cf15h435;cf14g435;cf13f435;cf12e435;cf11d435;cf10c283;cf09b283;cf08a283
+child3_denom;What is the denominational nature or direction of the school of child 3 (born in;cf19l436;cf18k436;cf17j436;cf16i436;cf15h436;cf14g436;cf13f436;cf12e436;cf11d436;cf10c284;cf09b284;cf08a284
+child4_denom;What is the denominational nature or direction of the school of child 4 (born in;cf19l437;cf18k437;cf17j437;cf16i437;cf15h437;cf14g437;cf13f437;cf12e437;cf11d437;cf10c285;cf09b285;cf08a285
+child5_denom;What is the denominational nature or direction of the school of child 5 (born in;cf19l438;cf18k438;cf17j438;cf16i438;cf15h438;cf14g438;cf13f438;cf12e438;cf11d438;cf10c286;cf09b286;cf08a286
+child6_denom;What is the denominational nature or direction of the school of child 6 (born in;cf19l439;cf18k439;cf17j439;cf16i439;cf15h439;cf14g439;cf13f439;cf12e439;cf11d439;cf10c287;cf09b287;cf08a287
+child7_denom;What is the denominational nature or direction of the school of child 7 (born in;cf19l440;cf18k440;cf17j440;cf16i440;cf15h440;cf14g440;cf13f440;cf12e440;cf11d440;cf10c288;cf09b288;cf08a288
+child8_denom;What is the denominational nature or direction of the school of child 8 (born in;cf19l441;cf18k441;cf17j441;cf16i441;cf15h441;cf14g441;cf13f441;cf12e441;cf11d441;cf10c289;cf09b289;cf08a289
+child9_denom;What is the denominational nature or direction of the school of child 9 (born in;cf19l442;cf18k442;cf17j442;cf16i442;cf15h442;cf14g442;cf13f442;cf12e442;cf11d442;cf10c290;cf09b290;cf08a290
+child10_denom;What is the denominational nature or direction of the school of child 10 (born i;cf19l443;cf18k443;cf17j443;cf16i443;cf15h443;cf14g443;cf13f443;cf12e443;cf11d443;cf10c291;cf09b291;cf08a291
+child11_denom;What is the denominational nature or direction of the school of child 11 (born i;cf19l444;cf18k444;cf17j444;cf16i444;cf15h444;cf14g444;cf13f444;cf12e444;cf11d444;cf10c292;cf09b292;cf08a292
+child12_denom;What is the denominational nature or direction of the school of child 12 (born i;cf19l445;cf18k445;cf17j445;cf16i445;cf15h445;cf14g445;cf13f445;cf12e445;cf11d445;cf10c293;cf09b293;cf08a293
+child13_denom;What is the denominational nature or direction of the school of child 13 (born i;cf19l446;cf18k446;cf17j446;cf16i446;cf15h446;cf14g446;cf13f446;cf12e446;cf11d446;cf10c294;cf09b294;cf08a294
+child14_denom;What is the denominational nature or direction of the school of child 14 (born i;cf19l447;cf18k447;cf17j447;cf16i447;cf15h447;cf14g447;cf13f447;cf12e447;cf11d447;cf10c295;cf09b295;cf08a295
+child15_denom;What is the denominational nature or direction of the school of child 15 (born i;cf19l448;cf18k448;cf17j448;cf16i448;cf15h448;cf14g448;cf13f448;cf12e448;cf11d448;cf10c296;cf09b296;cf08a296
+child1_continuous;Does the school of child 1 (born in the years 1997 through 2010) have a continuo;cf19l297;cf18k297;cf17j297;cf16i297;cf15h297;cf14g297;cf13f297;cf12e297;cf11d297;cf10c297;cf09b297;cf08a297
+child2_continuous;Does the school of child 2 (born in the years 1997 through 2010) have a continuo;cf19l298;cf18k298;cf17j298;cf16i298;cf15h298;cf14g298;cf13f298;cf12e298;cf11d298;cf10c298;cf09b298;cf08a298
+child3_continuous;Does the school of child 3 (born in the years 1997 through 2010) have a continuo;cf19l299;cf18k299;cf17j299;cf16i299;cf15h299;cf14g299;cf13f299;cf12e299;cf11d299;cf10c299;cf09b299;cf08a299
+child4_continuous;Does the school of child 4 (born in the years 1997 through 2010) have a continuo;cf19l300;cf18k300;cf17j300;cf16i300;cf15h300;cf14g300;cf13f300;cf12e300;cf11d300;cf10c300;cf09b300;cf08a300
+child5_continuous;Does the school of child 5 (born in the years 1997 through 2010) have a continuo;cf19l301;cf18k301;cf17j301;cf16i301;cf15h301;cf14g301;cf13f301;cf12e301;cf11d301;cf10c301;cf09b301;cf08a301
+child6_continuous;Does the school of child 6 (born in the years 1997 through 2010) have a continuo;cf19l302;cf18k302;cf17j302;cf16i302;cf15h302;cf14g302;cf13f302;cf12e302;cf11d302;cf10c302;cf09b302;cf08a302
+child7_continuous;Does the school of child 7 (born in the years 1997 through 2010) have a continuo;cf19l303;cf18k303;cf17j303;cf16i303;cf15h303;cf14g303;cf13f303;cf12e303;cf11d303;cf10c303;cf09b303;cf08a303
+child8_continuous;Does the school of child 8 (born in the years 1997 through 2010) have a continuo;cf19l304;cf18k304;cf17j304;cf16i304;cf15h304;cf14g304;cf13f304;cf12e304;cf11d304;cf10c304;cf09b304;cf08a304
+child9_continuous;Does the school of child 9 (born in the years 1997 through 2010) have a continuo;cf19l305;cf18k305;cf17j305;cf16i305;cf15h305;cf14g305;cf13f305;cf12e305;cf11d305;cf10c305;cf09b305;cf08a305
+child10_continuous;Does the school of child 10 (born in the years 1997 through 2010) have a continu;cf19l306;cf18k306;cf17j306;cf16i306;cf15h306;cf14g306;cf13f306;cf12e306;cf11d306;cf10c306;cf09b306;cf08a306
+child11_continuous;Does the school of child 11 (born in the years 1997 through 2010) have a continu;cf19l307;cf18k307;cf17j307;cf16i307;cf15h307;cf14g307;cf13f307;cf12e307;cf11d307;cf10c307;cf09b307;cf08a307
+child12_continuous;Does the school of child 12 (born in the years 1997 through 2010) have a continu;cf19l308;cf18k308;cf17j308;cf16i308;cf15h308;cf14g308;cf13f308;cf12e308;cf11d308;cf10c308;cf09b308;cf08a308
+child13_continuous;Does the school of child 13 (born in the years 1997 through 2010) have a continu;cf19l309;cf18k309;cf17j309;cf16i309;cf15h309;cf14g309;cf13f309;cf12e309;cf11d309;cf10c309;cf09b309;cf08a309
+child14_continuous;Does the school of child 14 (born in the years 1997 through 2010) have a continu;cf19l310;cf18k310;cf17j310;cf16i310;cf15h310;cf14g310;cf13f310;cf12e310;cf11d310;cf10c310;cf09b310;cf08a310
+child15_continuous;Does the school of child 15 (born in the years 1997 through 2010) have a continu;cf19l311;cf18k311;cf17j311;cf16i311;cf15h311;cf14g311;cf13f311;cf12e311;cf11d311;cf10c311;cf09b311;cf08a311
+child1_break;Is child 1 (born in the years 1997 through 2010) tended to in school during the;cf19l312;cf18k312;cf17j312;cf16i312;cf15h312;cf14g312;cf13f312;cf12e312;cf11d312;cf10c312;cf09b312;cf08a312
+child2_break;Is child 2 (born in the years 1997 through 2010) tended to in school during the;cf19l313;cf18k313;cf17j313;cf16i313;cf15h313;cf14g313;cf13f313;cf12e313;cf11d313;cf10c313;cf09b313;cf08a313
+child3_break;Is child 3 (born in the years 1997 through 2010) tended to in school during the;cf19l314;cf18k314;cf17j314;cf16i314;cf15h314;cf14g314;cf13f314;cf12e314;cf11d314;cf10c314;cf09b314;cf08a314
+child4_break;Is child 4 (born in the years 1997 through 2010) tended to in school during the;cf19l315;cf18k315;cf17j315;cf16i315;cf15h315;cf14g315;cf13f315;cf12e315;cf11d315;cf10c315;cf09b315;cf08a315
+child5_break;Is child 5 (born in the years 1997 through 2010) tended to in school during the;cf19l316;cf18k316;cf17j316;cf16i316;cf15h316;cf14g316;cf13f316;cf12e316;cf11d316;cf10c316;cf09b316;cf08a316
+child6_break;Is child 6 (born in the years 1997 through 2010) tended to in school during the;cf19l317;cf18k317;cf17j317;cf16i317;cf15h317;cf14g317;cf13f317;cf12e317;cf11d317;cf10c317;cf09b317;cf08a317
+child7_break;Is child 7 (born in the years 1997 through 2010) tended to in school during the;cf19l318;cf18k318;cf17j318;cf16i318;cf15h318;cf14g318;cf13f318;cf12e318;cf11d318;cf10c318;cf09b318;cf08a318
+child8_break;Is child 8 (born in the years 1997 through 2010) tended to in school during the;cf19l319;cf18k319;cf17j319;cf16i319;cf15h319;cf14g319;cf13f319;cf12e319;cf11d319;cf10c319;cf09b319;cf08a319
+child9_break;Is child 9 (born in the years 1997 through 2010) tended to in school during the;cf19l320;cf18k320;cf17j320;cf16i320;cf15h320;cf14g320;cf13f320;cf12e320;cf11d320;cf10c320;cf09b320;cf08a320
+child10_break;Is child 10 (born in the years 1997 through 2010) tended to in school during the;cf19l321;cf18k321;cf17j321;cf16i321;cf15h321;cf14g321;cf13f321;cf12e321;cf11d321;cf10c321;cf09b321;cf08a321
+child11_break;Is child 11 (born in the years 1997 through 2010) tended to in school during the;cf19l322;cf18k322;cf17j322;cf16i322;cf15h322;cf14g322;cf13f322;cf12e322;cf11d322;cf10c322;cf09b322;cf08a322
+child12_break;Is child 12 (born in the years 1997 through 2010) tended to in school during the;cf19l323;cf18k323;cf17j323;cf16i323;cf15h323;cf14g323;cf13f323;cf12e323;cf11d323;cf10c323;cf09b323;cf08a323
+child13_break;Is child 13 (born in the years 1997 through 2010) tended to in school during the;cf19l324;cf18k324;cf17j324;cf16i324;cf15h324;cf14g324;cf13f324;cf12e324;cf11d324;cf10c324;cf09b324;cf08a324
+child14_break;Is child 14 (born in the years 1997 through 2010) tended to in school during the;cf19l325;cf18k325;cf17j325;cf16i325;cf15h325;cf14g325;cf13f325;cf12e325;cf11d325;cf10c325;cf09b325;cf08a325
+child15_break;Is child 15 (born in the years 1997 through 2010) tended to in school during the;cf19l326;cf18k326;cf17j326;cf16i326;cf15h326;cf14g326;cf13f326;cf12e326;cf11d326;cf10c326;cf09b326;cf08a326
+childcare_mid_preschool;Do you make regular use;cf19l327;cf18k327;cf17j327;cf16i327;cf15h327;cf14g327;cf13f327;cf12e327;cf11d327;cf10c327;cf09b327;cf08a327
+childcare_mid_afterschool;Do you make regular use;cf19l328;cf18k328;cf17j328;cf16i328;cf15h328;cf14g328;cf13f328;cf12e328;cf11d328;cf10c328;cf09b328;cf08a328
+childcare_mid_between;Do you make regular use;cf19l329;cf18k329;cf17j329;cf16i329;cf15h329;cf14g329;cf13f329;cf12e329;cf11d329;cf10c329;cf09b329;cf08a329
+childcare_mid_host;Do you make regular use;cf19l330;cf18k330;cf17j330;cf16i330;cf15h330;cf14g330;cf13f330;cf12e330;cf11d330;cf10c330;cf09b330;cf08a330
+childcare_mid_paid;Do you make regular use;cf19l331;cf18k331;cf17j331;cf16i331;cf15h331;cf14g331;cf13f331;cf12e331;cf11d331;cf10c331;cf09b331;cf08a331
+childcare_mid_home;Do you make regular use;cf19l332;cf18k332;cf17j332;cf16i332;cf15h332;cf14g332;cf13f332;cf12e332;cf11d332;cf10c332;cf09b332;cf08a332
+childcare_mid_unpaid;Do you make regular use;cf19l333;cf18k333;cf17j333;cf16i333;cf15h333;cf14g333;cf13f333;cf12e333;cf11d333;cf10c333;cf09b333;cf08a333
+childcare_mid_other;Do you make regular use;cf19l334;cf18k334;cf17j334;cf16i334;cf15h334;cf14g334;cf13f334;cf12e334;cf11d334;cf10c334;cf09b334;cf08a334
+childcare_mid_none;Do you make regular use;cf19l335;cf18k335;cf17j335;cf16i335;cf15h335;cf14g335;cf13f335;cf12e335;cf11d335;cf10c335;cf09b335;cf08a335
+unpaid_childsitter_mid;Who is generally this unpaid childsitter? (for your living-at-home children born;cf19l336;cf18k336;cf17j336;cf16i336;cf15h336;cf14g336;cf13f336;cf12e336;cf11d336;cf10c336;cf09b336;cf08a336
+childcare_mid_days;How many part-days per week do you make use of this childcare of your living-at-;cf19l337;cf18k337;cf17j337;cf16i337;cf15h337;cf14g337;cf13f337;cf12e337;cf11d337;cf10c337;cf09b337;cf08a337
+childcare_mid_hours;How many hours per week do you make use of this childcare of your living-at-home;cf19l338;cf18k338;cf17j338;cf16i338;cf15h338;cf14g338;cf13f338;cf12e338;cf11d338;cf10c338;cf09b338;cf08a338
+childcare_mid_costs;How much do you pay in total for the childcare of your living-at-home children b;cf19l339;cf18k339;cf17j339;cf16i339;cf15h339;cf14g339;cf13f339;;cf11d339;cf10c339;cf09b339;cf08a339
+child1_fulltime;Please indicate whether child 1 (born from 1997 onwards and no longer attend pri;cf19l340;cf18k340;cf17j340;cf16i340;cf15h340;cf14g340;cf13f340;cf12e340;cf11d340;cf10c340;cf09b340;cf08a340
+child2_fulltime;Please indicate whether child 2 (born from 1997 onwards and no longer attend pri;cf19l341;cf18k341;cf17j341;cf16i341;cf15h341;cf14g341;cf13f341;cf12e341;cf11d341;cf10c341;cf09b341;cf08a341
+child3_fulltime;Please indicate whether child 3 (born from 1997 onwards and no longer attend pri;cf19l342;cf18k342;cf17j342;cf16i342;cf15h342;cf14g342;cf13f342;cf12e342;cf11d342;cf10c342;cf09b342;cf08a342
+child4_fulltime;Please indicate whether child 4 (born from 1997 onwards and no longer attend pri;cf19l343;cf18k343;cf17j343;cf16i343;cf15h343;cf14g343;cf13f343;cf12e343;cf11d343;cf10c343;cf09b343;cf08a343
+child5_fulltime;Please indicate whether child 5 (born from 1997 onwards and no longer attend pri;cf19l344;cf18k344;cf17j344;cf16i344;cf15h344;cf14g344;cf13f344;cf12e344;cf11d344;cf10c344;cf09b344;cf08a344
+child6_fulltime;Please indicate whether child 6 (born from 1997 onwards and no longer attend pri;cf19l345;cf18k345;cf17j345;cf16i345;cf15h345;cf14g345;cf13f345;cf12e345;cf11d345;cf10c345;cf09b345;cf08a345
+child7_fulltime;Please indicate whether child 7 (born from 1997 onwards and no longer attend pri;cf19l346;cf18k346;cf17j346;cf16i346;cf15h346;cf14g346;cf13f346;cf12e346;cf11d346;cf10c346;cf09b346;cf08a346
+child8_fulltime;Please indicate whether child 8 (born from 1997 onwards and no longer attend pri;cf19l347;cf18k347;cf17j347;cf16i347;cf15h347;cf14g347;cf13f347;cf12e347;cf11d347;cf10c347;cf09b347;cf08a347
+child9_fulltime;Please indicate whether child 9 (born from 1997 onwards and no longer attend pri;cf19l348;cf18k348;cf17j348;cf16i348;cf15h348;cf14g348;cf13f348;cf12e348;cf11d348;cf10c348;cf09b348;cf08a348
+child10_fulltime;Please indicate whether child 10 (born from 1997 onwards and no longer attend pr;cf19l349;cf18k349;cf17j349;cf16i349;cf15h349;cf14g349;cf13f349;cf12e349;cf11d349;cf10c349;cf09b349;cf08a349
+child11_fulltime;Please indicate whether child 11 (born from 1997 onwards and no longer attend pr;cf19l350;cf18k350;cf17j350;cf16i350;cf15h350;cf14g350;cf13f350;cf12e350;cf11d350;cf10c350;cf09b350;cf08a350
+child12_fulltime;Please indicate whether child 12 (born from 1997 onwards and no longer attend pr;cf19l351;cf18k351;cf17j351;cf16i351;cf15h351;cf14g351;cf13f351;cf12e351;cf11d351;cf10c351;cf09b351;cf08a351
+child13_fulltime;Please indicate whether child 13 (born from 1997 onwards and no longer attend pr;cf19l352;cf18k352;cf17j352;cf16i352;cf15h352;cf14g352;cf13f352;cf12e352;cf11d352;cf10c352;cf09b352;cf08a352
+child14_fulltime;Please indicate whether child 14 (born from 1997 onwards and no longer attend pr;cf19l353;cf18k353;cf17j353;cf16i353;cf15h353;cf14g353;cf13f353;cf12e353;cf11d353;cf10c353;cf09b353;cf08a353
+child15_fulltime;Please indicate whether child 15 (born from 1997 onwards and no longer attend pr;cf19l354;cf18k354;cf17j354;cf16i354;cf15h354;cf14g354;cf13f354;cf12e354;cf11d354;cf10c354;cf09b354;cf08a354
+child1_sectrack;What type of school does child 1 (born from 1997 onwards and no longer attend pr;cf19l355;cf18k355;cf17j355;cf16i355;cf15h355;cf14g355;cf13f355;cf12e355;cf11d355;cf10c355;cf09b355;cf08a355
+child2_sectrack;What type of school does child 2 (born from 1997 onwards and no longer attend pr;cf19l356;cf18k356;cf17j356;cf16i356;cf15h356;cf14g356;cf13f356;cf12e356;cf11d356;cf10c356;cf09b356;cf08a356
+child3_sectrack;What type of school does child 3 (born from 1997 onwards and no longer attend pr;cf19l357;cf18k357;cf17j357;cf16i357;cf15h357;cf14g357;cf13f357;cf12e357;cf11d357;cf10c357;cf09b357;cf08a357
+child4_sectrack;What type of school does child 4 (born from 1997 onwards and no longer attend pr;cf19l358;cf18k358;cf17j358;cf16i358;cf15h358;cf14g358;cf13f358;cf12e358;cf11d358;cf10c358;cf09b358;cf08a358
+child5_sectrack;What type of school does child 5 (born from 1997 onwards and no longer attend pr;cf19l359;cf18k359;cf17j359;cf16i359;cf15h359;cf14g359;cf13f359;cf12e359;cf11d359;cf10c359;cf09b359;cf08a359
+child6_sectrack;What type of school does child 6 (born from 1997 onwards and no longer attend pr;cf19l360;cf18k360;cf17j360;cf16i360;cf15h360;cf14g360;cf13f360;cf12e360;cf11d360;cf10c360;cf09b360;cf08a360
+child7_sectrack;What type of school does child 7 (born from 1997 onwards and no longer attend pr;cf19l361;cf18k361;cf17j361;cf16i361;cf15h361;cf14g361;cf13f361;cf12e361;cf11d361;cf10c361;cf09b361;cf08a361
+child8_sectrack;What type of school does child 8 (born from 1997 onwards and no longer attend pr;cf19l362;cf18k362;cf17j362;cf16i362;cf15h362;cf14g362;cf13f362;cf12e362;cf11d362;cf10c362;cf09b362;cf08a362
+child9_sectrack;What type of school does child 9 (born from 1997 onwards and no longer attend pr;cf19l363;cf18k363;cf17j363;cf16i363;cf15h363;cf14g363;cf13f363;cf12e363;cf11d363;cf10c363;cf09b363;cf08a363
+child10_sectrack;What type of school does child 10 (born from 1997 onwards and no longer attend p;cf19l364;cf18k364;cf17j364;cf16i364;cf15h364;cf14g364;cf13f364;cf12e364;cf11d364;cf10c364;cf09b364;cf08a364
+child11_sectrack;What type of school does child 11 (born from 1997 onwards and no longer attend p;cf19l365;cf18k365;cf17j365;cf16i365;cf15h365;cf14g365;cf13f365;cf12e365;cf11d365;cf10c365;cf09b365;cf08a365
+child12_sectrack;What type of school does child 12 (born from 1997 onwards and no longer attend p;cf19l366;cf18k366;cf17j366;cf16i366;cf15h366;cf14g366;cf13f366;cf12e366;cf11d366;cf10c366;cf09b366;cf08a366
+child13_sectrack;What type of school does child 13 (born from 1997 onwards and no longer attend p;cf19l367;cf18k367;cf17j367;cf16i367;cf15h367;cf14g367;cf13f367;cf12e367;cf11d367;cf10c367;cf09b367;cf08a367
+child14_sectrack;What type of school does child 14 (born from 1997 onwards and no longer attend p;cf19l368;cf18k368;cf17j368;cf16i368;cf15h368;cf14g368;cf13f368;cf12e368;cf11d368;cf10c368;cf09b368;cf08a368
+child15_sectrack;What type of school does child 15 (born from 1997 onwards and no longer attend p;cf19l369;cf18k369;cf17j369;cf16i369;cf15h369;cf14g369;cf13f369;cf12e369;cf11d369;cf10c369;cf09b369;cf08a369
+childcare_old_preschool;Do you make regular use;cf19l370;cf18k370;cf17j370;cf16i370;cf15h370;cf14g370;cf13f370;cf12e370;cf11d370;cf10c370;cf09b370;cf08a370
+childcare_old_afterschool;Do you make regular use;cf19l371;cf18k371;cf17j371;cf16i371;cf15h371;cf14g371;cf13f371;cf12e371;cf11d371;cf10c371;cf09b371;cf08a371
+childcare_old_host;Do you make regular use;cf19l372;cf18k372;cf17j372;cf16i372;cf15h372;cf14g372;cf13f372;cf12e372;cf11d372;cf10c372;cf09b372;cf08a372
+childcare_old_paid;Do you make regular use;cf19l373;cf18k373;cf17j373;cf16i373;cf15h373;cf14g373;cf13f373;cf12e373;cf11d373;cf10c373;cf09b373;cf08a373
+childcare_old_home;Do you make regular use;cf19l374;cf18k374;cf17j374;cf16i374;cf15h374;cf14g374;cf13f374;cf12e374;cf11d374;cf10c374;cf09b374;cf08a374
+childcare_old_unpaid;Do you make regular use;cf19l375;cf18k375;cf17j375;cf16i375;cf15h375;cf14g375;cf13f375;cf12e375;cf11d375;cf10c375;cf09b375;cf08a375
+childcare_old_other;Do you make regular use;cf19l376;cf18k376;cf17j376;cf16i376;cf15h376;cf14g376;cf13f376;cf12e376;cf11d376;cf10c376;cf09b376;cf08a376
+childcare_old_none;Do you make regular use;cf19l377;cf18k377;cf17j377;cf16i377;cf15h377;cf14g377;cf13f377;cf12e377;cf11d377;cf10c377;cf09b377;cf08a377
+unpaid_childsitter_old;Who is generally this unpaid childsitter?;cf19l378;cf18k378;cf17j378;cf16i378;cf15h378;cf14g378;cf13f378;cf12e378;cf11d378;cf10c378;cf09b378;cf08a378
+childcare_old_days;How many part-days per week do you make use of this childcare;cf19l379;cf18k379;cf17j379;cf16i379;cf15h379;cf14g379;cf13f379;cf12e379;cf11d379;cf10c379;cf09b379;cf08a379
+childcare_old_hours;How many hours per week do you make use of this childcare;cf19l380;cf18k380;cf17j380;cf16i380;cf15h380;cf14g380;cf13f380;cf12e380;cf11d380;cf10c380;cf09b380;cf08a380
+childcare_old_costs;How much do you pay in total for the childcare of your living-at-home children b;cf19l381;cf18k381;cf17j381;cf16i381;cf15h381;cf14g381;cf13f381;;cf11d381;cf10c381;cf09b381;cf08a381
+childcare_total_costs;Do you know what the total costs of the childcare are;cf19l382;cf18k382;cf17j382;cf16i382;cf15h382;cf14g382;cf13f382;;cf11d382;cf10c382;cf09b382;cf08a382
+childcare_receipts;Do you receive (aside from;cf19l383;cf18k383;cf17j383;cf16i383;cf15h383;cf14g383;cf13f383;cf12e383;cf11d383;cf10c383;cf09b383;cf08a383
+childcare_receipts_amount;What is the total amount of the subsidy and/or the contribution per month;cf19l384;cf18k384;cf17j384;cf16i384;cf15h384;cf14g384;cf13f384;;cf11d384;cf10c384;cf09b384;cf08a384
+childcare_subsidy;Have you received any childcare supplement from the tax authority?;cf19l385;cf18k385;cf17j385;cf16i385;cf15h385;cf14g385;cf13f385;cf12e385;cf11d385;cf10c385;cf09b385;cf08a385
+childcare_subsidy_monthly;Do you receive the childcare supplement every month;cf19l386;cf18k386;cf17j386;cf16i386;cf15h386;cf14g386;cf13f386;cf12e386;cf11d386;cf10c386;cf09b386;cf08a386
+childcare_subsidy_amount;How much childcare supplement did you receive from the tax authority (in March 2;cf19l387;cf18k387;cf17j387;cf16i387;cf15h387;cf14g387;cf13f387;;cf11d387;cf10c387;cf09b387;cf08a387
+questionnaire_difficult;Was it difficult to answer the questions?;cf19l388;cf18k388;cf17j388;cf16i388;cf15h388;cf14g388;cf13f388;cf12e388;cf11d388;cf10c388;cf09b388;cf08a388
+questionnaire_clear;Were the questions sufficiently clear?;cf19l389;cf18k389;cf17j389;cf16i389;cf15h389;cf14g389;cf13f389;cf12e389;cf11d389;cf10c389;cf09b389;cf08a389
+questionnaire_thinking;Did the questionnaire get you thinking about things?;cf19l390;cf18k390;cf17j390;cf16i390;cf15h390;cf14g390;cf13f390;cf12e390;cf11d390;cf10c390;cf09b390;cf08a390
+questionnaire_interesting;Was it an interesting subject?;cf19l391;cf18k391;cf17j391;cf16i391;cf15h391;cf14g391;cf13f391;cf12e391;cf11d391;cf10c391;cf09b391;cf08a391
+questionnaire_enjoy;Did you enjoy answering the questions?;cf19l392;cf18k392;cf17j392;cf16i392;cf15h392;cf14g392;cf13f392;cf12e392;cf11d392;cf10c392;cf09b392;cf08a392
+start_date;Starting date of the questionnaire;cf19l393;cf18k393;cf17j393;cf16i393;cf15h393;cf14g393;cf13f393;cf12e393;cf11d393;cf10c393;cf09b393;cf08a393
+start_time;Starting time of the questionnaire;cf19l394;cf18k394;cf17j394;cf16i394;cf15h394;cf14g394;cf13f394;cf12e394;cf11d394;cf10c394;cf09b394;cf08a394
+end_date;End date of the questionnaire;cf19l395;cf18k395;cf17j395;cf16i395;cf15h395;cf14g395;cf13f395;cf12e395;cf11d395;cf10c395;cf09b395;cf08a395
+end_time;End time of the questionnaire;cf19l396;cf18k396;cf17j396;cf16i396;cf15h396;cf14g396;cf13f396;cf12e396;cf11d396;cf10c396;cf09b396;cf08a396
+duration;Duration in seconds;cf19l397;cf18k397;cf17j397;cf16i397;cf15h397;cf14g397;cf13f397;cf12e397;cf11d397;cf10c397;cf09b397;cf08a397
+distance_parents;'Constructed variable: distance between panel member and parents'' place of reside';cf19l398;cf18k398;cf17j398;cf16i398;cf15h398;cf14g398;cf13f398;cf12e398;cf11d398;cf10c398;cf09b398;cf08a398
+distance_father;'Constructed variable: distance between panel member and father''s place of reside';cf19l399;cf18k399;cf17j399;cf16i399;cf15h399;cf14g399;cf13f399;cf12e399;cf11d399;cf10c399;cf09b399;cf08a399
+distance_mother;'Constructed variable: distance between panel member of mother''s place of residen';cf19l400;cf18k400;cf17j400;cf16i400;cf15h400;cf14g400;cf13f400;cf12e400;cf11d400;cf10c400;cf09b400;cf08a400
+date_fieldwork;Year and month of fieldwork period;cf19l_m;cf18k_m;cf17j_m;cf16i_m;cf15h_m;cf14g_m;cf13f_m;cf12e_m;cf11d_m;cf10c_m;cf09b_m;cf08a_m
+hh_id;Number of household encrypted;;;;;;;;;;nohouse_encr;nohouse_encr;nohouse_encr
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr
+parents_together;Are your own parents still together? This concerns your biological father and bi;cf19l401;cf18k401;cf17j401;cf16i401;cf15h401;cf14g401;cf13f401;cf12e401;cf11d401;cf10c401;cf09b401;
+partner_same;Is this partner the same partner you entered in the questionnaire last year?;cf19l402;cf18k402;cf17j402;cf16i402;cf15h402;cf14g402;cf13f402;cf12e402;cf11d402;cf10c402;cf09b402;
+partner_different;Last year you indicated that you had a different partner. Did you separate from;cf19l403;cf18k403;cf17j403;cf16i403;cf15h403;cf14g403;cf13f403;cf12e403;cf11d403;cf10c403;cf09b403;
+partner_separate;Last year you indicated having a partner at the time. Did you separate;cf19l404;cf18k404;cf17j404;cf16i404;cf15h404;cf14g404;cf13f404;cf12e404;cf11d404;cf10c404;cf09b404;
+children_amount_changed;Has this number changed since last year?;;;;;;cf14g405;cf13f405;cf12e405;cf11d405;cf10c405;cf09b405;
+children_alive_change;Are all these children still alive?;;;;;;cf14g406;cf13f406;cf12e406;cf11d406;cf10c406;cf09b406;
+childless_choice;Do you consider yourself as childless by choice;cf19l407;cf18k407;cf17j407;cf16i407;cf15h407;cf14g407;cf13f407;cf12e407;cf11d407;cf10c407;cf09b407;
+childless_loss;Do you consider it a loss not having had children;cf19l408;cf18k408;cf17j408;cf16i408;cf15h408;cf14g408;cf13f408;cf12e408;cf11d408;cf10c408;cf09b408;
+parenting_obedience1;Please indicate which of the statements best reflects your own opinion.;;;;;;;cf13f409;;cf11d409;;cf09b409;
+parenting_freedom;Please indicate which of the statements best reflects your own opinion.;;;;;;;cf13f410;;cf11d410;;cf09b410;
+parenting_obedience2;Please indicate which of the statements best reflects your own opinion.;;;;;;;cf13f411;;cf11d411;;cf09b411;
+parenting_strict;Please indicate which of the statements best reflects your own opinion.;;;;;;;cf13f412;;cf11d412;;cf09b412;
+parenting_happiness;Please indicate which of the statements best reflects your own opinion.;;;;;;;cf13f413;;cf11d413;;cf09b413;
+hours_food;Please indicate how many hours you spend per week on: cooking meals;;;;;;;cf13f414;;cf11d414;;cf09b414;
+hours_laundry;Please indicate how many hours you spend per week on: doing the laundy;;;;;;;cf13f415;;cf11d415;;cf09b415;
+hours_cleaning;Please indicate how many hours you spend per week on: house cleaning;;;;;;;cf13f416;;cf11d416;;cf09b416;
+hours_chores;Please indicate how many hours you spend per week on: odd jobs in and around the;;;;;;;cf13f417;;cf11d417;;cf09b417;
+hours_finances;Please indicate how many hours you spend per week on: doing the financial admini;;;;;;;cf13f418;;cf11d418;;cf09b418;
+hours_groceries;Please indicate how many hours you spend per week on: grocery shopping;;;;;;;cf13f419;;cf11d419;;cf09b419;
+household_time;'There are so many house keeping chores to be done that I often don''t have enough';;;;;;;cf13f420;;cf11d420;;cf09b420;
+household_boring;I find it monotonous to do housekeeping work.;;;;;;;cf13f421;;cf11d421;;cf09b421;
+household_flexible;I am free to choose when and how i do the housekeeping work.;;;;;;;cf13f422;;cf11d422;;cf09b422;
+household_stress;I find that my housepeeking work gives me stress.;;;;;;;cf13f423;;cf11d423;;cf09b423;
+division_household;How reasonable or unreasonable do you feel the division of chores is within your;;;;;;;cf13f424;;cf11d424;;cf09b424;
+division_paidwork;How reasonable or unreasonable do you feel the division of chores is within your;;;;;;;cf13f425;;cf11d425;;cf09b425;
+division_children;How reasonable or unreasonable do you feel the division of chores is within your;;;;;;;cf13f426;;cf11d426;;cf09b426;
+care_burden;All in all;;;;;;;cf13f427;;cf11d427;;cf09b427;
+care_demands;Caring for my child demands too much of me.;;;;;;;cf13f428;;cf11d428;;cf09b428;
+care_taxing;Caring for my child is very taxing for me.;;;;;;;cf13f429;;cf11d429;;cf09b429;
+care_energy;Caring for my child costs so much energy;;;;;;;cf13f430;;cf11d430;;cf09b430;
+care_easy;My child is very easy to care for.;;;;;;;cf13f431;;cf11d431;;cf09b431;
+relation_family;How would you generally describe the relationship with your family?;cf19l432;cf18k432;cf17j432;cf16i432;cf15h432;cf14g432;cf13f432;cf12e432;cf11d432;;;
+father_phone;How often did you have contact with your father over the past 12 months;cf19l452;cf18k452;cf17j452;cf16i452;cf15h452;;;;;;;
+mother_phone;How often did you have contact with your mother over the past 12 months;cf19l453;cf18k453;cf17j453;cf16i453;cf15h453;;;;;;;
+children_died;Did you ever have (a) child(ren) who passed away after being born?;cf19l471;cf18k471;cf17j471;cf16i471;cf15h471;;;;;;;
+children_died_amount;How many of your children passed away after being born?;cf19l472;cf18k472;cf17j472;cf16i472;cf15h472;;;;;;;
+child1_died_birth;Birth year deceased child 1;cf19l473;cf18k473;cf17j473;cf16i473;cf15h473;;;;;;;
+child2_died_birth;Birth year deceased child 2;cf19l474;cf18k474;cf17j474;cf16i474;cf15h474;;;;;;;
+child3_died_birth;Birth year deceased child 3;cf19l475;cf18k475;cf17j475;cf16i475;cf15h475;;;;;;;
+child4_died_birth;Birth year deceased child 4;cf19l476;cf18k476;cf17j476;cf16i476;cf15h476;;;;;;;
+child5_died_birth;Birth year deceased child 5;cf19l477;cf18k477;cf17j477;cf16i477;cf15h477;;;;;;;
+child6_died_birth;Birth year deceased child 6;cf19l478;cf18k478;cf17j478;cf16i478;cf15h478;;;;;;;
+child7_died_birth;Birth year deceased child 7;cf19l479;cf18k479;cf17j479;cf16i479;cf15h479;;;;;;;
+child8_died_birth;Birth year deceased child 8;cf19l480;cf18k480;cf17j480;cf16i480;cf15h480;;;;;;;
+child9_died_birth;Birth year deceased child 9;cf19l481;cf18k481;cf17j481;cf16i481;cf15h481;;;;;;;
+child10_died_birth;Birth year deceased child 10;cf19l482;cf18k482;cf17j482;cf16i482;cf15h482;;;;;;;
+mother_fond;I am very fond of my mother.;cf19l504;cf18k504;cf17j504;cf16i504;cf15h504;;;;;;;
+mother_close;My mother and I have a close relationship.;cf19l505;cf18k505;cf17j505;cf16i505;cf15h505;;;;;;;
+mother_mixed;I have conflicting feelings about my mother.;cf19l506;cf18k506;cf17j506;cf16i506;cf15h506;;;;;;;
+mother_irritation;My mothers behavior irritates me.;cf19l507;cf18k507;cf17j507;cf16i507;cf15h507;;;;;;;
+mother_connected;I feel closely connected to my mother.;cf19l508;cf18k508;cf17j508;cf16i508;cf15h508;;;;;;;
+mother_guilt;I sometimes feel guilty towards my mother.;cf19l509;cf18k509;cf17j509;cf16i509;cf15h509;;;;;;;
+mother_angry;Quite often I am angry with my mother.;cf19l510;cf18k510;cf17j510;cf16i510;cf15h510;;;;;;;
+mother_unstable;The relationship with my mother is quite unstable;cf19l511;cf18k511;cf17j511;cf16i511;cf15h511;;;;;;;
+mother_embarrassed;I sometimes feel embarrassed because of what my mother says or does.;cf19l512;cf18k512;cf17j512;cf16i512;cf15h512;;;;;;;
+child_fond;I am very fond of my [son/daughter].;cf19l513;cf18k513;cf17j513;cf16i513;cf15h513;;;;;;;
+child_close;My [son/daughter] and I have a close relationship.;cf19l514;cf18k514;cf17j514;cf16i514;cf15h514;;;;;;;
+child_mixed;I have conflicting feelings about my [son/daughter].;cf19l515;cf18k515;cf17j515;cf16i515;cf15h515;;;;;;;
+child_irritation;My [son/daughter]s behavior irritates me.;cf19l516;cf18k516;cf17j516;cf16i516;cf15h516;;;;;;;
+child_connected;I feel closely connected to my [son/daughter].;cf19l517;cf18k517;cf17j517;cf16i517;cf15h517;;;;;;;
+child_guilt;I sometimes feel guilty towards my [son/daughter].;cf19l518;cf18k518;cf17j518;cf16i518;cf15h518;;;;;;;
+child_angry;Quite often I am angry with my [son/daughter].;cf19l519;cf18k519;cf17j519;cf16i519;cf15h519;;;;;;;
+child_unstable;The relationship with my [son/daughter] is quite unstable;cf19l520;cf18k520;cf17j520;cf16i520;cf15h520;;;;;;;
+child_embarrassed;I sometimes feel embarrassed because of what my [son/daughter] says or does.;cf19l521;cf18k521;cf17j521;cf16i521;cf15h521;;;;;;;
+consider_father;Who do you consider to be your father?;cf19l522;;;;;;;;;;;
+consider_father_other_txt;Who do you consider to be your father? - other, namely;cf19l523;;;;;;;;;;;
+consider_mother;Who do you consider to be your mother?;cf19l524;;;;;;;;;;;
+consider_mother_other_txt;Who do you consider to be your mother? - other, namely;cf19l525;;;;;;;;;;;

@@ -1,6 +1,7 @@
 output
 data_after_basic_cleaning
 raw_data/liss
+1_basic_data_cleaning/out
 
 *-blx.bib
 *.asv

@@ -1,0 +1,14 @@
+new_name;labels;ew11a_EN_1.0p.dta
+self_fin_literacy;How would you score your understanding of financial matters (on a scale of 1 to;ew11a001
+literacy_q1;How much do you think you will have on the savings account after five years, ass;ew11a002
+literacy_q2;Suppose that the interest on your savings account is 1% per year and that inflat;ew11a003
+literacy_q3;A share in a company usually offers a more certain return than an investment fun;ew11a004
+literacy_q4;If the interest rate goes up, what should happen to bond prices?;ew11a005
+questionnaire_difficult;Was it difficult to answer the questions?;ew11a006
+questionnaire_clear;Were the questions sufficiently clear?;ew11a007
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ew11a008
+questionnaire_interesting;Was it an interesting subject?;ew11a009
+questionnaire_enjoy;Did you enjoy answering the questions?;ew11a010
+date_fieldwork;Year and month of the field work period;ew11a_m
+hh_id;Number of the household encrypted;nohouse_encr
+personal_id;Number of the respondent encrypted;nomem_encr

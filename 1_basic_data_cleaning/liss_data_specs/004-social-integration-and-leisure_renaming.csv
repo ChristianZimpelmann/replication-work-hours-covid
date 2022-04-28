@@ -1,0 +1,505 @@
+new_name;labels;cs19l_EN_1.0p.dta;cs18k_EN_1.0p.dta;cs17j_EN_1.0p.dta;cs16i_EN_1.0p.dta;cs15h_EN_1.0p.dta;cs14g_EN_1.0.dta;cs13f_1.0p_EN.dta;cs12e_1.0p_EN.dta;cs11d_EN_3.0p.dta;cs10c_1p_EN.dta;cs09b_1p_EN.dta;cs08a_2p_EN.dta
+satisfied_ltamount;How satisfied are you with the amount of leisure time that you have?;cs19l001;cs18k001;cs17j001;cs16i001;cs15h001;cs14g001;cs13f001;cs12e001;cs11d001;cs10c001;cs09b001;cs08a001
+satisfied_ltway;How satisfied are you with the way in which you spend your leisure time?;cs19l002;cs18k002;cs17j002;cs16i002;cs15h002;cs14g002;cs13f002;cs12e002;cs11d002;cs10c002;cs09b002;cs08a002
+no_sportclub;a sports club or club for outdoor activities no connection;cs19l003;cs18k003;cs17j003;cs16i003;cs15h003;cs14g003;cs13f003;cs12e003;cs11d003;cs10c003;cs09b003;cs08a003
+benefactor_sportclub;a sports club or club for outdoor activities donated money;cs19l004;cs18k004;cs17j004;cs16i004;cs15h004;cs14g004;cs13f004;cs12e004;cs11d004;cs10c004;cs09b004;cs08a004
+participant_sportclub;a sports club or club for outdoor activities participated in an activity;cs19l005;cs18k005;cs17j005;cs16i005;cs15h005;cs14g005;cs13f005;cs12e005;cs11d005;cs10c005;cs09b005;cs08a005
+member_sportclub;a sports club or club for outdoor activities member;cs19l006;cs18k006;cs17j006;cs16i006;cs15h006;cs14g006;cs13f006;cs12e006;cs11d006;cs10c006;cs09b006;cs08a006
+volunteer_sportclub;a sports club or club for outdoor activities performed voluntary work;cs19l007;cs18k007;cs17j007;cs16i007;cs15h007;cs14g007;cs13f007;cs12e007;cs11d007;cs10c007;cs09b007;cs08a007
+no_cultural;a cultural association or hobby club no connection;cs19l008;cs18k008;cs17j008;cs16i008;cs15h008;cs14g008;cs13f008;cs12e008;cs11d008;cs10c008;cs09b008;cs08a008
+benefactor_cultural;a cultural association or hobby club donated money;cs19l009;cs18k009;cs17j009;cs16i009;cs15h009;cs14g009;cs13f009;cs12e009;cs11d009;cs10c009;cs09b009;cs08a009
+participant_cultural;a cultural association or hobby club participated in an activity;cs19l010;cs18k010;cs17j010;cs16i010;cs15h010;cs14g010;cs13f010;cs12e010;cs11d010;cs10c010;cs09b010;cs08a010
+member_cultural;a cultural association or hobby club member;cs19l011;cs18k011;cs17j011;cs16i011;cs15h011;cs14g011;cs13f011;cs12e011;cs11d011;cs10c011;cs09b011;cs08a011
+volunteer_cultural;a cultural association or hobby club performed voluntary work;cs19l012;cs18k012;cs17j012;cs16i012;cs15h012;cs14g012;cs13f012;cs12e012;cs11d012;cs10c012;cs09b012;cs08a012
+no_tradeunion;a trade union no connection;cs19l013;cs18k013;cs17j013;cs16i013;cs15h013;cs14g013;cs13f013;cs12e013;cs11d013;cs10c013;cs09b013;cs08a013
+benefactor_tradeunion;a trade union donated money;cs19l014;cs18k014;cs17j014;cs16i014;cs15h014;cs14g014;cs13f014;cs12e014;cs11d014;cs10c014;cs09b014;cs08a014
+participant_tradeunion;a trade union participated in an activity;cs19l015;cs18k015;cs17j015;cs16i015;cs15h015;cs14g015;cs13f015;cs12e015;cs11d015;cs10c015;cs09b015;cs08a015
+member_tradeunion;a trade union member;cs19l016;cs18k016;cs17j016;cs16i016;cs15h016;cs14g016;cs13f016;cs12e016;cs11d016;cs10c016;cs09b016;cs08a016
+volunteer_tradeunion;a trade union performed voluntary work;cs19l017;cs18k017;cs17j017;cs16i017;cs15h017;cs14g017;cs13f017;cs12e017;cs11d017;cs10c017;cs09b017;cs08a017
+no_business;a business professional or agrarian organization no connection;cs19l018;cs18k018;cs17j018;cs16i018;cs15h018;cs14g018;cs13f018;cs12e018;cs11d018;cs10c018;cs09b018;cs08a018
+benefactor_business;a business professional or agrarian organization donated money;cs19l019;cs18k019;cs17j019;cs16i019;cs15h019;cs14g019;cs13f019;cs12e019;cs11d019;cs10c019;cs09b019;cs08a019
+participant_business;a business professional or agrarian organization participated in an activity;cs19l020;cs18k020;cs17j020;cs16i020;cs15h020;cs14g020;cs13f020;cs12e020;cs11d020;cs10c020;cs09b020;cs08a020
+member_business;a business professional or agrarian organization member;cs19l021;cs18k021;cs17j021;cs16i021;cs15h021;cs14g021;cs13f021;cs12e021;cs11d021;cs10c021;cs09b021;cs08a021
+volunteer_business;a business professional or agrarian organization performed voluntary work;cs19l022;cs18k022;cs17j022;cs16i022;cs15h022;cs14g022;cs13f022;cs12e022;cs11d022;cs10c022;cs09b022;cs08a022
+no_consumerorg;a consumers organization or automobile club no connection;cs19l023;cs18k023;cs17j023;cs16i023;cs15h023;cs14g023;cs13f023;cs12e023;cs11d023;cs10c023;cs09b023;cs08a023
+benefactor_consumerorg;a consumers organization or automobile club donated money;cs19l024;cs18k024;cs17j024;cs16i024;cs15h024;cs14g024;cs13f024;cs12e024;cs11d024;cs10c024;cs09b024;cs08a024
+participant_consumerorg;a consumers organization or automobile club participated in an activity;cs19l025;cs18k025;cs17j025;cs16i025;cs15h025;cs14g025;cs13f025;cs12e025;cs11d025;cs10c025;cs09b025;cs08a025
+member_consumerorg;a consumers organization or automobile club member;cs19l026;cs18k026;cs17j026;cs16i026;cs15h026;cs14g026;cs13f026;cs12e026;cs11d026;cs10c026;cs09b026;cs08a026
+volunteer_consumerorg;a consumers organization or automobile club performed voluntary work;cs19l027;cs18k027;cs17j027;cs16i027;cs15h027;cs14g027;cs13f027;cs12e027;cs11d027;cs10c027;cs09b027;cs08a027
+no_humanitarian;an organization for humanitarian aid human rights minorities or migrants no c;cs19l028;cs18k028;cs17j028;cs16i028;cs15h028;cs14g028;cs13f028;cs12e028;cs11d028;cs10c028;cs09b028;cs08a028
+benefactor_humanitarian;an organization for humanitarian aid human rights minorities or migrants dona;cs19l029;cs18k029;cs17j029;cs16i029;cs15h029;cs14g029;cs13f029;cs12e029;cs11d029;cs10c029;cs09b029;cs08a029
+participant_humanitarian;an organization for humanitarian aid human rights minorities or migrants part;cs19l030;cs18k030;cs17j030;cs16i030;cs15h030;cs14g030;cs13f030;cs12e030;cs11d030;cs10c030;cs09b030;cs08a030
+member_humanitarian;an organization for humanitarian aid human rights minorities or migrants memb;cs19l031;cs18k031;cs17j031;cs16i031;cs15h031;cs14g031;cs13f031;cs12e031;cs11d031;cs10c031;cs09b031;cs08a031
+volunteer_humanitarian;an organization for humanitarian aid human rights minorities or migrants perf;cs19l032;cs18k032;cs17j032;cs16i032;cs15h032;cs14g032;cs13f032;cs12e032;cs11d032;cs10c032;cs09b032;cs08a032
+no_environmental;an organization for environmental protection peace organization or animal right;cs19l033;cs18k033;cs17j033;cs16i033;cs15h033;cs14g033;cs13f033;cs12e033;cs11d033;cs10c033;cs09b033;cs08a033
+benefactor_environmental;an organization for environmental protection peace organization or animal right;cs19l034;cs18k034;cs17j034;cs16i034;cs15h034;cs14g034;cs13f034;cs12e034;cs11d034;cs10c034;cs09b034;cs08a034
+participant_environmental;an organization for environmental protection peace organization or animal right;cs19l035;cs18k035;cs17j035;cs16i035;cs15h035;cs14g035;cs13f035;cs12e035;cs11d035;cs10c035;cs09b035;cs08a035
+member_environmental;an organization for environmental protection peace organization or animal right;cs19l036;cs18k036;cs17j036;cs16i036;cs15h036;cs14g036;cs13f036;cs12e036;cs11d036;cs10c036;cs09b036;cs08a036
+volunteer_environmental;an organization for environmental protection peace organization or animal right;cs19l037;cs18k037;cs17j037;cs16i037;cs15h037;cs14g037;cs13f037;cs12e037;cs11d037;cs10c037;cs09b037;cs08a037
+no_religious;a religious or church organization no connection;cs19l038;cs18k038;cs17j038;cs16i038;cs15h038;cs14g038;cs13f038;cs12e038;cs11d038;cs10c038;cs09b038;cs08a038
+benefactor_religious;a religious or church organization donated money;cs19l039;cs18k039;cs17j039;cs16i039;cs15h039;cs14g039;cs13f039;cs12e039;cs11d039;cs10c039;cs09b039;cs08a039
+participant_religious;a religious or church organization participated in an activity;cs19l040;cs18k040;cs17j040;cs16i040;cs15h040;cs14g040;cs13f040;cs12e040;cs11d040;cs10c040;cs09b040;cs08a040
+member_religious;a religious or church organization member;cs19l041;cs18k041;cs17j041;cs16i041;cs15h041;cs14g041;cs13f041;cs12e041;cs11d041;cs10c041;cs09b041;cs08a041
+volunteer_religious;a religious or church organization performed voluntary work;cs19l042;cs18k042;cs17j042;cs16i042;cs15h042;cs14g042;cs13f042;cs12e042;cs11d042;cs10c042;cs09b042;cs08a042
+no_political;a political party no connection;cs19l043;cs18k043;cs17j043;cs16i043;cs15h043;cs14g043;cs13f043;cs12e043;cs11d043;cs10c043;cs09b043;cs08a043
+benefactor_political;a political party donated money;cs19l044;cs18k044;cs17j044;cs16i044;cs15h044;cs14g044;cs13f044;cs12e044;cs11d044;cs10c044;cs09b044;cs08a044
+participant_politial;a political party participated in an activity;cs19l045;cs18k045;cs17j045;cs16i045;cs15h045;cs14g045;cs13f045;cs12e045;cs11d045;cs10c045;cs09b045;cs08a045
+member_political;a political party member;cs19l046;cs18k046;cs17j046;cs16i046;cs15h046;cs14g046;cs13f046;cs12e046;cs11d046;cs10c046;cs09b046;cs08a046
+volunteer_political;a political party performed voluntary work;cs19l047;cs18k047;cs17j047;cs16i047;cs15h047;cs14g047;cs13f047;cs12e047;cs11d047;cs10c047;cs09b047;cs08a047
+no_science;a science education teachers or parents association no connection;cs19l048;cs18k048;cs17j048;cs16i048;cs15h048;cs14g048;cs13f048;cs12e048;cs11d048;cs10c048;cs09b048;cs08a048
+benefactor_science;a science education teachers or parents association donated money;cs19l049;cs18k049;cs17j049;cs16i049;cs15h049;cs14g049;cs13f049;cs12e049;cs11d049;cs10c049;cs09b049;cs08a049
+participant_science;a science education teachers or parents association participated in an activi;cs19l050;cs18k050;cs17j050;cs16i050;cs15h050;cs14g050;cs13f050;cs12e050;cs11d050;cs10c050;cs09b050;cs08a050
+member_science;a science education teachers or parents association member;cs19l051;cs18k051;cs17j051;cs16i051;cs15h051;cs14g051;cs13f051;cs12e051;cs11d051;cs10c051;cs09b051;cs08a051
+volunteer_science;a science education teachers or parents association performed voluntary work;cs19l052;cs18k052;cs17j052;cs16i052;cs15h052;cs14g052;cs13f052;cs12e052;cs11d052;cs10c052;cs09b052;cs08a052
+no_social;a social club an association for youth pensioners/senior citizens women or f;cs19l053;cs18k053;cs17j053;cs16i053;cs15h053;cs14g053;cs13f053;cs12e053;cs11d053;cs10c053;cs09b053;cs08a053
+benefactor_social;a social society an association for youth pensioners/senior citizens women o;cs19l054;cs18k054;cs17j054;cs16i054;cs15h054;cs14g054;cs13f054;cs12e054;cs11d054;cs10c054;cs09b054;cs08a054
+participant_social;a social society an association for youth pensioners/senior citizens women o;cs19l055;cs18k055;cs17j055;cs16i055;cs15h055;cs14g055;cs13f055;cs12e055;cs11d055;cs10c055;cs09b055;cs08a055
+member_social;a social society an association for youth pensioners/senior citizens women o;cs19l056;cs18k056;cs17j056;cs16i056;cs15h056;cs14g056;cs13f056;cs12e056;cs11d056;cs10c056;cs09b056;cs08a056
+volunteer_social;a social society an association for youth pensioners/senior citizens women o;cs19l057;cs18k057;cs17j057;cs16i057;cs15h057;cs14g057;cs13f057;cs12e057;cs11d057;cs10c057;cs09b057;cs08a057
+no_other;other organizations that you can freely join no connection;cs19l058;cs18k058;cs17j058;cs16i058;cs15h058;cs14g058;cs13f058;cs12e058;cs11d058;cs10c058;cs09b058;cs08a058
+benfactor_other;other organizations that you can freely join donated money;cs19l059;cs18k059;cs17j059;cs16i059;cs15h059;cs14g059;cs13f059;cs12e059;cs11d059;cs10c059;cs09b059;cs08a059
+participant_other;other organizations that you can freely join participated in an activity;cs19l060;cs18k060;cs17j060;cs16i060;cs15h060;cs14g060;cs13f060;cs12e060;cs11d060;cs10c060;cs09b060;cs08a060
+member_other;other organizations that you can freely join member;cs19l061;cs18k061;cs17j061;cs16i061;cs15h061;cs14g061;cs13f061;cs12e061;cs11d061;cs10c061;cs09b061;cs08a061
+volunteer_other;other organizations that you can freely join performed voluntary work;cs19l062;cs18k062;cs17j062;cs16i062;cs15h062;cs14g062;cs13f062;cs12e062;cs11d062;cs10c062;cs09b062;cs08a062
+provide_care_d;Did you perform any informal care over the past 12 months?;cs19l063;cs18k063;cs17j063;cs16i063;cs15h063;cs14g063;cs13f063;cs12e063;cs11d063;cs10c063;cs09b063;cs08a063
+provide_care_cat;How were you related to this person? The person to whom I provided informal care;cs19l064;cs18k064;cs17j064;cs16i064;cs15h064;cs14g064;cs13f064;cs12e064;cs11d064;cs10c064;cs09b064;cs08a064
+provide_care_txt;How were you related to this person? The person to whom I provided informal care;cs19l065;cs18k065;cs17j065;cs16i065;cs15h065;cs14g065;cs13f065;cs12e065;cs11d065;cs10c065;cs09b065;cs08a065
+hours_provide_care;How many hours of informal care did you provide per week on average?;cs19l066;cs18k066;cs17j066;cs16i066;cs15h066;cs14g066;cs13f066;cs12e066;cs11d066;cs10c066;cs09b066;cs08a066
+provide_care_housekeeping;housekeeping help (e.g. cleaning laundry grocery shopping);cs19l067;cs18k067;cs17j067;cs16i067;cs15h067;cs14g067;cs13f067;cs12e067;cs11d067;cs10c067;cs09b067;cs08a067
+provide_care_personalcare;personal care (e.g. bathing showering dressing);cs19l068;cs18k068;cs17j068;cs16i068;cs15h068;cs14g068;cs13f068;cs12e068;cs11d068;cs10c068;cs09b068;cs08a068
+provide_care_personalsupport;personal support (e.g. arranging affairs offering solace listening);cs19l069;cs18k069;cs17j069;cs16i069;cs15h069;cs14g069;cs13f069;cs12e069;cs11d069;cs10c069;cs09b069;cs08a069
+receive_care_d;Did you personally receive informal care over the past 12 months on account of a;cs19l070;cs18k070;cs17j070;cs16i070;cs15h070;cs14g070;cs13f070;cs12e070;cs11d070;cs10c070;cs09b070;cs08a070
+receive_care_cat;How were you related to this person? The person from whom I received informal ca;cs19l071;cs18k071;cs17j071;cs16i071;cs15h071;cs14g071;cs13f071;cs12e071;cs11d071;cs10c071;cs09b071;cs08a071
+receive_care_txt;How were you related to this person? The person from whom I received informal ca;cs19l072;cs18k072;cs17j072;cs16i072;cs15h072;cs14g072;cs13f072;cs12e072;cs11d072;cs10c072;cs09b072;cs08a072
+hours_receive_care;How many hours of help did you receive per week on average?;cs19l073;cs18k073;cs17j073;cs16i073;cs15h073;cs14g073;cs13f073;cs12e073;cs11d073;cs10c073;cs09b073;cs08a073
+receive_care_housekeeping;housekeeping help (e.g. cleaning laundry grocery shopping);cs19l074;cs18k074;cs17j074;cs16i074;cs15h074;cs14g074;cs13f074;cs12e074;cs11d074;cs10c074;cs09b074;cs08a074
+receive_care_personalcare;personal care (e.g. bathing showering dressing);cs19l075;cs18k075;cs17j075;cs16i075;cs15h075;cs14g075;cs13f075;cs12e075;cs11d075;cs10c075;cs09b075;cs08a075
+receive_care_personalsupport;personal support (e.g. arranging affairs offering solace listening);cs19l076;cs18k076;cs17j076;cs16i076;cs15h076;cs14g076;cs13f076;cs12e076;cs11d076;cs10c076;cs09b076;cs08a076
+volunteering_d;Did you perform any other voluntary work over the past 12 months other than ind;cs19l077;cs18k077;cs17j077;cs16i077;cs15h077;cs14g077;cs13f077;cs12e077;cs11d077;cs10c077;cs09b077;cs08a077
+volunteering_txt;What kind of voluntary work did you perform?;cs19l078;cs18k078;cs17j078;cs16i078;cs15h078;cs14g078;cs13f078;cs12e078;cs11d078;cs10c078;cs09b078;cs08a078
+volunteering_hours;Considered all together how much time do you spend on voluntary work and inform;cs19l079;cs18k079;cs17j079;cs16i079;cs15h079;cs14g079;cs13f079;cs12e079;cs11d079;cs10c079;cs09b079;cs08a079
+visit_theatre;a theatre performance visited in the past 12 months;cs19l488;cs18k488;cs17j488;cs16i488;cs15h488;cs14g080;cs13f080;cs12e080;cs11d080;cs10c080;cs09b080;cs08a080
+visit_cabaret;a cabaret performance visited in the past 12 months;cs19l489;cs18k489;cs17j489;cs16i489;cs15h489;cs14g081;cs13f081;cs12e081;cs11d081;cs10c081;cs09b081;cs08a081
+visit_classical;a classical concert visited in the past 12 months;cs19l082;cs18k082;cs17j082;cs16i082;cs15h082;cs14g082;cs13f082;cs12e082;cs11d082;cs10c082;cs09b082;cs08a082
+visit_opera;an opera or operetta visited in the past 12 months;cs19l083;cs18k083;cs17j083;cs16i083;cs15h083;cs14g083;cs13f083;cs12e083;cs11d083;cs10c083;cs09b083;cs08a083
+visit_concert;a concert of popular music pop rock jazz musical or pop opera visited in th;cs19l514;cs18k514;cs17j514;cs16i514;cs15h084;cs14g084;cs13f084;cs12e084;cs11d084;cs10c084;cs09b084;cs08a084
+visit_dance;a dance event houseparty visited in the past 12 months;cs19l490;cs18k490;cs17j490;cs16i490;cs15h490;cs14g085;cs13f085;cs12e085;cs11d085;cs10c085;cs09b085;cs08a085
+visit_ballet;a ballet performance visited in the past 12 months;cs19l515;cs18k515;cs17j515;cs16i515;cs15h086;cs14g086;cs13f086;cs12e086;cs11d086;cs10c086;cs09b086;cs08a086
+visit_cinema;the cinema visited in the past 12 months;cs19l087;cs18k087;cs17j087;cs16i087;cs15h087;cs14g087;cs13f087;cs12e087;cs11d087;cs10c087;cs09b087;cs08a087
+visit_film;a film house visited in the past 12 months;cs19l088;cs18k088;cs17j088;cs16i088;cs15h088;cs14g088;cs13f088;cs12e088;cs11d088;cs10c088;cs09b088;cs08a088
+visit_art;an art gallery visited in the past 12 months;cs19l089;cs18k089;cs17j089;cs16i089;cs15h089;cs14g089;cs13f089;cs12e089;cs11d089;cs10c089;cs09b089;cs08a089
+visit_museum;a museum visited in the past 12 months;cs19l090;cs18k090;cs17j090;cs16i090;cs15h090;cs14g090;cs13f090;cs12e090;cs11d090;cs10c090;cs09b090;cs08a090
+number_theatre;a theatre performance number of visits over the past 12 months;cs19l494;cs18k494;cs17j494;cs16i494;cs15h494;cs14g091;cs13f091;cs12e091;cs11d091;cs10c091;cs09b091;cs08a091
+number_cabaret;a cabaret performance number of visits over the past 12 months;cs19l495;cs18k495;cs17j495;cs16i495;cs15h495;cs14g092;cs13f092;cs12e092;cs11d092;cs10c092;cs09b092;cs08a092
+number_classical;a classical concert number of visits over the past 12 months;cs19l093;cs18k093;cs17j093;cs16i093;cs15h093;cs14g093;cs13f093;cs12e093;cs11d093;cs10c093;cs09b093;cs08a093
+number_opera;an opera or operetta number of visits over the past 12 months;cs19l094;cs18k094;cs17j094;cs16i094;cs15h094;cs14g094;cs13f094;cs12e094;cs11d094;cs10c094;cs09b094;cs08a094
+number_concert;a concert of popular music pop rock jazz musical or pop opera number of vis;cs19l516;cs18k516;cs17j516;cs16i516;cs15h095;cs14g095;cs13f095;cs12e095;cs11d095;cs10c095;cs09b095;cs08a095
+number_dance;a dance event houseparty number of visits over the past 12 months;cs19l496;cs18k496;cs17j496;cs16i496;cs15h496;cs14g096;cs13f096;cs12e096;cs11d096;cs10c096;cs09b096;cs08a096
+number_ballet;a ballet performance number of visits over the past 12 months;cs19l517;cs18k517;cs17j517;cs16i517;cs15h097;cs14g097;cs13f097;cs12e097;cs11d097;cs10c097;cs09b097;cs08a097
+number_cinema;the cinema number of visits over the past 12 months;cs19l098;cs18k098;cs17j098;cs16i098;cs15h098;cs14g098;cs13f098;cs12e098;cs11d098;cs10c098;cs09b098;cs08a098
+number_film;a film house number of visits over the past 12 months;cs19l099;cs18k099;cs17j099;cs16i099;cs15h099;cs14g099;cs13f099;cs12e099;cs11d099;cs10c099;cs09b099;cs08a099
+number_art;an art gallery number of visits over the past 12 months;cs19l100;cs18k100;cs17j100;cs16i100;cs15h100;cs14g100;cs13f100;cs12e100;cs11d100;cs10c100;cs09b100;cs08a100
+number_museum;a museum number of visits over the past 12 months;cs19l101;cs18k101;cs17j101;cs16i101;cs15h101;cs14g101;cs13f101;cs12e101;cs11d101;cs10c101;cs09b101;cs08a101
+holiday_domestic;How often did you take a holiday within the Netherlands over the past 12 months?;cs19l102;cs18k102;cs17j102;cs16i102;cs15h102;cs14g102;cs13f102;cs12e102;cs11d102;cs10c102;cs09b102;cs08a102
+holiday_abroad;How often did you take a holiday abroad over the past 12 months?;cs19l103;cs18k103;cs17j103;cs16i103;cs15h103;cs14g103;cs13f103;cs12e103;cs11d103;cs10c103;cs09b103;cs08a103
+sports_d;Do you practice sports?;cs19l104;cs18k104;cs17j104;cs16i104;cs15h104;cs14g104;cs13f104;cs12e104;cs11d104;cs10c104;cs09b104;cs08a104
+sports_hours;How many hours do you spend on sports per week on average?;cs19l105;cs18k105;cs17j105;cs16i105;cs15h105;cs14g105;cs13f105;cs12e105;cs11d105;cs10c105;cs09b105;cs08a105
+sports_d_soccer;What sport do you practice? - soccer;cs19l106;cs18k106;cs17j106;cs16i106;cs15h106;cs14g106;cs13f106;cs12e106;cs11d106;cs10c106;cs09b106;cs08a106
+sports_d_hockey;What sport do you practice? - hockey;cs19l107;cs18k107;cs17j107;cs16i107;cs15h107;cs14g107;cs13f107;cs12e107;cs11d107;cs10c107;cs09b107;cs08a107
+sports_d_handball;What sport do you practice? - handball;cs19l108;cs18k108;cs17j108;cs16i108;cs15h108;cs14g108;cs13f108;cs12e108;cs11d108;cs10c108;cs09b108;cs08a108
+sports_d_volleyball;What sport do you practice? - volleyball;cs19l109;cs18k109;cs17j109;cs16i109;cs15h109;cs14g109;cs13f109;cs12e109;cs11d109;cs10c109;cs09b109;cs08a109
+sports_d_badminton;What sport do you practice? - badminton;cs19l110;cs18k110;cs17j110;cs16i110;cs15h110;cs14g110;cs13f110;cs12e110;cs11d110;cs10c110;cs09b110;cs08a110
+sports_d_squash;What sport do you practice? - squash;cs19l111;cs18k111;cs17j111;cs16i111;cs15h111;cs14g111;cs13f111;cs12e111;cs11d111;cs10c111;cs09b111;cs08a111
+sports_d_gymnastics;What sport do you practice? - gymnastics;cs19l112;cs18k112;cs17j112;cs16i112;cs15h112;cs14g112;cs13f112;cs12e112;cs11d112;cs10c112;cs09b112;cs08a112
+sports_d_indoor;What sport do you practice? - indoor soccer;cs19l113;cs18k113;cs17j113;cs16i113;cs15h113;cs14g113;cs13f113;cs12e113;cs11d113;cs10c113;cs09b113;cs08a113
+sports_d_jogging;What sport do you practice? - jogging/running;cs19l114;cs18k114;cs17j114;cs16i114;cs15h114;cs14g114;cs13f114;cs12e114;cs11d114;cs10c114;cs09b114;cs08a114
+sports_d_inline;What sport do you practice? - inline skating;cs19l115;cs18k115;cs17j115;cs16i115;cs15h115;cs14g115;cs13f115;cs12e115;cs11d115;cs10c115;cs09b115;cs08a115
+sports_d_swimming;What sport do you practice? - swimming;cs19l116;cs18k116;cs17j116;cs16i116;cs15h116;cs14g116;cs13f116;cs12e116;cs11d116;cs10c116;cs09b116;cs08a116
+sports_d_tennis;What sport do you practice? - tennis;cs19l117;cs18k117;cs17j117;cs16i117;cs15h117;cs14g117;cs13f117;cs12e117;cs11d117;cs10c117;cs09b117;cs08a117
+sports_d_cycling;What sport do you practice? - cycling;cs19l118;cs18k118;cs17j118;cs16i118;cs15h118;cs14g118;cs13f118;cs12e118;cs11d118;cs10c118;cs09b118;cs08a118
+sports_d_walking;What sport do you practice? - walking;cs19l119;cs18k119;cs17j119;cs16i119;cs15h119;cs14g119;cs13f119;cs12e119;cs11d119;cs10c119;cs09b119;cs08a119
+sports_d_golf;What sport do you practice? - golf;cs19l120;cs18k120;cs17j120;cs16i120;cs15h120;cs14g120;cs13f120;cs12e120;cs11d120;cs10c120;cs09b120;cs08a120
+sports_d_fitness;What sport do you practice? - fitness;cs19l121;cs18k121;cs17j121;cs16i121;cs15h121;cs14g121;cs13f121;cs12e121;cs11d121;cs10c121;cs09b121;cs08a121
+sports_d_other;What sport do you practice? - other sport(s);cs19l122;cs18k122;cs17j122;cs16i122;cs15h122;cs14g122;cs13f122;cs12e122;cs11d122;cs10c122;cs09b122;cs08a122
+sports_txt_other;What other sport(s) do you mean?;cs19l123;cs18k123;cs17j123;cs16i123;cs15h123;cs14g123;cs13f123;cs12e123;cs11d123;cs10c123;cs09b123;cs08a123
+tv_days;How many days do you watch television per week on average? If you do not watch;cs19l124;cs18k124;cs17j124;cs16i124;cs15h124;cs14g124;cs13f124;cs12e124;cs11d124;cs10c124;cs09b124;cs08a124
+tv_hours;watching television average time expenditure on days that apply: hours;cs19l125;cs18k125;cs17j125;cs16i125;cs15h125;cs14g125;cs13f125;cs12e125;cs11d125;cs10c125;cs09b125;cs08a125
+tv_minutes;watching television average time expenditure on days that apply: minutes;cs19l126;cs18k126;cs17j126;cs16i126;cs15h126;cs14g126;cs13f126;cs12e126;cs11d126;cs10c126;cs09b126;cs08a126
+radio_days;How many days do you listen to the radio per week on average? If you do not lis;cs19l127;cs18k127;cs17j127;cs16i127;cs15h127;cs14g127;cs13f127;cs12e127;cs11d127;cs10c127;cs09b127;cs08a127
+radio_hours;listening to the radio average time expenditure on days that apply: hours;cs19l128;cs18k128;cs17j128;cs16i128;cs15h128;cs14g128;cs13f128;cs12e128;cs11d128;cs10c128;cs09b128;cs08a128
+radio_minutes;listening to the radio average time expenditure on days that apply: minutes;cs19l129;cs18k129;cs17j129;cs16i129;cs15h129;cs14g129;cs13f129;cs12e129;cs11d129;cs10c129;cs09b129;cs08a129
+read_book;Did you read one or more books from beginning to end over the past month (30 day;cs19l130;cs18k130;cs17j130;cs16i130;cs15h130;cs14g130;cs13f130;cs12e130;cs11d130;cs10c130;cs09b130;cs08a130
+number_books;How many books did you read from beginning to end over the past month (30 days);cs19l131;cs18k131;cs17j131;cs16i131;cs15h131;cs14g131;cs13f131;cs12e131;cs11d131;cs10c131;cs09b131;cs08a131
+musical_instrument_d;last 12 months spent time on a regular basis on: playing a musical instrument;cs19l132;cs18k132;cs17j132;cs16i132;cs15h132;cs14g132;cs13f132;cs12e132;cs11d132;cs10c132;cs09b132;cs08a132
+singing_d;last 12 months spent time on a regular basis on: singing/choir/singing group;cs19l133;cs18k133;cs17j133;cs16i133;cs15h133;cs14g133;cs13f133;cs12e133;cs11d133;cs10c133;cs09b133;cs08a133
+small_jobs_d;last 12 months spent time on a regular basis on: small jobs in and around the h;cs19l134;cs18k134;cs17j134;cs16i134;cs15h134;cs14g134;cs13f134;cs12e134;cs11d134;cs10c134;cs09b134;cs08a134
+model_building_d;last 12 months spent time on a regular basis on: model building;cs19l135;cs18k135;cs17j135;cs16i135;cs15h135;cs14g135;cs13f135;cs12e135;cs11d135;cs10c135;cs09b135;cs08a135
+handicrafts_d;last 12 months spent time on a regular basis on: handicrafts painting drawing;cs19l136;cs18k136;cs17j136;cs16i136;cs15h136;cs14g136;cs13f136;cs12e136;cs11d136;cs10c136;cs09b136;cs08a136
+photography_d;last 12 months spent time on a regular basis on: photography;cs19l137;cs18k137;cs17j137;cs16i137;cs15h137;cs14g137;cs13f137;cs12e137;cs11d137;cs10c137;cs09b137;cs08a137
+plants_d;last 12 months spent time on a regular basis on: caring for plants (including g;cs19l138;cs18k138;cs17j138;cs16i138;cs15h138;cs14g138;cs13f138;cs12e138;cs11d138;cs10c138;cs09b138;cs08a138
+handwork_d;last 12 months spent time on a regular basis on: handwork;cs19l139;cs18k139;cs17j139;cs16i139;cs15h139;cs14g139;cs13f139;cs12e139;cs11d139;cs10c139;cs09b139;cs08a139
+dvd_d;last 12 months spent time on a regular basis on: watching DVD/video;cs19l518;cs18k518;cs17j518;cs16i518;cs15h140;cs14g140;cs13f140;cs12e140;cs11d140;cs10c140;cs09b140;cs08a140
+reading_d;last 12 months spent time on a regular basis on: reading;cs19l141;cs18k141;cs17j141;cs16i141;cs15h141;cs14g141;cs13f141;cs12e141;cs11d141;cs10c141;cs09b141;cs08a141
+stamps_d;last 12 months spent time on a regular basis on: collecting stamps;cs19l142;cs18k142;cs17j142;cs16i142;cs15h142;cs14g142;cs13f142;cs12e142;cs11d142;cs10c142;cs09b142;cs08a142
+collections_d;last 12 months spent time on a regular basis on: other collection;cs19l143;cs18k143;cs17j143;cs16i143;cs15h143;cs14g143;cs13f143;cs12e143;cs11d143;cs10c143;cs09b143;cs08a143
+course_d;last 12 months spent time on a regular basis on: following a course;cs19l144;cs18k144;cs17j144;cs16i144;cs15h144;cs14g144;cs13f144;cs12e144;cs11d144;cs10c144;cs09b144;cs08a144
+drama_d;last 12 months spent time on a regular basis on: drama musical ballet dance;cs19l145;cs18k145;cs17j145;cs16i145;cs15h145;cs14g145;cs13f145;cs12e145;cs11d145;cs10c145;cs09b145;cs08a145
+equestrian_sports_d;last 12 months spent time on a regular basis on: equestrian sport;cs19l146;cs18k146;cs17j146;cs16i146;cs15h146;cs14g146;cs13f146;cs12e146;cs11d146;cs10c146;cs09b146;cs08a146
+motorsport_d;last 12 months spent time on a regular basis on: car/motor sport;cs19l147;cs18k147;cs17j147;cs16i147;cs15h147;cs14g147;cs13f147;cs12e147;cs11d147;cs10c147;cs09b147;cs08a147
+mechanical_d;last 12 months spent time on a regular basis on: mechanical work on car motorc;cs19l148;cs18k148;cs17j148;cs16i148;cs15h148;cs14g148;cs13f148;cs12e148;cs11d148;cs10c148;cs09b148;cs08a148
+card_games_d;last 12 months spent time on a regular basis on: card games;cs19l149;cs18k149;cs17j149;cs16i149;cs15h149;cs14g149;cs13f149;cs12e149;cs11d149;cs10c149;cs09b149;cs08a149
+billards_d;last 12 months spent time on a regular basis on: billiards pool snooker dart;cs19l150;cs18k150;cs17j150;cs16i150;cs15h150;cs14g150;cs13f150;cs12e150;cs11d150;cs10c150;cs09b150;cs08a150
+pigeon_d;last 12 months spent time on a regular basis on: pigeon keeping;cs19l151;cs18k151;cs17j151;cs16i151;cs15h151;cs14g151;cs13f151;cs12e151;cs11d151;cs10c151;cs09b151;cs08a151
+goout_d;last 12 months spent time on a regular basis on: going out cinema theatre di;cs19l152;cs18k152;cs17j152;cs16i152;cs15h152;cs14g152;cs13f152;cs12e152;cs11d152;cs10c152;cs09b152;cs08a152
+cooking_d;last 12 months spent time on a regular basis on: cooking;cs19l153;cs18k153;cs17j153;cs16i153;cs15h153;cs14g153;cs13f153;cs12e153;cs11d153;cs10c153;cs09b153;cs08a153
+listening_d;last 12 months spent time on a regular basis on: listening to music;cs19l154;cs18k154;cs17j154;cs16i154;cs15h154;cs14g154;cs13f154;cs12e154;cs11d154;cs10c154;cs09b154;cs08a154
+fishing_d;last 12 months spent time on a regular basis on: fishing;cs19l155;cs18k155;cs17j155;cs16i155;cs15h155;cs14g155;cs13f155;cs12e155;cs11d155;cs10c155;cs09b155;cs08a155
+shopping_d;last 12 months spent time on a regular basis on: shopping;cs19l156;cs18k156;cs17j156;cs16i156;cs15h156;cs14g156;cs13f156;cs12e156;cs11d156;cs10c156;cs09b156;cs08a156
+traveling_d;last 12 months spent time on a regular basis on: traveling;cs19l157;cs18k157;cs17j157;cs16i157;cs15h157;cs14g157;cs13f157;cs12e157;cs11d157;cs10c157;cs09b157;cs08a157
+dancing_d;last 12 months spent time on a regular basis on: dancing;cs19l158;cs18k158;cs17j158;cs16i158;cs15h158;cs14g158;cs13f158;cs12e158;cs11d158;cs10c158;cs09b158;cs08a158
+boating_d;last 12 months spent time on a regular basis on: boating;cs19l159;cs18k159;cs17j159;cs16i159;cs15h159;cs14g159;cs13f159;cs12e159;cs11d159;cs10c159;cs09b159;cs08a159
+musical_instrument_nbr;average number of days per week that time is spent on: playing a musical instrum;cs19l160;cs18k160;cs17j160;cs16i160;cs15h160;cs14g160;cs13f160;cs12e160;cs11d160;cs10c160;cs09b160;cs08a160
+singing_nbr;average number of days per week that time is spent on: singing/choir/singing gro;cs19l161;cs18k161;cs17j161;cs16i161;cs15h161;cs14g161;cs13f161;cs12e161;cs11d161;cs10c161;cs09b161;cs08a161
+small_jobs_nbr;average number of days per week that time is spent on: small jobs in and around;cs19l162;cs18k162;cs17j162;cs16i162;cs15h162;cs14g162;cs13f162;cs12e162;cs11d162;cs10c162;cs09b162;cs08a162
+model_building_nbr;average number of days per week that time is spent on: model building;cs19l163;cs18k163;cs17j163;cs16i163;cs15h163;cs14g163;cs13f163;cs12e163;cs11d163;cs10c163;cs09b163;cs08a163
+handicrafts_nbr;average number of days per week that time is spent on: handicrafts painting dr;cs19l164;cs18k164;cs17j164;cs16i164;cs15h164;cs14g164;cs13f164;cs12e164;cs11d164;cs10c164;cs09b164;cs08a164
+photography_nbr;average number of days per week that time is spent on: photography;cs19l165;cs18k165;cs17j165;cs16i165;cs15h165;cs14g165;cs13f165;cs12e165;cs11d165;cs10c165;cs09b165;cs08a165
+plants_nbr;average number of days per week that time is spent on: caring for plants (includ;cs19l166;cs18k166;cs17j166;cs16i166;cs15h166;cs14g166;cs13f166;cs12e166;cs11d166;cs10c166;cs09b166;cs08a166
+handwork_nbr;average number of days per week that time is spent on: handwork;cs19l167;cs18k167;cs17j167;cs16i167;cs15h167;cs14g167;cs13f167;cs12e167;cs11d167;cs10c167;cs09b167;cs08a167
+dvd_nbr;average number of days per week that time is spent on: watching DVD/video;cs19l500;cs18k500;cs17j500;cs16i500;cs15h500;cs14g168;cs13f168;cs12e168;cs11d168;cs10c168;cs09b168;cs08a168
+reading_nbr;average number of days per week that time is spent on: reading;cs19l169;cs18k169;cs17j169;cs16i169;cs15h169;cs14g169;cs13f169;cs12e169;cs11d169;cs10c169;cs09b169;cs08a169
+stamps_nbr;average number of days per week that time is spent on: collecting stamps;cs19l170;cs18k170;cs17j170;cs16i170;cs15h170;cs14g170;cs13f170;cs12e170;cs11d170;cs10c170;cs09b170;cs08a170
+collections_nbr;average number of days per week that time is spent on: other collection;cs19l171;cs18k171;cs17j171;cs16i171;cs15h171;cs14g171;cs13f171;cs12e171;cs11d171;cs10c171;cs09b171;cs08a171
+course_nbr;average number of days per week that time is spent on: following a course;cs19l172;cs18k172;cs17j172;cs16i172;cs15h172;cs14g172;cs13f172;cs12e172;cs11d172;cs10c172;cs09b172;cs08a172
+drama_nbr;average number of days per week that time is spent on: drama musical ballet d;cs19l173;cs18k173;cs17j173;cs16i173;cs15h173;cs14g173;cs13f173;cs12e173;cs11d173;cs10c173;cs09b173;cs08a173
+equestrian_sports_nbr;average number of days per week that time is spent on: equestrian sport;cs19l174;cs18k174;cs17j174;cs16i174;cs15h174;cs14g174;cs13f174;cs12e174;cs11d174;cs10c174;cs09b174;cs08a174
+motorsport_nbr;average number of days per week that time is spent on: car/motor sport;cs19l175;cs18k175;cs17j175;cs16i175;cs15h175;cs14g175;cs13f175;cs12e175;cs11d175;cs10c175;cs09b175;cs08a175
+mechanical_nbr;average number of days per week that time is spent on: mechanical work on car/mo;cs19l176;cs18k176;cs17j176;cs16i176;cs15h176;cs14g176;cs13f176;cs12e176;cs11d176;cs10c176;cs09b176;cs08a176
+card_games_nbr;average number of days per week that time is spent on: card games;cs19l177;cs18k177;cs17j177;cs16i177;cs15h177;cs14g177;cs13f177;cs12e177;cs11d177;cs10c177;cs09b177;cs08a177
+billards_nbr;average number of days per week that time is spent on: billiards pool snooker;cs19l178;cs18k178;cs17j178;cs16i178;cs15h178;cs14g178;cs13f178;cs12e178;cs11d178;cs10c178;cs09b178;cs08a178
+pigeon_nbr;average number of days per week that time is spent on: pigeon keeping;cs19l179;cs18k179;cs17j179;cs16i179;cs15h179;cs14g179;cs13f179;cs12e179;cs11d179;cs10c179;cs09b179;cs08a179
+goout_nbr;average number of days per week that time is spent on: going out cinema theatr;cs19l180;cs18k180;cs17j180;cs16i180;cs15h180;cs14g180;cs13f180;cs12e180;cs11d180;cs10c180;cs09b180;cs08a180
+cooking_nbr;average number of days per week that time is spent on: cooking;cs19l181;cs18k181;cs17j181;cs16i181;cs15h181;cs14g181;cs13f181;cs12e181;cs11d181;cs10c181;cs09b181;cs08a181
+listening_nbr;average number of days per week that time is spent on: listening to music;cs19l182;cs18k182;cs17j182;cs16i182;cs15h182;cs14g182;cs13f182;cs12e182;cs11d182;cs10c182;cs09b182;cs08a182
+fishing_nbr;average number of days per week that time is spent on: fishing;cs19l183;cs18k183;cs17j183;cs16i183;cs15h183;cs14g183;cs13f183;cs12e183;cs11d183;cs10c183;cs09b183;cs08a183
+shopping_nbr;average number of days per week that time is spent on: shopping;cs19l184;cs18k184;cs17j184;cs16i184;cs15h184;cs14g184;cs13f184;cs12e184;cs11d184;cs10c184;cs09b184;cs08a184
+dancing_nbr;average number of days per week that time is spent on: dancing;cs19l185;cs18k185;cs17j185;cs16i185;cs15h185;cs14g185;cs13f185;cs12e185;cs11d185;cs10c185;cs09b185;cs08a185
+boating_nbr;average number of days per week that time is spent on: boating;cs19l186;cs18k186;cs17j186;cs16i186;cs15h186;cs14g186;cs13f186;cs12e186;cs11d186;cs10c186;cs09b186;cs08a186
+musical_instrument_hours;playing a musical instrument average time expenditure on days that apply hours;cs19l187;cs18k187;cs17j187;cs16i187;cs15h187;cs14g187;cs13f187;cs12e187;cs11d187;cs10c187;cs09b187;cs08a187
+musical_instrument_min;playing a musical instrument average time expenditure on days that apply minut;cs19l188;cs18k188;cs17j188;cs16i188;cs15h188;cs14g188;cs13f188;cs12e188;cs11d188;cs10c188;cs09b188;cs08a188
+singing_hours;singing/choir/singing group average time expenditure on days that apply hours;cs19l189;cs18k189;cs17j189;cs16i189;cs15h189;cs14g189;cs13f189;cs12e189;cs11d189;cs10c189;cs09b189;cs08a189
+singing_min;singing/choir/singing group average time expenditure on days that apply minute;cs19l190;cs18k190;cs17j190;cs16i190;cs15h190;cs14g190;cs13f190;cs12e190;cs11d190;cs10c190;cs09b190;cs08a190
+small_jobs_hours;small jobs in and around the house average time expenditure on days that apply;cs19l191;cs18k191;cs17j191;cs16i191;cs15h191;cs14g191;cs13f191;cs12e191;cs11d191;cs10c191;cs09b191;cs08a191
+smal_jobs_min;small jobs in and around the house average time expenditure on days that apply;cs19l192;cs18k192;cs17j192;cs16i192;cs15h192;cs14g192;cs13f192;cs12e192;cs11d192;cs10c192;cs09b192;cs08a192
+model_building_hours;model building average time expenditure on days that apply hours;cs19l193;cs18k193;cs17j193;cs16i193;cs15h193;cs14g193;cs13f193;cs12e193;cs11d193;cs10c193;cs09b193;cs08a193
+model_building_min;model building average time expenditure on days that apply minutes;cs19l194;cs18k194;cs17j194;cs16i194;cs15h194;cs14g194;cs13f194;cs12e194;cs11d194;cs10c194;cs09b194;cs08a194
+handicrafts_hours;handicrafts painting drawing clay modeling ceramics etc. average time expe;cs19l195;cs18k195;cs17j195;cs16i195;cs15h195;cs14g195;cs13f195;cs12e195;cs11d195;cs10c195;cs09b195;cs08a195
+handicrafts_min;handicrafts painting drawing clay modeling ceramics etc. average time expe;cs19l196;cs18k196;cs17j196;cs16i196;cs15h196;cs14g196;cs13f196;cs12e196;cs11d196;cs10c196;cs09b196;cs08a196
+photography_hours;photography average time expenditure on days that apply hours;cs19l197;cs18k197;cs17j197;cs16i197;cs15h197;cs14g197;cs13f197;cs12e197;cs11d197;cs10c197;cs09b197;cs08a197
+photography_min;photography average time expenditure on days that apply minutes;cs19l198;cs18k198;cs17j198;cs16i198;cs15h198;cs14g198;cs13f198;cs12e198;cs11d198;cs10c198;cs09b198;cs08a198
+plants_hours;caring for plants (including garden) or animals average time expenditure on day;cs19l199;cs18k199;cs17j199;cs16i199;cs15h199;cs14g199;cs13f199;cs12e199;cs11d199;cs10c199;cs09b199;cs08a199
+plants_min;caring for plants (including garden) or animals average time expenditure on day;cs19l200;cs18k200;cs17j200;cs16i200;cs15h200;cs14g200;cs13f200;cs12e200;cs11d200;cs10c200;cs09b200;cs08a200
+handwork_hours;handwork average time expenditure on days that apply hours;cs19l201;cs18k201;cs17j201;cs16i201;cs15h201;cs14g201;cs13f201;cs12e201;cs11d201;cs10c201;cs09b201;cs08a201
+handwork_min;handwork average time expenditure on days that apply minutes;cs19l202;cs18k202;cs17j202;cs16i202;cs15h202;cs14g202;cs13f202;cs12e202;cs11d202;cs10c202;cs09b202;cs08a202
+dvd_hours;watching DVD/video average time expenditure on days that apply hours;cs19l501;cs18k501;cs17j501;cs16i501;cs15h501;cs14g203;cs13f203;cs12e203;cs11d203;cs10c203;cs09b203;cs08a203
+dvd_min;watching DVD/video average time expenditure on days that apply minutes;cs19l502;cs18k502;cs17j502;cs16i502;cs15h502;cs14g204;cs13f204;cs12e204;cs11d204;cs10c204;cs09b204;cs08a204
+reading_hours;reading average time expenditure on days that apply total hours;cs19l205;cs18k205;cs17j205;cs16i205;cs15h205;cs14g205;cs13f205;cs12e205;cs11d205;cs10c205;cs09b205;cs08a205
+reading_min;reading average time expenditure on days that apply total minutes;cs19l206;cs18k206;cs17j206;cs16i206;cs15h206;cs14g206;cs13f206;cs12e206;cs11d206;cs10c206;cs09b206;cs08a206
+stamps_hours;collecting stamps average time expenditure on days that apply hours;cs19l207;cs18k207;cs17j207;cs16i207;cs15h207;cs14g207;cs13f207;cs12e207;cs11d207;cs10c207;cs09b207;cs08a207
+stamps_min;collecting stamps average time expenditure on days that apply minutes;cs19l208;cs18k208;cs17j208;cs16i208;cs15h208;cs14g208;cs13f208;cs12e208;cs11d208;cs10c208;cs09b208;cs08a208
+collections_hours;other collection average time expenditure on days that apply hours;cs19l209;cs18k209;cs17j209;cs16i209;cs15h209;cs14g209;cs13f209;cs12e209;cs11d209;cs10c209;cs09b209;cs08a209
+collections_min;other collection average time expenditure on days that apply minutes;cs19l210;cs18k210;cs17j210;cs16i210;cs15h210;cs14g210;cs13f210;cs12e210;cs11d210;cs10c210;cs09b210;cs08a210
+course_hours;following a course average time expenditure on days that apply hours;cs19l211;cs18k211;cs17j211;cs16i211;cs15h211;cs14g211;cs13f211;cs12e211;cs11d211;cs10c211;cs09b211;cs08a211
+course_min;following a course average time expenditure on days that apply minutes;cs19l212;cs18k212;cs17j212;cs16i212;cs15h212;cs14g212;cs13f212;cs12e212;cs11d212;cs10c212;cs09b212;cs08a212
+drama_hours;drama musical ballet dance average time expenditure on days that apply hour;cs19l213;cs18k213;cs17j213;cs16i213;cs15h213;cs14g213;cs13f213;cs12e213;cs11d213;cs10c213;cs09b213;cs08a213
+drama_min;drama musical ballet dance average time expenditure on days that apply minu;cs19l214;cs18k214;cs17j214;cs16i214;cs15h214;cs14g214;cs13f214;cs12e214;cs11d214;cs10c214;cs09b214;cs08a214
+equestrian_sports_hours;equestrian sport average time expenditure on days that apply hours;cs19l215;cs18k215;cs17j215;cs16i215;cs15h215;cs14g215;cs13f215;cs12e215;cs11d215;cs10c215;cs09b215;cs08a215
+equestrian_sports_min;equestrian sport average time expenditure on days that apply minutes;cs19l216;cs18k216;cs17j216;cs16i216;cs15h216;cs14g216;cs13f216;cs12e216;cs11d216;cs10c216;cs09b216;cs08a216
+motorsport_hours;car/motor sport average time expenditure on days that apply hours;cs19l217;cs18k217;cs17j217;cs16i217;cs15h217;cs14g217;cs13f217;cs12e217;cs11d217;cs10c217;cs09b217;cs08a217
+motorsport_min;car/motor sport average time expenditure on days that apply minutes;cs19l218;cs18k218;cs17j218;cs16i218;cs15h218;cs14g218;cs13f218;cs12e218;cs11d218;cs10c218;cs09b218;cs08a218
+mechanical_hours;mechanical work on car/motorcycle average time expenditure on days that apply;cs19l219;cs18k219;cs17j219;cs16i219;cs15h219;cs14g219;cs13f219;cs12e219;cs11d219;cs10c219;cs09b219;cs08a219
+mechanical_min;mechanical work on car/motorcycle average time expenditure on days that apply;cs19l220;cs18k220;cs17j220;cs16i220;cs15h220;cs14g220;cs13f220;cs12e220;cs11d220;cs10c220;cs09b220;cs08a220
+card_games_hours;card games average time expenditure on days that apply hours;cs19l221;cs18k221;cs17j221;cs16i221;cs15h221;cs14g221;cs13f221;cs12e221;cs11d221;cs10c221;cs09b221;cs08a221
+card_games_min;card games average time expenditure on days that apply minutes;cs19l222;cs18k222;cs17j222;cs16i222;cs15h222;cs14g222;cs13f222;cs12e222;cs11d222;cs10c222;cs09b222;cs08a222
+billards_hours;billiards pool snooker darts: hours average time expenditure on days that ap;cs19l223;cs18k223;cs17j223;cs16i223;cs15h223;cs14g223;cs13f223;cs12e223;cs11d223;cs10c223;cs09b223;cs08a223
+billards_min;billiards pool snooker darts: hours average time expenditure on days that ap;cs19l224;cs18k224;cs17j224;cs16i224;cs15h224;cs14g224;cs13f224;cs12e224;cs11d224;cs10c224;cs09b224;cs08a224
+pigeon_hours;pigeon keeping average time expenditure on days that apply hours;cs19l225;cs18k225;cs17j225;cs16i225;cs15h225;cs14g225;cs13f225;cs12e225;cs11d225;cs10c225;cs09b225;cs08a225
+pigeon_min;pigeon keeping average time expenditure on days that apply minutes;cs19l226;cs18k226;cs17j226;cs16i226;cs15h226;cs14g226;cs13f226;cs12e226;cs11d226;cs10c226;cs09b226;cs08a226
+goout_hours;going out cinema theatre dining out terrace lounging average time expenditu;cs19l227;cs18k227;cs17j227;cs16i227;cs15h227;cs14g227;cs13f227;cs12e227;cs11d227;cs10c227;cs09b227;cs08a227
+goout_min;going out cinema theatre dining out terrace lounging average time expenditu;cs19l228;cs18k228;cs17j228;cs16i228;cs15h228;cs14g228;cs13f228;cs12e228;cs11d228;cs10c228;cs09b228;cs08a228
+cooking_hours;cooking average time expenditure on days that apply hours;cs19l229;cs18k229;cs17j229;cs16i229;cs15h229;cs14g229;cs13f229;cs12e229;cs11d229;cs10c229;cs09b229;cs08a229
+cooking_min;cooking average time expenditure on days that apply minutes;cs19l230;cs18k230;cs17j230;cs16i230;cs15h230;cs14g230;cs13f230;cs12e230;cs11d230;cs10c230;cs09b230;cs08a230
+listening_hours;listening to music average time expenditure on days that apply hours;cs19l231;cs18k231;cs17j231;cs16i231;cs15h231;cs14g231;cs13f231;cs12e231;cs11d231;cs10c231;cs09b231;cs08a231
+listening_min;listening to music average time expenditure on days that apply minutes;cs19l232;cs18k232;cs17j232;cs16i232;cs15h232;cs14g232;cs13f232;cs12e232;cs11d232;cs10c232;cs09b232;cs08a232
+fishing_hours;fishing average time expenditure on days that apply hours;cs19l233;cs18k233;cs17j233;cs16i233;cs15h233;cs14g233;cs13f233;cs12e233;cs11d233;cs10c233;cs09b233;cs08a233
+fishing_min;fishing average time expenditure on days that apply minutes;cs19l234;cs18k234;cs17j234;cs16i234;cs15h234;cs14g234;cs13f234;cs12e234;cs11d234;cs10c234;cs09b234;cs08a234
+shopping_hours;shopping average time expenditure on days that apply hours;cs19l235;cs18k235;cs17j235;cs16i235;cs15h235;cs14g235;cs13f235;cs12e235;cs11d235;cs10c235;cs09b235;cs08a235
+shopping_min;shopping average time expenditure on days that apply minutes;cs19l236;cs18k236;cs17j236;cs16i236;cs15h236;cs14g236;cs13f236;cs12e236;cs11d236;cs10c236;cs09b236;cs08a236
+dancing_hours;dancing average time expenditure on days that apply hours;cs19l237;cs18k237;cs17j237;cs16i237;cs15h237;cs14g237;cs13f237;cs12e237;cs11d237;cs10c237;cs09b237;cs08a237
+dancing_min;dancing average time expenditure on days that apply minutes;cs19l238;cs18k238;cs17j238;cs16i238;cs15h238;cs14g238;cs13f238;cs12e238;cs11d238;cs10c238;cs09b238;cs08a238
+boating_hours;boating average time expenditure on days that apply hours;cs19l239;cs18k239;cs17j239;cs16i239;cs15h239;cs14g239;cs13f239;cs12e239;cs11d239;cs10c239;cs09b239;cs08a239
+boating_min;boating average time expenditure on days that apply minutes;cs19l240;cs18k240;cs17j240;cs16i240;cs15h240;cs14g240;cs13f240;cs12e240;cs11d240;cs10c240;cs09b240;cs08a240
+pc_use_d;do you sometimes use a computer or laptop besides when completing the questionn;cs19l505;cs18k505;cs17j505;cs16i505;cs15h505;cs14g241;cs13f241;cs12e241;cs11d241;cs10c241;cs09b241;cs08a241
+pc_use_home;computer or laptop use average number of hours per week: at home;cs19l242;cs18k242;cs17j242;cs16i242;cs15h242;cs14g242;cs13f242;cs12e242;cs11d242;cs10c242;cs09b242;cs08a242
+pc_use_work;computer or laptop use average number of hours per week: at work;cs19l243;cs18k243;cs17j243;cs16i243;cs15h243;cs14g243;cs13f243;cs12e243;cs11d243;cs10c243;cs09b243;cs08a243
+pc_use_school;computer or laptop use average number of hours per week: in school;cs19l244;cs18k244;cs17j244;cs16i244;cs15h244;cs14g244;cs13f244;cs12e244;cs11d244;cs10c244;cs09b244;cs08a244
+pc_use_other;computer or laptop use average number of hours per week: somewhere else (e.g. a;cs19l245;cs18k245;cs17j245;cs16i245;cs15h245;cs14g245;cs13f245;cs12e245;cs11d245;cs10c245;cs09b245;cs08a245
+internet_use_d;Do you sometimes make use of the Internet besides when completing the questionn;;;;;;;;;cs11d246;cs10c246;cs09b246;cs08a246
+internet_use_home;Internet use average number of hours per week: at home;;;;;;;;;cs11d247;cs10c247;cs09b247;cs08a247
+internet_use_work;Internet use average number of hours per week: at work;;;;;;;;;cs11d248;cs10c248;cs09b248;cs08a248
+internet_use_school;Internet use average number of hours per week: in school;;;;;;;;;cs11d249;cs10c249;cs09b249;cs08a249
+interent_use_other;Internet use average number of hours per week: somewhere else (e.g. a community;;;;;;;;;cs11d250;cs10c250;cs09b250;cs08a250
+online_email_d;ever spend time on: email;cs19l251;cs18k251;cs17j251;cs16i251;cs15h251;cs14g251;cs13f251;cs12e251;cs11d251;cs10c251;cs09b251;cs08a251
+online_search_d;ever spend time on: searching for information on the Internet (e.g. about hobbie;cs19l252;cs18k252;cs17j252;cs16i252;cs15h252;cs14g252;cs13f252;cs12e252;cs11d252;cs10c252;cs09b252;cs08a252
+online_compare_d;ever spend time on: searching for and comparing products/product information on;cs19l253;cs18k253;cs17j253;cs16i253;cs15h253;cs14g253;cs13f253;cs12e253;cs11d253;cs10c253;cs09b253;cs08a253
+online_buy_d;ever spend time on: purchasing items via the Internet;cs19l254;cs18k254;cs17j254;cs16i254;cs15h254;cs14g254;cs13f254;cs12e254;cs11d254;cs10c254;cs09b254;cs08a254
+online_watch_d;ever spend time on: watching short films (e.g. via YouTube);;;;;;;;;cs11d255;cs10c255;cs09b255;cs08a255
+online_tv_d;ever spend time on: watching online films or TV programs;cs19l429;cs18k429;cs17j429;cs16i429;cs15h429;cs14g429;cs13f429;cs12e429;cs11d256;cs10c256;cs09b256;cs08a256
+online_software_d;ever spend time on: downloading software;cs19l430;cs18k430;cs17j430;cs16i430;cs15h430;cs14g430;cs13f430;cs12e430;cs11d257;cs10c257;cs09b257;cs08a257
+online_download_d;ever spend time on: downloading music or films;;;;;;;;;cs11d258;cs10c258;cs09b258;cs08a258
+online_gamble_d;ever spend time on: visiting gambling sites;;;;;;;;;cs11d259;cs10c259;cs09b259;cs08a259
+online_banking_d;ever spend time on: Internet banking;cs19l260;cs18k260;cs17j260;cs16i260;cs15h260;cs14g260;cs13f260;cs12e260;cs11d260;cs10c260;cs09b260;cs08a260
+online_game_d;ever spend time on: playing Internet games/online gaming;cs19l261;cs18k261;cs17j261;cs16i261;cs15h261;cs14g261;cs13f261;cs12e261;cs11d261;cs10c261;cs09b261;cs08a261
+online_news_d;ever spend time on: reading online news and magazines;cs19l262;cs18k262;cs17j262;cs16i262;cs15h262;cs14g262;cs13f262;cs12e262;cs11d262;cs10c262;cs09b262;cs08a262
+online_newsgroup_d;ever spend time on: newsgroups;cs19l263;cs18k263;cs17j263;cs16i263;cs15h263;cs14g263;cs13f263;cs12e263;cs11d263;cs10c263;cs09b263;cs08a263
+online_chat_d;ever spend time on: chatting video calling or sending messages via WhatsApp Te;cs19l264;cs18k264;cs17j264;cs16i264;cs15h264;cs14g264;cs13f264;cs12e264;cs11d264;cs10c264;cs09b264;cs08a264
+online_forum_d;ever spend time on: visiting (discussion)forums and Internet communities;cs19l265;cs18k265;cs17j265;cs16i265;cs15h265;cs14g265;cs13f265;cs12e265;cs11d265;cs10c265;cs09b265;cs08a265
+online_other_d;ever spend time on: other activities on the Internet;cs19l266;cs18k266;cs17j266;cs16i266;cs15h266;cs14g266;cs13f266;cs12e266;cs11d266;cs10c266;cs09b266;cs08a266
+online_mail_hours;average number of hours per week spent on: email;cs19l267;cs18k267;cs17j267;cs16i267;cs15h267;cs14g267;cs13f267;cs12e267;cs11d267;cs10c267;cs09b267;cs08a267
+online_search_hours;average number of hours per week spent on: searching for information on the Inte;cs19l268;cs18k268;cs17j268;cs16i268;cs15h268;cs14g268;cs13f268;cs12e268;cs11d268;cs10c268;cs09b268;cs08a268
+online_compare_hours;average number of hours per week spent on: searching for and comparing products/;cs19l269;cs18k269;cs17j269;cs16i269;cs15h269;cs14g269;cs13f269;cs12e269;cs11d269;cs10c269;cs09b269;cs08a269
+online_buy_hours;average number of hours per week spent on: purchasing items via the Internet;cs19l270;cs18k270;cs17j270;cs16i270;cs15h270;cs14g270;cs13f270;cs12e270;cs11d270;cs10c270;cs09b270;cs08a270
+online_watch_hours;average number of hours per week spent on: watching short films (e.g. via YouTub;;;;;;;;;cs11d271;cs10c271;cs09b271;cs08a271
+online_tv_hours;average number of hours per week spent on: watching online films or TV programs;cs19l437;cs18k437;cs17j437;cs16i437;cs15h437;cs14g437;cs13f437;cs12e437;cs11d272;cs10c272;cs09b272;cs08a272
+online_software_hours;average number of hours per week spent on: downloading software;cs19l438;cs18k438;cs17j438;cs16i438;cs15h438;cs14g438;cs13f438;cs12e438;cs11d273;cs10c273;cs09b273;cs08a273
+online_download_hours;average number of hours per week spent on: downloading music or films;;;;;;;;;cs11d274;cs10c274;cs09b274;cs08a274
+online_gamble_hours;average number of hours per week spent on: visiting gambling sites;;;;;;;;;cs11d275;cs10c275;cs09b275;cs08a275
+online_banking_hours;average number of hours per week spent on: Internet banking;cs19l276;cs18k276;cs17j276;cs16i276;cs15h276;cs14g276;cs13f276;cs12e276;cs11d276;cs10c276;cs09b276;cs08a276
+online_game_hours;average number of hours per week spent on: playing Internet games/online gaming;cs19l277;cs18k277;cs17j277;cs16i277;cs15h277;cs14g277;cs13f277;cs12e277;cs11d277;cs10c277;cs09b277;cs08a277
+online_news_hours;average number of hours per week spent on: reading online news and magazines;cs19l278;cs18k278;cs17j278;cs16i278;cs15h278;cs14g278;cs13f278;cs12e278;cs11d278;cs10c278;cs09b278;cs08a278
+online_newsgroup_hours;average number of hours per week spent on: newsgroups;cs19l279;cs18k279;cs17j279;cs16i279;cs15h279;cs14g279;cs13f279;cs12e279;cs11d279;cs10c279;cs09b279;cs08a279
+online_chat_hours;average number of hours per week spent on: chatting video calling or sending me;cs19l280;cs18k280;cs17j280;cs16i280;cs15h280;cs14g280;cs13f280;cs12e280;cs11d280;cs10c280;cs09b280;cs08a280
+online_forum_hours;average number of hours per week spent on: visiting (discussion)forums and Inter;cs19l281;cs18k281;cs17j281;cs16i281;cs15h281;cs14g281;cs13f281;cs12e281;cs11d281;cs10c281;cs09b281;cs08a281
+online_other_hours;average number of hours per week spent on: other activities on the Internet;cs19l282;cs18k282;cs17j282;cs16i282;cs15h282;cs14g282;cs13f282;cs12e282;cs11d282;cs10c282;cs09b282;cs08a282
+satisfaction_social_contacts;How satisfied are you with your social contacts?;cs19l283;cs18k283;cs17j283;cs16i283;cs15h283;cs14g283;cs13f283;cs12e283;cs11d283;cs10c283;cs09b283;cs08a283
+social_contacts_q1;I have a sense of emptiness around me;cs19l284;cs18k284;cs17j284;cs16i284;cs15h284;cs14g284;cs13f284;cs12e284;cs11d284;cs10c284;cs09b284;cs08a284
+social_contacts_q2;there are enough people I can count on in case of a misfortune;cs19l285;cs18k285;cs17j285;cs16i285;cs15h285;cs14g285;cs13f285;cs12e285;cs11d285;cs10c285;cs09b285;cs08a285
+social_contacts_q3;I know a lot of people that I can fully rely on;cs19l286;cs18k286;cs17j286;cs16i286;cs15h286;cs14g286;cs13f286;cs12e286;cs11d286;cs10c286;cs09b286;cs08a286
+social_contacts_q4;there are enough people to whom I feel closely connected;cs19l287;cs18k287;cs17j287;cs16i287;cs15h287;cs14g287;cs13f287;cs12e287;cs11d287;cs10c287;cs09b287;cs08a287
+social_contacts_q5;I miss having people around me;cs19l288;cs18k288;cs17j288;cs16i288;cs15h288;cs14g288;cs13f288;cs12e288;cs11d288;cs10c288;cs09b288;cs08a288
+social_contacts_q6;I often feel deserted;cs19l289;cs18k289;cs17j289;cs16i289;cs15h289;cs14g289;cs13f289;cs12e289;cs11d289;cs10c289;cs09b289;cs08a289
+evening_family;How often do you do the following? Spend an evening with family (other than memb;cs19l290;cs18k290;cs17j290;cs16i290;cs15h290;cs14g290;cs13f290;cs12e290;cs11d290;cs10c290;cs09b290;cs08a290
+evening_neighbourhood;How often do you do the following? Spend an evening with someone from the neighb;cs19l291;cs18k291;cs17j291;cs16i291;cs15h291;cs14g291;cs13f291;cs12e291;cs11d291;cs10c291;cs09b291;cs08a291
+evening_friends;How often do you the following things? Spend an evening with friends outside you;cs19l292;cs18k292;cs17j292;cs16i292;cs15h292;cs14g292;cs13f292;cs12e292;cs11d292;cs10c292;cs09b292;cs08a292
+;How often do you do the following? Visit a bar or cafÃ©;cs19l293;cs18k293;cs17j293;cs16i293;cs15h293;cs14g293;cs13f293;cs12e293;cs11d293;cs10c293;cs09b293;cs08a293
+person_1;Name entered for person 1?;cs19l294;cs18k294;cs17j294;cs16i294;cs15h294;cs14g294;cs13f294;cs12e294;cs11d294;cs10c294;cs09b294;cs08a294
+person_2;Name entered for person 2?;cs19l295;cs18k295;cs17j295;cs16i295;cs15h295;cs14g295;cs13f295;cs12e295;cs11d295;cs10c295;cs09b295;cs08a295
+person_3;Name entered for person 3?;cs19l296;cs18k296;cs17j296;cs16i296;cs15h296;cs14g296;cs13f296;cs12e296;cs11d296;cs10c296;cs09b296;cs08a296
+person_4;Name entered for person 4?;cs19l297;cs18k297;cs17j297;cs16i297;cs15h297;cs14g297;cs13f297;cs12e297;cs11d297;cs10c297;cs09b297;cs08a297
+person_5;Name entered for person 5?;cs19l298;cs18k298;cs17j298;cs16i298;cs15h298;cs14g298;cs13f298;cs12e298;cs11d298;cs10c298;cs09b298;cs08a298
+all_equal;Are all these people equally dear to you?;cs19l299;cs18k299;cs17j299;cs16i299;cs15h299;cs14g299;cs13f299;cs12e299;cs11d299;cs10c299;cs09b299;cs08a299
+importance_person_1;Which of these people are very dear to you? person 1:;cs19l300;cs18k300;cs17j300;cs16i300;cs15h300;cs14g300;cs13f300;cs12e300;cs11d300;cs10c300;cs09b300;cs08a300
+importance_person_2;Which of these people are very dear to you? person 2:;cs19l301;cs18k301;cs17j301;cs16i301;cs15h301;cs14g301;cs13f301;cs12e301;cs11d301;cs10c301;cs09b301;cs08a301
+importance_person_3;Which of these people are very dear to you? person 3:;cs19l302;cs18k302;cs17j302;cs16i302;cs15h302;cs14g302;cs13f302;cs12e302;cs11d302;cs10c302;cs09b302;cs08a302
+importance_person_4;Which of these people are very dear to you? person 4:;cs19l303;cs18k303;cs17j303;cs16i303;cs15h303;cs14g303;cs13f303;cs12e303;cs11d303;cs10c303;cs09b303;cs08a303
+importance_person_5;Which of these people are very dear to you? person 5:;cs19l304;cs18k304;cs17j304;cs16i304;cs15h304;cs14g304;cs13f304;cs12e304;cs11d304;cs10c304;cs09b304;cs08a304
+closeness_person_12;How close are these people to each other? person 1 and person 2:;cs19l305;cs18k305;cs17j305;cs16i305;cs15h305;cs14g305;cs13f305;cs12e305;cs11d305;cs10c305;cs09b305;cs08a305
+closeness_person_13;How close are these people to each other? person 1 and person 3:;cs19l306;cs18k306;cs17j306;cs16i306;cs15h306;cs14g306;cs13f306;cs12e306;cs11d306;cs10c306;cs09b306;cs08a306
+closeness_person_14;How close are these people to each other? person 1 and person 4:;cs19l307;cs18k307;cs17j307;cs16i307;cs15h307;cs14g307;cs13f307;cs12e307;cs11d307;cs10c307;cs09b307;cs08a307
+closeness_person_15;How close are these people to each other? person 1 and person 5:;cs19l308;cs18k308;cs17j308;cs16i308;cs15h308;cs14g308;cs13f308;cs12e308;cs11d308;cs10c308;cs09b308;cs08a308
+closeness_person_23;How close are these people to each other? person 2 and person 3:;cs19l309;cs18k309;cs17j309;cs16i309;cs15h309;cs14g309;cs13f309;cs12e309;cs11d309;cs10c309;cs09b309;cs08a309
+closeness_person_24;How close are these people to each other? person 2 and person 4:;cs19l310;cs18k310;cs17j310;cs16i310;cs15h310;cs14g310;cs13f310;cs12e310;cs11d310;cs10c310;cs09b310;cs08a310
+closeness_person_25;How close are these people to each other? person 2 and person 5:;cs19l311;cs18k311;cs17j311;cs16i311;cs15h311;cs14g311;cs13f311;cs12e311;cs11d311;cs10c311;cs09b311;cs08a311
+closeness_person_34;How close are these people to each other? person 3 and person 4:;cs19l312;cs18k312;cs17j312;cs16i312;cs15h312;cs14g312;cs13f312;cs12e312;cs11d312;cs10c312;cs09b312;cs08a312
+closeness_person_35;How close are these people to each other? person 3 and person 5:;cs19l313;cs18k313;cs17j313;cs16i313;cs15h313;cs14g313;cs13f313;cs12e313;cs11d313;cs10c313;cs09b313;cs08a313
+closeness_person_45;How close are these people to each other? person 4 and person 5:;cs19l314;cs18k314;cs17j314;cs16i314;cs15h314;cs14g314;cs13f314;cs12e314;cs11d314;cs10c314;cs09b314;cs08a314
+gender_person_1;What is the gender of person 1?;cs19l315;cs18k315;cs17j315;cs16i315;cs15h315;cs14g315;cs13f315;cs12e315;cs11d315;cs10c315;cs09b315;cs08a315
+gender_person_2;What is the gender of person 2?;cs19l316;cs18k316;cs17j316;cs16i316;cs15h316;cs14g316;cs13f316;cs12e316;cs11d316;cs10c316;cs09b316;cs08a316
+gender_person_3;What is the gender of person 3?;cs19l317;cs18k317;cs17j317;cs16i317;cs15h317;cs14g317;cs13f317;cs12e317;cs11d317;cs10c317;cs09b317;cs08a317
+gender_person_4;What is the gender of person 4?;cs19l318;cs18k318;cs17j318;cs16i318;cs15h318;cs14g318;cs13f318;cs12e318;cs11d318;cs10c318;cs09b318;cs08a318
+gender_person_5;What is the gender of person 5?;cs19l319;cs18k319;cs17j319;cs16i319;cs15h319;cs14g319;cs13f319;cs12e319;cs11d319;cs10c319;cs09b319;cs08a319
+origin_person_1;Of what origin is person 1?;cs19l320;cs18k320;cs17j320;cs16i320;cs15h320;cs14g320;cs13f320;cs12e320;cs11d320;cs10c320;cs09b320;cs08a320
+relation_person_1;How do you do know person 1? [He/she] is my...;cs19l321;cs18k321;cs17j321;cs16i321;cs15h321;cs14g321;cs13f321;cs12e321;cs11d321;cs10c321;cs09b321;cs08a321
+relation_other_person_1;How do you do know person 1?;cs19l322;cs18k322;cs17j322;cs16i322;cs15h322;cs14g322;cs13f322;cs12e322;cs11d322;cs10c322;cs09b322;cs08a322
+talk_person_1;How often do you talk to person 1?;cs19l323;cs18k323;cs17j323;cs16i323;cs15h323;cs14g323;cs13f323;cs12e323;cs11d323;cs10c323;cs09b323;cs08a323
+politics_person_1;How often do you discuss political issues with person 1?;cs19l324;cs18k324;cs17j324;cs16i324;cs15h324;cs14g324;cs13f324;cs12e324;cs11d324;cs10c324;cs09b324;cs08a324
+duration_person_1;How long have you known person 1?;cs19l325;cs18k325;cs17j325;cs16i325;cs15h325;cs14g325;cs13f325;cs12e325;cs11d325;cs10c325;cs09b325;cs08a325
+education_person_1;What is the highest level of education that person 1 completed?;cs19l326;cs18k326;cs17j326;cs16i326;cs15h326;cs14g326;cs13f326;cs12e326;cs11d326;cs10c326;cs09b326;cs08a326
+work_person_1;Does person 1 work full-time part-time or not at all?;cs19l327;cs18k327;cs17j327;cs16i327;cs15h327;cs14g327;cs13f327;cs12e327;cs11d327;cs10c327;cs09b327;cs08a327
+profession_person_1;What kind of profession does person 1 practice?;cs19l328;cs18k328;cs17j328;cs16i328;cs15h328;cs14g328;cs13f328;cs12e328;cs11d328;cs10c328;cs09b328;cs08a328
+age_person_1;What age is person 1 approximately?;cs19l329;cs18k329;cs17j329;cs16i329;cs15h329;cs14g329;cs13f329;cs12e329;cs11d329;cs10c329;cs09b329;cs08a329
+maritalstat_person_1;What is the home situation of person 1?;cs19l330;cs18k330;cs17j330;cs16i330;cs15h330;cs14g330;cs13f330;cs12e330;cs11d330;cs10c330;cs09b330;cs08a330
+origin_person_2;Of what origin is person 2?;cs19l331;cs18k331;cs17j331;cs16i331;cs15h331;cs14g331;cs13f331;cs12e331;cs11d331;cs10c331;cs09b331;cs08a331
+relation_person_2;How do you do know person 2? [He/she] is my...;cs19l332;cs18k332;cs17j332;cs16i332;cs15h332;cs14g332;cs13f332;cs12e332;cs11d332;cs10c332;cs09b332;cs08a332
+relation_other_person_2;How do you do know person 2?;cs19l333;cs18k333;cs17j333;cs16i333;cs15h333;cs14g333;cs13f333;cs12e333;cs11d333;cs10c333;cs09b333;cs08a333
+talk_person_2;How often do you talk to person 2?;cs19l334;cs18k334;cs17j334;cs16i334;cs15h334;cs14g334;cs13f334;cs12e334;cs11d334;cs10c334;cs09b334;cs08a334
+politics_person_2;How often do you discuss political issues with person 2?;cs19l335;cs18k335;cs17j335;cs16i335;cs15h335;cs14g335;cs13f335;cs12e335;cs11d335;cs10c335;cs09b335;cs08a335
+duration_person_2;How long have you known person 2?;cs19l336;cs18k336;cs17j336;cs16i336;cs15h336;cs14g336;cs13f336;cs12e336;cs11d336;cs10c336;cs09b336;cs08a336
+education_person_2;What is the highest level of education that person 2 completed?;cs19l337;cs18k337;cs17j337;cs16i337;cs15h337;cs14g337;cs13f337;cs12e337;cs11d337;cs10c337;cs09b337;cs08a337
+work_person_2;Does person 2 work full-time part-time or not at all?;cs19l338;cs18k338;cs17j338;cs16i338;cs15h338;cs14g338;cs13f338;cs12e338;cs11d338;cs10c338;cs09b338;cs08a338
+profession_person_2;What kind of profession does person 2 practice?;cs19l339;cs18k339;cs17j339;cs16i339;cs15h339;cs14g339;cs13f339;cs12e339;cs11d339;cs10c339;cs09b339;cs08a339
+age_person_2;What age is person 2 approximately?;cs19l340;cs18k340;cs17j340;cs16i340;cs15h340;cs14g340;cs13f340;cs12e340;cs11d340;cs10c340;cs09b340;cs08a340
+maritalstat_person_2;What is the home situation of person 2?;cs19l341;cs18k341;cs17j341;cs16i341;cs15h341;cs14g341;cs13f341;cs12e341;cs11d341;cs10c341;cs09b341;cs08a341
+origin_person_3;Of what origin is person 3?;cs19l342;cs18k342;cs17j342;cs16i342;cs15h342;cs14g342;cs13f342;cs12e342;cs11d342;cs10c342;cs09b342;cs08a342
+relation_person_3;How do you do know person 3? [He/she] is my...;cs19l343;cs18k343;cs17j343;cs16i343;cs15h343;cs14g343;cs13f343;cs12e343;cs11d343;cs10c343;cs09b343;cs08a343
+relation_other_person_3;How do you do know person 3?;cs19l344;cs18k344;cs17j344;cs16i344;cs15h344;cs14g344;cs13f344;cs12e344;cs11d344;cs10c344;cs09b344;cs08a344
+talk_person_3;How often do you talk to person 3?;cs19l345;cs18k345;cs17j345;cs16i345;cs15h345;cs14g345;cs13f345;cs12e345;cs11d345;cs10c345;cs09b345;cs08a345
+politics_person_3;How often do you discuss political issues with person 3?;cs19l346;cs18k346;cs17j346;cs16i346;cs15h346;cs14g346;cs13f346;cs12e346;cs11d346;cs10c346;cs09b346;cs08a346
+duration_person_3;How long have you known person 3?;cs19l347;cs18k347;cs17j347;cs16i347;cs15h347;cs14g347;cs13f347;cs12e347;cs11d347;cs10c347;cs09b347;cs08a347
+education_person_3;What is the highest level of education that person 3 completed?;cs19l348;cs18k348;cs17j348;cs16i348;cs15h348;cs14g348;cs13f348;cs12e348;cs11d348;cs10c348;cs09b348;cs08a348
+work_person_3;Does person 3 work full-time part-time or not at all?;cs19l349;cs18k349;cs17j349;cs16i349;cs15h349;cs14g349;cs13f349;cs12e349;cs11d349;cs10c349;cs09b349;cs08a349
+profession_person_3;What kind of profession does person 3 practice?;cs19l350;cs18k350;cs17j350;cs16i350;cs15h350;cs14g350;cs13f350;cs12e350;cs11d350;cs10c350;cs09b350;cs08a350
+age_person_3;What age is person 3 approximately?;cs19l351;cs18k351;cs17j351;cs16i351;cs15h351;cs14g351;cs13f351;cs12e351;cs11d351;cs10c351;cs09b351;cs08a351
+maritalstat_person_3;What is the home situation of person 3?;cs19l352;cs18k352;cs17j352;cs16i352;cs15h352;cs14g352;cs13f352;cs12e352;cs11d352;cs10c352;cs09b352;cs08a352
+origin_person_4;Of what origin is person 4?;cs19l353;cs18k353;cs17j353;cs16i353;cs15h353;cs14g353;cs13f353;cs12e353;cs11d353;cs10c353;cs09b353;cs08a353
+relation_person_4;How do you do know person 4? [He/she] is my...;cs19l354;cs18k354;cs17j354;cs16i354;cs15h354;cs14g354;cs13f354;cs12e354;cs11d354;cs10c354;cs09b354;cs08a354
+relation_other_person_4;How do you do know person 4?;cs19l355;cs18k355;cs17j355;cs16i355;cs15h355;cs14g355;cs13f355;cs12e355;cs11d355;cs10c355;cs09b355;cs08a355
+talk_person_4;How often do you talk to person 4?;cs19l356;cs18k356;cs17j356;cs16i356;cs15h356;cs14g356;cs13f356;cs12e356;cs11d356;cs10c356;cs09b356;cs08a356
+politics_person_4;How often do you discuss political issues with person 4?;cs19l357;cs18k357;cs17j357;cs16i357;cs15h357;cs14g357;cs13f357;cs12e357;cs11d357;cs10c357;cs09b357;cs08a357
+duration_person_4;How long have you known person 4?;cs19l358;cs18k358;cs17j358;cs16i358;cs15h358;cs14g358;cs13f358;cs12e358;cs11d358;cs10c358;cs09b358;cs08a358
+education_person_4;What is the highest level of education that person 4 completed?;cs19l359;cs18k359;cs17j359;cs16i359;cs15h359;cs14g359;cs13f359;cs12e359;cs11d359;cs10c359;cs09b359;cs08a359
+work_person_4;Does person 4 work full-time part-time or not at all?;cs19l360;cs18k360;cs17j360;cs16i360;cs15h360;cs14g360;cs13f360;cs12e360;cs11d360;cs10c360;cs09b360;cs08a360
+profession_person_4;What kind of profession does person 4 practice?;cs19l361;cs18k361;cs17j361;cs16i361;cs15h361;cs14g361;cs13f361;cs12e361;cs11d361;cs10c361;cs09b361;cs08a361
+age_person_4;What age is person 4 approximately?;cs19l362;cs18k362;cs17j362;cs16i362;cs15h362;cs14g362;cs13f362;cs12e362;cs11d362;cs10c362;cs09b362;cs08a362
+maritalstat_person_4;What is the home situation of person 4?;cs19l363;cs18k363;cs17j363;cs16i363;cs15h363;cs14g363;cs13f363;cs12e363;cs11d363;cs10c363;cs09b363;cs08a363
+origin_person_5;Of what origin is person 5?;cs19l364;cs18k364;cs17j364;cs16i364;cs15h364;cs14g364;cs13f364;cs12e364;cs11d364;cs10c364;cs09b364;cs08a364
+relation_person_5;How do you do know person 5? [He/she] is my...;cs19l365;cs18k365;cs17j365;cs16i365;cs15h365;cs14g365;cs13f365;cs12e365;cs11d365;cs10c365;cs09b365;cs08a365
+relation_other_person_5;How do you do know person 5?;cs19l366;cs18k366;cs17j366;cs16i366;cs15h366;cs14g366;cs13f366;cs12e366;cs11d366;cs10c366;cs09b366;cs08a366
+talk_person_5;How often do you talk to person 5?;cs19l367;cs18k367;cs17j367;cs16i367;cs15h367;cs14g367;cs13f367;cs12e367;cs11d367;cs10c367;cs09b367;cs08a367
+politics_person_5;How often do you discuss political issues with person 5?;cs19l368;cs18k368;cs17j368;cs16i368;cs15h368;cs14g368;cs13f368;cs12e368;cs11d368;cs10c368;cs09b368;cs08a368
+duration_person_5;How long have you known person 5?;cs19l369;cs18k369;cs17j369;cs16i369;cs15h369;cs14g369;cs13f369;cs12e369;cs11d369;cs10c369;cs09b369;cs08a369
+education_person_5;What is the highest level of education that person 5 completed?;cs19l370;cs18k370;cs17j370;cs16i370;cs15h370;cs14g370;cs13f370;cs12e370;cs11d370;cs10c370;cs09b370;cs08a370
+work_person_5;Does person 5 work full-time part-time or not at all?;cs19l371;cs18k371;cs17j371;cs16i371;cs15h371;cs14g371;cs13f371;cs12e371;cs11d371;cs10c371;cs09b371;cs08a371
+profession_person_5;What kind of profession does person 5 practice?;cs19l372;cs18k372;cs17j372;cs16i372;cs15h372;cs14g372;cs13f372;cs12e372;cs11d372;cs10c372;cs09b372;cs08a372
+age_person_5;What age is person 5 approximately?;cs19l373;cs18k373;cs17j373;cs16i373;cs15h373;cs14g373;cs13f373;cs12e373;cs11d373;cs10c373;cs09b373;cs08a373
+maritalstat_person_5;What is the home situation of person 5?;cs19l374;cs18k374;cs17j374;cs16i374;cs15h374;cs14g374;cs13f374;cs12e374;cs11d374;cs10c374;cs09b374;cs08a374
+start_date;Starting date of the questionnaire;cs19l375;cs18k375;cs17j375;cs16i375;cs15h375;cs14g375;cs13f375;cs12e375;cs11d375;cs10c375;cs09b375;cs08a375
+start_time;Starting time of the questionnaire;cs19l376;cs18k376;cs17j376;cs16i376;cs15h376;cs14g376;cs13f376;cs12e376;cs11d376;cs10c376;cs09b376;cs08a376
+end_date;End date of the questionnaire;cs19l377;cs18k377;cs17j377;cs16i377;cs15h377;cs14g377;cs13f377;cs12e377;cs11d377;cs10c377;cs09b377;cs08a377
+end_time;End time of the questionnaire;cs19l378;cs18k378;cs17j378;cs16i378;cs15h378;cs14g378;cs13f378;cs12e378;cs11d378;cs10c378;cs09b378;cs08a378
+;watching television average time expenditure on days that apply total in minu;cs19l379;cs18k379;cs17j379;cs16i379;cs15h379;cs14g379;cs13f379;cs12e379;cs11d379;cs10c379;cs09b379;cs08a379
+;listening to the radio average time expenditure on days that apply total in m;cs19l380;cs18k380;cs17j380;cs16i380;cs15h380;cs14g380;cs13f380;cs12e380;cs11d380;cs10c380;cs09b380;cs08a380
+;playing a musical instrument average time expenditure on days that apply total;cs19l381;cs18k381;cs17j381;cs16i381;cs15h381;cs14g381;cs13f381;cs12e381;cs11d381;cs10c381;cs09b381;cs08a381
+;singing/choir/singing group average time expenditure on days that apply total;cs19l382;cs18k382;cs17j382;cs16i382;cs15h382;cs14g382;cs13f382;cs12e382;cs11d382;cs10c382;cs09b382;cs08a382
+;small jobs in and around the house average time expenditure on days that apply;cs19l383;cs18k383;cs17j383;cs16i383;cs15h383;cs14g383;cs13f383;cs12e383;cs11d383;cs10c383;cs09b383;cs08a383
+;model building average time expenditure on days that apply total in minutes;cs19l384;cs18k384;cs17j384;cs16i384;cs15h384;cs14g384;cs13f384;cs12e384;cs11d384;cs10c384;cs09b384;cs08a384
+;handicrafts painting drawing clay modeling ceramics etc. average time expe;cs19l385;cs18k385;cs17j385;cs16i385;cs15h385;cs14g385;cs13f385;cs12e385;cs11d385;cs10c385;cs09b385;cs08a385
+;photography average time expenditure on days that apply total in minutes;cs19l386;cs18k386;cs17j386;cs16i386;cs15h386;cs14g386;cs13f386;cs12e386;cs11d386;cs10c386;cs09b386;cs08a386
+;caring for plants (including garden) or animals average time expenditure on day;cs19l387;cs18k387;cs17j387;cs16i387;cs15h387;cs14g387;cs13f387;cs12e387;cs11d387;cs10c387;cs09b387;cs08a387
+;handwork average time expenditure on days that apply total in minutes;cs19l388;cs18k388;cs17j388;cs16i388;cs15h388;cs14g388;cs13f388;cs12e388;cs11d388;cs10c388;cs09b388;cs08a388
+;watching DVD/video average time expenditure on days that apply total in minut;cs19l503;cs18k503;cs17j503;cs16i503;cs15h503;cs14g389;cs13f389;cs12e389;cs11d389;cs10c389;cs09b389;cs08a389
+;reading average time expenditure on days that apply total in minutes;cs19l390;cs18k390;cs17j390;cs16i390;cs15h390;cs14g390;cs13f390;cs12e390;cs11d390;cs10c390;cs09b390;cs08a390
+;collecting stamps average time expenditure on days that apply total in minute;cs19l391;cs18k391;cs17j391;cs16i391;cs15h391;cs14g391;cs13f391;cs12e391;cs11d391;cs10c391;cs09b391;cs08a391
+;other collection average time expenditure on days that apply total in minutes;cs19l392;cs18k392;cs17j392;cs16i392;cs15h392;cs14g392;cs13f392;cs12e392;cs11d392;cs10c392;cs09b392;cs08a392
+;following a course average time expenditure on days that apply total in minut;cs19l393;cs18k393;cs17j393;cs16i393;cs15h393;cs14g393;cs13f393;cs12e393;cs11d393;cs10c393;cs09b393;cs08a393
+;drama musical ballet dance average time expenditure on days that apply tota;cs19l394;cs18k394;cs17j394;cs16i394;cs15h394;cs14g394;cs13f394;cs12e394;cs11d394;cs10c394;cs09b394;cs08a394
+;equestrian sport average time expenditure on days that apply total in minutes;cs19l395;cs18k395;cs17j395;cs16i395;cs15h395;cs14g395;cs13f395;cs12e395;cs11d395;cs10c395;cs09b395;cs08a395
+;car/motor sport average time expenditure on days that apply total in minutes;cs19l396;cs18k396;cs17j396;cs16i396;cs15h396;cs14g396;cs13f396;cs12e396;cs11d396;cs10c396;cs09b396;cs08a396
+;mechanical work on car/motorcycle average time expenditure on days that apply;cs19l397;cs18k397;cs17j397;cs16i397;cs15h397;cs14g397;cs13f397;cs12e397;cs11d397;cs10c397;cs09b397;cs08a397
+;card games average time expenditure on days that apply total in minutes;cs19l398;cs18k398;cs17j398;cs16i398;cs15h398;cs14g398;cs13f398;cs12e398;cs11d398;cs10c398;cs09b398;cs08a398
+;billiards pool snooker darts average time expenditure on days that apply to;cs19l399;cs18k399;cs17j399;cs16i399;cs15h399;cs14g399;cs13f399;cs12e399;cs11d399;cs10c399;cs09b399;cs08a399
+;pigeon keeping average time expenditure on days that apply total in minutes;cs19l400;cs18k400;cs17j400;cs16i400;cs15h400;cs14g400;cs13f400;cs12e400;cs11d400;cs10c400;cs09b400;cs08a400
+;going out cinema theatre dining out terrace lounging average time expenditu;cs19l401;cs18k401;cs17j401;cs16i401;cs15h401;cs14g401;cs13f401;cs12e401;cs11d401;cs10c401;cs09b401;cs08a401
+;cooking average time expenditure on days that apply total in minutes;cs19l402;cs18k402;cs17j402;cs16i402;cs15h402;cs14g402;cs13f402;cs12e402;cs11d402;cs10c402;cs09b402;cs08a402
+;listening to music average time expenditure on days that apply total in minut;cs19l403;cs18k403;cs17j403;cs16i403;cs15h403;cs14g403;cs13f403;cs12e403;cs11d403;cs10c403;cs09b403;cs08a403
+;fishing average time expenditure on days that apply total in minutes;cs19l404;cs18k404;cs17j404;cs16i404;cs15h404;cs14g404;cs13f404;cs12e404;cs11d404;cs10c404;cs09b404;cs08a404
+;shopping average time expenditure on days that apply total in minutes;cs19l405;cs18k405;cs17j405;cs16i405;cs15h405;cs14g405;cs13f405;cs12e405;cs11d405;cs10c405;cs09b405;cs08a405
+;dancing average time expenditure on days that apply total in minutes;cs19l406;cs18k406;cs17j406;cs16i406;cs15h406;cs14g406;cs13f406;cs12e406;cs11d406;cs10c406;cs09b406;cs08a406
+;boating average time expenditure on days that apply total in minutes;cs19l407;cs18k407;cs17j407;cs16i407;cs15h407;cs14g407;cs13f407;cs12e407;cs11d407;cs10c407;cs09b407;cs08a407
+date_fieldwork;Year and month of field work period;cs19l_m;cs18k_m;cs17j_m;cs16i_m;cs15h_m;cs14g_m;cs13f_m;cs12e_m;cs11d_m;cs10c_m;cs09b_m;cs08a_m
+hh_id;Number of household encrypted;;;;;;;;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr
+;Helpvariable: Total amount of time spent on voluntary work per week if only spe;cs19l408;cs18k408;cs17j408;cs16i408;cs15h408;cs14g408;cs13f408;cs12e408;cs11d408;;;
+sports_d_dancing;What sport do you practice? - dancing or exercising to music (for example dancin;cs19l409;cs18k409;cs17j409;cs16i409;cs15h409;cs14g409;cs13f409;cs12e409;cs11d409;;;
+questionnaire_difficult;Was it difficult to answer the questions?;cs19l410;cs18k410;cs17j410;cs16i410;cs15h410;cs14g410;cs13f410;cs12e410;cs11d410;;;
+questionnaire_clear;Were the questions sufficiently clear?;cs19l411;cs18k411;cs17j411;cs16i411;cs15h411;cs14g411;cs13f411;cs12e411;cs11d411;;;
+questionnaire_thinking;Did the questionnaire get you thinking about things?;cs19l412;cs18k412;cs17j412;cs16i412;cs15h412;cs14g412;cs13f412;cs12e412;cs11d412;;;
+questionnaire_interesting;Was it an interesting subject?;cs19l413;cs18k413;cs17j413;cs16i413;cs15h413;cs14g413;cs13f413;cs12e413;cs11d413;;;
+questionnaire_enjoy;Did you enjoy answering the questions?;cs19l414;cs18k414;cs17j414;cs16i414;cs15h414;cs14g414;cs13f414;cs12e414;cs11d414;;;
+duration;Duration in seconds;cs19l415;cs18k415;cs17j415;cs16i415;cs15h415;cs14g415;cs13f415;cs12e415;cs11d415;;;
+use_tablet;do you sometimes use a tablet besides when completing the questionnaires of thi;;;;;;cs14g416;cs13f416;cs12e416;;;;
+use_smartphone;do you sometimes use a smartphone besides when completing the questionnaires of;;;;;;cs14g417;cs13f417;cs12e417;;;;
+online_laptop;do you sometimes make use of the internet on a computer or laptop for other thi;cs19l418;cs18k418;cs17j418;cs16i418;cs15h418;cs14g418;cs13f418;cs12e418;;;;
+online_tablet;do you sometimes make use of the internet on a tablet for other things than com;cs19l419;cs18k419;cs17j419;cs16i419;cs15h419;cs14g419;cs13f419;cs12e419;;;;
+online_smartphone;do you sometimes make use of the internet on a smartphone for other things than;cs19l420;cs18k420;cs17j420;cs16i420;cs15h420;cs14g420;cs13f420;cs12e420;;;;
+online_laptop_home;internet use on a computer or laptop average number of hours per week: at home;cs19l421;cs18k421;cs17j421;cs16i421;cs15h421;cs14g421;cs13f421;cs12e421;;;;
+online_laptop_work;internet use on a computer or laptop average number of hours per week: at work;cs19l422;cs18k422;cs17j422;cs16i422;cs15h422;cs14g422;cs13f422;cs12e422;;;;
+online_laptop_school;internet use on a computer or laptop average number of hours per week: in schoo;cs19l423;cs18k423;cs17j423;cs16i423;cs15h423;cs14g423;cs13f423;cs12e423;;;;
+online_laptop_other;internet use on a computer or laptop average number of hours per week: somewher;cs19l424;cs18k424;cs17j424;cs16i424;cs15h424;cs14g424;cs13f424;cs12e424;;;;
+online_hours_tablet;internet use on a tablet average number of hours per week;cs19l425;cs18k425;cs17j425;cs16i425;cs15h425;cs14g425;cs13f425;cs12e425;;;;
+online_hours_smartphone;internet use on a smartphone average number of hours per week;cs19l426;cs18k426;cs17j426;cs16i426;cs15h426;cs14g426;cs13f426;cs12e426;;;;
+;How often do you download apps on your tablet?;cs19l427;cs18k427;cs17j427;cs16i427;cs15h427;cs14g427;cs13f427;cs12e427;;;;
+;How often do you download apps on your smartphone?;cs19l428;cs18k428;cs17j428;cs16i428;cs15h428;cs14g428;cs13f428;cs12e428;;;;
+online_socialmedia_d;ever spend time on: reading and viewing social media (e.g. Facebook Instagram;cs19l431;cs18k431;cs17j431;cs16i431;cs15h431;cs14g431;cs13f431;cs12e431;;;;
+online_blogs_d;ever spend time on: reading and/or writing blogs;cs19l432;cs18k432;cs17j432;cs16i432;cs15h432;cs14g432;cs13f432;cs12e432;;;;
+online_skype_d;ever spend time on: skype or similar services;;;;;;;cs13f433;cs12e433;;;;
+online_twitter_d;ever spend time on: twitter;;;;;;;cs13f434;cs12e434;;;;
+online_dating_d;ever spend time on: dating websites (like Relatieplanet Lexa Tinder Grindr or;cs19l435;cs18k435;cs17j435;cs16i435;cs15h435;cs14g435;cs13f435;cs12e435;;;;
+how_often_social_media;How often did you make use of social media in the past 2 months?;cs19l436;cs18k436;cs17j436;cs16i436;cs15h436;cs14g436;cs13f436;cs12e436;;;;
+online_socialmedia_hours;average number of hours per week spent on: reading and viewing social media (e.g;cs19l439;cs18k439;cs17j439;cs16i439;cs15h439;cs14g439;cs13f439;cs12e439;;;;
+online_blogs_hours;average number of hours per week spent on: reading and/or writing blogs;cs19l440;cs18k440;cs17j440;cs16i440;cs15h440;cs14g440;cs13f440;cs12e440;;;;
+online_skype_hours;average number of hours per week spent on: skype or similar services;;;;;;;cs13f441;cs12e441;;;;
+online_twitter_hours;average number of hours per week spent on: twitter;;;;;;;cs13f442;cs12e442;;;;
+online_dating_hours;average number of hours per week spent on: dating websites (like Relatieplanet;cs19l443;cs18k443;cs17j443;cs16i443;cs15h443;cs14g443;cs13f443;cs12e443;;;;
+access_pc;With which of the following devices do you have access to the internet at home?;cs19l444;cs18k444;cs17j444;cs16i444;cs15h444;cs14g444;cs13f444;;;;;
+access_laptop;With which of the following devices do you have access to the internet at home?;cs19l445;cs18k445;cs17j445;cs16i445;cs15h445;cs14g445;cs13f445;;;;;
+access_tablet;With which of the following devices do you have access to the internet at home?;cs19l446;cs18k446;cs17j446;cs16i446;cs15h446;cs14g446;cs13f446;;;;;
+access_mobilephone;With which of the following devices do you have access to the internet at home?;cs19l504;cs18k504;cs17j504;cs16i504;cs15h504;cs14g447;cs13f447;;;;;
+access_palmtop;With which of the following devices do you have access to the internet at home?;cs19l448;cs18k448;cs17j448;cs16i448;cs15h448;cs14g448;cs13f448;;;;;
+access_tvbox;With which of the following devices do you have access to the internet at home?;cs19l449;cs18k449;cs17j449;cs16i449;cs15h449;cs14g449;cs13f449;;;;;
+access_gameconsole;With which of the following devices do you have access to the internet at home?;cs19l450;cs18k450;cs17j450;cs16i450;cs15h450;cs14g450;cs13f450;;;;;
+access_none;With which of the following devices do you have access to the internet at home?;cs19l451;cs18k451;cs17j451;cs16i451;cs15h451;cs14g451;cs13f451;;;;;
+social_media_facebook;Which social media and/or social networking sites do you use? - Facebook;cs19l452;cs18k452;cs17j452;cs16i452;cs15h452;cs14g452;;;;;;
+social_media_twitter;Which social media do you use? - Twitter;cs19l453;cs18k453;cs17j453;cs16i453;cs15h453;cs14g453;;;;;;
+social_media_pinterest;Which social media do you use? - Pinterest;cs19l454;cs18k454;cs17j454;cs16i454;cs15h454;cs14g454;;;;;;
+social_media_google;Which social media do you use? - Google+;cs19l455;cs18k455;cs17j455;cs16i455;cs15h455;cs14g455;;;;;;
+social_media_tumblr;Which social media do you use? - Tumblr;cs19l456;cs18k456;cs17j456;cs16i456;cs15h456;cs14g456;;;;;;
+social_media_linkedin;Which social media do you use? - LinkedIn;cs19l457;cs18k457;cs17j457;cs16i457;cs15h457;cs14g457;;;;;;
+social_media_myspace;Which social media do you use? - MySpace;cs19l458;cs18k458;cs17j458;cs16i458;cs15h458;cs14g458;;;;;;
+social_media_flickr;Which social media do you use? - Flickr;cs19l459;cs18k459;cs17j459;cs16i459;cs15h459;cs14g459;;;;;;
+social_media_snapchat;Which social media do you use? - Snapchat;cs19l460;cs18k460;cs17j460;cs16i460;cs15h460;cs14g460;;;;;;
+social_media_foursquare;Which social media do you use? - Foursquare;cs19l461;cs18k461;cs17j461;cs16i461;cs15h461;cs14g461;;;;;;
+social_media_vine;Which social media do you use? - Vine;cs19l462;cs18k462;cs17j462;cs16i462;cs15h462;cs14g462;;;;;;
+social_media_vimeo;Which social media do you use? - Vimeo;cs19l463;cs18k463;cs17j463;cs16i463;cs15h463;cs14g463;;;;;;
+social_media_youtube;Which social media do you use? - YouTube;cs19l464;cs18k464;cs17j464;cs16i464;cs15h464;cs14g464;;;;;;
+social_media_skype;Which social media do you use? - Skype;cs19l465;cs18k465;cs17j465;cs16i465;cs15h465;cs14g465;;;;;;
+social_media_instagram;Which social media do you use? - Instagram;cs19l466;cs18k466;cs17j466;cs16i466;cs15h466;cs14g466;;;;;;
+social_media_tagged;Which social media do you use? - Tagged;cs19l467;cs18k467;cs17j467;cs16i467;cs15h467;cs14g467;;;;;;
+social_media_whatsapp;Which social media do you use? - WhatsApp;cs19l468;cs18k468;cs17j468;cs16i468;cs15h468;cs14g468;;;;;;
+social_media_spotify;Which social media do you use? - Spotify;cs19l469;cs18k469;cs17j469;cs16i469;cs15h469;cs14g469;;;;;;
+social_media_other2;Which social media do you use? - Other namely;cs19l470;cs18k470;cs17j470;cs16i470;cs15h470;cs14g470;;;;;;
+social_media_other;Which social media do you use? - Other namely;cs19l471;cs18k471;cs17j471;cs16i471;cs15h471;cs14g471;;;;;;
+frequency_facebook;Can you indicate how often you use the following social networking sites? - Face;cs19l472;cs18k472;cs17j472;cs16i472;cs15h472;cs14g472;;;;;;
+frequency_twitter;Can you indicate how often you use the following social networking sites? - Twit;cs19l473;cs18k473;cs17j473;cs16i473;cs15h473;cs14g473;;;;;;
+frequency_linkedin;Can you indicate how often you use the following social networking sites? - Link;cs19l474;cs18k474;cs17j474;cs16i474;cs15h474;cs14g474;;;;;;
+usage_facebook;How do you mainly use these social networking sites? - Facebook;cs19l475;cs18k475;cs17j475;cs16i475;cs15h475;cs14g475;;;;;;
+usage_twitter;How do you mainly use these social networking sites? - Twitter;cs19l476;cs18k476;cs17j476;cs16i476;cs15h476;cs14g476;;;;;;
+usage_linkedin;How do you mainly use these social networking sites? - LinkedIn;cs19l477;cs18k477;cs17j477;cs16i477;cs15h477;cs14g477;;;;;;
+confidence_facebook;To what extent do you have confidence in using Facebook?;;;;;;cs14g478;;;;;;
+confidence_social_networks;To what extent do you have confidence in using social networking sites?;;;;;;cs14g479;;;;;;
+concered_online_info;In general do you think about what information you share on social media and so;cs19l480;cs18k480;cs17j480;cs16i480;cs15h480;cs14g480;;;;;;
+reason_nosocial_media_cat;You have indicated previously that you do not use social media (e.g. Facebook T;cs19l481;cs18k481;cs17j481;cs16i481;cs15h481;cs14g481;;;;;;
+reason_nosocial_media_txt;Can you indicate why not? - Other reason namelyÂ;cs19l482;cs18k482;cs17j482;cs16i482;cs15h482;cs14g482;;;;;;
+perception_socialmedia_q1;Because of social media and social networking sites people are less inclined to;cs19l483;cs18k483;cs17j483;cs16i483;cs15h483;cs14g483;;;;;;
+perception_socialmedia_q2;Because of social media and social networking sites it is easier for people to m;cs19l484;cs18k484;cs17j484;cs16i484;cs15h484;cs14g484;;;;;;
+perception_spcialmedia_q3;When people do not use social media this is harmful for the 'real' (non-virtual;cs19l485;cs18k485;cs17j485;cs16i485;cs15h485;cs14g485;;;;;;
+online_posting_d;ever spend time on: posting messages photos and short films on social media you;cs19l486;cs18k486;cs17j486;cs16i486;cs15h486;cs14g486;;;;;;
+online_posting_hours;average number of hours per week spent on: posting messages photos and short fi;cs19l487;cs18k487;cs17j487;cs16i487;cs15h487;cs14g487;;;;;;
+visit_library;a library visited in the past 12 months;cs19l491;cs18k491;cs17j491;cs16i491;cs15h491;;;;;;;
+visit_filmfestival;a film festival visited in the past 12 months;cs19l492;cs18k492;cs17j492;cs16i492;cs15h492;;;;;;;
+visit_foodfestival;a Food truck festival or other food event visited in the past 12 months;cs19l493;cs18k493;cs17j493;cs16i493;cs15h493;;;;;;;
+number_library;a library number of visits over the past 12 months;cs19l497;cs18k497;cs17j497;cs16i497;cs15h497;;;;;;;
+number_filmfestival;a film festival number of visits over the past 12 months;cs19l498;cs18k498;cs17j498;cs16i498;cs15h498;;;;;;;
+number_foodfestival;a Food truck festival or other food event number of visits over the past 12 mon;cs19l499;cs18k499;cs17j499;cs16i499;cs15h499;;;;;;;
+tablet_use_d;do you sometimes use a tablet  for other things than completing the questionnai;cs19l506;cs18k506;cs17j506;cs16i506;cs15h506;;;;;;;
+smartphone_use_d;do you sometimes use a smartphone for other things than completing the question;cs19l507;cs18k507;cs17j507;cs16i507;cs15h507;;;;;;;
+social_media_telegram;Which social media do you use? - Telegram;cs19l508;cs18k508;cs17j508;cs16i508;cs15h508;;;;;;;
+social_media_soundcloud;Which social media do you use? - SoundCloud;cs19l509;cs18k509;cs17j509;cs16i509;cs15h509;;;;;;;
+social_media_viber;Which social media do you use? - Viber;cs19l510;cs18k510;cs17j510;cs16i510;cs15h510;;;;;;;
+social_media_yammer;Which social media do you use? - Yammer;cs19l511;cs18k511;cs17j511;cs16i511;cs15h511;;;;;;;
+confidence_privacy_facebook;To what extent do you have confidence that Facebook respects your privacy?;cs19l512;cs18k512;cs17j512;cs16i512;cs15h512;;;;;;;
+confidence_privacy_socialmedia;To what extent do you have confidence that social media respect your privacy?;cs19l513;cs18k513;cs17j513;cs16i513;cs15h513;;;;;;;
+social_media_messenger;Which social media do you use? - Messenger;cs19l519;cs18k519;cs17j519;cs16i519;;;;;;;;
+social_media_wechat;Which social media do you use? - WeChat;cs19l520;cs18k520;cs17j520;cs16i520;;;;;;;;
+social_media_deezer;Which social media do you use? - Deezer;cs19l521;cs18k521;cs17j521;cs16i521;;;;;;;;
+social_media_facetime;Which social media do you use? - FaceTime;cs19l522;cs18k522;cs17j522;cs16i522;;;;;;;;

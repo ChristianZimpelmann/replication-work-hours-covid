@@ -1,0 +1,103 @@
+new_name;labels;ln14a_EN_1.0p.dta
+condition;Which condition did the respondent receive?;ln14a001
+;I find it hard to put my feelings into words.;ln14a002
+;Before I fall asleep, I often imagine all sorts of events, encounters and conver;ln14a003
+;When I'm upset, I know whether I'm afraid or sad or angry.;ln14a004
+;When something happens completely unexpectedly, I remain calm and cool.;ln14a005
+;I don't pay much attention to my emotions.;ln14a006
+;I enjoy telling other people about my emotions.;ln14a007
+;I don't daydream or fantasize much.;ln14a008
+;When I am tense, it remains unclear for me which emotional feeling causes that.;ln14a009
+;When I see someone crying intensely, I remain unaffected.;ln14a010
+;One should try to understand emotions.;ln14a011
+;I find it hard to talk about my feelings even with a friend.;ln14a012
+;I fantasize a lot.;ln14a013
+;When things become too much for me, I usually understand why.;ln14a014
+first_trick_question;Do not answer this question and skip it.;ln14a015
+;Did the respondent activate the feedback screen (when contrary to the instructio;ln14a016
+;I become emotional when friends of mine fight around me.;ln14a017
+;When I don't feel right, I'm not going to make myself feel worse by asking mysel;ln14a018
+;When I want to say how bad I feel, it's easy for me to find the words to express;ln14a019
+;I'm not interested in fairy tales or bizarre stories.;ln14a020
+;When I feel good, it remains unclear for me whether it's because I'm light-heart;ln14a021
+;Emotions often just surface in me.;ln14a022
+;When I don't feel good, I try and find out why I feel that way.;ln14a023
+;People often tell me I should talk about my feelings more.;ln14a024
+;I rarely fantasize.;ln14a025
+;I don't know what goes on inside of me.;ln14a026
+;Even when other people are extremely enthusiastic about something, I remain unaf;ln14a027
+;There's little to understand about emotions.;ln14a028
+;When something has unsettled me, then I talk about my feelings with others.;ln14a029
+;I like to think up fantastical stories.;ln14a030
+;When I feel bad, then I know whether I'm afraid or gloomy or sad.;ln14a031
+;Unexpected events often overwhelm me with emotions.;ln14a032
+;I think that you should remain in touch with your feelings.;ln14a033
+;I can express my feelings.;ln14a034
+;I feel that fantasizing about unrealistic matters is a waste of time.;ln14a035
+;When I'm a burden to myself, it remains unclear to me whether I'm sad or afraid;ln14a036
+;I accept disappointment without any emotion.;ln14a037
+;I find it strange that other people analyze their emotions so often.;ln14a038
+;When I talk to people, I talk more about my daily activities than about my feeli;ln14a039
+;When I have little to do, then I daydream.;ln14a040
+;When I am in a bright mood, I know it's because I'm enthusiastic or cheerful or;ln14a041
+;When I see another person crying, I feel the sadness welling up in me.;ln14a042
+;When I am tense, I want to know exactly where that feeling is coming from.;ln14a043
+;The highest level of education I completed is:;ln14a044
+;The type of education I have followed up until now is especially:;ln14a045
+;Other;ln14a046
+;How would you describe your health in general?;ln14a047
+;How would you rate your health in general now compared to a year ago?;ln14a048
+trick_instruction;We request that you ignore the question below and also the 'continue' button. In;ln14a049
+click_on_title;Did the respondent click on the title link?;ln14a050
+;Did the respondent activate the feedback screen (when contrary to the instructio;ln14a051
+;Strenuous exercise, such as running, lifting heavy objects, participating in a s;ln14a052
+;Moderate exercise, such as moving a table, vacuuming, swimming or cycling;ln14a053
+;Lifting or carrying groceries;ln14a054
+;Walking up a few flights of stairs;ln14a055
+;Walking up one flight of stairs;ln14a056
+;Bending, kneeling or squatting;ln14a057
+;Walking more than a kilometer;ln14a058
+;Walking a few hundred meters;ln14a059
+;Walking approx. a hundred meters;ln14a060
+;Washing or getting dressed;ln14a061
+;You spent less time working or doing other activities;ln14a062
+;You achieved less than you would like;ln14a063
+;You were limited in the type of work or other activities;ln14a064
+;You had difficulty performing your work or other activities (for example, it req;ln14a065
+;You spent less time working or other activities;ln14a066
+;You achieved less than you would like;ln14a067
+;You did not do your work or other activities as carefully as usual;ln14a068
+;To what extent have your physical health or emotional problems limited you in yo;ln14a069
+;How much physical pain have you experienced in the past 4 weeks?;ln14a070
+;To what extent were you limited by pain in your normal work (work outside of the;ln14a071
+;did you feel lively?;ln14a072
+;were you very nervous?;ln14a073
+;were you so down in the dumps that nothing could cheer you up?;ln14a074
+;did you feel calm and satisfied?;ln14a075
+;did you feel energetic?;ln14a076
+;did you feel somber and gloomy?;ln14a077
+;did you feel exhausted?;ln14a078
+;were you a happy person?;ln14a079
+;did you feel tired?;ln14a080
+;How often did your physical health or emotional problems limit you during social;ln14a081
+;I seem to get sick a bit more easily;ln14a082
+;I am just as healthy as other people;ln14a083
+;I expect that my health will deteriorate;ln14a084
+;My health is excellent;ln14a085
+;I quickly tend to think there's something wrong with my health;ln14a086
+;I don't decide so soon to go to the doctor;ln14a087
+second_trick_question;Do not fill in this question and skip it;ln14a088
+;I try to figure out myself what's ailing me when there's something wrong with my;ln14a089
+;I have confidence in my doctor;ln14a090
+questionnaire_difficult;Was it difficult to answer the questions?;ln14a091
+questionnaire_clear;Were the questions sufficiently clear?;ln14a092
+questionnaire_thinking;Did the questionnaire get you thinking about things?;ln14a093
+questionnaire_interesting;Was it an interesting subject?;ln14a094
+questionnaire_enjoy;Did you enjoy answering the questions?;ln14a095
+start_date;Starting date questionnaire;ln14a096
+start_time;Starting time questionnaire;ln14a097
+end_date;End date questionnaire;ln14a098
+end_time;End time questionnaire;ln14a099
+duration;Duration in seconds;ln14a100
+date_fieldwork;Year and month of the fieldwork period;ln14a_m
+personal_id;Number of the household member encrypted;nomem_encr

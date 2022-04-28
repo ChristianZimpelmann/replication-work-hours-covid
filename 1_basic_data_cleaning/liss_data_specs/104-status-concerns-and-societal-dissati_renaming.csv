@@ -1,0 +1,44 @@
+new_name;labels;jk13a_EN_1.0p.dta
+idealsoc_situationimproves;In my ideal society...everyones situation improves with time, even if it means;jk13a001
+idealsoc_competition;In my ideal society...there would preferably be a bit less progress for everyone;jk13a002
+idealsoc_equality;In my ideal society...the inequality between people is not very large.;jk13a003
+idealsoc_ownprogress;In my ideal society...everyone looks after his or her own progress.;jk13a004
+idealsoc_ownfate;In my ideal society...people are responsible for their own fate if things go wel;jk13a005
+idealsoc_accomplishments;In my ideal society...someones position in society depends especially on their;jk13a006
+state_noequilibrium;For a long time, the state...has not maintained an equilibrium in the inequality;jk13a007
+state_socialcohesion;For a long time, the state...has not managed to build social cohesion in this so;jk13a008
+state_goodcare;For a long time, the state...has not taken good care of all citizens.;jk13a009
+state_influenceearn;For a long time, the state...has exerted influence over what people can earn.;jk13a010
+state_restrictedcompetition;For a long time, the state...has restricted competition in the market.;jk13a011
+state_taxmoney;For a long time, the state...has used tax money to help people who make a mess o;jk13a012
+others_betteroff;I do not like it if others continually try to be better off than myself.;jk13a013
+others_worseoff;I do not like it if others are a lot worse off than myself.;jk13a014
+others_shouldpay;I do not like it if others feel that I should help pay for their so-called bad l;jk13a015
+others_statehelp;I do not like it if people look to the state for help, instead of helping.;jk13a016
+dutch_warm;In general, Dutch society gives me a warm feeling.;jk13a017
+dutch_home;I do not feel at home in Dutch society.;jk13a018
+dutch_dontbelong;I sometimes have the feeling that I dont really belong in Dutch society.;jk13a019
+dutch_belong;I feel that I belong in Dutch society.;jk13a020
+dutch_love;I love the Netherlands.;jk13a021
+dutch_risk;Important aspects of Dutch culture are at risk of being lost.;jk13a022
+dutch_immigration;Immigration is an enrichment of Dutch culture.;jk13a023
+dutch_morality;I feel that behavior and morality are getting worse in our society.;jk13a024
+dutch_crime;Crime is increasing in the Netherlands.;jk13a025
+politicians_care;I dont think that parliamentarians and ministers really care about what people;jk13a026
+people_influence;People like me have no influence at all on how the government acts.;jk13a027
+too_many_changes;I would prefer the government to remain at a standstill for a moment, and to not;jk13a028
+governement_certain;If it is not exactly clear what the effect of a certain new policy will be, then;jk13a029
+anticipate_economic_situation;I anticipate that my personal economic situation will deteriorate considerably i;jk13a030
+economy_decline;It is likely that the economy will decline further in the coming time.;jk13a031
+questionnaire_difficult;Was it difficult to answer the questions?;jk13a032
+questionnaire_clear;Were the questions sufficiently clear?;jk13a033
+questionnaire_thinking;Did the questionnaire get you thinking about things?;jk13a034
+questionnaire_interesting;Was it an interesting subject?;jk13a035
+questionnaire_enjoy;Did you enjoy answering the questions?;jk13a036
+start_date;Starting date questionnaire;jk13a037
+start_time;Starting time questionnaire;jk13a038
+end_date;End date questionnaire;jk13a039
+end_time;End time questionnaire;jk13a040
+duration;Duration of questionnaire in seconds;jk13a041
+date_fieldwork;Year and month of the field work period;jk13a_m
+personal_id;Number of household member encrypted;nomem_encr

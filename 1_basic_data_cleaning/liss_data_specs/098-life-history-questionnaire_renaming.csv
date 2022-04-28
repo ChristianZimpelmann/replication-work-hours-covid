@@ -1,0 +1,224 @@
+;new_name;labels;cb13b_EN_1.0p.dta;cb12a_EN_1.0p.dta
+0;random_household;random variable: in the event that the respondent lived both with mother and ste;cb13b001;cb12a001
+1;parents_birth;Right after you were born did you live with both your real parents?;cb13b002;cb12a002
+2;parents_birth_other1;With whom did you live then?;cb13b003;cb12a003
+3;parents_birth_other2;With whom did you live then? ? other namely;cb13b004;cb12a004
+4;noparents_birth;Why didn?t you live with both biological parents?;cb13b005;cb12a005
+5;noparents_birth_other;Why didn?t you live with both biological parents? - other namely;cb13b006;cb12a006
+6;change_family1;Did this (parental) family situation from before you started living independentl;cb13b007;cb12a007
+7;change_family2;Did this (parental) family situation from before you started living independentl;cb13b008;cb12a008
+8;change_family3;Did this (parental) family situation from before you started living independentl;cb13b009;cb12a009
+9;change_family4;Did this (parental) family situation from before you started living independentl;cb13b010;cb12a010
+10;change_family5;Did this (parental) family situation from before you started living independentl;cb13b011;cb12a011
+11;change_family6;Did this (parental) family situation from before you started living independentl;cb13b012;cb12a012
+12;change_family7;Did this (parental) family situation from before you started living independentl;cb13b013;cb12a013
+13;change_family8;Did this (parental) family situation from before you started living independentl;cb13b014;cb12a014
+14;change_family9;Did this (parental) family situation from before you started living independentl;cb13b015;cb12a015
+15;cause_change;What caused the change?;cb13b016;cb12a016
+16;cause_change_other;What caused the change? - other namely;cb13b017;cb12a017
+17;change_situation1;In what situation did you come to live after that? (1);cb13b018;cb12a018
+18;change_situation1_other;In what situation did you come to live after that? (1) ? other namely;cb13b019;cb12a019
+19;change_age1;How old were you when this change occurred? (1);cb13b020;cb12a020
+20;change_situation2;In what situation did you come to live after that? (2);cb13b021;cb12a021
+21;change_situation2_other;In what situation did you come to live after that? (2) ? other namely;cb13b022;cb12a022
+22;change_age2;How old were you when this change occurred? (2);cb13b023;cb12a023
+23;change_situation3;In what situation did you come to live after that? (3);cb13b024;cb12a024
+24;change_situation3_other;In what situation did you come to live after that? (3) ? other namely;cb13b025;cb12a025
+25;change_age3;How old were you when this change occurred? (3);cb13b026;cb12a026
+26;change_situation4;In what situation did you come to live after that? (4);cb13b027;cb12a027
+27;change_situation4_other;In what situation did you come to live after that? (4) ? other namely;cb13b028;cb12a028
+28;change_age4;How old were you when this change occurred? (4);cb13b029;cb12a029
+29;change_situation5;In what situation did you come to live after that? (5);cb13b030;cb12a030
+30;change_situation5_other;In what situation did you come to live after that? (5) ? other namely;cb13b031;cb12a031
+31;change_age5;How old were you when this change occurred? (5);cb13b032;cb12a032
+32;change_situation6;In what situation did you come to live after that? (6);cb13b033;cb12a033
+33;change_situation6_other;In what situation did you come to live after that? (6) ? other namely;cb13b034;cb12a034
+34;change_age6;How old were you when this change occurred? (6);cb13b035;cb12a035
+35;change_situation7;In what situation did you come to live after that? (7);cb13b036;cb12a036
+36;change_situation7_other;In what situation did you come to live after that? (7) ? other namely;cb13b037;cb12a037
+37;change_age7;How old were you when this change occurred? (7);cb13b038;cb12a038
+38;change_situation8;In what situation did you come to live after that? (8);cb13b039;cb12a039
+39;change_situation8_other;In what situation did you come to live after that? (8) ? other namely;cb13b040;cb12a040
+40;change_age8;How old were you when this change occurred? (8);cb13b041;cb12a041
+41;change_situation9;In what situation did you come to live after that? (9);cb13b042;cb12a042
+42;change_situation9_other;In what situation did you come to live after that? (9) ? other namely;cb13b043;cb12a043
+43;change_age9;How old were you when this change occurred? (9);cb13b044;cb12a044
+44;age_independent;How old were you when you first started living independently?;cb13b045;cb12a045
+45;mother_work_childhood;Did your [biological mother/adoptive mother] perform paid work at the time?;cb13b046;cb12a046
+46;mother_occupation_childhood;What was your mother?s occupation or position at that time?;cb13b047;cb12a047
+47;mother_education_childhood;What is the highest education that your mother had completed with a diploma at t;cb13b048;cb12a048
+48;mother_church_childhood;How often did your mother attend church or other religious gatherings during thi;cb13b049;cb12a049
+49;mother_concerts_childhood;How often did your mother do any of the following at the time? ? Visiting class;cb13b050;cb12a050
+50;mother_museum_childhood;How often did your mother do any of the following at the time? ? Visiting an ar;cb13b051;cb12a051
+51;mother_theatre_childhood;How often did your mother do any of the following at the time? ? Visiting a the;cb13b052;cb12a052
+52;mother_reading_childhood;How often did your mother do any of the following at the time? ? Reading books;cb13b053;cb12a053
+53;father_work_childhood;Did your [biological father/adoptive father] perform paid work at the time?;cb13b054;cb12a054
+54;father_unemployed_child;What is the reason that your father did not work the whole period?;cb13b055;cb12a055
+55;father_unemployed_child_o;Wat was de reden dat uw vader niet de hele tijd heeft gewerkt? - anders namelijk;cb13b056;cb12a056
+56;father_occupation_childhood;What was your father?s occupation or position at that time?;cb13b057;cb12a057
+57;father_education_childhood;What is the highest education that your father had completed with a diploma at t;cb13b058;cb12a058
+58;father_church_childhood;How often did your father attend church or other religious gatherings during thi;cb13b059;cb12a059
+59;father_concerts_childhood;How often did your father do any of the following at the time? Visiting class;cb13b060;cb12a060
+60;father_museum_childhood;How often did your father do any of the following at the time? Visiting an ar;cb13b061;cb12a061
+61;father_theatre_childhood;How often did your father do any of the following at the time? Visiting a the;cb13b062;cb12a062
+62;father_reading_childhood;How often did your father do any of the following at the time? Reading books;cb13b063;cb12a063
+63;books_childhood;How many books were there in the home at the time approximately?;cb13b064;cb12a064
+64;cooking_division_childhood;How were the household chores divided between your father and mother in this per;cb13b065;cb12a065
+65;groceries_division_childhood;How were the household chores divided between your father and mother in this per;cb13b066;cb12a066
+66;cleaning_division_childhood;How were the household chores divided between your father and mother in this per;cb13b067;cb12a067
+67;finances_division_childhood;How were the household chores divided between your father and mother in this per;cb13b068;cb12a068
+68;practical_division_childhood;How were the household chores divided between your father and mother in this per;cb13b069;cb12a069
+69;laundry_division_childhood;How were the household chores divided between your father and mother in this per;cb13b070;cb12a070
+70;homework_division_childhood;And how were the childrearing tasks divided between your father and mother at th;cb13b071;cb12a071
+71;school_division_childhood;And how were the childrearing tasks divided between your father and mother at th;cb13b072;cb12a072
+72;personal_division_childhood;And how were the childrearing tasks divided between your father and mother at th;cb13b073;cb12a073
+73;hobbies_division_childhood;And how were the childrearing tasks divided between your father and mother at th;cb13b074;cb12a074
+74;visits_division_childhood;And how were the childrearing tasks divided between your father and mother at th;cb13b075;cb12a075
+75;discussions_childhood;How often did it happen that your parents had fierce discussions?;cb13b076;cb12a076
+76;repoach_childhood;How often did it happen that one parent strongly reproached the other?;cb13b077;cb12a077
+77;ignoring_childhood;How often did it happen that your parents refused to talk to each other for a wh;cb13b078;cb12a078
+78;arguments_childhood;How often did it happen that arguments got out of hand?;cb13b079;cb12a079
+79;material_situation_childhood;How would you describe the material situation of the family in which you lived a;cb13b080;cb12a080
+80;financial_situation_childhood;How hard or easy was it for this family generally to make ends meet?;cb13b081;cb12a081
+81;financial_struggle_childhood;For the list below can you say for each item whether this ever affected the fam;cb13b082;cb12a082
+82;replace_broken_childhood;For the list below can you say for each item whether this ever affected the fam;cb13b083;cb12a083
+83;borrow_money_childhood;For the list below can you say for each item whether this ever affected the fam;cb13b084;cb12a084
+84;behind_bills_childhood;For the list below can you say for each item whether this ever affected the fam;cb13b085;cb12a085
+85;debt_collectors_childhood;For the list below can you say for each item whether this ever affected the fam;cb13b086;cb12a086
+86;family_support_childhood;For the list below can you say for each item whether this ever affected the fam;cb13b087;cb12a087
+87;mother_problems_childhood;I could always turn to my mother with my problems;cb13b088;cb12a088
+88;mother_bond_childhood;My mother and I had a close bond;cb13b089;cb12a089
+89;mother_support_childhood;I always felt supported by my mother;cb13b090;cb12a090
+90;mother_understand_childhood;My mother could well understand my preoccupations;cb13b091;cb12a091
+91;father_problems_childhood;I could always turn to my father with my problems;cb13b092;cb12a092
+92;father_bond_childhood;My father and I had a close bond;cb13b093;cb12a093
+93;father_support_childhood;I always felt supported by my father;cb13b094;cb12a094
+94;father_understand_childhood;My father could well understand my preoccupations;cb13b095;cb12a095
+95;sisters_childhood;How many sisters lived with you in the same house?;cb13b096;cb12a096
+96;brothers_childhood;How many brothers lived with you in the same house?;cb13b097;cb12a097
+97;sibling_relationship_childhood;How good was your relationship with your sibling or siblings at the time?;cb13b098;cb12a098
+98;parents_relationship_present;How good is your relationship with you own father and mother at present?;cb13b099;cb12a099
+99;mother_occupation_childhood_alt;What was your biological mother?s occupation or position?;cb13b100;cb12a100
+100;mother_education_childhood_alt;What is the highest education that your biological mother completed with a diplo;cb13b101;cb12a101
+101;father_occupation_childhood_alt;What was your biological father?s occupation or position?;cb13b102;cb12a102
+102;father_education_childhood_alt;What is the highest education that your biological father completed with a diplo;cb13b103;cb12a103
+103;family_structure_other;Second parental family situation;cb13b104;cb12a104
+104;mother_work_childhood2;Did your [(step/foster/adoptive)mother/foster parent/adoptive parent] perform pa;cb13b105;cb12a105
+105;mother_occupation_childhood2;What was your [(step/foster/adoptive)mother/foster parent/adoptive parent]?s occ;cb13b106;cb12a106
+106;mother_education_childhood2;What is the highest education that your [(step/foster/adoptive)mother/foster par;cb13b107;cb12a107
+107;mother_church_childhood2;How often did your [(step/foster/adoptive)mother/foster parent/adoptive parent];cb13b108;cb12a108
+108;mother_concerts_childhood2;How often did your [(step/foster/adoptive)mother/foster parent/adoptive parent];cb13b109;cb12a109
+109;mother_museum_childhood2;How often did your [(step/foster/adoptive)mother/foster parent/adoptive parent];cb13b110;cb12a110
+110;mother_theatre_childhood2;How often did your [(step/foster/adoptive)mother/foster parent/adoptive parent];cb13b111;cb12a111
+111;mother_reading_childhood2;How often did your [(step/foster/adoptive)mother/foster parent/adoptive parent];cb13b112;cb12a112
+112;father_work_childhood2;Did your [(step/foster/adoptive)father] perform paid work at the time?;cb13b113;cb12a113
+113;father_unemployed_child2;What is the reason that your [(step/foster/adoptive)father] did not work the who;cb13b114;cb12a114
+114;father_unemployed_child_o2;What is the reason that your [(step/foster/adoptive)father] did not work the who;cb13b115;cb12a115
+115;father_occupation_childhood2;What was your [(step/foster/adoptive)father]?s occupation or position at that ti;cb13b116;cb12a116
+116;father_education_childhood2;What is the highest education that your [(step/foster/adoptive)father] had compl;cb13b117;cb12a117
+117;father_church_childhood2;How often did your [(step/foster/adoptive)father] attend church or other religio;cb13b118;cb12a118
+118;father_concerts_childhood2;How often did your [(step/foster/adoptive)father] do any of the following;cb13b119;cb12a119
+119;father_museum_childhood2;How often did your [(step/foster/adoptive)father] do any of the following;cb13b120;cb12a120
+120;father_theatre_childhood2;How often did your [(step/foster/adoptive)father] do any of the following;cb13b121;cb12a121
+121;father_reading_childhood2;How often did your [(step/foster/adoptive)father] do any of the following;cb13b122;cb12a122
+122;books_childhood2;How many books were there in the home at the time approximately?;cb13b123;cb12a123
+123;cooking_division_childhood2;How were the household chores divided between your [SECOND PARENTAL FAMILY] in t;cb13b124;cb12a124
+124;groceries_division_childhood2;How were the household chores divided between your [SECOND PARENTAL FAMILY] in t;cb13b125;cb12a125
+125;cleaning_division_childhood2;How were the household chores divided between your [SECOND PARENTAL FAMILY] in t;cb13b126;cb12a126
+126;finances_division_childhood2;How were the household chores divided between your [SECOND PARENTAL FAMILY] in t;cb13b127;cb12a127
+127;practical_division_childhood2;How were the household chores divided between your [SECOND PARENTAL FAMILY] in t;cb13b128;cb12a128
+128;laundry_division_childhood2;How were the household chores divided between your [SECOND PARENTAL FAMILY] in t;cb13b129;cb12a129
+129;homework_division_childhood2;And how were the childrearing tasks divided between your [SECOND PARENTAL FAMILY;cb13b130;cb12a130
+130;school_division_childhood2;And how were the childrearing tasks divided between your [SECOND PARENTAL FAMILY;cb13b131;cb12a131
+131;personal_division_childhood2;And how were the childrearing tasks divided between your [SECOND PARENTAL FAMILY;cb13b132;cb12a132
+132;hobbies_division_childhood2;And how were the childrearing tasks divided between your [SECOND PARENTAL FAMILY;cb13b133;cb12a133
+133;visits_division_childhood2;And how were the childrearing tasks divided between your [SECOND PARENTAL FAMILY;cb13b134;cb12a134
+134;discussions_childhood2;How often did it happen that your biological parents had fierce discussions?;cb13b135;cb12a135
+135;repoach_childhood2;How often did it happen that one parent strongly reproached the other?;cb13b136;cb12a136
+136;ignoring_childhood2;How often did it happen that your biological parents refused to talk to each oth;cb13b137;cb12a137
+137;arguments_childhood2;How often did it happen that arguments got out of hand?;cb13b138;cb12a138
+138;material_situation_childhood2;How would you describe the material situation of the family in which you lived a;cb13b139;cb12a139
+139;financial_situation_childhood2;How hard or easy was it for this family generally to make ends meet?;cb13b140;cb12a140
+140;financial_struggle_childhood2;For the list below can you say for each item whether this ever affected the fam;cb13b141;cb12a141
+141;replace_broken_childhood2;For the list below can you say for each item whether this ever affected the fam;cb13b142;cb12a142
+142;borrow_money_childhood2;For the list below can you say for each item whether this ever affected the fam;cb13b143;cb12a143
+143;behind_bills_childhood2;For the list below can you say for each item whether this ever affected the fam;cb13b144;cb12a144
+144;debt_collectors_childhood2;For the list below can you say for each item whether this ever affected the fam;cb13b145;cb12a145
+145;family_support_childhood2;For the list below can you say for each item whether this ever affected the fam;cb13b146;cb12a146
+146;mother_problems_childhood2;I could always turn to my [(step/foster/adoptive)mother/foster parent/adoptive p;cb13b147;cb12a147
+147;mother_bond_childhood2;My [(step/foster/adoptive)mother/foster parent/adoptive parent] and I had a clos;cb13b148;cb12a148
+148;mother_support_childhood2;I always felt supported by my [(step/foster/adoptive)mother/foster parent/adopti;cb13b149;cb12a149
+149;mother_understand_childhood2;My [(step/foster/adoptive)mother/foster parent/adoptive parent] could understand;cb13b150;cb12a150
+150;father_problems_childhood2;I could always turn to my [(step/foster/adoptive)father] with my problems;cb13b151;cb12a151
+151;father_bond_childhood2;My [(step/foster/adoptive)father] and I had a close bond;cb13b152;cb12a152
+152;father_support_childhood2;I always felt supported by my [(step/foster/adoptive)father];cb13b153;cb12a153
+153;father_understand_childhood2;My [(step/foster/adoptive)father] could understand my preoccupations well;cb13b154;cb12a154
+154;siblings_childhood;Can you say whether the following persons lived in the same house with you at th;cb13b155;cb12a155
+155;stepsiblings_childhood;Can you say whether the following persons lived in the same house with you at th;cb13b156;cb12a156
+156;halfsiblings_childhood;Can you say whether the following persons lived in the same house with you at th;cb13b157;cb12a157
+157;fostersiblings_childhood;Can you say whether the following persons lived in the same house with you at th;cb13b158;cb12a158
+158;adoptivesiblings_childhood;Can you say whether the following persons lived in the same house with you at th;cb13b159;cb12a159
+159;siblings_relation_childhood;How good was your relationship generally speaking with your sibling;cb13b160;cb12a160
+160;stepsiblings_relation_childh;How good was your relationship generally speaking with your stepsibling;cb13b161;cb12a161
+161;halfsiblings_relation_childh;How good was your relationship generally speaking with your halb-sibling;cb13b162;cb12a162
+162;fostersiblings_rel_childh;How good was your relationship generally speaking with your foster-sibling;cb13b163;cb12a163
+163;adoptivesiblings_rel_childh;How good was your relationship generally speaking with your adoptive-sibling;cb13b164;cb12a164
+164;parent_contact_childhood;How often during that time did you see your [biological father / mother;cb13b165;cb12a165
+165;parent_night_childhood;Did you ever spend the night at your [biological father / biological mother]?s h;cb13b166;cb12a166
+166;parent_problems_childhood;I could always turn to my [father/mother] with my problems;cb13b167;cb12a167
+167;parent_bond_childhood;My [father/mother] and I had a close bond;cb13b168;cb12a168
+168;parent_support_childhood;I always felt supported by my [father/mother];cb13b169;cb12a169
+169;parent_understand_childhood;My [father/mother] could well understand my preoccupations;cb13b170;cb12a170
+170;new_partner_childhood;Did your [biological father / biological mother] live with a new partner at that;cb13b171;cb12a171
+171;partner_together_childhood;Does your [stepfather/stepmother] currently live with your [mother/father]?;cb13b172;cb12a172
+172;partner_reason_childhood;Can you indicate the reason?;cb13b173;cb12a173
+173;partner_age_childhood;How old were you when this happened?;cb13b174;cb12a174
+174;step_relation_present;How good is the relationship currently between your [mother/father] and [stepfat;cb13b175;cb12a175
+175;mother_alive;Is your mother still alive?;cb13b176;cb12a176
+176;father_alive;Is your father still alive?;cb13b177;cb12a177
+177;stepparent_alive;Is your [stepfather/stepmother] still alive?;cb13b178;cb12a178
+178;mother_seen_present;How often did you see your mother in the past 12 months?;cb13b179;cb12a179
+179;mother_relation_present;How would you describe your relationship with your mother at this moment?;cb13b180;cb12a180
+180;father_seen_present;How often did you see your father in the past 12 months?;cb13b181;cb12a181
+181;father_relation_present;How would you describe your relationship with your father at this moment?;cb13b182;cb12a182
+182;stepparent_seen_present;How often did you see your [stepmother/stepfather] in the past 12 months?;cb13b183;cb12a183
+183;stepparent_relation_present;How would you describe your relationship with your [stepmother/stepfather] at th;cb13b184;cb12a184
+184;stepparent_parent_present;Is your [stepfather/stepmother] like a [father/mother] to you?;cb13b185;cb12a185
+185;mother_helped1_present;In the past 3 months did you ever get any help from your mother with household;cb13b186;cb12a186
+186;father_helped1_present;In the past 3 months did you ever get any help from your father with household;cb13b187;cb12a187
+187;stepparent_helped1_present;In the past 3 months did you ever get any help from your stepmother/stepfather with household;cb13b188;cb12a188
+188;mother_helped2_present;In the past 3 months did you ever get any help from your mother with caring for;cb13b189;cb12a189
+189;father_helped2_present;In the past 3 months did you ever get any help from your father with caring for;cb13b190;cb12a190
+190;stepparent_helped2_present;In the past 3 months did you ever get any help from your stepmother/stepfather with caring for;cb13b191;cb12a191
+191;mother_helped3_present;In the past 3 months did you ever get any help from your mother with practical;cb13b192;cb12a192
+192;father_helped3_present;In the past 3 months did you ever get any help from your father with practical;cb13b193;cb12a193
+193;stepparent_helped3_present;In the past 3 months did you ever get any help from your stepmother/stepfather with practical;cb13b194;cb12a194
+194;mother_interest_present;In the past three months did your mother show any interest in your personal life;cb13b195;cb12a195
+195;father_interest_present;In the past three months did your father show any interest in your personal life;cb13b196;cb12a196
+196;stepparent_interest_present;In the past three months did your stepmoher/stepfather show any interest in your personal life;cb13b197;cb12a197
+197;mother_advice_present;In the past three months did your mother ever offer good advice or counseling?;cb13b198;cb12a198
+198;father_advice_present;In the past three months did your father ever offer good advice or counseling?;cb13b199;cb12a199
+199;stepparent_advice_present;In the past three months did your stepmother/stepfather ever offer good advice or counseling?;cb13b200;cb12a200
+200;helped1_mother_present;In the past 3 months did you ever help your mother with household chores such;cb13b201;cb12a201
+201;helped1_father_present;In the past 3 months did you ever help your father with household chores such;cb13b202;cb12a202
+202;helped1_stepparent_present;In the past 3 months did you ever help your stepmother/stepfather with household chores such;cb13b203;cb12a203
+203;helped2_mother_present;In the past 3 months did you ever help your mother with practical matters such;cb13b204;cb12a204
+204;helped2_father_present;In the past 3 months did you ever help your fatther with practical matters such;cb13b205;cb12a205
+205;helped2_stepparent_present;In the past 3 months did you ever help your stepmother/stepfather with practical matters such;cb13b206;cb12a206
+206;interest_mother_present;In the past 3 months did you ever show an interest in the personal life of your;cb13b207;cb12a207
+207;interest_father_present;In the past 3 months did you ever show an interest in the personal life of your;cb13b208;cb12a208
+208;interest_stepparent_present;In the past 3 months did you ever show an interest in the personal life of your;cb13b209;cb12a209
+209;questionnaire_difficult;Was it difficult to answer the questions?;cb13b210;cb12a210
+210;questionnaire_clear;Were the questions sufficiently clear?;cb13b211;cb12a211
+211;questionnaire_thinking;Did the questionnaire get you thinking about things?;cb13b212;cb12a212
+212;questionnaire_interesting;Was it an interesting subject?;cb13b213;cb12a213
+213;questionnaire_enjoy;Did you enjoy answering the questions?;cb13b214;cb12a214
+214;start_date;Starting date questionnaire;cb13b215;cb12a215
+215;start_time;Starting time questionnaire;cb13b216;cb12a216
+216;end_date;End date questionnaire;cb13b217;cb12a217
+217;end_time;End time questionnaire;cb13b218;cb12a218
+218;duration;Duration in seconds;cb13b219;cb12a219
+219;;preloaded variable: Is your father still alive?;cb13b220;cb12a220
+220;;preloaded variable: Is your mother still alive?;cb13b221;cb12a221
+221;date_fieldwork;Year and month of the field work period;cb13b_m;cb12a_m
+222;personal_id;Number of the household member encrypted;nomem_encr;nomem_encr

@@ -1,0 +1,283 @@
+new_name;labels;cv20l_EN_1.0p.dta;cv19k_EN_1.0p.dta;cv18j_EN_1.0p.dta;cv17i_EN_1.0p.dta;cv16h_EN_1.0p.dta;cv14g_EN_1.0p.dta;cv13f_EN_1.0p.dta;cv12e_EN_1.0p.dta;cv11d_EN_1.0p.dta;cv10c_EN_1.0p.dta;cv09b_2.1p_EN.dta;cv08a_1.1p_EN.dta;type;categories_english;ordered
+gov_satisfaction;How satisfied or dissatisfied are you, generally speaking, about what the govern;cv20l001;cv19k001;cv18j001;cv17i001;cv16h001;cv14g001;cv13f001;cv12e001;cv11d001;cv10c001;cv09b001;cv08a001;scale;very dissatisfied|dissatisfied|neither satisfied nor dissatisfied|satisfied|very satisfied;True
+follow_tv_news;Do you follow the news: More than one answer is possible. on television and/or r;cv20l002;cv19k002;cv18j002;cv17i002;cv16h002;cv14g002;cv13f002;cv12e002;cv11d002;cv10c002;cv09b002;cv08a002;bool;;
+follow_internet_news;Do you follow the news: More than one answer is possible. on the Internet;cv20l003;cv19k003;cv18j003;cv17i003;cv16h003;cv14g003;cv13f003;cv12e003;cv11d003;cv10c003;cv09b003;cv08a003;bool;;
+follow_newspaper;Do you follow the news: More than one answer is possible. in a free daily newspa;cv20l004;cv19k004;cv18j004;cv17i004;cv16h004;cv14g004;cv13f004;cv12e004;cv11d004;cv10c004;cv09b004;cv08a004;bool;;
+follow_paid_subscription;Do you follow the news: in a bought newspaper or one that you have a subscriptio;cv20l166;cv19k166;cv18j166;cv17i166;cv16h166;cv14g166;cv13f166;cv12e166;cv11d166;cv10c005;cv09b005;cv08a005;bool;;
+follow_news_general;Do you follow the news: More than one answer is possible. not or hardly;cv20l006;cv19k006;cv18j006;cv17i006;cv16h006;cv14g006;cv13f006;cv12e006;cv11d006;cv10c006;cv09b006;cv08a006;bool;;
+follow_news_uncertain;Do you follow the news: More than one answer is possible. I dont know;;cv19k007;cv18j007;cv17i007;cv16h007;cv14g007;cv13f007;cv12e007;cv11d007;cv10c007;cv09b007;cv08a007;bool;;
+news_interest;Are you very interested in the news, fairly interested or not interested?;cv20l008;cv19k008;cv18j008;cv17i008;cv16h008;cv14g008;cv13f008;cv12e008;cv11d008;cv10c008;cv09b008;cv08a008;scale;not interested|fairly interested|very interested;True
+news_read_nat_issues;If the newspaper reports national news, for example about politics, do you read;cv20l009;cv19k009;cv18j009;cv17i009;cv16h009;cv14g009;cv13f009;cv12e009;cv11d009;cv10c009;cv09b009;cv08a009;scale;seldom or never|once in a while|often|almost always;True
+news_engage_nat_issues;If you are in the company of other people and the conversation turns to national;cv20l010;cv19k010;cv18j010;cv17i010;cv16h010;cv14g010;cv13f010;cv12e010;cv11d010;cv10c010;cv09b010;cv08a010;category;usually participate|listen with interest|do not listen or have no interest;False
+news_read_internat_issues;If the newspaper reports international news, for example about tensions or talks;cv20l011;cv19k011;cv18j011;cv17i011;cv16h011;cv14g011;cv13f011;cv12e011;cv11d011;cv10c011;cv09b011;cv08a011;scale;seldom or never|once in a while|often|almost always;True
+political_interest;Are you very interested in political topics, fairly interested or not interested;cv20l012;cv19k012;cv18j012;cv17i012;cv16h012;cv14g012;cv13f012;cv12e012;cv11d012;cv10c012;cv09b012;cv08a012;scale;not interested|fairly interested|very interested;True
+confidence_dutch_gov;Confidence: Dutch government;cv20l013;cv19k013;cv18j013;cv17i013;cv16h013;cv14g013;cv13f013;cv12e013;cv11d013;cv10c013;cv09b013;cv08a013;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_dutch_parliament;Confidence: Dutch parliament;cv20l014;cv19k014;cv18j014;cv17i014;cv16h014;cv14g014;cv13f014;cv12e014;cv11d014;cv10c014;cv09b014;cv08a014;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_legal_system;Confidence: the legal system;cv20l015;cv19k015;cv18j015;cv17i015;cv16h015;cv14g015;cv13f015;cv12e015;cv11d015;cv10c015;cv09b015;cv08a015;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_police;Confidence: the police;cv20l016;cv19k016;cv18j016;cv17i016;cv16h016;cv14g016;cv13f016;cv12e016;cv11d016;cv10c016;cv09b016;cv08a016;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_politicians;Confidence: politicians;cv20l017;cv19k017;cv18j017;cv17i017;cv16h017;cv14g017;cv13f017;cv12e017;cv11d017;cv10c017;cv09b017;cv08a017;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_pol_parties;Confidence: political parties;cv20l018;cv19k018;cv18j018;cv17i018;cv16h018;cv14g018;cv13f018;cv12e018;cv11d018;cv10c018;cv09b018;cv08a018;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_eu_parliament;Confidence: European Parliament;cv20l019;cv19k019;cv18j019;cv17i019;cv16h019;cv14g019;cv13f019;cv12e019;cv11d019;cv10c019;cv09b019;cv08a019;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_un;Confidence: United Nations;cv20l020;cv19k020;cv18j020;cv17i020;cv16h020;cv14g020;cv13f020;cv12e020;cv11d020;cv10c020;cv09b020;cv08a020;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_media;Confidence: the media;cv20l021;cv19k021;cv18j021;cv17i021;cv16h021;cv14g021;cv13f021;cv12e021;cv11d021;cv10c021;cv09b021;cv08a021;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_military;Confidence: the military;cv20l022;cv19k022;cv18j022;cv17i022;cv16h022;cv14g022;cv13f022;cv12e022;cv11d022;cv10c022;cv09b022;cv08a022;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_edu_system;Confidence: the education system;cv20l023;cv19k023;cv18j023;cv17i023;cv16h023;cv14g023;cv13f023;cv12e023;cv11d023;cv10c023;cv09b023;cv08a023;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_healthcare;Confidence: healthcare;cv20l024;cv19k024;cv18j024;cv17i024;cv16h024;cv14g024;cv13f024;cv12e024;cv11d024;cv10c024;cv09b024;cv08a024;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_science;Confidence: science;cv20l025;cv19k025;cv18j025;cv17i025;cv16h025;cv14g025;cv13f025;cv12e025;cv11d025;cv10c025;cv09b025;cv08a025;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_economy;Confidence: the economy;cv20l026;cv19k026;cv18j026;cv17i026;cv16h026;cv14g026;cv13f026;cv12e026;cv11d026;cv10c026;cv09b026;cv08a026;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_democracy;Confidence: democracy;cv20l027;cv19k027;cv18j027;cv17i027;cv16h027;cv14g027;cv13f027;cv12e027;cv11d027;cv10c027;cv09b027;cv08a027;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_businesses_personal;Confidence: shops/firms that you deal with personally (that you visit in person);cv20l028;cv19k028;cv18j028;cv17i028;cv16h028;cv14g028;cv13f028;cv12e028;cv11d028;cv10c028;cv09b028;cv08a028;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+confidence_businesses_general;Confidence: shops/firms on the Internet;cv20l029;cv19k029;cv18j029;cv17i029;cv16h029;cv14g029;cv13f029;cv12e029;cv11d029;cv10c029;cv09b029;cv08a029;scale;0 no confidence at all|1|2|3|4|5|6|7|8|9|10 full confidence;True
+satisfied_dutch_gov;Satisfaction: Dutch government;cv20l030;cv19k030;cv18j030;cv17i030;cv16h030;cv14g030;cv13f030;cv12e030;cv11d030;cv10c030;cv09b030;cv08a030;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_dutch_parliament;Satisfaction: Dutch parliament;cv20l031;cv19k031;cv18j031;cv17i031;cv16h031;cv14g031;cv13f031;cv12e031;cv11d031;cv10c031;cv09b031;cv08a031;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_legal_system;Satisfaction: the legal system;cv20l032;cv19k032;cv18j032;cv17i032;cv16h032;cv14g032;cv13f032;cv12e032;cv11d032;cv10c032;cv09b032;cv08a032;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_police;Satisfaction: the police;cv20l033;cv19k033;cv18j033;cv17i033;cv16h033;cv14g033;cv13f033;cv12e033;cv11d033;cv10c033;cv09b033;cv08a033;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_politicians;Satisfaction: politicians;cv20l034;cv19k034;cv18j034;cv17i034;cv16h034;cv14g034;cv13f034;cv12e034;cv11d034;cv10c034;cv09b034;cv08a034;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_pol_parties;Satisfaction: political parties;cv20l035;cv19k035;cv18j035;cv17i035;cv16h035;cv14g035;cv13f035;cv12e035;cv11d035;cv10c035;cv09b035;cv08a035;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_eu_parliament;Satisfaction: European Parliament;cv20l036;cv19k036;cv18j036;cv17i036;cv16h036;cv14g036;cv13f036;cv12e036;cv11d036;cv10c036;cv09b036;cv08a036;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_un;Satisfaction: United Nations;cv20l037;cv19k037;cv18j037;cv17i037;cv16h037;cv14g037;cv13f037;cv12e037;cv11d037;cv10c037;cv09b037;cv08a037;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_media;Satisfaction: the media;cv20l038;cv19k038;cv18j038;cv17i038;cv16h038;cv14g038;cv13f038;cv12e038;cv11d038;cv10c038;cv09b038;cv08a038;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_military;Satisfaction: the military;cv20l039;cv19k039;cv18j039;cv17i039;cv16h039;cv14g039;cv13f039;cv12e039;cv11d039;cv10c039;cv09b039;cv08a039;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_edu_system;Satisfaction: the education system;cv20l040;cv19k040;cv18j040;cv17i040;cv16h040;cv14g040;cv13f040;cv12e040;cv11d040;cv10c040;cv09b040;cv08a040;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_healthcare;Satisfaction: healthcare;cv20l041;cv19k041;cv18j041;cv17i041;cv16h041;cv14g041;cv13f041;cv12e041;cv11d041;cv10c041;cv09b041;cv08a041;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_science;Satisfaction: science;cv20l042;cv19k042;cv18j042;cv17i042;cv16h042;cv14g042;cv13f042;cv12e042;cv11d042;cv10c042;cv09b042;cv08a042;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_economy;Satisfaction: the economy;cv20l043;cv19k043;cv18j043;cv17i043;cv16h043;cv14g043;cv13f043;cv12e043;cv11d043;cv10c043;cv09b043;cv08a043;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_democracy;Satisfaction: democracy;cv20l044;cv19k044;cv18j044;cv17i044;cv16h044;cv14g044;cv13f044;cv12e044;cv11d044;cv10c044;cv09b044;cv08a044;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_businesses_personal;Satisfaction: shops/firms that you deal with personally (that you visit in perso;cv20l045;cv19k045;cv18j045;cv17i045;cv16h045;cv14g045;cv13f045;cv12e045;cv11d045;cv10c045;cv09b045;cv08a045;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+satisfied_businesses_general;Satisfaction: shops/firms on the Internet;cv20l046;cv19k046;cv18j046;cv17i046;cv16h046;cv14g046;cv13f046;cv12e046;cv11d046;cv10c046;cv09b046;cv08a046;scale;0 very dissatisfied|1|2|3|4|5|6|7|8|9|10 very satisfied;True
+parliament_not_care;Parliamentarians do not care about the opinions of people like me;cv20l047;cv19k047;cv18j047;cv17i047;cv16h047;cv14g047;cv13f047;cv12e047;cv11d047;cv10c047;cv09b047;cv08a047;bool;;
+parties_not_care;Political parties are only interested in my vote and not in my opinion;cv20l048;cv19k048;cv18j048;cv17i048;cv16h048;cv14g048;cv13f048;cv12e048;cv11d048;cv10c048;cv09b048;cv08a048;bool;;
+ppl_no_influence;People like me have no influence at all on government policy;cv20l049;cv19k049;cv18j049;cv17i049;cv16h049;cv14g049;cv13f049;cv12e049;cv11d049;cv10c049;cv09b049;cv08a049;bool;;
+politically_able;I am well capable of playing an active role in politics;cv20l050;cv19k050;cv18j050;cv17i050;cv16h050;cv14g050;cv13f050;cv12e050;cv11d050;cv10c050;cv09b050;cv08a050;bool;;
+understand_pol_issues;I have a clear picture of the most important political issues in our country;cv20l051;cv19k051;cv18j051;cv17i051;cv16h051;cv14g051;cv13f051;cv12e051;cv11d051;cv10c051;cv09b051;cv08a051;bool;;
+view_pol_complicated;Politics sometimes seems so complicated that people like me can hardly understan;cv20l052;cv19k052;cv18j052;cv17i052;cv16h052;cv14g052;cv13f052;cv12e052;cv11d052;cv10c052;cv09b052;cv08a052;bool;;
+voted_recent_parl_election;Did you vote in the most recent parliamentary elections, held on 12 September 20;cv20l053;cv19k053;cv18j053;cv17i053;cv16h053;cv14g053;cv13f053;cv12e053;cv11d053;cv10c053;cv09b053;cv08a053;category;yes|no|not eligible to vote;False
+voted_for_parl;For which party did you vote in the parliamentary elections of 22 November 2006?;cv20l307;cv19k307;cv18j307;cv17i207;cv16h207;cv14g207;cv13f207;cv12e169;cv11d169;cv10c054;cv09b054;cv08a054;category;;False
+voted_for_parl_other;What other party do you mean;cv20l208;cv19k208;cv18j208;cv17i208;cv16h208;cv14g208;cv13f208;cv12e170;cv11d170;cv10c055;cv09b055;cv08a055;object;;
+voted_for_prov;For which party did you vote in the most recent Provincial elections (Provincial;;;;;;;;cv12e195;;cv10c056;cv09b056;cv08a056;category;;False
+voted_for_prov_other;What other party do you mean;;;;;;;;cv12e196;;cv10c057;cv09b057;cv08a057;object;;
+would_vote_for_now_parl;If parliamentary elections were held today, for which party would you vote?;cv20l308;cv19k308;cv18j308;cv17i244;cv16h209;cv14g209;cv13f209;cv12e171;cv11d171;cv10c058;cv09b058;cv08a058;category;;False
+would_vote_for_now_parl_other;What other party do you mean;cv20l210;cv19k210;cv18j210;cv17i210;cv16h210;cv14g210;cv13f210;cv12e172;cv11d172;cv10c059;cv09b059;cv08a059;object;;
+confidence_voting_gov_computer;Confidence: voting by voting computer;;;;;;;;;cv11d060;cv10c060;cv09b060;cv08a060;scale;very little|little|neither much nor little|much|very much;True
+confidence_voting_paper_slip;Confidence: voting by paper voting slip;;;;;;;;;cv11d061;cv10c061;cv09b061;cv08a061;scale;very little|little|neither much nor little|much|very much;True
+confidence_voting_phone;Confidence: voting by telephone;;;;;;;;;cv11d062;cv10c062;cv09b062;cv08a062;scale;very little|little|neither much nor little|much|very much;True
+confidence_voting_home_computer;Confidence: voting by home computer;;;;;;;;;cv11d063;cv10c063;cv09b063;cv08a063;scale;very little|little|neither much nor little|much|very much;True
+confidence_voting_mail;Confidence: voting by completing the slip at home and sending it by mail;;;;;;;;;cv11d064;cv10c064;cv09b064;cv08a064;scale;very little|little|neither much nor little|much|very much;True
+influence_pol_bymedia;Raising a political issue or influencing politicians or government: by making us;cv20l065;cv19k065;cv18j065;cv17i065;cv16h065;cv14g065;cv13f065;cv12e065;cv11d065;cv10c065;cv09b065;cv08a065;bool;;
+influence_pol_byorg;Raising a political issue or influencing politicians or government: by making us;cv20l066;cv19k066;cv18j066;cv17i066;cv16h066;cv14g066;cv13f066;cv12e066;cv11d066;cv10c066;cv09b066;cv08a066;bool;;
+influence_pol_bymeeting;Raising a political issue or influencing politicians or government: participated;cv20l067;cv19k067;cv18j067;cv17i067;cv16h067;cv14g067;cv13f067;cv12e067;cv11d067;cv10c067;cv09b067;cv08a067;bool;;
+influence_pol_bycalling;Raising a political issue or influencing politicians or government: contacted a;cv20l068;cv19k068;cv18j068;cv17i068;cv16h068;cv14g068;cv13f068;cv12e068;cv11d068;cv10c068;cv09b068;cv08a068;bool;;
+influence_pol_byactiongroup;Raising a political issue or influencing politicians or government: participated;cv20l069;cv19k069;cv18j069;cv17i069;cv16h069;cv14g069;cv13f069;cv12e069;cv11d069;cv10c069;cv09b069;cv08a069;bool;;
+influence_pol_byprotest;Raising a political issue or influencing politicians or government: participated;cv20l070;cv19k070;cv18j070;cv17i070;cv16h070;cv14g070;cv13f070;cv12e070;cv11d070;cv10c070;cv09b070;cv08a070;bool;;
+influence_pol_bydiscussion;Raising a political issue or influencing politicians or government: participated;cv20l071;cv19k071;cv18j071;cv17i071;cv16h071;cv14g071;cv13f071;cv12e071;cv11d071;cv10c071;cv09b071;cv08a071;bool;;
+influence_pol_byother;Raising a political issue or influencing politicians or government: something el;cv20l072;cv19k072;cv18j072;cv17i072;cv16h072;cv14g072;cv13f072;cv12e072;cv11d072;cv10c072;cv09b072;cv08a072;bool;;
+influence_pol_none;Raising a political issue or influencing politicians or government: none of thes;cv20l073;cv19k073;cv18j073;cv17i073;cv16h073;cv14g073;cv13f073;cv12e073;cv11d073;cv10c073;cv09b073;cv08a073;bool;;
+influence_pol_uncertain;Raising a political issue or influencing politicians or government: I dont know;;cv19k074;cv18j074;cv17i074;cv16h074;cv14g074;cv13f074;cv12e074;cv11d074;cv10c074;cv09b074;cv08a074;bool;;
+specific_other_pol_influence;In what other way did you raise a political issue or influence politicians or th;cv20l075;cv19k075;cv18j075;cv17i075;cv16h075;cv14g075;cv13f075;cv12e075;cv11d075;cv10c075;cv09b075;cv08a075;object;;
+sympathy_cda;What do you think of the CDA (Christian democrats)?;cv20l215;cv19k215;cv18j215;cv17i215;cv16h215;cv14g215;cv13f215;cv12e176;cv11d176;cv10c076;cv09b076;cv08a076;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_pvda;What do you think of the PvdA (labor party)?;cv20l212;cv19k212;cv18j212;cv17i212;cv16h212;cv14g212;cv13f212;cv12e174;cv11d174;cv10c077;cv09b077;cv08a077;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_vvd;What do you think of the VVD? (liberal party)?;cv20l211;cv19k211;cv18j211;cv17i211;cv16h211;cv14g211;cv13f211;cv12e173;cv11d173;cv10c078;cv09b078;cv08a078;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_sp;What do you think of the SP (socialist party)?;cv20l214;cv19k214;cv18j214;cv17i214;cv16h214;cv14g214;cv13f214;cv12e177;cv11d177;cv10c079;cv09b079;cv08a079;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_groenlinks;What do you think of GroenLinks? (green party)?;cv20l218;cv19k218;cv18j218;cv17i218;cv16h218;cv14g218;cv13f218;cv12e179;cv11d179;cv10c080;cv09b080;cv08a080;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_d66;What do you think of D66? (social-liberal party)?;cv20l216;cv19k216;cv18j216;cv17i216;cv16h216;cv14g216;cv13f216;cv12e178;cv11d178;cv10c081;cv09b081;cv08a081;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_christenunie;What do you think of the ChristenUnie? (Christian union party)?;cv20l217;cv19k217;cv18j217;cv17i217;cv16h217;cv14g217;cv13f217;cv12e180;cv11d180;cv10c082;cv09b082;cv08a082;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_sgp;What do you think of the SGP? (Christian Reformed party)?;cv20l219;cv19k219;cv18j219;cv17i219;cv16h219;cv14g219;cv13f219;cv12e181;cv11d181;cv10c083;cv09b083;cv08a083;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_verdonk;What do you think of Trots op Nederland (groep Verdonk)? (Verdonk Dutch pride pa;;;;;;;;;;cv10c084;cv09b084;cv08a084;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_pvv;What do you think of the Partij voor de Vrijheid (Groep Wilders)? (Wilders freed;cv20l213;cv19k213;cv18j213;cv17i213;cv16h213;cv14g213;cv13f213;cv12e175;cv11d175;cv10c085;cv09b085;cv08a085;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_animal_party;What do you think of the Partij voor de Dieren? (animal welfare party)?;cv20l220;cv19k220;cv18j220;cv17i220;cv16h220;cv14g220;cv13f220;cv12e182;cv11d182;cv10c086;cv09b086;cv08a086;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_balkenende;What do you think of Jan Peter Balkenende?;;;;;;;;;;cv10c087;cv09b087;cv08a087;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_bos;What do you think of Wouter Bos?;;;;;;;;;;cv10c088;cv09b088;cv08a088;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_rutte;What do you think of Mark Rutte?;cv20l222;cv19k222;cv18j222;cv17i222;cv16h222;cv14g222;cv13f222;cv12e183;cv11d183;cv10c089;cv09b089;cv08a089;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_kant;What do you think of Agnes Kant?;;;;;;;;;;cv10c090;cv09b090;cv08a090;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_halsema;What do you think of Femke Halsema?;;;;;;;;;cv11d189;cv10c091;cv09b091;cv08a091;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_pechtold;What do you think of Alexander Pechtold?;;;cv18j227;cv17i227;cv16h227;cv14g227;cv13f227;cv12e188;cv11d188;cv10c092;cv09b092;cv08a092;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_rouvoet;What do you think of André Rouvoet?;;;;;;;;;cv11d190;cv10c093;cv09b093;cv08a093;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_vdvlies;What do you think of Bas van der Vlies?;;;;;;;;;;cv10c094;cv09b094;cv08a094;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_verdonk;What do you think of Rita Verdonk?;;;;;;;;;;cv10c095;cv09b095;cv08a095;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_wilders;What do you think of Geert Wilders?;cv20l224;cv19k224;cv18j224;cv17i224;cv16h224;cv14g224;cv13f224;cv12e185;cv11d185;cv10c096;cv09b096;cv08a096;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_thieme;What do you think of Marianne Thieme?;;cv19k231;cv18j231;cv17i231;cv16h231;cv14g231;cv13f231;cv12e192;cv11d192;cv10c097;cv09b097;cv08a097;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+member_political_party;Are you a member of a political party?;cv20l098;cv19k098;cv18j098;cv17i098;cv16h098;cv14g098;cv13f098;cv12e098;cv11d098;cv10c098;cv09b098;cv08a098;bool;;
+political_party;Of which political party are you a member?;cv20l311;cv19k311;cv18j311;cv17i237;cv16h237;cv14g237;cv13f237;cv12e193;cv11d193;cv10c099;cv09b099;cv08a099;category;;
+member_political_party_other;What other political party do you mean?;cv20l238;cv19k238;cv18j238;cv17i238;cv16h238;cv14g238;cv13f238;cv12e194;cv11d194;cv10c100;cv09b100;cv08a100;object;;
+how_rightwing;Where would you place yourself on the scale below, where 0 means left and 10 mea;cv20l101;cv19k101;cv18j101;cv17i101;cv16h101;cv14g101;cv13f101;cv12e101;cv11d101;cv10c101;cv09b101;cv08a101;scale;0 left|1|2|3|4|5|6|7|8|9|10 right;True
+pol_permit_euthanasia;Where would you place yourself on a scale from 1 to 5, where 1 means that euthan;cv20l102;cv19k102;cv18j102;cv17i102;cv16h102;cv14g102;cv13f102;cv12e102;cv11d102;cv10c102;cv09b102;cv08a102;scale;1 euthanasia should be forbidden|2|3|4|5 euthanasia should be permitted;True
+pol_support_income_diff_decr;Where would you place yourself on a scale from 1 to 5, where 1 means that differ;cv20l103;cv19k103;cv18j103;cv17i103;cv16h103;cv14g103;cv13f103;cv12e103;cv11d103;cv10c103;cv09b103;cv08a103;scale;1 differences in income should increase|2|3|4|5 differences in income should decrease;True
+pol_immigrants_should_adapt;Where would you place yourself on a scale of 1 to 5, where 1 means that immigran;cv20l104;cv19k104;cv18j104;cv17i104;cv16h104;cv14g104;cv13f104;cv12e104;cv11d104;cv10c104;cv09b104;cv08a104;scale;1 immigrants can retain their own culture|2|3|4|5 immigrants should adapt entirely to Dutch culture;True
+pol_eu_unification_too_far;Where would you place yourself on a scale from 1 to 5, where 1 means that Europe;cv20l105;cv19k105;cv18j105;cv17i105;cv16h105;cv14g105;cv13f105;cv12e105;cv11d105;cv10c105;cv09b105;cv08a105;scale;1 European unification should go further|2|3|4|5 European unification has already gone too far;True
+political_priority1;If you had to choose, what goal would be your first choice?;cv20l106;cv19k106;cv18j106;cv17i106;cv16h106;cv14g106;cv13f106;cv12e106;cv11d106;cv10c106;cv09b106;cv08a106;category;maintaining law and order in the country|increasing citizens' political say|preventing price increases|protecting the freedom of speech;False
+political_priority2;What goal would be your second choice?;cv20l107;cv19k107;cv18j107;cv17i107;cv16h107;cv14g107;cv13f107;cv12e107;cv11d107;cv10c107;cv09b107;cv08a107;category;maintaining law and order in the country|increasing citizens' political say|preventing price increases|protecting the freedom of speech;False
+political_priority3;What goal would be your third choice?;cv20l108;cv19k108;cv18j108;cv17i108;cv16h108;cv14g108;cv13f108;cv12e108;cv11d108;cv10c108;cv09b108;cv08a108;category;maintaining law and order in the country|increasing citizens' political say|preventing price increases|protecting the freedom of speech;False
+view_work_mother_close_to_child;A working mother relationship with her children can be just as close and warm as;cv20l109;cv19k109;cv18j109;cv17i109;cv16h109;cv14g109;cv13f109;cv12e109;cv11d109;cv10c109;cv09b109;cv08a109;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_work_mother_bad_for_child;A child that is not yet attending school is likely to suffer the consequences if;cv20l110;cv19k110;cv18j110;cv17i110;cv16h110;cv14g110;cv13f110;cv12e110;cv11d110;cv10c110;cv09b110;cv08a110;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_working_mother_bad_for_fam;Overall, family life suffers the consequences if the mother has a full-time job.;cv20l111;cv19k111;cv18j111;cv17i111;cv16h111;cv14g111;cv13f111;cv12e111;cv11d111;cv10c111;cv09b111;cv08a111;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_parents_fin_contribute;Both father and mother should contribute to the family income.;cv20l112;cv19k112;cv18j112;cv17i112;cv16h112;cv14g112;cv13f112;cv12e112;cv11d112;cv10c112;cv09b112;cv08a112;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_father_earns_mother_no;The father should earn money, while the mother takes care of the household and t;cv20l113;cv19k113;cv18j113;cv17i113;cv16h113;cv14g113;cv13f113;cv12e113;cv11d113;cv10c113;cv09b113;cv08a113;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_father_more_household;Fathers ought to do more in terms of household work than they do at present.;cv20l114;cv19k114;cv18j114;cv17i114;cv16h114;cv14g114;cv13f114;cv12e114;cv11d114;cv10c114;cv09b114;cv08a114;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_father_more_childcare;Fathers ought to do more in terms of childcare than they do at present.;cv20l115;cv19k115;cv18j115;cv17i115;cv16h115;cv14g115;cv13f115;cv12e115;cv11d115;cv10c115;cv09b115;cv08a115;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_cultural_diversity_good;It is good if society consists of people from different cultures.;cv20l116;cv19k116;cv18j116;cv17i116;cv16h116;cv14g116;cv13f116;cv12e116;cv11d116;cv10c116;cv09b116;cv08a116;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_foreigners_retain_id;It is difficult for a foreigner to be accepted in the Netherlands while retainin;cv20l117;cv19k117;cv18j117;cv17i117;cv16h117;cv14g117;cv13f117;cv12e117;cv11d117;cv10c117;cv09b117;cv08a117;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_asylum_should_be_easier;It should be made easier to obtain asylum in the Netherlands.;cv20l118;cv19k118;cv18j118;cv17i118;cv16h118;cv14g118;cv13f118;cv12e118;cv11d118;cv10c118;cv09b118;cv08a118;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_foreign_should_social_sec;Legally residing foreigners should be entitled to the same social security as Du;cv20l119;cv19k119;cv18j119;cv17i119;cv16h119;cv14g119;cv13f119;cv12e119;cv11d119;cv10c119;cv09b119;cv08a119;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_too_many_foreigners;There are too many people of foreign origin or descent in the Netherlands.;cv20l120;cv19k120;cv18j120;cv17i120;cv16h120;cv14g120;cv13f120;cv12e120;cv11d120;cv10c120;cv09b120;cv08a120;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_foreigners_not_accepted;People of foreign origin or descent are not accepted in the Netherlands.;cv20l121;cv19k121;cv18j121;cv17i121;cv16h121;cv14g121;cv13f121;cv12e121;cv11d121;cv10c121;cv09b121;cv08a121;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_foreig_necessary_economy;Some sectors of the economy can only continue to function because people of fore;cv20l122;cv19k122;cv18j122;cv17i122;cv16h122;cv14g122;cv13f122;cv12e122;cv11d122;cv10c122;cv09b122;cv08a122;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_foreig_bad_for_neighborh;It does not help a neighborhood if many people of foreign origin or descent move;cv20l123;cv19k123;cv18j123;cv17i123;cv16h123;cv14g123;cv13f123;cv12e123;cv11d123;cv10c123;cv09b123;cv08a123;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_married_happier;Married people are generally happier than unmarried people.;cv20l124;cv19k124;cv18j124;cv17i124;cv16h124;cv14g124;cv13f124;cv12e124;cv11d124;cv10c124;cv09b124;cv08a124;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_should_marry_if_children;People that want to have children should get married.;cv20l125;cv19k125;cv18j125;cv17i125;cv16h125;cv14g125;cv13f125;cv12e125;cv11d125;cv10c125;cv09b125;cv08a125;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_single_parent_no_worse;A single parent can raise a child just as well as two parents together.;cv20l126;cv19k126;cv18j126;cv17i126;cv16h126;cv14g126;cv13f126;cv12e126;cv11d126;cv10c126;cv09b126;cv08a126;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_marriage_not_necessary;It is perfectly fine for a couple to live together without marriage intentions.;cv20l127;cv19k127;cv18j127;cv17i127;cv16h127;cv14g127;cv13f127;cv12e127;cv11d127;cv10c127;cv09b127;cv08a127;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_live_toget_before_marriage;For a couple that wants to get married, it is good to first start living togethe;cv20l128;cv19k128;cv18j128;cv17i128;cv16h128;cv14g128;cv13f128;cv12e128;cv11d128;cv10c128;cv09b128;cv08a128;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_divorce_can_be_ok;A divorce is generally the best solution if a married couple cannot solve their;cv20l129;cv19k129;cv18j129;cv17i129;cv16h129;cv14g129;cv13f129;cv12e129;cv11d129;cv10c129;cv09b129;cv08a129;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_divorce_ok_with_children;It is all right for a married couple with children to get divorced.;cv20l130;cv19k130;cv18j130;cv17i130;cv16h130;cv14g130;cv13f130;cv12e130;cv11d130;cv10c130;cv09b130;cv08a130;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_children_shd_care_parents;Children ought to care for their sick parents.;cv20l131;cv19k131;cv18j131;cv17i131;cv16h131;cv14g131;cv13f131;cv12e131;cv11d131;cv10c131;cv09b131;cv08a131;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_old_par_shd_live_children;When parents reach old age, they should be able to live with their children.;cv20l132;cv19k132;cv18j132;cv17i132;cv16h132;cv14g132;cv13f132;cv12e132;cv11d132;cv10c132;cv09b132;cv08a132;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_children_shd_reg_visit_par;Children that live close by ought to visit their parents at least once a week.;cv20l133;cv19k133;cv18j133;cv17i133;cv16h133;cv14g133;cv13f133;cv12e133;cv11d133;cv10c133;cv09b133;cv08a133;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_child_shd_care_par_unpaid;Children ought to take unpaid leave in order to care for their sick parents.;cv20l134;cv19k134;cv18j134;cv17i134;cv16h134;cv14g134;cv13f134;cv12e134;cv11d134;cv10c134;cv09b134;cv08a134;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_having_children_important;Your life is not complete if you havent had children;;;;;;;;;;cv10c135;cv09b135;cv08a135;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_having_children_duty;It is your duty to society to have children;;;;;;;;;;cv10c136;cv09b136;cv08a136;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_children_necessary_family;I think that, in this world, you can only feel at ease in your own family with c;;;;;;;;;;cv10c137;cv09b137;cv08a137;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_children_necessary_happi;If you dont have any children, I dont think you can ever be truly happy;;;;;;;;;;cv10c138;cv09b138;cv08a138;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_duty_comes_first;You can only do what you feel like doing after you have done your duty.;cv20l139;cv19k139;cv18j139;cv17i139;cv16h139;cv14g139;cv13f139;;;cv10c139;cv09b139;cv08a139;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_hard_work_important;If someone wants to enjoy life, he/she must be prepared to work hard for it.;cv20l140;cv19k140;cv18j140;cv17i140;cv16h140;cv14g140;cv13f140;;;cv10c140;cv09b140;cv08a140;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_hard_work_makes_happy;I feel happiest after working hard.;cv20l141;cv19k141;cv18j141;cv17i141;cv16h141;cv14g141;cv13f141;;;cv10c141;cv09b141;cv08a141;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_work_comes_first;Work should always come first, even if it means having less leisure time.;cv20l142;cv19k142;cv18j142;cv17i142;cv16h142;cv14g142;cv13f142;;;cv10c142;cv09b142;cv08a142;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+work_w_baby;If she has a baby (a child younger than 1 year).;cv20l143;cv19k143;cv18j143;cv17i143;cv16h143;cv14g143;cv13f143;cv12e143;cv11d143;cv10c143;cv09b143;cv08a143;category;full-time|part-time|no job at all;False
+work_w_preschooler;If she has a child that does not yet attend school.;cv20l144;cv19k144;cv18j144;cv17i144;cv16h144;cv14g144;cv13f144;cv12e144;cv11d144;cv10c144;cv09b144;cv08a144;category;full-time|part-time|no job at all;False
+work_w_elemschooler;After the youngest child starts primary school.;cv20l145;cv19k145;cv18j145;cv17i145;cv16h145;cv14g145;cv13f145;cv12e145;cv11d145;cv10c145;cv09b145;cv08a145;category;full-time|part-time|no job at all;False
+work_w_secdschooler;After the youngest child starts secondary school.;cv20l146;cv19k146;cv18j146;cv17i146;cv16h146;cv14g146;cv13f146;cv12e146;cv11d146;cv10c146;cv09b146;cv08a146;category;full-time|part-time|no job at all;False
+view_unions_be_tougher;Trade unions should take a much tougher political stance, if they wish to promot;cv20l147;cv19k147;cv18j147;cv17i147;cv16h147;cv14g147;cv13f147;cv12e147;;cv10c147;cv09b147;cv08a147;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_unions_influence_members;Trade unions should advise their members to vote for those parties that best pro;cv20l148;cv19k148;cv18j148;cv17i148;cv16h148;cv14g148;cv13f148;cv12e148;;cv10c148;cv09b148;cv08a148;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_workers_fight;Laborers still need to fight for an equal position in society;;;;;;;;;;cv10c149;cv09b149;cv08a149;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_social_inequality;The differences in social class should be smaller than they are now;;;;;;;;;;cv10c150;cv09b150;cv08a150;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_mom_childrears;A woman is more suited to rearing young children than a man.;cv20l151;cv19k151;cv18j151;cv17i151;cv16h151;cv14g151;cv13f151;cv12e151;cv11d151;cv10c151;cv09b151;cv08a151;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_edu_less_important_girls;It is actually less important for a girl than for a boy to get a good education.;cv20l152;cv19k152;cv18j152;cv17i152;cv16h152;cv14g152;cv13f152;cv12e152;cv11d152;cv10c152;cv09b152;cv08a152;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_boys_reared_liberally;Generally speaking, boys can be reared more liberally than girls.;cv20l153;cv19k153;cv18j153;cv17i153;cv16h153;cv14g153;cv13f153;cv12e153;cv11d153;cv10c153;cv09b153;cv08a153;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+view_w_control_m_unnatural;It is unnatural for women in firms to have control over men.;cv20l154;cv19k154;cv18j154;cv17i154;cv16h154;cv14g154;cv13f154;cv12e154;cv11d154;cv10c154;cv09b154;cv08a154;scale;fully disagree|disagree|neither agree nor disagree|agree|fully agree;True
+questionnaire_difficult;Was it difficult to answer the questions?;;;;cv17i155;cv16h155;cv14g155;cv13f155;cv12e155;cv11d155;cv10c155;cv09b155;cv08a155;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_clear;Were the questions sufficiently clear?;;;;cv17i156;cv16h156;cv14g156;cv13f156;cv12e156;cv11d156;cv10c156;cv09b156;cv08a156;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_thinking;Did the questionnaire get you thinking about things?;;;;cv17i157;cv16h157;cv14g157;cv13f157;cv12e157;cv11d157;cv10c157;cv09b157;cv08a157;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_interesting;Was it an interesting subject?;;;;cv17i158;cv16h158;cv14g158;cv13f158;cv12e158;cv11d158;cv10c158;cv09b158;cv08a158;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_enjoy;Did you enjoy answering the questions?;;;;cv17i159;cv16h159;cv14g159;cv13f159;cv12e159;cv11d159;cv10c159;cv09b159;cv08a159;scale;1 definitely no|2|3|4|5 definitely yes;True
+age;Preloaded variable: age;cv20l160;cv19k160;;cv17i160;cv16h160;cv14g160;cv13f160;cv12e160;cv11d160;cv10c160;;cv08a160;float;;
+start_date;Starting date questionnaire;;;;cv17i161;DatumB;cv14g161;cv13f161;cv12e161;cv11d161;cv10c161;cv09b161;cv08a161;object;;
+start_time;Starting time questionnaire;;;;cv17i162;TijdB;cv14g162;cv13f162;cv12e162;cv11d162;cv10c162;cv09b162;cv08a162;object;;
+end_date;End date questionnaire;;;;cv17i163;DatumE;cv14g163;cv13f163;cv12e163;cv11d163;cv10c163;cv09b163;cv08a163;object;;
+end_time;End time questionnaire;;;;cv17i164;TijdE;cv14g164;cv13f164;cv12e164;cv11d164;cv10c164;cv09b164;cv08a164;object;;
+duration;Duration in seconds;;;;cv17i165;;cv14g165;cv13f165;cv12e165;cv11d165;cv10c165;cv09b165;cv08a165;float;;
+date_fieldwork;Year and month of the field work period;cv20l_m1;cv19k_m1;cv18j_m1;cv17i_m;maandnr;cv14g_m;cv13f_m;cv12e_m;cv11d_m;cv10c_m;cv09b_m;cv08a_m;int;;
+hh_id;Number of household encrypted;;;;;;;;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;int;;
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;int;;
+questionnaire_difficult_1;Was it difficult to answer the questions? - part 1;cv20l274;cv19k274;cv18j274;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_difficult_2;Was it difficult to answer the questions? - part 2;cv20l279;cv19k279;cv18j279;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_difficult_3;Was it difficult to answer the questions? - part 3;cv20l284;cv19k284;cv18j284;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_clear_1;Were the questions sufficiently clear? - part 1;cv20l275;cv19k275;cv18j275;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_clear_2;Were the questions sufficiently clear? - part 2;cv20l280;cv19k280;cv18j280;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_clear_3;Were the questions sufficiently clear? - part 3;cv20l285;cv19k285;cv18j285;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_thinking_1;Did the questionnaire get you thinking about things? - part 1;cv20l276;cv19k276;cv18j276;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_thinking_2;Did the questionnaire get you thinking about things? - part 2;cv20l281;cv19k281;cv18j281;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_thinking_3;Did the questionnaire get you thinking about things? - part 3;cv20l286;cv19k286;cv18j286;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_interesting_1;Was it an interesting subject? - part 1;cv20l277;cv19k277;cv18j277;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_interesting_2;Was it an interesting subject? - part 2;cv20l282;cv19k282;cv18j282;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_interesting_3;Was it an interesting subject? - part 3;cv20l287;cv19k287;cv18j287;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_enjoy_1;Did you enjoy answering the questions? - part 1;cv20l278;cv19k278;cv18j278;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_enjoy_2;Did you enjoy answering the questions? - part 2;cv20l283;cv19k283;cv18j283;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+questionnaire_enjoy_3;Did you enjoy answering the questions? - part 3;cv20l288;cv19k288;cv18j288;;;;;;;;;;scale;1 definitely no|2|3|4|5 definitely yes;True
+start_date_1;Starting date questionnaire - part 1;cv20l289;cv19k289;cv18j289;;;;;;;;;;object;;
+start_date_2;Starting date questionnaire - part 2;cv20l293;cv19k293;cv18j293;;;;;;;;;;object;;
+start_date_3;Starting date questionnaire - part 3;cv20l297;cv19k297;cv18j297;;;;;;;;;;object;;
+start_time_1;Starting time questionnaire - part 1;cv20l290;cv19k290;cv18j290;;;;;;;;;;object;;
+start_time_2;Starting time questionnaire - part 2;cv20l294;cv19k294;cv18j294;;;;;;;;;;object;;
+start_time_3;Starting time questionnaire - part 3;cv20l298;cv19k298;cv18j298;;;;;;;;;;object;;
+end_date_1;End date questionnaire - part 1;cv20l291;cv19k291;cv18j291;;;;;;;;;;object;;
+end_date_2;End date questionnaire - part 2;cv20l295;cv19k295;cv18j295;;;;;;;;;;object;;
+end_date_3;End date questionnaire - part 3;cv20l299;cv19k299;cv18j299;;;;;;;;;;object;;
+end_time_1;End time questionnaire - part 1;cv20l292;cv19k292;cv18j292;;TijdE_deel1;;;;;;;;object;;
+end_time_2;End time questionnaire - part 2;cv20l296;cv19k296;cv18j296;;TijdE_deel2;;;;;;;;object;;
+end_time_3;End time questionnaire - part 3;cv20l300;cv19k300;cv18j300;;TijdE_deel3;;;;;;;;object;;
+duration_1;Duration in seconds - part 1;cv20l301;cv19k301;cv18j301;;;;;;;;;;int;;
+duration_2;Duration in seconds - part 2;cv20l302;cv19k302;cv18j302;;;;;;;;;;int;;
+duration_3;Duration in seconds - part 3;cv20l303;cv19k303;cv18j303;;;;;;;;;;int;;
+news_follow_other;Do you follow the news: More than one answer is possible. other;cv20l167;cv19k167;cv18j167;cv17i167;cv16h167;cv14g167;cv13f167;cv12e167;cv11d167;;;;bool;;
+news_follow_other_specify;How do you follow the news then?;cv20l168;cv19k168;cv18j168;cv17i168;cv16h168;cv14g168;cv13f168;cv12e168;cv11d168;;;;object;;
+leader_sympathy_cohen;What do you think of Job Cohen?;;;;;;;;cv12e184;cv11d184;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_verhagen;What do you think of Maxime Verhagen?;;;;;;;;cv12e186;cv11d186;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_roemer;What do you think of Emile Roemer?;cv20l225;cv19k225;cv18j225;cv17i225;cv16h225;cv14g225;cv13f225;cv12e187;cv11d187;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_vdstaaij;What do you think of Kees van der Staaij?;cv20l230;cv19k230;cv18j230;cv17i230;cv16h230;cv14g230;cv13f230;cv12e191;cv11d191;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_sap;What do you think of Jolande Sap?;;;;;;;;cv12e197;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_slob;What do you think of Arie Slob?;;;;;cv16h228;cv14g228;cv13f228;cv12e198;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+is_adherent_of_pol_party;Do you consider yourself an adherent of a political party?;cv20l199;cv19k199;cv18j199;cv17i199;cv16h199;cv14g199;cv13f199;cv12e199;;;;;bool;;
+is_attracted_to_pol_party;Do you feel more attracted to one of the political parties than to others?;cv20l200;cv19k200;cv18j200;cv17i200;cv16h200;cv14g200;cv13f200;cv12e200;;;;;bool;;
+adherent_of_pol_party;Which political party are you an adherent of?;cv20l309;cv19k309;cv18j309;cv17i233;cv16h233;cv14g233;cv13f233;cv12e201;;;;;category;;
+adherent_of_pol_party_other;other party, specify...;cv20l234;cv19k234;cv18j234;cv17i234;cv16h234;cv14g234;cv13f234;cv12e202;;;;;object;;
+attracted_to_pol_party;Which party do you feel attracted to?;cv20l310;cv19k310;cv18j310;cv17i235;cv16h235;cv14g235;cv13f235;cv12e203;;;;;category;;
+attracted_to_pol_party_other;other party, specify...;cv20l236;cv19k236;cv18j236;cv17i236;cv16h236;cv14g236;cv13f236;cv12e204;;;;;object;;
+str_of_adherence_to_pol_party;Would you like to call yourself a very convinced adherent, a convinced adherent;cv20l205;cv19k205;cv18j205;cv17i205;cv16h205;cv14g205;cv13f205;cv12e205;;;;;scale;not such a convinced adherent|convinced adherent|very convinced adherent;True
+chart_experiment_took_part;Did panel members participate in the chart experiment.;;;;;;;;cv12e206;;;;;bool;;
+party_sympathy_fiftyplus;What do you think of 50Plus (fifty plus party)?;cv20l221;cv19k221;cv18j221;cv17i221;cv16h221;cv14g221;cv13f221;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_samsom;What do you think of Diederik Samsom?;;;;;cv16h223;cv14g223;cv13f223;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_buma;What do you think of Sybrand van Haersma Buma?;;cv19k226;cv18j226;cv17i226;cv16h226;cv14g226;cv13f226;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_ojik;What do you think of Bram van Ojik?;;;;;;cv14g229;cv13f229;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_krol;What do you think of Henk Krol?;cv20l241;cv19k241;cv18j241;cv17i241;cv16h241;;cv13f232;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_nagel;What do you think of Jan Nagel?;;;;;;cv14g239;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_klaver;What do you think of Jesse Klaver?;cv20l240;cv19k240;cv18j240;cv17i240;cv16h240;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+random_trad_or_chance_voting_q;Which version of the voting questions was presented?;cv20l242;cv19k242;cv18j242;cv17i242;;;;;;;;;category;The traditional version|The chance questions;False
+wld_vote_parl_chance;If parliamentary elections were held today, what is the percent chance that you;cv20l243;cv19k243;cv18j243;cv17i243;;;;;;;;;int;;
+vote_chance_no;What is the percent chance that you will vote for: [ if cv17i243=0:  I would not;cv20l245;cv19k245;cv18j245;cv17i245;;;;;;;;;int;;
+vote_chance_vvd;What is the percent chance that you will vote for: VVD (liberal party);cv20l246;cv19k246;cv18j246;cv17i246;;;;;;;;;int;;
+vote_chance_pvda;What is the percent chance that you will vote for: PvdA (labor party);cv20l247;cv19k247;cv18j247;cv17i247;;;;;;;;;int;;
+vote_chance_pvv;What is the percent chance that you will vote for: PVV (Wilders freedom party);cv20l248;cv19k248;cv18j248;cv17i248;;;;;;;;;int;;
+vote_chance_sp;What is the percent chance that you will vote for: SP (socialist party);cv20l249;cv19k249;cv18j249;cv17i249;;;;;;;;;int;;
+vote_chance_cda;What is the percent chance that you will vote for: CDA (Christian democrat party;cv20l250;cv19k250;cv18j250;cv17i250;;;;;;;;;int;;
+vote_chance_d66;What is the percent chance that you will vote for: D66 (social-liberal party);cv20l251;cv19k251;cv18j251;cv17i251;;;;;;;;;int;;
+vote_chance_christenunie;What is the percent chance that you will vote for: ChristenUnie (Christian union;cv20l252;cv19k252;cv18j252;cv17i252;;;;;;;;;int;;
+vote_chance_groenlinks;What is the percent chance that you will vote for: GroenLinks (green party);cv20l253;cv19k253;cv18j253;cv17i253;;;;;;;;;int;;
+vote_chance_sgp;What is the percent chance that you will vote for: SGP (Christian Reformed party;cv20l254;cv19k254;cv18j254;cv17i254;;;;;;;;;int;;
+vote_chance_animal;What is the percent chance that you will vote for: Partij voor de Dieren (animal;cv20l255;cv19k255;cv18j255;cv17i255;;;;;;;;;int;;
+vote_chance_50plus;What is the percent chance that you will vote for: 50Plus (fifty plus party);cv20l256;cv19k256;cv18j256;cv17i256;;;;;;;;;int;;
+vote_chance_denk;What is the percent chance that you will vote for: DENK;cv20l257;cv19k257;cv18j257;cv17i257;;;;;;;;;int;;
+vote_chance_democ;What is the percent chance that you will vote for: Forum voor Democratie (Party;cv20l304;cv19k304;cv18j304;;;;;;;;;;int;;
+vote_chance_vnl;What is the percent chance that you will vote for: VNL (Pro Netherlands);;;;cv17i258;;;;;;;;;int;;
+vote_chance_other;What is the percent chance that you will vote for: other party;cv20l259;cv19k259;cv18j259;cv17i259;;;;;;;;;int;;
+vote_chance_blank;What is the percent chance that you will vote for: blank;cv20l260;cv19k260;cv18j260;cv17i260;;;;;;;;;int;;
+vote_chance_uncertain;What is the percent chance that you will vote for: I don't know;cv20l261;cv19k261;cv18j261;cv17i261;;;;;;;;;bool;;
+vote_chance_private;What is the percent chance that you will vote for: I prefer not to say;cv20l262;cv19k262;cv18j262;cv17i262;;;;;;;;;bool;;
+vote_chance_specific;What other party do you mean?;cv20l263;cv19k263;cv18j263;cv17i263;;;;;;;;;object;;
+sympathy_denk;What do you think of DENK?;cv20l264;cv19k264;cv18j264;cv17i264;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_democr;What do you think of Forum voor Democratie (party for democracy);cv20l305;cv19k305;cv18j305;;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+sympathy_vnl;What do you think of VNL pro Netherlands party)?;;;;cv17i265;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_samsom_asscher;What do you think of [Diederik Samsom / Lodewijk Asscher]?;cv20l266;cv19k266;cv18j266;cv17i266;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_segers;What do you think of Gert-Jan Segers?;cv20l267;cv19k267;cv18j267;cv17i267;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_kuzu;What do you think of Tunahan Kuzu?;cv20l316;;cv18j268;cv17i268;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_baudet;What do you think of Thierry Baudet?;cv20l306;cv19k306;cv18j306;;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_roos;What do you think of Jan Roos?;;;;cv17i269;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+amsom_or_asscher_flag;Which party leader did the respondent judge?;;;;cv17i270;;;;;;;;;category;Lodewijk Asscher|Diederik Samsom;False
+date_fieldwork_a;Year and month of the field work period;;;;;maandnr_a;;;;;;;;int;;
+date_fieldwork_b;Year and month of the field work period;;;;;maandnr_b;;;;;;;;int;;
+date_fieldwork_c;Year and month of the field work period;;;;;maandnr_c;;;;;;;;int;;
+date_fieldwork_d;Year and month of the field work period;;;;;maandnr_d;;;;;;;;int;;
+date_fieldwork_e;Year and month of the field work period;;;;;maandnr_e;;;;;;;;int;;
+date_fieldwork_f;Year and month of the field work period;;;;;maandnr_f;;;;;;;;int;;
+date_fieldwork_g;Year and month of the field work period;;;;;maandnr_g;;;;;;;;int;;
+date_fieldwork_h;Year and month of the field work period;;;;;maandnr_h;;;;;;;;int;;
+date_fieldwork_i;Year and month of the field work period;;;;;maandnr_i;;;;;;;;int;;
+date_fieldwork_j;Year and month of the field work period;;;;;maandnr_j;;;;;;;;int;;
+date_fieldwork_2;Year and month of the field work period - part 2;cv20l_m2;cv19k_m2;cv18j_m2;;;;;;;;;;int;;
+date_fieldwork_3;Year and month of the field work period - part 3;cv20l_m3;cv19k_m3;cv18j_m3;;;;;;;;;;int;;
+email_reminder;Did the respondent receive the reminder through email and SMS?;;;;;herinnering;;;;;;;;category;through email and SMS|only through email;False
+end_time_a;End time questionnaire;;;;;TijdE_deela;;;;;;;;object;;
+end_time_b;End time questionnaire;;;;;TijdE_deelb;;;;;;;;object;;
+end_time_c;End time questionnaire;;;;;TijdE_deelc;;;;;;;;object;;
+end_time_d;End time questionnaire;;;;;TijdE_deeld;;;;;;;;object;;
+end_time_e;End time questionnaire;;;;;TijdE_deele;;;;;;;;object;;
+end_time_f;End time questionnaire;;;;;TijdE_deelf;;;;;;;;object;;
+end_time_g;End time questionnaire;;;;;TijdE_deelg;;;;;;;;object;;
+end_time_h;End time questionnaire;;;;;TijdE_deelh;;;;;;;;object;;
+end_time_i;End time questionnaire;;;;;TijdE_deeli;;;;;;;;object;;
+end_time_j;End time questionnaire;;;;;TijdE_deelj;;;;;;;;object;;
+end_time_norm;End time questionnaire;;;;;TijdE_lang;;;;;;;;object;;
+experiment_group;To which group was the respondent assigned?;;;;;groep;;;;;;;;category;group 1: normal, email|respondent was not assigned to the experiment|group 4: three parts, email and SMS|group 5: ten parts, email|group 2: normal, email and SMS|group 3: three parts, email|group 6: ten parts, email and SMS;False
+total_chance_check;What is the percent chance that you will vote for: Total chances should add up t;;;;Total;;;;;;;;;int;;
+leader_sympathy_jetten;What do you think of Rob Jetten?;cv20l313;cv19k313;;;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_azarkan;What do you think of Farid Azarkan?;;cv19k312;;;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_heerma;What do you think of Pieter Heerma?;cv20l314;;;;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True
+leader_sympathy_quwehand;What do you think of Esther Ouwehand?;cv20l315;;;;;;;;;;;;scale;0 very unsympathetic|1|2|3|4|5|6|7|8|9|10 very sympathetic;True

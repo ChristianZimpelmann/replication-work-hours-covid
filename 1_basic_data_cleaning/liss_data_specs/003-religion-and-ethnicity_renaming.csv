@@ -1,0 +1,169 @@
+new_name;labels;cr19l_EN_1.0p.dta;cr18k_EN_1.0p.dta;cr17j_EN_1.0p.dta;cr16i_1.0p_EN.dta;cr15h_1.0p_EN.dta;cr14g_1.0p_EN.dta;cr13f_1.0p_EN.dta;cr12e_1.0p_EN.dta;cr11d_EN_1.0p.dta;cr10c_EN_1.0p.dta;cr09b_EN_1.0p.dta;cr08a_1p_EN.dta
+;Preloaded variable: main activity (belbezig);;cr18k001;cr17j001;cr16i001;cr15h001;cr14g001;cr13f001;cr12e001;cr11d001;cr10c001;cr09b001;cr08a001
+member_religion_parent;When you were 15 years old / Were you raised within a certain faith?;cr19l134;cr18k002;cr17j002;cr16i002;cr15h002;cr14g002;cr13f002;cr12e002;cr11d002;cr10c002;cr09b002;cr08a002
+member_religion_parent_cat;Of which religion or church community did they consider themselves a member? / Which faith was that?;cr19l135;cr18k003;cr17j003;cr16i003;cr15h003;cr14g003;cr13f003;cr12e003;cr11d003;cr10c003;cr09b003;cr08a003
+;Of which religion or church community did your parents consider themselves a mem / Which denomination or congregation within the Dutch Reformed Church was that?;cr19l136;cr18k004;cr17j004;cr16i004;cr15h004;cr14g004;cr13f004;cr12e004;cr11d004;cr10c004;cr09b004;cr08a004
+;Of which religion or church community did your parents consider themselves a mem;;cr18k005;cr17j005;cr16i005;cr15h005;cr14g005;cr13f005;cr12e005;cr11d005;cr10c005;cr09b005;cr08a005
+;What other direction of the Dutch Reformed Church do you mean?;cr19l137;cr18k006;cr17j006;cr16i006;cr15h006;cr14g006;cr13f006;cr12e006;cr11d006;cr10c006;cr09b006;cr08a006
+;What other direction of the Reformed Churches in the Netherlands do you mean?;;cr18k007;cr17j007;cr16i007;cr15h007;cr14g007;cr13f007;cr12e007;cr11d007;cr10c007;cr09b007;cr08a007
+;What other Christian church community do you mean?;cr19l140;cr18k008;cr17j008;cr16i008;cr15h008;cr14g008;cr13f008;cr12e008;cr11d008;cr10c008;cr09b008;cr08a008
+;What other Eastern religion do you mean?;cr19l139;cr18k009;cr17j009;cr16i009;cr15h009;cr14g009;cr13f009;cr12e009;cr11d009;cr10c009;cr09b009;cr08a009
+;What other non-Christian religion do you mean?;cr19l141;cr18k010;cr17j010;cr16i010;cr15h010;cr14g010;cr13f010;cr12e010;cr11d010;cr10c010;cr09b010;cr08a010
+attendance_religious_parent;When you were 15 years old, how often did you attend church or other religious gatherings?;cr19l142;cr18k011;cr17j011;cr16i011;cr15h011;cr14g011;cr13f011;cr12e011;cr11d011;cr10c011;cr09b011;cr08a011
+member_religion;Do you consider yourself a member of a certain religion or church community?;cr19l143;cr18k012;cr17j012;cr16i012;cr15h012;cr14g012;cr13f012;cr12e012;cr11d012;cr10c012;cr09b012;cr08a012
+member_religion_cat;Of which religion or church community are you a member?;cr19l144;cr18k013;cr17j013;cr16i013;cr15h013;cr14g013;cr13f013;cr12e013;cr11d013;cr10c013;cr09b013;cr08a013
+;Of which religion or church community are you a member?: Dutch Reformed;cr19l145;cr18k014;cr17j014;cr16i014;cr15h014;cr14g014;cr13f014;cr12e014;cr11d014;cr10c014;cr09b014;cr08a014
+;Of which religion or church community are you a member?:  Reformed Churches in t;;cr18k015;cr17j015;cr16i015;cr15h015;cr14g015;cr13f015;cr12e015;cr11d015;cr10c015;cr09b015;cr08a015
+;What other direction of the Dutch Reformed Church do you mean?;cr19l146;cr18k016;cr17j016;cr16i016;cr15h016;cr14g016;cr13f016;cr12e016;cr11d016;cr10c016;cr09b016;cr08a016
+;What other direction of the Reformed Churches in the Netherlands do you mean?;;cr18k017;cr17j017;cr16i017;cr15h017;cr14g017;cr13f017;cr12e017;cr11d017;cr10c017;cr09b017;cr08a017
+;What other Christian church community do you mean?;cr19l150;cr18k018;cr17j018;cr16i018;cr15h018;cr14g018;cr13f018;cr12e018;cr11d018;cr10c018;cr09b018;cr08a018
+;What other Eastern religion do you mean?;cr19l149;cr18k019;cr17j019;cr16i019;cr15h019;cr14g019;cr13f019;cr12e019;cr11d019;cr10c019;cr09b019;cr08a019
+;What other non-Christian religion do you mean?;cr19l151;cr18k020;cr17j020;cr16i020;cr15h020;cr14g020;cr13f020;cr12e020;cr11d020;cr10c020;cr09b020;cr08a020
+member_religion_past;Have you ever considered yourself member of a certain religion or church communi;;cr18k021;cr17j021;cr16i021;cr15h021;cr14g021;cr13f021;cr12e021;cr11d021;cr10c021;cr09b021;cr08a021
+member_religion_past_cat;Of which religion or church community did you consider yourself a member?;;cr18k022;cr17j022;cr16i022;cr15h022;cr14g022;cr13f022;cr12e022;cr11d022;cr10c022;cr09b022;cr08a022
+;Of which religion or church community did you consider yourself a member?: Dutch;;cr18k023;cr17j023;cr16i023;cr15h023;cr14g023;cr13f023;cr12e023;cr11d023;cr10c023;cr09b023;cr08a023
+;Of which religion or church community did you consider yourself a member?: Refor;;cr18k024;cr17j024;cr16i024;cr15h024;cr14g024;cr13f024;cr12e024;cr11d024;cr10c024;cr09b024;cr08a024
+;What other direction of the Dutch Reformed Church do you mean?;;cr18k025;cr17j025;cr16i025;cr15h025;cr14g025;cr13f025;cr12e025;cr11d025;cr10c025;cr09b025;cr08a025
+;What other direction of the Reformed Churches in the Netherlands do you mean?;;cr18k026;cr17j026;cr16i026;cr15h026;cr14g026;cr13f026;cr12e026;cr11d026;cr10c026;cr09b026;cr08a026
+;What other Christian church community do you mean?;;cr18k027;cr17j027;cr16i027;cr15h027;cr14g027;cr13f027;cr12e027;cr11d027;cr10c027;cr09b027;cr08a027
+;What other Eastern religion do you mean?;;cr18k028;cr17j028;cr16i028;cr15h028;cr14g028;cr13f028;cr12e028;cr11d028;cr10c028;cr09b028;cr08a028
+;What other non-Christian religion do you mean?;;cr18k029;cr17j029;cr16i029;cr15h029;cr14g029;cr13f029;cr12e029;cr11d029;cr10c029;cr09b029;cr08a029
+believe_god;Which of the following statements best matches your idea of God?;cr19l030;cr18k030;cr17j030;cr16i030;cr15h030;cr14g030;cr13f030;cr12e030;cr11d030;cr10c030;cr09b030;cr08a030
+believe_after_death;Do you believe in a life after death?;cr19l031;cr18k031;cr17j031;cr16i031;cr15h031;cr14g031;cr13f031;cr12e031;cr11d031;cr10c031;cr09b031;cr08a031
+believe_heaven;Do you believe in the existence of heaven?;;cr18k032;cr17j032;cr16i032;cr15h032;cr14g032;cr13f032;cr12e032;cr11d032;cr10c032;cr09b032;cr08a032
+believe_purgatory;Do you believe in purgatory?;;cr18k033;cr17j033;cr16i033;cr15h033;cr14g033;cr13f033;cr12e033;cr11d033;cr10c033;cr09b033;cr08a033
+believe_hell;Do you believe in hell?;;cr18k034;cr17j034;cr16i034;cr15h034;cr14g034;cr13f034;cr12e034;cr11d034;cr10c034;cr09b034;cr08a034
+believe_devil;Do you believe in a devil?;;cr18k035;cr17j035;cr16i035;cr15h035;cr14g035;cr13f035;cr12e035;cr11d035;cr10c035;cr09b035;cr08a035
+believe_adam_eve;Do you believe Adam and Eve existed?;;cr18k036;cr17j036;cr16i036;cr15h036;cr14g036;cr13f036;cr12e036;cr11d036;cr10c036;cr09b036;cr08a036
+acknowledge_bible;Do you see the Bible as the word of God?;;cr18k037;cr17j037;cr16i037;cr15h037;cr14g037;cr13f037;cr12e037;cr11d037;cr10c037;cr09b037;cr08a037
+acknowledge_koran;Do you see the Koran as the word of God?;;cr18k038;cr17j038;cr16i038;cr15h038;cr14g038;cr13f038;cr12e038;cr11d038;cr10c038;cr09b038;cr08a038
+acknowledge_torah;Do you see the Torah as the word of God?;;cr18k039;cr17j039;cr16i039;cr15h039;cr14g039;cr13f039;cr12e039;cr11d039;cr10c039;cr09b039;cr08a039
+believe_praying;Do you think that it makes sense of you to pray?;;cr18k040;cr17j040;cr16i040;cr15h040;cr14g040;cr13f040;cr12e040;cr11d040;cr10c040;cr09b040;cr08a040
+attendance_religious;Aside from special occasions such as weddings and funerals;cr19l041;cr18k041;cr17j041;cr16i041;cr15h041;cr14g041;cr13f041;cr12e041;cr11d041;cr10c041;cr09b041;cr08a041
+pray;Aside from when you attend religious gatherings;cr19l042;cr18k042;cr17j042;cr16i042;cr15h042;cr14g042;cr13f042;cr12e042;cr11d042;cr10c042;cr09b042;cr08a042
+nationality_dutch;nationality: Dutch;;;;;;;;;;cr10c043;cr09b043;cr08a043
+nationality_non_dutch;nationality: not Dutch;;;;;;;;;;cr10c044;cr09b044;cr08a044
+nationality_turkish;nationality: Turkish;;;;;;;;;;cr10c045;cr09b045;cr08a045
+nationality_moroccan;nationality: Moroccan;;;;;;;;;;cr10c046;cr09b046;cr08a046
+nationality_antillean;nationality: Antillean;;;;;;;;;;cr10c047;cr09b047;cr08a047
+nationality_surinamese;nationality: Surinamese;;;;;;;;;;cr10c048;cr09b048;cr08a048
+nationality_indonesian;nationality: Indonesian;;;;;;;;;;cr10c049;cr09b049;cr08a049
+nationality_other_non_western;nationality: other non-western country;;;;;;;;;;cr10c050;cr09b050;cr08a050
+nationality_other_western;nationality: other western country;;;;;;;;;;cr10c051;cr09b051;cr08a051
+nationality;What is your nationality?;;;;;;;;;;cr10c052;cr09b052;cr08a052
+birth_country_netherland;Were you born in the Netherlands?;;;;;;;;;;cr10c053;cr09b053;cr08a053
+birth_country_cat;In which country were you born?;;;;;;;;;;cr10c054;cr09b054;cr08a054
+birth_country_txt;In which country were you born?;;;;;;;;;;cr10c055;cr09b055;cr08a055
+resident_since;In which year did you come to live in the Netherlands?;;;;;;;;;;cr10c056;cr09b056;cr08a056
+birth_country_father_netherland;Was your father born in the Netherlands?;;;;;;;;;;cr10c057;cr09b057;cr08a057
+birth_country_father_cat;In which country was your father born?;;;;;;;;;;cr10c058;cr09b058;cr08a058
+birth_country_father_txt;In which country was your father born?;;;;;;;;;;cr10c059;cr09b059;cr08a059
+brith_country_mother_netherland;Was your mother born in the Netherlands?;;;;;;;;;;cr10c060;cr09b060;cr08a060
+birth_country_mother_cat;In which country was your mother born?;;;;;;;;;;cr10c061;cr09b061;cr08a061
+birth_country_mother_txt;In which country was your mother born?;;;;;;;;;;cr10c062;cr09b062;cr08a062
+population_dutch;To which population group do you belong: native Dutch;;;;;;;;;;cr10c063;cr09b063;cr08a063
+population_turks;To which population group do you belong: Turks;;;;;;;;;;cr10c064;cr09b064;cr08a064
+population_kurds;To which population group do you belong: Kurds;;;;;;;;;;cr10c065;cr09b065;cr08a065
+population_armenians;To which population group do you belong: Armenians;;;;;;;;;;cr10c066;cr09b066;cr08a066
+population_moroccans;To which population group do you belong: Moroccans;;;;;;;;;;cr10c067;cr09b067;cr08a067
+population_berbers;To which population group do you belong: Berbers;;;;;;;;;;cr10c068;cr09b068;cr08a068
+population_hindustanis;To which population group do you belong: Hindustanis;;;;;;;;;;cr10c069;cr09b069;cr08a069
+population_creoles;To which population group do you belong: Creoles;;;;;;;;;;cr10c070;cr09b070;cr08a070
+population_javanese;To which population group do you belong: Javanese;;;;;;;;;;cr10c071;cr09b071;cr08a071
+population_chinese;To which population group do you belong: Chinese;;;;;;;;;;cr10c072;cr09b072;cr08a072
+population_surinamese;To which population group do you belong: Surinamese;;;;;;;;;;cr10c073;cr09b073;cr08a073
+population_antilleans;To which population group do you belong: Antilleans;;;;;;;;;;cr10c074;cr09b074;cr08a074
+population_curacaoans;To which population group do you belong: Curacaoans;;;;;;;;;;cr10c075;cr09b075;cr08a075
+population_arubans;To which population group do you belong: Arubans;;;;;;;;;;cr10c076;cr09b076;cr08a076
+population_other;To which population group do you belong: other;;;;;;;;;;cr10c077;cr09b077;cr08a077
+population_other_txt;What population group do you mean?;;;;;;;;;;cr10c078;cr09b078;cr08a078
+nativ_language_dutch;Which language or languages did you grow up speaking: Dutch;cr19l079;cr18k079;cr17j079;cr16i079;cr15h079;cr14g079;cr13f079;cr12e079;cr11d079;cr10c079;cr09b079;cr08a079
+nativ_language_arab;Which language or languages did you grow up speaking: Arab;cr19l080;cr18k080;cr17j080;cr16i080;cr15h080;cr14g080;cr13f080;cr12e080;cr11d080;cr10c080;cr09b080;cr08a080
+nativ_language_berber;Which language or languages did you grow up speaking: Berber;cr19l081;cr18k081;cr17j081;cr16i081;cr15h081;cr14g081;cr13f081;cr12e081;cr11d081;cr10c081;cr09b081;cr08a081
+nativ_language_german;Which language or languages did you grow up speaking: German;cr19l082;cr18k082;cr17j082;cr16i082;cr15h082;cr14g082;cr13f082;cr12e082;cr11d082;cr10c082;cr09b082;cr08a082
+nativ_language_frisian;Which language or languages did you grow up speaking: Frisian;cr19l083;cr18k083;cr17j083;cr16i083;cr15h083;cr14g083;cr13f083;cr12e083;cr11d083;cr10c083;cr09b083;cr08a083
+nativ_language_indonesian;Which language or languages did you grow up speaking: Indonesian;cr19l084;cr18k084;cr17j084;cr16i084;cr15h084;cr14g084;cr13f084;cr12e084;cr11d084;cr10c084;cr09b084;cr08a084
+nativ_language_turkish;Which language or languages did you grow up speaking: Turkish;cr19l085;cr18k085;cr17j085;cr16i085;cr15h085;cr14g085;cr13f085;cr12e085;cr11d085;cr10c085;cr09b085;cr08a085
+nativ_language_flemish;Which language or languages did you grow up speaking: Flemish;cr19l086;cr18k086;cr17j086;cr16i086;cr15h086;cr14g086;cr13f086;cr12e086;cr11d086;cr10c086;cr09b086;cr08a086
+nativ_language_other;Which language or languages did you grow up speaking: other language;cr19l087;cr18k087;cr17j087;cr16i087;cr15h087;cr14g087;cr13f087;cr12e087;cr11d087;cr10c087;cr09b087;cr08a087
+nativ_language_other_txt;What other language do you mean?;cr19l088;cr18k088;cr17j088;cr16i088;cr15h088;cr14g088;cr13f088;cr12e088;cr11d088;cr10c088;cr09b088;cr08a088
+home_language_dutch;At home;cr19l089;cr18k089;cr17j089;cr16i089;cr15h089;cr14g089;cr13f089;cr12e089;cr11d089;cr10c089;cr09b089;cr08a089
+home_language_cat;What other language do you generally speak at home?;cr19l090;cr18k090;cr17j090;cr16i090;cr15h090;cr14g090;cr13f090;cr12e090;cr11d090;cr10c090;cr09b090;cr08a090
+home_language_txt;What other language do you mean?;cr19l091;cr18k091;cr17j091;cr16i091;cr15h091;cr14g091;cr13f091;cr12e091;cr11d091;cr10c091;cr09b091;cr08a091
+speak_dialect;Do you ever speak dialect?;cr19l092;cr18k092;cr17j092;cr16i092;cr15h092;cr14g092;cr13f092;cr12e092;cr11d092;cr10c092;cr09b092;cr08a092
+speak_dutch_partner;Do you speak Dutch withÃ‚Â…your partner?;cr19l093;cr18k093;cr17j093;cr16i093;cr15h093;cr14g093;cr13f093;cr12e093;cr11d093;cr10c093;cr09b093;cr08a093
+speak_dutch_children;Do you speak Dutch with...your children?;cr19l094;cr18k094;cr17j094;cr16i094;cr15h094;cr14g094;cr13f094;cr12e094;cr11d094;cr10c094;cr09b094;cr08a094
+speak_dutch_friends;Do you speak Dutch with...most of your friends and acquaintances?;cr19l095;cr18k095;cr17j095;cr16i095;cr15h095;cr14g095;cr13f095;cr12e095;cr11d095;cr10c095;cr09b095;cr08a095
+speak_dutch_colleagues;Do you speak Dutch with...colleagues?;cr19l096;cr18k096;cr17j096;cr16i096;cr15h096;cr14g096;cr13f096;cr12e096;cr11d096;cr10c096;cr09b096;cr08a096
+trouble_dutch_speak;When having conversations in Dutch;cr19l097;cr18k097;cr17j097;cr16i097;cr15h097;cr14g097;cr13f097;cr12e097;cr11d097;cr10c097;cr09b097;cr08a097
+trouble_dutch_read;When reading newspapers;cr19l098;cr18k098;cr17j098;cr16i098;cr15h098;cr14g098;cr13f098;cr12e098;cr11d098;cr10c098;cr09b098;cr08a098
+religion_invention;Do you think that religion is a human invention?;;cr18k099;cr17j099;cr16i099;cr15h099;cr14g099;cr13f099;cr12e099;cr11d099;cr10c099;cr09b099;cr08a099
+same_religion;Do you think it would be good if everyone had the same religion?;;cr18k100;cr17j100;cr16i100;cr15h100;cr14g100;cr13f100;cr12e100;cr11d100;cr10c100;cr09b100;cr08a100
+value_wife;Does a wife have to do what her husband asks of her?;;cr18k101;cr17j101;cr16i101;cr15h101;cr14g101;cr13f101;cr12e101;cr11d101;cr10c101;cr09b101;cr08a101
+value_husband;Does a husband have to do what his wife asks of him?;;cr18k102;cr17j102;cr16i102;cr15h102;cr14g102;cr13f102;cr12e102;cr11d102;cr10c102;cr09b102;cr08a102
+enter_virgin_women;Should women enter marriage as a virgin?;;cr18k103;cr17j103;cr16i103;cr15h103;cr14g103;cr13f103;cr12e103;cr11d103;cr10c103;cr09b103;cr08a103
+enter_virgin_men;Should men enter marriage as a virgin?;;cr18k104;cr17j104;cr16i104;cr15h104;cr14g104;cr13f104;cr12e104;cr11d104;cr10c104;cr09b104;cr08a104
+abortion_good;Do you consider it good that abortion is permitted?;;cr18k105;cr17j105;cr16i105;cr15h105;cr14g105;cr13f105;cr12e105;cr11d105;cr10c105;cr09b105;cr08a105
+believe_reincarnation;Do you believe in reincarnation?;;cr18k106;cr17j106;cr16i106;cr15h106;cr14g106;cr13f106;cr12e106;cr11d106;cr10c106;cr09b106;cr08a106
+believe_karma;Do you believe in karma (the law of cause and effect)?;;cr18k107;cr17j107;cr16i107;cr15h107;cr14g107;cr13f107;cr12e107;cr11d107;cr10c107;cr09b107;cr08a107
+meditate;Do you ever meditate?;;cr18k108;cr17j108;cr16i108;cr15h108;cr14g108;cr13f108;cr12e108;cr11d108;cr10c108;cr09b108;cr08a108
+questionnaire_difficult;Did you find it difficult to answer the questions?;cr19l109;cr18k109;cr17j109;cr16i109;cr15h109;cr14g109;cr13f109;cr12e109;cr11d109;cr10c109;cr09b109;cr08a109
+questionnaire_clear;Were the questions clear to you?;cr19l110;cr18k110;cr17j110;cr16i110;cr15h110;cr14g110;cr13f110;cr12e110;cr11d110;cr10c110;cr09b110;cr08a110
+questionnaire_thinking;Did the questionnaire get you thinking?;cr19l111;cr18k111;cr17j111;cr16i111;cr15h111;cr14g111;cr13f111;cr12e111;cr11d111;cr10c111;cr09b111;cr08a111
+questionnaire_interesting;Did you find the topic interesting?;cr19l112;cr18k112;cr17j112;cr16i112;cr15h112;cr14g112;cr13f112;cr12e112;cr11d112;cr10c112;cr09b112;cr08a112
+questionnaire_enjoy;Did you enjoy answering the questions?;cr19l113;cr18k113;cr17j113;cr16i113;cr15h113;cr14g113;cr13f113;cr12e113;cr11d113;cr10c113;cr09b113;cr08a113
+start_date;Starting date of the questionnaire;cr19l116;cr18k116;cr17j116;cr16i116;cr15h116;cr14g116;cr13f116;cr12e116;cr11d116;cr10c116;cr09b116;cr08a116
+start_time;Starting time of the questionnaire;cr19l117;cr18k117;cr17j117;cr16i117;cr15h117;cr14g117;cr13f117;cr12e117;cr11d117;cr10c117;cr09b117;cr08a117
+end_date;End date of the questionnaire;cr19l118;cr18k118;cr17j118;cr16i118;cr15h118;cr14g118;cr13f118;cr12e118;cr11d118;cr10c118;cr09b118;cr08a118
+end_time;End time of the questionnaire;cr19l119;cr18k119;cr17j119;cr16i119;cr15h119;cr14g119;cr13f119;cr12e119;cr11d119;cr10c119;cr09b119;cr08a119
+date_fieldwork;Year and month of the field work period;cr19l_m;cr18k_m;cr17j_m;cr16i_m;cr15h_m;cr14g_m;cr13f_m;cr12e_m;cr11d_m;cr10c_m;cr09b_m;cr08a_m
+hh_id;Number of household encrypted;;;;;;;;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr
+personal_id;Number of household member encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr
+duration;Duration in seconds;cr19l120;cr18k120;cr17j120;cr16i120;cr15h120;cr14g120;cr13f120;cr12e120;cr11d120;cr10c120;cr09b120;
+grandmother_f_netherland;Was your grandmother from fatherÃ‚Â’s side of the family born in the Netherlands?;;;;;;;;;;;cr09b121;
+grandmother_f_country_cat;Was your grandmother from father’s side of the family born in the Netherlands?;;;;;;;;;;;cr09b122;
+grandmother_f_country_txt;In what country was your grandmother from father’s side born?;;;;;;;;;;;cr09b123;
+grandmother_m_netherland;Was your grandmother from mother’s side of the family born in the Netherlands?;;;;;;;;;;;cr09b124;
+grandmother_m_country_cat;In what country was your grandmother from mother’s side born?;;;;;;;;;;;cr09b125;
+grandmother_m_country_txt;In what country was your grandmother from mother’s side born?;;;;;;;;;;;cr09b126;
+grandfather_f_netherland;Was your grandfather from father’s side of the family born in the Netherlands?;;;;;;;;;;;cr09b127;
+grandfather_f_country_cat;In what country was your grandfather from father’s side born?;;;;;;;;;;;cr09b128;
+grandfather_f_country_txt;In what country was your grandfather from father’s side born?;;;;;;;;;;;cr09b129;
+grandfather_m_netherland;Was your grandfather from mother’s side of the family born in the Netherlands?;;;;;;;;;;;cr09b130;
+grandfather_m_country_cat;In what country was your grandfather from mother’s side born?;;;;;;;;;;;cr09b131;
+grandfather_m_country_txt;In what country was your grandfather from mother’s side born?;;;;;;;;;;;cr09b132;
+;Were you a member of Dutch Reformed (Nederlands Hervormd) or Reformed Churches i;;cr18k133;cr17j133;cr16i133;cr15h133;cr14g133;;;;;;
+;Which Evangelical, Pentecostal, or Baptist community do you mean?;cr19l138;;;;;;;;;;;
+;Which other non-Christian faith do you mean?;cr19l141;;;;;;;;;;;
+;To which church did you belong before the merger in 2004 that created the Protes;cr19l147;;;;;;;;;;;
+;Which Evangelical, Pentecostal, or Baptist community do you mean?;cr19l148;;;;;;;;;;;
+after_death_heaven;How do you picture life after death? heaven;cr19l152;;;;;;;;;;;
+after_death_hell;How do you picture life after death? hell;cr19l153;;;;;;;;;;;
+after_death_return;How do you picture life after death? a future return to earth as human;cr19l154;;;;;;;;;;;
+after_death_reincarnation;How do you picture life after death? reincarnation;cr19l155;;;;;;;;;;;
+after_death_resurrection;How do you picture life after death? resurrection;cr19l156;;;;;;;;;;;
+after_death_memories;How do you picture life after death? living on in peoples memories;cr19l157;;;;;;;;;;;
+after_death_continued;How do you picture life after death? continued existence of spirit or soul;cr19l158;;;;;;;;;;;
+after_death_reunion;How do you picture life after death? reunion with family/loved ones;cr19l159;;;;;;;;;;;
+after_death_other;How do you picture life after death? other, namely ;cr19l160;;;;;;;;;;;
+after_death_other_txt;How do you picture life after death? other, namely open answer;cr19l161;;;;;;;;;;;
+describe_religious_self;To what extent would you describe yourself as a religious person? Is that:;cr19l162;;;;;;;;;;;
+describe_spiritual_self;Regardless of whether you see yourself as religious or not, to what extent would;cr19l163;;;;;;;;;;;
+feel_dutch;How strongly do you feel that you are Dutch?;cr19l164;;;;;;;;;;;
+belong_no_other;To which of the following groups do you feel you belong? Choose all that applies;cr19l165;;;;;;;;;;;
+feel_belong_turks;To which of the following groups do you feel you belong? Choose all that applies;cr19l166;;;;;;;;;;;
+feel_belong_kurds;To which of the following groups do you feel you belong? Choose all that applies;cr19l167;;;;;;;;;;;
+feel_belong_moroccans;To which of the following groups do you feel you belong? Choose all that applies;cr19l168;;;;;;;;;;;
+feel_belong_berbers;To which of the following groups do you feel you belong? Choose all that applies;cr19l169;;;;;;;;;;;
+feel_belong_surinamese;To which of the following groups do you feel you belong? Choose all that applies;cr19l170;;;;;;;;;;;
+feel_belong_hindus;To which of the following groups do you feel you belong? Choose all that applies;cr19l171;;;;;;;;;;;
+feel_belong_creole;To which of the following groups do you feel you belong? Choose all that applies;cr19l172;;;;;;;;;;;
+feel_belong_javanese;To which of the following groups do you feel you belong? Choose all that applies;cr19l173;;;;;;;;;;;
+feel_belong_chinese;To which of the following groups do you feel you belong? Choose all that applies;cr19l174;;;;;;;;;;;
+feel_belong_curacaoan;To which of the following groups do you feel you belong? Choose all that applies;cr19l175;;;;;;;;;;;
+feel_belong_aruban;To which of the following groups do you feel you belong? Choose all that applies;cr19l176;;;;;;;;;;;
+feel_belong_antillean;To which of the following groups do you feel you belong? Choose all that applies;cr19l177;;;;;;;;;;;
+feel_belong_indonesian;To which of the following groups do you feel you belong? Choose all that applies;cr19l178;;;;;;;;;;;
+feel_belong_other;To which of the following groups do you feel you belong? Choose all that applies;cr19l179;;;;;;;;;;;
+feel_belong_other_txt;To which of the following groups do you feel you belong? Choose all that applies;cr19l180;;;;;;;;;;;
+feel_group;How strongly do you feel that you belong to this group? If you selected more tha;cr19l181;;;;;;;;;;;

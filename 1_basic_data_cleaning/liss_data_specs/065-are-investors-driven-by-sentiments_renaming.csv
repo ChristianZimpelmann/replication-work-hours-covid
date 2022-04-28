@@ -1,0 +1,37 @@
+new_name;labels;dt11f_EN_1.0p.dta;dt11e_EN_1.0p.dta;dt11d_EN_1.0p.dta;dt11c_EN_1.0p.dta;dt10b_EN_1.0p.dta;dt10a_EN_1.0p.dta
+portfolio_total_value;What is (approximately) the total value of the stock in your investment portfoli;;;;;;dt10a001
+portfolio_percent_stocks;What percentage of your investment portfolio consists of stock?;;;;;;dt10a002
+stock_transaction_type;If you performed any stock transactions last month did these mainly concern sel;dt11f003;dt11e003;dt11d003;dt11c003;dt10b003;dt10a003
+stock_planned_transaction;Are you planning to buy or sell any stock over the coming days?;;dt11e004;;dt11c004;;dt10a004
+return_nl_month;What do you think the returns will be on the Dutch stock exchange (as measured b;;dt11e005;;dt11c005;;dt10a005
+return_nl_year;What do you think the returns will be on the Dutch stock exchange (as measured b;;dt11e006;;dt11c006;;dt10a006
+return_us_month;What do you think the returns will be on the American stock exchange (as measure;;dt11e007;;dt11c007;;dt10a007
+return_us_year;What do you think the returns will be on the American stock exchange (as measure;;dt11e008;;dt11c008;;dt10a008
+volatile_nl_month;How do you view the risk (volatility) for the Dutch stock market in the coming m;;dt11e009;;dt11c009;;dt10a009
+volatile_nl_year;How do you view the risk (volatility) for the Dutch stock market in the coming y;;dt11e010;;dt11c010;;dt10a010
+volatile_us_month;How do you view the risk (volatility) for the American stock market in the comin;;dt11e011;;dt11c011;;dt10a011
+volatile_us_year;How do you view the risk (volatility) for the American stock market in the comin;;dt11e012;;dt11c012;;dt10a012
+sportsfan;Are you a fan or a supporter of a sports club or an individual sportsperson?;;dt11e013;;dt11c013;;dt10a013
+sportsfan_type;To what sport does this club or sportsperson belong?;;dt11e014;;dt11c014;;dt10a014
+sportsfan_type2;To what sport does this club or sportsperson belong? - another sport namely;;dt11e015;;dt11c015;;dt10a015
+sportsfan_results;What did you think of the competitive results of your favorite club or sportsper;;dt11e016;;dt11c016;;dt10a016
+opinion_weather;What did you think of the weather over the last two days?;;dt11e017;;dt11c017;;dt10a017
+opinion_season;Do you generally feel better in spring or in autumn?;;dt11e018;;dt11c018;;dt10a018
+winter_depression;Do you see yourself as someone who is prone to ?winter blues??;;dt11e019;;dt11c019;;dt10a019
+current_mood;Which of these sentences best describes your mood at this moment?;;dt11e020;;dt11c020;;dt10a020
+comparative_mood;How do you generally feel compared to other people?;;dt11e021;;dt11c021;;dt10a021
+questionnaire_difficult;Was it difficult to answer the questions?;;dt11e022;;dt11c022;;dt10a022
+questionnaire_clear;Were the questions sufficiently clear?;;dt11e023;;dt11c023;;dt10a023
+questionnaire_thinking;Did the questionnaire get you thinking about things?;;dt11e024;;dt11c024;;dt10a024
+questionnaire_interesting;Was it an interesting subject?;;dt11e025;;dt11c025;;dt10a025
+questionnaire_enjoy;Did you enjoy answering the questions?;;dt11e026;;dt11c026;;dt10a026
+start_date;Starting date questionnaire;dt11f027;dt11e027;dt11d027;dt11c027;dt10b027;dt10a027
+start_time;Starting time questionnaire;dt11f028;dt11e028;dt11d028;dt11c028;dt10b028;dt10a028
+end_date;End date questionnaire;dt11f029;dt11e029;dt11d029;dt11c029;dt10b029;dt10a029
+end_time;End time questionnaire;dt11f030;dt11e030;dt11d030;dt11c030;dt10b030;dt10a030
+duraction;duration in seconds;dt11f031;dt11e031;dt11d031;dt11c031;dt10b031;dt10a031
+date_fieldwork;Year and month of administration;dt11f_m;dt11e_m;dt11d_m;dt11c_m;dt10b_m;dt10a_m
+hh_id;Number of the household encrypted;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr;nohouse_encr
+personal_id;Number of the respondent encrypted;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr;nomem_encr
+portfolio_percent_stocks2;What percentage of your investment portfolio consists of stock?;;dt11e032;;dt11c032;;
+portfolio_percent_stocks3;Welk percentage van uw beleggingsportefeuille bestaat uit aandelen?;;dt11e033;;dt11c033;;

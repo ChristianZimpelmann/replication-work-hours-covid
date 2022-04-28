@@ -1,0 +1,5 @@
+new_name;labels;Stat_reasoning_Gaudecker.dta
+sl_correct_reasoning;Outcome in stat reasoning test;sl_correct_reasoning
+personal_id;personal identifier;nomem_encr
+hh_id;household identifier;nohouse_encr
+date_fieldwork;Date of Survey;date_fieldwork

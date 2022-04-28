@@ -1,0 +1,50 @@
+"replacing":
+  "full_df":
+    "Unknown (missing)": !!float .nan
+    "I dont know": !!float .nan
+    "Prefer not to say": !!float .nan
+    "None": 0
+    "One child": 1
+    "Two children": 2
+    "Three children": 3
+    "Four children": 4
+    "Five children": 5
+    "Six children": 6
+    "Seven children": 7
+    "Eight children": 8
+    "No": !!bool False
+    "Yes": !!bool True
+    "yes": !!bool True
+    "no": !!bool False
+
+  "edu_4":
+    "mbo (intermediate vocational education, US: junior college)": "upper_secondary"
+    "hbo (higher vocational education, US: college)": "tertiary"
+    "vmbo (intermediate secondary education, US: junior high school)": "lower_secondary"
+    "primary school": "primary"
+    "wo (university)": "tertiary"
+    "havo/vwo (higher secondary education/preparatory university education, US: senio": "upper_secondary"
+
+  "edu":
+    "mbo (intermediate vocational education, US: junior college)": "upper_secondary"
+    "hbo (higher vocational education, US: college)": "tertiary"
+    "vmbo (intermediate secondary education, US: junior high school)": "lower_secondary_and_lower"
+    "primary school": "lower_secondary_and_lower"
+    "wo (university)": "tertiary"
+    "havo/vwo (higher secondary education/preparatory university education, US: senio": "upper_secondary"
+
+  "hh_members":
+    "None": 0
+    "One person": 1
+    "Two persons": 2
+    "Three persons": 3
+    "Four persons": 4
+    "Five persons": 5
+    "Six persons": 6
+    "Seven persons": 7
+    "Eight persons": 8
+    "Nine persons or more": 9
+    "11.0": 9
+    "15.0": 9
+    "14.0": 9
+    "10.0": 9

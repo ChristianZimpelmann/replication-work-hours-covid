@@ -1,0 +1,73 @@
+new_name;labels;nd16a_EN_1.0p.dta
+random_parameter_set_1;Which parameter set was offered in the first round?;nd16a001
+random_parameter_set_2;Which parameter set was offered in the second round?;nd16a002
+random_parameter_set_3;Which parameter set was offered in the third round?;nd16a003
+random_parameter_set_4;Which parameter set was offered in the fourth round?;nd16a004
+random_parameter_set_5;Which parameter set was offered in the fifth round?;nd16a005
+random_parameter_set_6;Which parameter set was offered in the sixth round?;nd16a006
+random_parameter_set_7;Which parameter set was offered in the seventh round?;nd16a007
+random_parameter_set_8;Which parameter set was offered in the eigth round?;nd16a008
+random_parameter_set_9;Which parameter set was offered in the ninth round?;nd16a009
+random_draw_a;Random draw to determine the payoff of nd16a024: 1..10.;nd16a010
+random_draw_b;Random draw to determine the payoff of nd16a026: 1..20.;nd16a011
+random_draw_c;Random draw to determine the payoff of nd16a028: 1..20.;nd16a012
+random_draw_d;Random draw to determine the payoff of nd16a030: 1..20.;nd16a013
+random_draw_e;Random draw to determine the payoff of nd16a032: 1..10.;nd16a014
+random_draw_f;Random draw to determine the payoff of nd16a034: 1..20.;nd16a015
+random_draw_g;Random draw to determine the payoff of nd16a036: 1..4.;nd16a016
+random_draw_h;Random draw to determine the payoff of nd16a038: 1..4.;nd16a017
+random_draw_i;Random draw to determine the payoff of nd16a040: 1..4.;nd16a018
+random_draw_j;Random draw to determine the row at nd16a042 - nd16a058: 1..16.;nd16a019
+random_draw_k;Random computer draw of Option B or Option C at nd16a042 - nd16a058: 1..2.;nd16a020
+comp_check_1;If you choose Option A, your payoff is 78.;nd16a021
+comp_check_2;If you choose Option A, you can still choose between Option B and Option C.;nd16a022
+comp_check_3;If you decide to choose Option B or Option C, you will be informed about the pay;nd16a023
+choice_parameter_set_1;What do you choose? Parameter set 1;nd16a024
+choice_option_1;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a025
+choice_parameter_set_2;What do you choose? Parameter set 2;nd16a026
+choice_option_2;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a027
+choice_parameter_set_3;What do you choose? Parameter set 3;nd16a028
+choice_option_3;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a029
+choice_parameter_set_4;What do you choose? Parameter set 4;nd16a030
+choice_option_4;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a031
+choice_parameter_set_5;What do you choose? Parameter set 5;nd16a032
+choice_option_5;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a033
+choice_parameter_set_6;What do you choose? Parameter set 6;nd16a034
+choice_option_6;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a035
+choice_parameter_set_7;What do you choose? Parameter set 7;nd16a036
+choice_option_7;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a037
+choice_parameter_set_8;What do you choose? Parameter set 8;nd16a038
+choice_option_8;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a039
+choice_parameter_set_9;What do you choose? Parameter set 9;nd16a040
+choice_option_9;You can now choose between Option B and Option C. What do you choose? Parameter;nd16a041
+fixed_answer_1;Fixed answer;nd16a042
+choice_row_1;Make your choice for row 1. Option A: 90 or: the computer draws randomly betwee;nd16a043
+choice_row_2;Make your choice for row 1. Option A: 85 or: the computer draws randomly betwee;nd16a044
+choice_row_3;Make your choice for row 1. Option A: 80 or: the computer draws randomly betwee;nd16a045
+choice_row_4;Make your choice for row 1. Option A: 75 or: the computer draws randomly betwee;nd16a046
+choice_row_5;Make your choice for row 1. Option A: 70 or: the computer draws randomly betwee;nd16a047
+choice_row_6;Make your choice for row 1. Option A: 65 or: the computer draws randomly betwee;nd16a048
+choice_row_7;Make your choice for row 1. Option A: 60 or: the computer draws randomly betwee;nd16a049
+choice_row_8;Make your choice for row 1. Option A: 55 or: the computer draws randomly betwee;nd16a050
+choice_row_9;Make your choice for row 1. Option A: 50 or: the computer draws randomly betwee;nd16a051
+choice_row_10;Make your choice for row 1. Option A: 45 or: the computer draws randomly betwee;nd16a052
+choice_row_11;Make your choice for row 1. Option A: 40 or: the computer draws randomly betwee;nd16a053
+choice_row_12;Make your choice for row 1. Option A: 35 or: the computer draws randomly betwee;nd16a054
+choice_row_13;Make your choice for row 1. Option A: 30 or: the computer draws randomly betwee;nd16a055
+choice_row_14;Make your choice for row 1. Option A: 25 or: the computer draws randomly betwee;nd16a056
+choice_row_15;Make your choice for row 1. Option A: 20 or: the computer draws randomly betwee;nd16a057
+choice_row_16;Make your choice for row 1. Option A: 15 or: the computer draws randomly betwee;nd16a058
+fixed_answer_2;Fixed answer;nd16a059
+choice_preferred_row;From which row do you prefer 'the computer to draw randomly between Option B or;nd16a060
+questionnaire_difficult;Was it difficult to answer the questions?;nd16a061
+questionnaire_clear;Were the questions sufficiently clear?;nd16a062
+questionnaire_thinking;Did the questionnaire get you thinking about things?;nd16a063
+questionnaire_interesting;Was it an interesting subject?;nd16a064
+questionnaire_enjoy;Did you enjoy answering the questions?;nd16a065
+start_date;Starting date questionnaire;nd16a066
+start_time;Starting time questionnaire;nd16a067
+end_date;End date questionnaire;nd16a068
+end_time;End time questionnaire;nd16a069
+duration;Duration in seconds;nd16a070
+date_fieldwork;Year and month of the field work period;nd16a_m
+personal_id;Number of the household member encrypted;nomem_encr
