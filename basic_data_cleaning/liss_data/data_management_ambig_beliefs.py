@@ -2,7 +2,7 @@ import warnings
 
 import numpy as np
 import pandas as pd
-from config import IN_DATA_LISS
+from config import DATA_RAW
 from config import OUT_DATA_LISS
 
 
@@ -255,7 +255,6 @@ def clean_matching_probabilites(choices):
         returns:
             pandas interval
         """
-        # print(choice_and_prob[1], choice_and_prob[0])
         dic = {
             1: {
                 "AEX": pd.Interval(left=1, right=5, closed="both"),
@@ -401,7 +400,7 @@ def calc_pay_outs(data_original, choices):
     # ToDo: update historical returns
 
     # Use this side to update the file: https://finance.yahoo.com/quote/%5EAEX/history/
-    aex_rates = pd.read_excel(IN_DATA_LISS / "aex_historic.xlsx")
+    aex_rates = pd.read_excel(DATA_RAW / "aex_historic.xlsx")
     aex_rates = aex_rates.set_index("day")
     aex_rates = aex_rates.fillna(method="bfill")
     data_original.loc[data_original["end_date"] == " ", "end_date"] = data_original.loc[
@@ -458,7 +457,6 @@ def calc_pay_outs(data_original, choices):
     data_original["aex_perf"] = np.round(
         (data_original["rate_end"] / data_original["rate_last_wave"]) * 1000
     )
-    # print(data_original[["wave", "day", "rate_last_wave", "rate_end", "aex_perf"]].sample(20))
 
     # Merge choices with pay_out data
     choices = choices.copy()

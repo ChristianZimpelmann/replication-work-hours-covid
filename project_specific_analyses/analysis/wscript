@@ -1,0 +1,233 @@
+#! python
+from project_specific_analyses.analysis.time_variation_specs import (
+    time_variation_groups,
+)
+
+
+def build(ctx):
+    # ------------------------------------------------------------
+    # Time variation plots
+    # ------------------------------------------------------------
+
+    for spec_name in time_variation_groups:
+        group = time_variation_groups[spec_name]["group"]
+
+        target_figures = []
+
+        if time_variation_groups[spec_name]["create_unempl_rate"]:
+            target_figures += [
+                ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"time-variation/unempl/{ws_var}-over-time-by-{spec_name}.pdf",
+                )
+                for ws_var in ["unempl-rate", "olf", "not_working"]
+            ]
+
+            if group:
+                target_figures += [
+                    ctx.path_to(
+                        ctx,
+                        "OUT_FIGURES",
+                        f"time-variation/unempl/change-{ws_var}-over-time-by-{spec_name}.pdf",
+                    )
+                    for ws_var in ["unempl-rate", "olf", "not_working"]
+                ]
+
+        for uncond_ind in ["-uncond", ""]:
+            target_figures += [
+                ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"time-variation/working-hours-over-time-by-{spec_name}{uncond_ind}.pdf",
+                ),
+                ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"time-variation/working-hours-incl-home-over-time-by-{spec_name}{uncond_ind}.pdf",
+                ),
+                ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"time-variation/hours-home-over-time-by-{spec_name}{uncond_ind}.pdf",
+                ),
+                ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"time-variation/abs-change-hours-over-time-by-{spec_name}{uncond_ind}.pdf",
+                ),
+                ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"time-variation/rel-change-hours-over-time-by-{spec_name}{uncond_ind}.pdf",
+                ),
+                ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"time-variation/abs-change-hours-home-over-time-by-{spec_name}{uncond_ind}.pdf",
+                ),
+            ]
+        target_tables = [
+            i.replace(".pdf", ".tex").replace("figures", "tables")
+            for i in target_figures
+        ]
+        ctx(
+            features="run_py_script",
+            source="time_variation_figures.py",
+            deps=[
+                ctx.path_to(ctx, "OUT_DATA", "work-childcare-long.parquet"),
+                "time_variation_specs.py",
+            ],
+            target=target_figures + target_tables,
+            append=[spec_name],
+            name=f"time_variation_figures_{spec_name}",
+        )
+
+        # Install files
+        ctx.install_files(
+            ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/time-variation",
+            target_figures + target_tables,
+        )
+
+    # --------------------------------------------------------------
+    # Income plots
+    # --------------------------------------------------------------
+    targets = []
+
+    varis = ["terciles", "edu", "gross_income_groups"]
+    samples = ["full", "working"]
+
+    for var in varis:
+        for name in samples:
+            for without_may in ["", "-without-may"]:
+                tar = ctx.path_to(
+                    ctx,
+                    "OUT_FIGURES",
+                    f"income/rel-income-{var}-{name}{without_may}.pdf",
+                )
+                targets.append(tar)
+
+    ctx(
+        features="run_py_script",
+        source="hh_income_plots.py",
+        deps=[
+            ctx.path_to(ctx, "OUT_DATA", "hh_income.parquet"),
+        ],
+        target=targets,
+        name=f"time_variation_figures_{spec_name}",
+    )
+
+    # Install files
+    ctx.install_files(
+        ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/income",
+        targets,
+    )
+
+    # Install files
+    ctx.install_files(
+        ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/time-use", targets
+    )
+
+    # # # ------------------------------------------------------------
+    # # # Quantile Regression HH Income
+    # # # ------------------------------------------------------------
+    targets = [
+        ctx.path_to(
+            ctx, "OUT_TABLES", "hh_income", "quantile_regression_income_iid.tex"
+        ),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "hh_income", "quantile_regression_income_boot.tex"
+        ),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "hh_income", "quantile_regression_income_policy_iid.tex"
+        ),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "hh_income", "quantile_regression_income_policy_boot.tex"
+        ),
+    ]
+    ctx(
+        features="run_r_script",
+        source="quantile_regression_hh_income.r",
+        deps=[
+            ctx.path_to(ctx, "OUT_DATA", "hh_income.parquet"),
+            ctx.path_to(ctx, "OUT_DATA", "work-childcare-long.parquet"),
+        ],
+        target=targets,
+        name="quantile_regression_hh_income",
+    )
+
+    # Install files
+    ctx.install_files(
+        ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/hh-income-policies",
+        targets,
+    )
+
+    # ------------------------------------------------------------
+    # Regressions work-hours
+    # ------------------------------------------------------------
+
+    target = [
+        ctx.path_to(ctx, "OUT_TABLES", "work_hours/regression_hours_heterogeneity.tex"),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "work_hours/regression_hours_heterogeneity_short.tex"
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "work_hours/regression_hours_heterogeneity_short_longtable.tex",
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "work_hours/regression_hours_heterogeneity_short_month_comb.tex",
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "work_hours/regression_hours_heterogeneity_short_month_comb_two_cols.tex",
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "work_hours/regression_hours_heterogeneity_short_robustness.tex",
+        ),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "work_hours/regression_hours_3_heterogeneity.tex"
+        ),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "work_hours/regression_hours_heterogeneity_combined.tex"
+        ),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "work_hours/regression_hours_home_heterogeneity.tex"
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "work_hours/reg_hours_hh_income_quintiles_rel.tex",
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "work_hours/reg_hours_hh_income_quintiles_abs.tex",
+        ),
+        ctx.path_to(ctx, "OUT_TABLES", "work_hours/effect_working_hours.tex"),
+        ctx.path_to(ctx, "OUT_TABLES", "work_hours/effect_working_hours_short.tex"),
+        # ctx.path_to(ctx, "OUT_TABLES", "work_hours/attrition.tex"),
+    ]
+
+    ctx(
+        features="run_py_script",
+        source="regressions_work_hours.py",
+        deps=[
+            ctx.path_to(ctx, "OUT_DATA", "work-childcare-long.parquet"),
+            ctx.path_to(ctx, "LIBRARY", "plot_labels.py"),
+            ctx.path_to(ctx, "IN_ANALYSIS", "table_functions.py"),
+        ],
+        target=target,
+        name="regressions_work_hours",
+    )
+
+    # Install files
+    ctx.install_files(
+        ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/work_hours", target
+    )

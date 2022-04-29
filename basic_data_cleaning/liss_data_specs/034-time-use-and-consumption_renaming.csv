@@ -2,7 +2,7 @@ new_name;labels;L_consumption_w8_5p.dta;L_consumption_w7_3.0p.dta;L_consumption_
 hh_size;Number of members in the household;p_aantalhh;p_aantalhh;in_aantalhh;bf17e001;bf15d001;bf12c001;bf10b001;bf09a001;category;True;1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 hh_children;Number of living-at-home children in the household, children of the household he;p_aantalki;p_aantalki;in_aantalki;bf17e002;bf15d002;bf12c002;bf10b002;bf09a002;category;True;0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 d_child_questions;Should this respondent be presented these questions about children?;vkind;vkind;in_vkind;bf17e003;bf15d003;bf12c003;bf10b003;bf09a003;float;;
-hh_position;Position in the household;p_positie;p_positie;in_positie;bf17e004;bf15d004;bf12c004;bf10b004;bf09a004;category;False;Household head, Wedded partner, Unwedded partner, Parent (in-law), Child living at home, House mate, Family member or boarder, Unknown (missing)
+hh_position;Position in the household;p_positie;p_positie;in_positie;bf17e004;bf15d004;bf12c004;bf10b004;bf09a004;category;False;Household head, Wedded partner, Unwedded partner, Parent (in law), Child living at home, Housemate, Family member or boarder
 hours_work;How much time did you spend in the last seven days on: paid work: hours;;;v1q1_v1col1;bf17e005;bf15d005;bf12c005;bf10b005;bf09a005;float;;
 mins_work;How much time did you spend in the last seven days on: paid work: mins;;;v1q1_v1col2;bf17e006;bf15d006;bf12c006;bf10b006;bf09a006;int;;
 hours_commute;How much time did you spend in the last seven days on: time traveling to and fro;v1q2_v1col1;v1q2_v1col1;v1q2_v1col1;bf17e007;bf15d007;bf12c007;bf10b007;bf09a007;float;;
@@ -332,7 +332,7 @@ expendit_others_software_merge;v6bt18_v6bcol3;v6bt18_v6bcol3;v6bt18_v6bcol3;;;;;
 ;;opm;opm;;;;;;;float;;
 ;;evaopm;evaopm;;;;;;;object;;
 ;;geslacht;geslacht;;;;;;;category;False;Man, Woman
-;;positie;positie;;;;;;;category;False;Household head, Wedded partner, Unwedded partner, Parent (in-law), Child living at home, House mate, Family member or boarder, Unknown (missing)
+;;positie;positie;;;;;;;category;False;Household head, Wedded partner, Unwedded partner, Parent (in law), Child living at home, Housemate, Family member or boarder
 ;;gebjaar;gebjaar;;;;;;;int;;
 ;;leeftijd;leeftijd;;;;;;;int;;
 ;;lftdcat;lftdcat;;;;;;;category;True;14 years and younger, 15 - 24 years, 25 - 34 years, 35 - 44 years, 45 - 54 years, 55 - 64 years, 65 years and older

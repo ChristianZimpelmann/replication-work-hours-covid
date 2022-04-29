@@ -152,6 +152,15 @@ PARAMETRIZATION = [
         OUT_DATA_CORONA_PREP / "corona_full.pickle",
         OUT_DATA_CORONA_PREP / "time_use_consumption_full.pickle",
     ]
+] + [
+    (
+        OUT_DATA_LISS / "background_full_2019.pickle",
+        OUT_DATA_CORONA_INSTALL / "unmerged_files" / "background_full_2019.pickle",
+    ),
+    (
+        OUT_DATA_LISS / "background_full_2020.pickle",
+        OUT_DATA_CORONA_INSTALL / "unmerged_files" / "background_full_2020.pickle",
+    ),
 ]
 
 

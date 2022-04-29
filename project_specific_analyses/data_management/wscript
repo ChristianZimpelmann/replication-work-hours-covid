@@ -1,0 +1,61 @@
+#! python
+
+
+def build(ctx):
+    ctx(
+        features="run_py_script",
+        source="other_background_data.py",
+        target=[ctx.path_to(ctx, "OUT_DATA", "background_2019.parquet")],
+        name="other_background_data",
+    )
+
+    # Individual covid data
+    months_in_covid_data = [
+        "2020_02",
+        "2020_03",
+        "2020_04",
+        "2020_05",
+        "2020_06",
+        "2020_09",
+        "2020_12",
+    ]
+    deps = [
+        ctx.path_to(ctx, "IN_DATA", f"covid_data_{f}.pickle")
+        for f in months_in_covid_data
+    ] + [
+        ctx.path_to(
+            ctx,
+            "IN_DATA",
+            "background_data_merged.pickle",
+        ),
+        ctx.path_to(ctx, "IN_DATA", "time_use_data_detailed.pickle"),
+        ctx.path_to(ctx, "OUT_DATA", "background_2019.parquet"),
+        "variables_to_keep.py",
+    ]
+    ctx(
+        features="run_py_script",
+        source="data_management_ind.py",
+        deps=deps,
+        target=[
+            ctx.path_to(ctx, "OUT_DATA", "work-childcare-ind.parquet"),
+            ctx.path_to(ctx, "OUT_DATA", "hh_income.parquet"),
+        ],
+        name="data_management_ind",
+        append=[",".join(months_in_covid_data)],
+    )
+
+    # household covid data
+    deps = [
+        ctx.path_to(ctx, "IN_DATA", "partner_links.pickle"),
+        ctx.path_to(ctx, "OUT_DATA", "work-childcare-ind.parquet"),
+    ]
+    ctx(
+        features="run_py_script",
+        source="merge_partner_info.py",
+        deps=deps,
+        target=[
+            ctx.path_to(ctx, "OUT_DATA", "work-childcare-long.parquet"),
+            ctx.path_to(ctx, "OUT_DATA", "work-childcare-wide.parquet"),
+        ],
+        name="merge_partner_info",
+    )

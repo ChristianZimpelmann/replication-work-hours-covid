@@ -29,12 +29,14 @@
     3: "Unwedded partner"
     "Ongehuwde partner": "Unwedded partner"
     "Gehuwde partner": "Wedded partner"
-    4: "Parent (in-law)"
-    "(Schoon)ouder": "Parent (in-law)"
+    4: "Parent (in law)"
     5: "Child living at home"
-    6: "House mate"
+    6: "Housemate"
     7: "Family member or boarder"
-    "Huisgenoot": "House mate"
+    "Huisgenoot": "Housemate"
+    "House mate": "Housemate"
+    "(Schoon)ouder": "Parent (in law)"
+    "Parent (in-law)": Parent (in law)
     "Kind dat thuis woont": "Child living at home"
     "Familielid of kostganger": "Family member or boarder"
     "Unknown (missing)": !!float .nan

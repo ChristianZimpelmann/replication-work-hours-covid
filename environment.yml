@@ -12,7 +12,7 @@ dependencies:
   - fastparquet=0.4
   - ipykernel
   - jupyterlab
-  - pandas=1.1
+  - pandas=1.3.5
   - matplotlib>=3.4.1
   - pip
   - pyarrow=1.0
@@ -32,8 +32,6 @@ dependencies:
   - openpyxl
   - nodejs
   - nb_black
-  - click=8.0.1
-  - pre-commit
   - r-arrow=1.0
   - r-askpass=1.1
   - r-assertthat=0.2

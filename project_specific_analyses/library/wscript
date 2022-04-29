@@ -1,0 +1,14 @@
+#! python
+
+
+def build(ctx):
+
+    ctx(
+        features="run_py_script",
+        source="plot_labels.py",
+        target=[
+            ctx.path_to(ctx, "OUT_DATA", "labels_gender_childcare.json"),
+            ctx.path_to(ctx, "OUT_DATA", "labels_parents.json"),
+        ],
+        name="labels_to_json",
+    )

@@ -1,7 +1,13 @@
+"background":
+  "selected": True
+  "subset": "full"
+  "stata": False
+
 "health":
   "selected": True
   "subset": False
   "stata": False
+
 
 "religion":
   "selected": True
@@ -20,7 +26,7 @@
 
 "work_schooling":
   "selected": True
-  "subset": False
+  "subset": "full"
   "stata": False
 
 "personality":

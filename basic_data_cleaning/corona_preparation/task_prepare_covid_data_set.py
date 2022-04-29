@@ -20,8 +20,6 @@ from corona_preparation.utils_corona_prep import save_and_check_data_set
 from liss_data.cleaning_helpers import replace_values
 from liss_data.cleaning_helpers import set_types_file
 
-# from output.project_paths import project_paths_join as ppj
-
 
 def create_hh_income_df(data):
     temp = data.copy()

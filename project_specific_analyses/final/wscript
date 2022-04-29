@@ -1,0 +1,103 @@
+#! python
+
+
+def build(ctx):
+
+    # ------------------------------------------------------------
+    # Descriptive Statistics
+    # ------------------------------------------------------------
+
+    target = [
+        ctx.path_to(ctx, "OUT_TABLES", "descriptives", "descriptives_work_hours.tex"),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "descriptives", "descriptives_by_month_full_sample.tex"
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "descriptives",
+            "descriptives_by_month_working_sample.tex",
+        ),
+        ctx.path_to(ctx, "OUT_TABLES", "descriptives", "descriptives_hours.tex"),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "descriptives", "descriptives_hours_unemployment.tex"
+        ),
+        ctx.path_to(
+            ctx, "OUT_TABLES", "descriptives", "descriptives_hours_max_hours.tex"
+        ),
+        ctx.path_to(
+            ctx,
+            "OUT_TABLES",
+            "descriptives",
+            "descriptives_hours_unemployment_comparison.tex",
+        ),
+        ctx.path_to(ctx, "OUT_TABLES", "descriptives", "job_charac_by_edu_income.tex"),
+    ]
+    ctx(
+        features="run_py_script",
+        source="descriptives_tables_corona.py",
+        deps=[
+            ctx.path_to(ctx, "OUT_DATA", "work-childcare-long.parquet"),
+            ctx.path_to(ctx, "LIBRARY", "plot_labels.py"),
+        ],
+        target=target,
+        name="descriptives_tables_corona",
+    )
+
+    # Install files
+    ctx.install_files(
+        ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/descriptives",
+        target,
+    )
+
+    target = [
+        ctx.path_to(
+            ctx, "OUT_TABLES", "hh_income", "hh_income_split_characteristics.tex"
+        ),
+        ctx.path_to(ctx, "OUT_TABLES", "hh_income", "hh_income_rel_change_perc.tex"),
+        ctx.path_to(ctx, "OUT_TABLES", "hh_income", "hh_income_means.tex"),
+    ]
+    ctx(
+        features="run_py_script",
+        source="descriptives_tables_hh_income.py",
+        deps=[
+            ctx.path_to(ctx, "OUT_DATA", "work-childcare-long.parquet"),
+            ctx.path_to(ctx, "OUT_DATA", "hh_income.parquet"),
+            ctx.path_to(ctx, "LIBRARY", "plot_labels.py"),
+        ],
+        target=target,
+        name="descriptives_tables_hh_income",
+    )
+
+    # Install files
+    ctx.install_files(
+        ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/hh_income",
+        target,
+    )
+
+    target = [
+        ctx.path_to(
+            ctx,
+            "OUT_FIGURES",
+            "background",
+            f"covid_cases_and_stringency_over_time.{format}",
+        )
+        for format in ("pdf", "png", "svg")
+    ]
+
+    ctx(
+        features="run_py_script",
+        source="figure_cases_restrictions.py",
+        deps=[
+            ctx.path_to(ctx, "RAW_DATA", "owid-covid-data.csv"),
+            ctx.path_to(ctx, "RAW_DATA", "OxCGRT_latest.csv"),
+        ],
+        target=target,
+        name="figure_cases_restrictions",
+    )
+
+    # Install files
+    ctx.install_files(
+        ctx.env.PROJECT_PATHS["OUT_UNDER_GIT"].abspath() + "/background",
+        target,
+    )

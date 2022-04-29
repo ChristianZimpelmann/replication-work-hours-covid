@@ -4,7 +4,9 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "out"
 
 
-IN_DATA_LISS = ROOT.parent / "raw_data"
+DATA_RAW = ROOT.parent / "raw_data"
+IN_DATA_LISS = ROOT.parent / "raw_data" / "liss"
+print(IN_DATA_LISS)
 IN_SPECS_LISS = ROOT / "liss_data_specs"
 OUT_DATA_LISS = OUT / "data" / "liss-data"
 OUT_DATA_CORONA_PREP = OUT / "data" / "liss-prep"

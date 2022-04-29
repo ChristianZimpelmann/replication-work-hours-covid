@@ -1,4 +1,5 @@
 output
+out_under_git
 data_after_basic_cleaning
 raw_data/liss
 basic_data_cleaning/out

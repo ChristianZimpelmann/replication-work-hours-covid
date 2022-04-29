@@ -1,0 +1,92 @@
+{
+  "occupation-only": [
+    "sector",
+    "profession",
+    "essential_worker_w2",
+    "age"
+  ],
+  "family-only": [
+    "child_below_12",
+    "hhh_partner",
+    "hhh_partnerxchild_below_12",
+    "age"
+  ],
+  "family-occupation": [
+    "sector",
+    "profession",
+    "essential_worker",
+    "child_below_12",
+    "hhh_partner",
+    "hhh_partnerxchild_below_12",
+    "age"
+  ],
+  "fulltime-work-schooling": [
+    "sector",
+    "edu",
+    "profession",
+    "essential_worker",
+    "age",
+    "fulltime_baseline_w_s"
+  ],
+  "childcare-responsibilities": [
+    "sector",
+    "profession",
+    "essential_worker",
+    "child_below_12",
+    "hhh_partner",
+    "hhh_partnerxchild_below_12",
+    "age",
+    "cc_only_me_full"
+  ],
+  "age-effects": [
+    "sector",
+    "profession",
+    "essential_worker",
+    "child_below_12",
+    "hhh_partner",
+    "hhh_partnerxchild_below_12",
+    "age_bins"
+  ],
+  "home_office_essential": [
+    "work_perc_home_cat",
+    "essential_worker",
+    "work_perc_home_catXessential_worker"
+  ],
+  "home_office_cat": [
+    "work_perc_home_cat"
+  ],
+  "essential-worker-fulltime": [
+    "sector",
+    "profession",
+    "essential_worker",
+    "child_below_12",
+    "hhh_partner",
+    "hhh_partnerxchild_below_12",
+    "age",
+    "fulltime_baseline_covid",
+    "essential_workerXfulltime"
+  ],
+  "basic_controls": [
+    "sector",
+    "edu",
+    "profession",
+    "essential_worker",
+    "age"
+  ],
+  "home_share": [
+    "sector",
+    "edu",
+    "profession",
+    "essential_worker",
+    "age",
+    "home_share_baseline"
+  ],
+  "fulltime_baseline_covid": [
+    "sector",
+    "edu",
+    "profession",
+    "essential_worker",
+    "age",
+    "fulltime_baseline_covid"
+  ]
+}
