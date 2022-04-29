@@ -4,7 +4,7 @@ This repository contains the replication package for the paper ["Hours and incom
 
 The data is based on the LISS (Longitudinal Internet Studies for the Social sciences) panel -- an internet-based household panel administered by CentERdata (Tilburg University, The Netherlands).
 
-The replication of figures and tables proceedes in two steps
+The replication of figures and tables proceeds in two steps:
 
 ## Step 1: Basic data cleaning
 
@@ -24,6 +24,6 @@ In this step, project specific data cleaning steps, the analyses, and the creati
 
 - Run basic data cleaning as described above. Alternatively, you can contact us and we can also give you access to the data files after basic cleaning.
 - If you haven't done so: install an anaconda python distribution on your computer and create a conda environment using `environment.yml`.
-- run `waf configre`
+- run `waf configure`
 - run `waf`
 - All created tables and figures will be saved in the directory `output`.
