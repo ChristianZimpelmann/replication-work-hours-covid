@@ -1388,7 +1388,7 @@ if __name__ == "__main__":
 
     # Load data
     months_in_covid_data = sys.argv[1].split(",")
-    time_use = pd.read_parquet(ppj("IN_DATA", "time_use_data_detailed.pickle"))
+    time_use = pd.read_pickle(ppj("IN_DATA", "time_use_data_detailed.pickle"))
     work_schooling = pd.read_pickle(
         ppj("IN_DATA", "unmerged_files", "work_schooling_full.pickle")
     )
