@@ -1381,7 +1381,6 @@ def create_hh_income_data(hh_income, covid):
         )
 
     hh_income.to_parquet(ppj("OUT_DATA", "hh_income.parquet"))
-    # ToDo: merge some variables back to covid? Merge more covid variable to background
 
 
 if __name__ == "__main__":
