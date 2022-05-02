@@ -16,14 +16,15 @@ The replication of figures and tables proceeds in two steps:
 
 ## Step 1: Basic data cleaning
 
-In this step, general data cleaning steps (renaming of variables and values, merging of yearly files) are conducted on the raw data files of the LISS. This step is based on a general LISS data cleaning repository. See [this documentation](https://liss-data-management-documentation.readthedocs.io/en/latest/#) for more information.
+In this step, general data cleaning steps (renaming of variables and values, merging of yearly files, etc.) are conducted on the raw data files of the LISS. This step is based on a general LISS data cleaning repository. See [this documentation](https://liss-data-management-documentation.readthedocs.io/en/latest/#) for more information.
 
 - Install a [Miniconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html) python distribution on your computer and create a conda environment using `environment.yml`.
 - Move to the directory `basic_data_cleaning` in a terminal
 - Run `conda develop .`
 - Run `pytask`
 - The cleaned data sets will be saved in the directory `data_after_basic_cleaning`.
-- We can also give you access to the data files after basic cleaning such that you can skip Step 1.
+
+We can also give you access to the data files after basic cleaning such that you can skip Step 1.
 
 ## Step 2: Project specific analyses
 
